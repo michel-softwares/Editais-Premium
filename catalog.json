@@ -1,0 +1,41 @@
+{
+  "atualizadoEm": "2026-05-08T19:41:29.170Z",
+  "editais": [
+    {
+      "id": "terceiro-sargento-eags-administracao",
+      "titulo": "INSS",
+      "orgao": "INSS",
+      "banca": "CEBRASPE",
+      "cargo": "Técnico do Seguro Social / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe",
+        "inss"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/photo_2026-05-07_17-23-12.jpg",
+      "arquivo": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/Edital%20Premium%20EAGS%20Administra%C3%A7%C3%A3o.json",
+      "arquivoNome": "Edital Premium EAGS Administração.json"
+    },
+    {
+      "id": "tecnico-do-seguro-social-inss",
+      "titulo": "INSS",
+      "orgao": "INSS",
+      "banca": "CEBRASPE",
+      "cargo": "Técnico do Seguro Social / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe",
+        "inss"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/photo_2026-05-08_16-17-02.jpg",
+      "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
+      "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json"
+    }
+  ]
+}
