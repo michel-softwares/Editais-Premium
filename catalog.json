@@ -1,18 +1,16 @@
 {
-  "atualizadoEm": "2026-05-08T19:41:29.170Z",
+  "atualizadoEm": "2026-05-08T19:42:55.342Z",
   "editais": [
     {
       "id": "terceiro-sargento-eags-administracao",
-      "titulo": "INSS",
-      "orgao": "INSS",
-      "banca": "CEBRASPE",
-      "cargo": "Técnico do Seguro Social / Nível Médio",
-      "ano": 2022,
+      "titulo": "Força Aérea Brasileira",
+      "orgao": "Força Aérea Brasileira",
+      "banca": "EEAR",
+      "cargo": "Terceiro-Sargento - EAGS Administração / Nível Médio Técnico",
+      "ano": 2025,
       "tags": [
         "edital pronto",
-        "nivel medio",
-        "cebraspe",
-        "inss"
+        "nivel medio"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
       "imagem": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/photo_2026-05-07_17-23-12.jpg",
