@@ -1,6 +1,21 @@
 {
-  "atualizadoEm": "2026-05-08T19:48:41.769Z",
+  "atualizadoEm": "2026-05-08T19:55:08.288Z",
   "editais": [
+    {
+      "id": "cadete-espcex-2026",
+      "titulo": "EsPCEx",
+      "orgao": "EsPCEx",
+      "banca": "VUNESP",
+      "cargo": "Cadete - EsPCEx 2026 / mínimo 17 anos e máximo 22 anos",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Cadete%20-%20EsPCEx%202026/photo_2026-05-02_17-10-21.jpg",
+      "arquivo": "Cadete%20-%20EsPCEx%202026/Edital%20Premium%20EsPCEx_Track%20Concursos.json",
+      "arquivoNome": "Edital Premium EsPCEx_Track Concursos.json"
+    },
     {
       "id": "terceiro-sargento-eags-administracao",
       "titulo": "Força Aérea Brasileira",
