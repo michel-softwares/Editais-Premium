@@ -1,4 +1,5 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { execFileSync } from 'node:child_process';
 import path from 'node:path';
 
 const root = process.argv[2] || '.';
@@ -36,6 +37,21 @@ function stripDecorativePrefix(value) {
 
 function encodePath(filePath) {
   return filePath.split('/').map(encodeURIComponent).join('/');
+}
+
+function getFolderUpdatedAt(folderName) {
+  try {
+    const timestamp = execFileSync('git', ['log', '-1', '--format=%ct', '--', folderName], {
+      encoding: 'utf8',
+      stdio: ['ignore', 'pipe', 'ignore'],
+    }).trim();
+
+    if (timestamp) return new Date(Number(timestamp) * 1000).toISOString();
+  } catch {
+    // Git metadata may be unavailable in unusual environments.
+  }
+
+  return new Date().toISOString();
 }
 
 function buildTags(text, folderName) {
@@ -103,10 +119,11 @@ async function main() {
       imagem: `${folderUrl}/${encodeURIComponent(imageFile.name)}`,
       arquivo: `${folderUrl}/${encodeURIComponent(jsonFile.name)}`,
       arquivoNome: info.arquivoNome,
+      atualizadoEm: getFolderUpdatedAt(folder.name),
     });
   }
 
-  editais.sort((a, b) => a.titulo.localeCompare(b.titulo, 'pt-BR'));
+  editais.sort((a, b) => new Date(b.atualizadoEm) - new Date(a.atualizadoEm));
 
   await writeFile(
     output,
