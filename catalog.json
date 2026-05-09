@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-09T19:57:21.451Z",
+  "atualizadoEm": "2026-05-09T22:57:06.072Z",
   "editais": [
+    {
+      "id": "assistente-em-administracao-ifpi",
+      "titulo": "IFPI",
+      "orgao": "IFPI",
+      "banca": "IFPI",
+      "cargo": "Assistente em Administração - IFPI / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
+      "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
+      "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
+      "atualizadoEm": "2026-05-09T22:56:57.000Z"
+    },
     {
       "id": "agente-administrativo-saae-passos-mg",
       "titulo": "SAAE Passos - MG",
