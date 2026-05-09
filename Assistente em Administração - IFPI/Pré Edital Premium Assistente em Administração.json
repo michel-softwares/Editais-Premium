@@ -1,0 +1,940 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "IFPI",
+    "cargo": "Assistente Administrativo",
+    "salario": "R$ 2.446,96 + Auxílios",
+    "banca": "IFPI",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": null,
+    "localProva": "Teresina",
+    "linkEdital": "https://concursos.ifpi.edu.br/media/concurso/edital_74_tae_2022.pdf",
+    "preEdital": true,
+    "pontuacaoMax": null,
+    "vagas": null,
+    "obs": "Entre em contato se quiser um edital mais completo com links de cadernos de questões do Qconcursos/Tec Concursos e seus materiais PDFs em cada tópico"
+  },
+  "materias": [
+    {
+      "id": "mndiyjyrttr18",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "1. Textualidade: interpretação.",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Textualidade: interpretação.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2. Recursos estilísticos (figuras de linguagem).",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Recursos estilísticos (figuras de linguagem).",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "3. Coesão e coerência.",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Coesão",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "coerência.",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "4. Norma padrão e variantes linguísticas.",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Norma padrão",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "variantes linguísticas.",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5. Ortografia: uso dos acentos gráficos.",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Ortografia: uso dos acentos gráficos.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "6. Uso do sinal indicativo de crase.",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Uso do sinal indicativo de crase.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7. Morfologia: classes gramaticais e processos de flexão das palavras.",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Morfologia: classes gramaticais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "processos de flexão das palavras.",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "8. Sintaxe: de regência verbal e nominal; de concordância verbal e nominal; de colocação pronominal.",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Sintaxe: de regência verbal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "nominal",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "de concordância verbal",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "nominal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "de colocação pronominal.",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "9. Uso dos sinais de pontuação.",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Uso dos sinais de pontuação.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "10. Semântica: sinonímia, antonímia, homonímia, paronímia; polissemia (denotação e conotação).",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "Semântica: sinonímia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "antonímia",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "homonímia",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "paronímia",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjyrttr18",
+              "nome": "polissemia (denotação e conotação).",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mndiyjznwhmjl",
+      "nome": "LEGISLAÇÃO E ÉTICA NA ADMINISTRAÇÃO PÚBLICA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "1. Constituição da República Federativa do Brasil 1988: Capítulo III – Da Educação, da Cultura e do Desporto / Capítulo IV – Da Ciência e Tecnologia / Capítulo VII – Da Administração Pública.",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Constituição da República Federativa do Brasil 1988: Capítulo III – Da Educação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "da Cultura",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "do Desporto / Capítulo IV – Da Ciência",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Tecnologia / Capítulo VII – Da Administração Pública.",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2. Lei nº 8.069, de 13/7/1990: Estatuto da Criança e do Adolescente.",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Lei nº 8.069 de 13/7/1990: Estatuto da Criança",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "do Adolescente.",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "3. Lei nº 8.112, de 11/12/90: Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias e das Fundações Públicas Federais.",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Lei nº 8.112 de 11/12/90: Regime Jurídico dos Servidores Públicos Civis da União",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "das Autarquias",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "das Fundações Públicas Federais.",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "4. Decreto nº 1.171, de 22/6/1994: Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal.",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Decreto nº 1.171 de 22/6/1994: Código de Ética Profissional do Servidor Público Civil do Poder Executivo Federal.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5. Lei nº 9.394, de 20/12/1996, estabelece as diretrizes e bases da educação nacional: Da Educação; Dos Princípios e Fins da Educação Nacional; Do Direito à Educação e do Dever de Educar; Da Organização da Educação Nacional; Dos Níveis e das Modalidades de Educação e Ensino; Da Composição dos Níveis Escolares; Da Educação Básica; Das Disposições Gerais; Da Educação Profissional Técnica de Nível Médio; Da Educação Profissional e Tecnológica.",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Lei nº 9.394 de 20/12/1996 estabelece as diretrizes e bases da educação nacional: Da Educação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Dos Princípios e Fins da Educação Nacional",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Do Direito à Educação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "do Dever de Educar",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Da Organização da Educação Nacional",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Dos Níveis",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "das Modalidades de Educação",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Ensino",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Da Composição dos Níveis Escolares",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Da Educação Básica",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Das Disposições Gerais",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Da Educação Profissional Técnica de Nível Médio",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Da Educação Profissional",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Tecnológica.",
+              "ordem": 13,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "6. Lei nº 11.892, de 29/12/2008: Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia e dá outras providências.",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Lei nº 11.892 de 29/12/2008: Institui a Rede Federal de Educação Profissional",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Científica",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Tecnológica",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "cria os Institutos Federais de Educação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Ciência",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Tecnologia",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "dá outras providências.",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7. Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD).",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Lei nº 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD).",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "8. Lei nº 12.527/11 - Lei de Acesso à Informação (LAI).",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyjznwhmjl",
+              "nome": "Lei nº 12.527/11 - Lei de Acesso à Informação (LAI).",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mndiyk0tkmioo",
+      "nome": "ASSISTENTE EM ADMINISTRAÇÃO",
+      "ordem": 0,
+      "concursosB": [],
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "1. Noções de Administração: conceitos, objetivos, evolução histórica, organizações, eficiência e eficácia.",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções de Administração: conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "objetivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "evolução histórica",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "organizações",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "eficiência",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "eficácia.",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2. Noções do processo administrativo: planejamento, organização, direção e controle.",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções do processo administrativo: planejamento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "organização",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "direção",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "controle.",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "3. Organizações: fundamentos, estruturas organizacionais tradicionais, tendências e práticas organizacionais.",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Organizações: fundamentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "estruturas organizacionais tradicionais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "tendências",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "práticas organizacionais.",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "4. Noções de Comportamento Organizacional: comunicação, liderança, motivação, grupos, equipes e cultura organizacional. Missão e visão.",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções de Comportamento Organizacional: comunicação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "liderança",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "motivação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "grupos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "equipes",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "cultura organizacional. Missão",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "visão.",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5. Noções de Administração Pública: princípios fundamentais que regem a Administração Federal; administração direta e indireta; agentes públicos; poderes administrativos;",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções de Administração Pública: princípios fundamentais que regem a Administração Federal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "administração direta",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "indireta",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "agentes públicos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "poderes administrativos;",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "6. Atos administrativos: conceito, classificação e espécie.",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Atos administrativos: conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "classificação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "espécie.",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7. Serviços Públicos.",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Serviços Públicos.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "8. Noções de RH: recrutamento, seleção, treinamento, desenvolvimento, relações interpessoais e avaliação de desempenho.",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções de RH: recrutamento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "seleção",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "treinamento",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "desenvolvimento",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "relações interpessoais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "avaliação de desempenho.",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "9. Regimento Jurídico Único do Servidor Público Federal.",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Regimento Jurídico Único do Servidor Público Federal.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "10. Noções de gestão de processos: ferramentas e conceitos.",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções de gestão de processos: ferramentas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "conceitos.",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "11. Licitação: conceito, finalidades, princípio e objeto; modalidades; procedimentos; sanções (Lei nº 8.666/93 e suas alterações, Lei nº 8.429/92, Lei nº 10.520/02).",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Licitação: conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "finalidades",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "princípio",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "objeto",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "modalidades",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "procedimentos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "sanções (Lei nº 8.666/93 e suas alterações, Lei nº 8.429/92, Lei nº 10.520/02).",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "12. Patrimônio público.",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Patrimônio público.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "13. Fundamentos de Organização, Sistemas e Métodos.",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Fundamentos de Organização",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Sistemas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Métodos.",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "14. Noções de Administração Financeira e Orçamentária no Serviço Público.",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções de Administração Financeira",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Orçamentária no Serviço Público.",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "15. Noções de arquivamento.",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mndiyk0tkmioo",
+              "nome": "Noções de arquivamento.",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mndiyjyrttr18\"},{\"nome\":\"LEGISLAÇÃO E ÉTICA NA ADMINISTRAÇÃO PÚBLICA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mndiyjznwhmjl\"},{\"nome\":\"ASSISTENTE EM ADMINISTRAÇÃO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mndiyk0tkmioo\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1778366916791_e17f0\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mndiyjyrttr18\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778366917735_3ed47\",\"baseId\":\"base_LEGISLACAO E ETICA NA ADMINISTRACAO PUBLICA\",\"materiaId\":\"mndiyjznwhmjl\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778366918575_b3101\",\"baseId\":\"base_ASSISTENTE EM ADMINISTRACAO\",\"materiaId\":\"mndiyk0tkmioo\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_comp\",\"name\":\"Conhecimentos Gerais\",\"items\":[{\"id\":\"mndiyjyrttr18\",\"q\":10,\"w\":2},{\"id\":\"mndiyjznwhmjl\",\"q\":10,\"w\":2}],\"q\":0,\"w\":1},{\"id\":\"g_espec\",\"name\":\"Conhecimentos Especificos\",\"items\":[{\"id\":\"mndiyk0tkmioo\",\"q\":20,\"w\":3}],\"q\":0,\"w\":1}],\"scoringMode\":\"tradicional\",\"errorPenalty\":1}"
+  }
+}
