@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-05-09T12:44:00.208Z",
+  "atualizadoEm": "2026-05-09T12:46:16.177Z",
   "editais": [
     {
       "id": "escriturario-banco-do-brasil",
@@ -82,24 +82,9 @@
       "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json"
     },
     {
-      "id": "soldado-pm-mg",
-      "titulo": "PM MG",
-      "orgao": "PM MG",
-      "banca": "A definir",
-      "cargo": "Soldado - PM MG / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Soldado%20-%20PM%20MG/photo_2026-05-09_09-31-03.jpg",
-      "arquivo": "Soldado%20-%20PM%20MG/Soldado_Pol%C3%ADcia_Militar_MG.json",
-      "arquivoNome": "Soldado_Polícia_Militar_MG.json"
-    },
-    {
       "id": "soldado-pm-al",
-      "titulo": "PMAL",
-      "orgao": "PMAL",
+      "titulo": "Polícia Militar AL",
+      "orgao": "Polícia Militar AL",
       "banca": "CEBRASPE",
       "cargo": "Soldado - PMAL / Nível Médio",
       "ano": 2026,
@@ -112,6 +97,21 @@
       "imagem": "Soldado%20-%20PM%20AL/photo_2026-04-19_16-48-25.jpg",
       "arquivo": "Soldado%20-%20PM%20AL/Edital%20Premium%20Soldado%20PM%20AL_Track%20Concursos.json",
       "arquivoNome": "Edital Premium Soldado PM AL_Track Concursos.json"
+    },
+    {
+      "id": "soldado-pm-mg",
+      "titulo": "Polícia Militar MG",
+      "orgao": "Polícia Militar MG",
+      "banca": "A definir",
+      "cargo": "Soldado - PM MG / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Soldado%20-%20PM%20MG/photo_2026-05-09_09-31-03.jpg",
+      "arquivo": "Soldado%20-%20PM%20MG/Soldado_Pol%C3%ADcia_Militar_MG.json",
+      "arquivoNome": "Soldado_Polícia_Militar_MG.json"
     }
   ]
 }
