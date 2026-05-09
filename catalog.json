@@ -1,6 +1,21 @@
 {
-  "atualizadoEm": "2026-05-08T19:57:59.239Z",
+  "atualizadoEm": "2026-05-09T12:44:00.208Z",
   "editais": [
+    {
+      "id": "escriturario-banco-do-brasil",
+      "titulo": "Banco do Brasil",
+      "orgao": "Banco do Brasil",
+      "banca": "CESGRANRIO",
+      "cargo": "Escriturário - Banco do Brasil / Nível Superior",
+      "ano": 2022,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/photo_2026-05-09_09-32-35.jpg",
+      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
+      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON"
+    },
     {
       "id": "cadete-espcex-2026",
       "titulo": "EsPCEx",
@@ -33,6 +48,22 @@
       "arquivoNome": "Edital Premium EAGS Administração.json"
     },
     {
+      "id": "gcm-maceio",
+      "titulo": "GCM Maceió",
+      "orgao": "GCM Maceió",
+      "banca": "COPEVE UFAL",
+      "cargo": "Guarda Municipal - Prefeitura de Maceió / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "GCM%20-%20Macei%C3%B3/photo_2026-05-02_17-10-21.jpg",
+      "arquivo": "GCM%20-%20Macei%C3%B3/GCM%20Maceio.json",
+      "arquivoNome": "GCM Maceio.json"
+    },
+    {
       "id": "tecnico-do-seguro-social-inss",
       "titulo": "INSS",
       "orgao": "INSS",
@@ -49,6 +80,38 @@
       "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/photo_2026-05-08_16-17-02.jpg",
       "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
       "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json"
+    },
+    {
+      "id": "soldado-pm-mg",
+      "titulo": "PM MG",
+      "orgao": "PM MG",
+      "banca": "A definir",
+      "cargo": "Soldado - PM MG / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Soldado%20-%20PM%20MG/photo_2026-05-09_09-31-03.jpg",
+      "arquivo": "Soldado%20-%20PM%20MG/Soldado_Pol%C3%ADcia_Militar_MG.json",
+      "arquivoNome": "Soldado_Polícia_Militar_MG.json"
+    },
+    {
+      "id": "soldado-pm-al",
+      "titulo": "PMAL",
+      "orgao": "PMAL",
+      "banca": "CEBRASPE",
+      "cargo": "Soldado - PMAL / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Soldado%20-%20PM%20AL/photo_2026-04-19_16-48-25.jpg",
+      "arquivo": "Soldado%20-%20PM%20AL/Edital%20Premium%20Soldado%20PM%20AL_Track%20Concursos.json",
+      "arquivoNome": "Edital Premium Soldado PM AL_Track Concursos.json"
     }
   ]
 }
