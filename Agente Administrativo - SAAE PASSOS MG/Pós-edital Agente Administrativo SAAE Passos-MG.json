@@ -1,0 +1,1604 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "SAAE",
+    "cargo": "Agente Administrativo",
+    "salario": "R$ 2.519,94",
+    "banca": "IBGP",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-07-12",
+    "localProva": "Passos - MG",
+    "linkEdital": "https://arq.pciconcursos.com.br/saae-de-passos-mg-retifica-concurso-para-diversos-niveis-de-escolaridade/1696045/9f981548fb/edital_n_01_2026_1696045.pdf",
+    "preEdital": false,
+    "pontuacaoMax": null,
+    "vagas": 4,
+    "obs": "Entre em contato se quiser um edital mais completo com links de cadernos de questões do Qconcursos/Tec Concursos e seus materiais PDFs em cada tópico"
+  },
+  "materias": [
+    {
+      "id": "moyrcghm8takh",
+      "nome": "PORTUGUÊS",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e interpretação de textos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gêneros e tipos de texto",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Significação das palavras",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Figuras de Sintaxe",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Figuras de Linguagem",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Articulação textual",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "operadores sequenciais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "expressões referenciais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Coesão e coerência textual",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Classes de palavras",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "Identificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "definição",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "classificação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "flexão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "emprego",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "formação de palavras",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Verbos",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "flexão",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "conjugação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "vozes",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "correlação entre tempos e modos verbais",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Concordância verbal e nominal",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Regência verbal e nominal",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Crase",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Colocação pronominal",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Estrutura da oração e do período",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "aspectos sintáticos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcghm8takh",
+              "nome": "semânticos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Acentuação gráfica",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ortografia",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Pontuação",
+          "ordem": 17,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Variação linguística",
+          "ordem": 18,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "moyrcgjf09e11",
+      "nome": "RACIOCÍNIO LÓGICO",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Noções básicas da lógica matemática",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "proposições",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "conectivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "equivalência e implicação lógica",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "argumentos válidos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "problemas com tabelas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "argumentação",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Linguagem dos conjuntos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Notação e representação de conjuntos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Elementos de um conjunto e relação de pertinência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Igualdade de conjuntos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Relação de inclusão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Subconjuntos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Conjunto unitário",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Conjunto vazio",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Conjuntos das partes",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Formas e representações de conjuntos",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Conjunto finito e infinito",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Conjunto universo",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "Operações com conjuntos",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "União",
+              "ordem": 12,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Operações fundamentais",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "adição",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "subtração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "multiplicação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "divisão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "potenciação",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "radiciação",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Números decimais",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Valor absoluto",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Propriedades no conjunto dos números naturais",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Decomposição de um número natural em fatores primos",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Múltiplos e divisores",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "máximo divisor comum",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "mínimo múltiplo comum de dois números naturais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Verdades e Mentiras",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "resolução de problemas",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sequências",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "com números",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "com figuras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgjf09e11",
+              "nome": "de palavras",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Análise combinatória",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Probabilidade",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Problemas envolvendo raciocínio lógico",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "moyrcgmdn0nwn",
+      "nome": "NOÇÕES DE INFORMÁTICA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Sistema Operacional Windows 10",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "conceitos básicos do Windows",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "uso de janelas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "menus",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "barra de tarefas",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "área de trabalho",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gerenciamento de arquivos e pastas",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "localização",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "criação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "cópia",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "movimentação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "exclusão",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Compartilhamento de arquivos e utilização da área de transferência",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Configurações essenciais",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "resolução de tela",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "cores",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "fontes",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "impressoras",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Windows Explorer",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Noções de Internet e Intranet",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Utilização de ferramentas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "aplicativos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "navegadores",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Recursos de pesquisa e busca",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Inteligência Artificial aplicada a softwares e ferramentas de produtividade",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "assistentes virtuais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "automação de tarefas",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Microsoft 365",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Word",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Excel",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "PowerPoint",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Teams",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Outlook",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "elaboração e edição de documentos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "planilhas e apresentações",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "formatação e organização de conteúdos",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "colaboração e comunicação em equipe",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "integração entre aplicativos",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "uso de recursos inteligentes e automáticos",
+              "ordem": 10,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança da Informação",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "cuidados com a proteção de dados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "noções de vírus",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "malwares",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "golpes digitais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "boas práticas para senhas e informações sensíveis",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "políticas de backup e recuperação de dados",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "ética digital",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "segurança em nuvem",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "ferramentas e usos de Inteligência Artificial",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Sistemas de Backup",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Tipos de backup",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Planos de contingência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Meios de armazenamento para backups",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de rede de computadores",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "conceitos e serviços relacionados à Internet",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "tecnologias e protocolos da internet",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "ferramentas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "aplicativos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "procedimentos associados à internet/intranet",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Hardware e Software",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Fundamentos de computação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Conceitos de hardware e software",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Organização e arquitetura de computadores",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgmdn0nwn",
+              "nome": "Componentes de um computador",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "moyrcgqyy42gd",
+      "nome": "CONHECIMENTOS GERAIS",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Cultura Geral",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Fatos Políticos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "econômicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "sociais do Brasil e do Mundo ocorridos nos últimos 05 anos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "divulgados na mídia nacional e internacional",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Conhecimentos Gerais e Atualidades",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "aspectos geográficos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "históricos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "físicos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "econômicos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "sociais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "políticos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "estatísticos do Brasil",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "do Estado",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "do Município",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de cidadania",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Símbolos nacionais, estaduais e municipais",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Atualidades",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "economia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "ecologia",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "história",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "política",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "meio ambiente",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "justiça",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "segurança pública",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "saúde",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "cultura",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "educação",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "religião",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "qualidade de vida",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "esportes",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "turismo",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "georreferenciamento",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "inovações tecnológicas e científicas",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "do Município",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "do Estado",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "do Brasil e do mundo",
+              "ordem": 18,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Notícias em geral da atualidade",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Internet",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Sites de revistas e de jornais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Google Notícias",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Congresso em Foco",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "UAI",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "UOL",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Jovem Pan",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "CNN Brasil",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Estadão",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Folha de São Paulo",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Terra",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Globo (G1)",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "R7 e similares",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Guias de Bairros e Localizações",
+              "ordem": 12,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Jornais",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Folha de São Paulo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Brasil de Fato",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Revistas",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Carta Capital",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Brasil de Fato",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Exame",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Isto É",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Você S/A",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Notícias em Geral - SAAE PASSOS",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgqyy42gd",
+              "nome": "Site e Instagram do Serviço Autônomo de Água e Esgoto",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "moyrcgw29xlis",
+      "nome": "LEGISLAÇÃO",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Legislação Municipal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Estatuto dos Servidores Públicos do Município de Passos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Lei Orgânica do Município de Passos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei Brasileira de Inclusão da Pessoa com Deficiência",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Estatuto da Pessoa com Deficiência",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direito Constitucional",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Título I - Dos Princípios Fundamentais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Título II - Dos Direitos e Garantias Fundamentais: do art. 5º ao art. 13",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Título III - Da Organização do Estado: Capítulo IV - Dos Municípios (art. 29, 29-A, 30, 31)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Capítulo VII - Da Administração Pública (art. 37, 38 e 39)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei de Licitações e Contratos Administrativos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Lei Federal nº 14.133/2021",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislações de Acesso à Informação",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Decreto Estadual nº 45.969/2012",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgw29xlis",
+              "nome": "Lei Federal nº 12.527/2011",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "moyrcgx2rrql8",
+      "nome": "CONHECIMENTOS ESPECÍFICOS",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Administração Pública",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Títulos e Capítulos da Constituição que tratam da Administração Pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "leis complementares",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Emendas Constitucionais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Lei de Licitações e Contratos Administrativos (Lei Federal nº 14.133/2021)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de arquivo",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Estrutura Organizacional",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Departamentalização",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Descentralização",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Logística e Suprimentos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Almoxarifado",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "gestão de estoques",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Atendimento ao cidadão",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Diversidade",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Comportamento Organizacional",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Atitudes no trabalho",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Satisfação no trabalho",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Trabalho em equipe",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Comunicação interpessoal e organizacional",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Conflito",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Negociação",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Instrumentos Administrativos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Formulários",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Análise e distribuição do trabalho",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "Manuais de organização",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redação oficial",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "documentos oficiais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "moyrcgx2rrql8",
+              "nome": "textos empresariais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"PORTUGUÊS\",\"cor\":\"#f55a5a\",\"materiaId\":\"moyrcghm8takh\"},{\"nome\":\"RACIOCÍNIO LÓGICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"moyrcgjf09e11\"},{\"nome\":\"NOÇÕES DE INFORMÁTICA\",\"cor\":\"#7c5cfc\",\"materiaId\":\"moyrcgmdn0nwn\"},{\"nome\":\"CON. GERAIS\",\"cor\":\"#3ecf8e\",\"materiaId\":\"moyrcgqyy42gd\"},{\"nome\":\"LEGISLAÇÃO\",\"cor\":\"#f5c842\",\"materiaId\":\"moyrcgw29xlis\"},{\"nome\":\"CON. ESPECÍFICOS\",\"cor\":\"#f5874a\",\"materiaId\":\"moyrcgx2rrql8\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1778356173626_fde78\",\"baseId\":\"base_PORTUGUES\",\"materiaId\":\"moyrcghm8takh\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778356174650_442de\",\"baseId\":\"base_RACIOCINIO LOGICO\",\"materiaId\":\"moyrcgjf09e11\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778356175722_906b7\",\"baseId\":\"base_NOCOES DE INFORMATICA\",\"materiaId\":\"moyrcgmdn0nwn\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778356176778_978b7\",\"baseId\":\"base_CON. GERAIS\",\"materiaId\":\"moyrcgqyy42gd\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778356177706_1e944\",\"baseId\":\"base_LEGISLACAO\",\"materiaId\":\"moyrcgw29xlis\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778356178883_2c18a\",\"baseId\":\"base_CON. ESPECIFICOS\",\"materiaId\":\"moyrcgx2rrql8\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778356182011_bf3cc\",\"baseId\":\"base_SIMULADO\",\"materiaId\":\"v-simulado\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_comp\",\"name\":\"Prova objetiva\",\"items\":[{\"id\":\"moyrcghm8takh\",\"q\":10,\"w\":3},{\"id\":\"moyrcgjf09e11\",\"q\":5,\"w\":3},{\"id\":\"moyrcgmdn0nwn\",\"q\":5,\"w\":2},{\"id\":\"moyrcgqyy42gd\",\"q\":5,\"w\":2},{\"id\":\"moyrcgw29xlis\",\"q\":5,\"w\":2},{\"id\":\"moyrcgx2rrql8\",\"q\":5,\"w\":5}],\"q\":0,\"w\":1}],\"scoringMode\":\"tradicional\",\"errorPenalty\":1}"
+  }
+}
