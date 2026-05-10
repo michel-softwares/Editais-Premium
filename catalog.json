@@ -1,6 +1,57 @@
 {
-  "atualizadoEm": "2026-05-09T22:57:06.072Z",
+  "atualizadoEm": "2026-05-10T19:27:02.624Z",
   "editais": [
+    {
+      "id": "analista-de-transito-administracao-detran-al",
+      "titulo": "DETRAN AL",
+      "orgao": "DETRAN AL",
+      "banca": "CEBRASPE",
+      "cargo": "Analista de Trânsito especialidade Administração - DETRAN AL / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20-%20DETRAN%20AL/Captura%20de%20tela%202026-05-10%20162300.png",
+      "arquivo": "Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20-%20DETRAN%20AL/Edital%20Premium%20Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20DETRAN%20AL.json",
+      "arquivoNome": "Edital Premium Analista de Trânsito Administração DETRAN AL.json",
+      "atualizadoEm": "2026-05-10T19:26:57.000Z"
+    },
+    {
+      "id": "delegado-pcdf",
+      "titulo": "Polícia Civil DF",
+      "orgao": "Polícia Civil DF",
+      "banca": "CEBRASPE",
+      "cargo": "Delegado - PCDF / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Delegado%20-%20PCDF/Captura%20de%20tela%202026-05-10%20162356.png",
+      "arquivo": "Delegado%20-%20PCDF/Edital%20Premium%20Delegado%20PCDF.json",
+      "arquivoNome": "Edital Premium Delegado PCDF.json",
+      "atualizadoEm": "2026-05-10T19:26:57.000Z"
+    },
+    {
+      "id": "assistente-administrativo-creci-ba",
+      "titulo": "CRECI BA",
+      "orgao": "CRECI BA",
+      "banca": "QUADRIX",
+      "cargo": "Assistente Administrativo - CRECI BA / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20Administrativo%20-%20CRECI%20BA/Captura%20de%20tela%202026-05-09%20201103.png",
+      "arquivo": "Assistente%20Administrativo%20-%20CRECI%20BA/Edital%20Premium%20Assistente%20Administrativo%20CRECI%20BA.json",
+      "arquivoNome": "Edital Premium Assistente Administrativo CRECI BA.json",
+      "atualizadoEm": "2026-05-09T23:12:01.000Z"
+    },
     {
       "id": "assistente-em-administracao-ifpi",
       "titulo": "IFPI",
