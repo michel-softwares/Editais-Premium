@@ -1,0 +1,3311 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "PCDF",
+    "cargo": "Delegado",
+    "salario": "R$ 26.690,15",
+    "banca": "CEBRASPE",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-07-05",
+    "localProva": "Brasília",
+    "linkEdital": "https://arq.pciconcursos.com.br/pcdf-df-retifica-edital-com-150-vagas-para-delegado-de-policia/1698667/4d19489722/edital_retificado_1698667.pdf",
+    "preEdital": false,
+    "pontuacaoMax": null,
+    "vagas": 150,
+    "obs": "Entre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;  para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mp00dvvr8ius9",
+      "nome": "DIREITO ADMINISTRATIVO E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO ADMINISTRATIVO",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 Conceito e fontes do direito administrativo",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "1.1 Regime jurídico administrativo: princípios do direito administrativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "1.2 Princípios da administração pública",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2 Administração pública: organização, descentralização, desconcentração, órgãos públicos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "3 Administração indireta e entidades paralelas",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "4 Atos administrativos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.1 Conceitos, requisitos, elementos, pressupostos e classificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.2 Fato e ato administrativo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.3 Atos administrativos em espécie",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.4 O silêncio no direito administrativo",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.5 Cassação",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.6 Revogação e anulação",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.7 Processo administrativo",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.8 Fatos da administração pública: atos da administração pública e fatos administrativos",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.9 Formação do ato administrativo: elementos, procedimento administrativo",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.10 Validade, eficácia e autoexecutoriedade do ato administrativo",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.11 Atos administrativos simples, complexos e compostos",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.12 Atos administrativos unilaterais, bilaterais e multilaterais",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.13 Atos administrativos gerais e individuais",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.14 Atos administrativos vinculados e discricionários",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.15 Mérito do ato administrativo, discricionariedade",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.16 Ato administrativo inexistente",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.17 Teoria das nulidades no direito administrativo",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.18 Atos administrativos nulos e anuláveis",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.19 Vícios do ato administrativo",
+              "ordem": 18,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.20 Teoria dos motivos determinantes",
+              "ordem": 19,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.21 Revogação, anulação e convalidação do ato administrativo",
+              "ordem": 20,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5 Poderes da administração pública",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "5.1 Hierarquia: poder hierárquico e suas manifestações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "5.2 Poder disciplinar",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "5.3 Poder de polícia",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "5.4 Liberdades públicas e poder de polícia",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "6 Serviços públicos: regulação, concessão, permissão e autorização do serviço público",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "7 Intervenção do Estado sobre a propriedade privada",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "7.1 Intervenção do Estado no domínio econômico",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "8 Bens públicos",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "8.1 Regime jurídico",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "8.2 Aquisição e alienação dos bens públicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "8.3 Formas de utilização dos bens públicos pelos particulares",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "9 Licitações: modalidades e procedimentos",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "10 Contratos administrativos",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "11 Convênios e consórcios administrativos",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "12 Controle e responsabilização da administração: controle administrativo, controle judicial, controle legislativo",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "13 Agentes públicos",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "13.1 Espécies e classificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "13.2 Cargo, emprego e função públicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "13.3 Formas de provimento e vacância dos cargos públicos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "13.4 Responsabilidade civil, penal e administrativa",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "14 Sistemas administrativos: sistema inglês, sistema francês e sistema adotado no Brasil",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "15 Administração pública",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "15.1 Administração pública em sentido amplo e em sentido estrito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "15.2 Administração pública em sentido objetivo e em sentido subjetivo",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "16 Regime jurídico-administrativo",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "16.1 Conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "16.2 Conteúdo: supremacia do interesse público sobre o privado e indisponibilidade, pela administração, dos interesses públicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "16.3 Princípios expressos e implícitos da administração pública",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "16.4 Jurisprudência aplicada dos tribunais superiores",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "17 Agências reguladoras",
+          "ordem": 17,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "18 Processo administrativo",
+          "ordem": 18,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "19 Poderes e deveres da administração pública",
+          "ordem": 19,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "19.1 Poder regulamentar",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "19.2 Dever de agir",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "19.3 Dever de eficiência",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "19.4 Dever de probidade",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "19.5 Dever de prestação de contas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "19.6 Uso e abuso do poder",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "19.7 Jurisprudência aplicada dos tribunais superiores",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 20,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "1 Lei 14.133/2021 (Estatuto de Licitações)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "2 Lei nº 12.846/2013 (Lei anticorrupção)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "3 Lei nº 15.047/2024 (Regime Disciplinar da Polícia Federal e da Polícia Civil do Distrito Federal)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4 Lei Complementar do Distrito Federal nº 840/2011 (Regime jurídico dos servidores públicos civis do Distrito Federal)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.1 Título V, capítulo único",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "4.2 Título VI, capítulo I",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "5 Lei nº 8.429/1992 (improbidade administrativa)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dvvr8ius9",
+              "nome": "6 Lei nº 9.784/1999 (Processo administrativo)",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dw1pd5rtn",
+      "nome": "DIREITO CONSTITUCIONAL E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO CONSTITUCIONAL",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 Direito constitucional",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "1.1 Noções gerais, ciclos constitucionais",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2 Classificações das constituições",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "3 Poder constituinte",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "3.1 Fundamentos do poder constituinte",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "3.2 Poder constituinte originário e derivado",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "3.3 Reforma e revisão constitucionais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "3.4 Limitação do poder de revisão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "3.5 Emendas à Constituição",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "3.6 Poder constituinte e revolução",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "4 Controle de constitucionalidade",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "4.1 Conceito e sistemas de controle de constitucionalidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "4.2 Inconstitucionalidade: por ação e por omissão",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "4.3 Sistema brasileiro de controle de constitucionalidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "4.4 Arguição de descumprimento de preceitos fundamentais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "4.5 Fenômeno jurídico da desconstitucionalização",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5 Interpretação constitucional",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "6 Direitos e deveres fundamentais",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.1 Direitos e deveres individuais e coletivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.2 Direito à vida, à liberdade, à igualdade, à segurança e à propriedade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.3 Direitos sociais, nacionalidade, cidadania e direitos políticos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.4 Partidos políticos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.5 Garantias constitucionais individuais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.6 Garantias dos direitos coletivos, sociais e políticos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.7 Remédios do direito constitucional",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.8 Direitos sociais e sua efetivação",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6.9 Tratados internacionais de direitos humanos e sua posição no ordenamento jurídico brasileiro",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7 Organização do Estado",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "7.1 Organização político-administrativa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "7.2 Estado federal brasileiro",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "7.3 União",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "7.4 Estados federados",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "7.5 Municípios",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "7.6 Distrito Federal",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "7.7 Territórios",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "8 Administração pública",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "8.1 Disposições gerais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "8.2 Servidores públicos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "9 Organização dos poderes no Estado",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "9.1 Mecanismos de freios e contrapesos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "9.2 Comissões parlamentares de inquérito",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "9.3 Organização e competências",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "10 Poder Legislativo: fundamentos, atribuições e garantias de independência",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "10.1 Processo Legislativo: fundamentos e garantias de independência, conceito, objetos, atos e procedimentos",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "11 Poder Executivo",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "11.1 Forma e sistema de governo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "11.2 Chefia de Estado e chefia de governo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "11.3 Atribuições e responsabilidades do presidente da República",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "12 Poder Judiciário",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "12.1 Funções essenciais à justiça",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "13 Defesa do Estado e das instituições democráticas",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "13.1 Segurança pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "13.2 Organização da segurança pública",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "13.3 Atribuições constitucionais da Polícia Judiciária",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "14 Ordem social",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "15 Tratados e convenções",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "15.1 Convenção de Mérida",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "15.2 Convenção de Palermo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "15.3 Convenção de Viena sobre Direito dos tratados (1969), incorporado ao ordenamento brasileiro por meio do Decreto nº 7.030/2009)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "15.4 Pacto de São José da Costa Rica",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "15.5 Tratado de Roma (Estatuto de Roma de 1998, internalizado pelo Decreto nº 4.388/2002)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "16 Conceito, objeto, elementos e classificações da constituição; história das constituições; supremacia da constituição; aplicabilidade das normas constitucionais; neoconstitucionalismo; poder constituinte decorrente",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "17 Noções sobre o Sistema Tributário Nacional",
+          "ordem": 17,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "17.1 Limitações do poder de tributar",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "17.2 Impostos da União, dos estados e dos municípios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "17.3 Repartição das receitas tributárias",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "18 Finanças públicas",
+          "ordem": 18,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "18.1 Normas gerais",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "19 Ordem econômica e financeira",
+          "ordem": 19,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "19.1 Princípios gerais da atividade econômica",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "19.2 Política urbana, agrícola e fundiária e reforma agrária",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 20,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "1 Constituição Federal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "2 Lei nº 13.675/2018 - Sistema Único de Segurança Pública (SUSP)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "3 Lei nº 12.830/2013 (Investigação criminal pelo delegado de polícia)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "4 Lei nº 14.735/2023 (Lei Orgânica Nacional das Polícias Civis)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "5 Lei Orgânica do Distrito Federal, Título III, Capítulo V)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw1pd5rtn",
+              "nome": "6 Lei nº 13.964/2019 (investigação e garantias)",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dw7sz83zm",
+      "nome": "DIREITO CIVIL E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO CIVIL",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 Lei de Introdução às Normas do Direito Brasileiro",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "2 Pessoas",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "2.1 Pessoa natural",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "2.2 Personalidade e capacidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "2.3 Direitos da personalidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "2.4 Pessoa jurídica",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "2.5 Domicílio",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "3 Bens",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "3.1 Diferentes classes de bens",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "3.2 Bens considerados em si mesmos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "3.3 Bens reciprocamente considerados",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "4 Fato jurídico",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "4.1 Negócio jurídico",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "4.2 Defeitos do negócio jurídico",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "4.3 Invalidade do negócio jurídico",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "4.4 Atos jurídicos lícitos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "4.5 Atos ilícitos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5 Prescrição e decadência",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "6 Direito das coisas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.1 Posse",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.2 Classificação, aquisição, efeitos e perda da posse",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.3 Direitos reais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.4 Propriedade",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.5 Propriedade em geral",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.6 Aquisição da propriedade imóvel",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.7 Aquisição da propriedade móvel",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "6.8 Perda da propriedade",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7 Responsabilidade civil",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "7.1 Obrigação de indenizar",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "7.2 Indenização",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "1 Decreto-lei nº 4.657/1942",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dw7sz83zm",
+              "nome": "2 Decreto nº 9.830/2019",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dwahnqytm",
+      "nome": "DIREITO EMPRESARIAL E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO EMPRESARIAL",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 Direito empresarial",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "1.1 Origem, evolução histórica, autonomia, fontes, características",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "1.2 Empresário: caracterização, inscrição, capacidade, teoria da empresa e seus perfis",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2 Espécies de empresas",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "2.1 Responsabilidade dos sócios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "2.2 Distribuição de lucros",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "2.3 Sócio oculto",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "2.4 Segredo comercial",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "3 Teoria geral do direito societário",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "3.1 Conceito de sociedade, personalização da sociedade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "3.2 Classificação das sociedades: sociedades não personificadas, sociedades personificadas, sociedade simples, sociedade em nome coletivo, sociedade em comandita simples, sociedade em comandita por ações, sociedade cooperada, sociedades coligadas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "3.3 Liquidação, transformação, incorporação, fusão, cisão, sociedades dependentes de autorização",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "3.4 Sociedade limitada e sociedade anônima",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "3.5 Estabelecimento empresarial",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "3.6 Recuperação judicial, recuperação extrajudicial, falência do empresário e da sociedade empresária",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "3.7 Institutos complementares do direito empresarial: registro, nome, prepostos, escrituração, propriedade industrial",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "1 Lei nº 11.101, de 9 de fevereiro de 2005 (Lei de Recuperação Judicial, Extrajudicial e Falência)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwahnqytm",
+              "nome": "2 Lei nº 13.874, de 20 de setembro de 2019 (Direitos de Liberdade Econômica)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dwc7tbh0j",
+      "nome": "DIREITO PENAL E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO PENAL",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 Princípios e garantias penais fundamentais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "2 Direito penal e política criminal",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "3 Evolução epistemológica do direito penal",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "4 Escolas penais",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "5 Lei penal",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.1 Características, fontes, interpretação, vigência e aplicação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.2 Analogia",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.3 Aplicação da lei penal no tempo e no espaço",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.3.1 Lei penal excepcional, especial e temporária",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.3.2 Territorialidade e extraterritorialidade da lei penal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.4 Irretroatividade da lei penal",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.5 Imunidades",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.6 Condições de punibilidade",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5.7 Concurso aparente de normas",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "6 Teoria geral do crime",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.1 Crime e contravenção penal: conceito, objeto, sujeitos, conduta, tipicidade, ilicitude e culpabilidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.2 Bem jurídico",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.3 Fato típico e seus elementos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.4 Causas de exclusão da tipicidade",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.5 Teoria da ação",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.6 Conduta, resultado, relação de causalidade e teorias",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.7 Imputação objetiva",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.8 Consumação e tentativa",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.9 Desistência voluntária, arrependimento eficaz e arrependimento posterior",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.10 Crime impossível",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.11 Agravação pelo resultado",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.12 Descriminantes putativas",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.13 Erro de tipo, erro determinado por terceiro e erro sobre a pessoa",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.14 Ilicitude",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.15 Causas de exclusão da ilicitude",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.16 Culpabilidade",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.17 Causas de exclusão da culpabilidade",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.17.1 Imputabilidade",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.17.2 Erro de proibição",
+              "ordem": 18,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.17.3 Coação irresistível e obediência hierárquica",
+              "ordem": 19,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.18 Concurso de agentes",
+              "ordem": 20,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.18.1 Autoria e participação",
+              "ordem": 21,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6.18.2 Elementares e circunstâncias",
+              "ordem": 22,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7 Teoria geral da pena",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.1 Espécies de pena",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.1.1 Penas privativas de liberdade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.1.1.1 Regime de cumprimento de pena",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.1.2 Penas restritivas de direitos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.1.3 Pena de multa",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.2 Cominação das penas",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.3 Aplicação da pena",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.4 Suspensão condicional da pena",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.5 Livramento condicional",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.6 Efeitos da condenação e da reabilitação",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.7 Medidas de segurança",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.8 Ação penal",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.9 Extinção de punibilidade",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.9.1 Conceito, causas gerais e específicas, momentos de ocorrência",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7.9.2 Prescrição: conceito, teorias, prazos para o cálculo da prescrição, termos iniciais, causas suspensivas ou impeditivas, causas interruptivas",
+              "ordem": 14,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "8 Crimes",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.1 Crimes contra a pessoa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.2 Crimes contra o patrimônio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.3 Crimes contra a propriedade imaterial",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.4 Crimes contra a organização do trabalho",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.5 Crimes contra o sentimento religioso e contra o respeito aos mortos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.6 Crimes contra a dignidade sexual",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.7 Crimes contra a família",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.8 Crimes contra a incolumidade pública",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.9 Crimes contra a paz pública",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.10 Crimes contra a fé pública",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.11 Crimes contra a administração pública",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8.12 Crimes contra o Estado democrático de direito",
+              "ordem": 11,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "9 Disposições constitucionais aplicáveis ao direito penal",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "10 Entendimento dos tribunais superiores acerca dos institutos de direito penal",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "1 Lei de Introdução ao Código Penal (Dec.-Lei nº 3.914/1941)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "2 Artigo 9° (nono) do Código Penal Militar. Contravenções penais (Decreto-Lei nº 3.688/1941 e Decreto-Lei nº 6.259/1944)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "3 Lei de Economia Popular (Lei n° 1.521/1951)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "4 Genocídio (Lei nº 2.889/1956)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "5 Crimes Eleitorais. (Leis n° 4.737/1965, 6.091/1974 e 9.504/1997)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "6 Apresentação e uso de documentos de identificação pessoal (Lei nº 5.553/1968)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "7 Lei do Parcelamento do solo urbano (Lei n° 6.766/1979)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "8 Lei de Preconceito (Lei nº 7.716/1989)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "9 Estatuto da Criança e do Adolescente (Lei n° 8.069/1990)",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "10 Crimes hediondos (Lei n° 8.072/1990)",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "11 Crimes contra as relações de consumo (Leis nº 8.078/1990 e 8.137/1990)",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "12 Crimes contra a ordem tributária e econômica (Leis n° 8.137/1990, 8.176/1991, 10.684/2003, 11.941/2009 e 12.382/2011)",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "13 Juizados Especiais Criminais (Lei nº 9.099/1995)",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "14 Crimes previstos na Lei de Planejamento Familiar (Lei nº 9.263/1996)",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "15 Lei das Interceptações Telefônicas (Lei n° 9.296/1996)",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "16 Tortura (Lei n° 9.455/1997)",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "17 Crimes previstos no Código Brasileiro de Trânsito (Lei n° 9.503/1997)",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "18 Crimes ambientais (Lei n° 9.605/1998)",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "19 Crimes contra a propriedade Intelectual (Lei n° 9.609/1998)",
+              "ordem": 18,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "20 Crimes de lavagem ou ocultação de bens, direitos e valores (Lei n° 9.613/1998)",
+              "ordem": 19,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "21 Proteção a vítimas e testemunhas (Lei n° 9.807/1999)",
+              "ordem": 20,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "22 Crimes previstos no Estatuto da Pessoa Idosa (Lei n° 10.741/2003)",
+              "ordem": 21,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "23 Estatuto do Desarmamento (Lei n° 10.826/03)",
+              "ordem": 22,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "24 Crimes falimentares (Lei n° 11.101/2005)",
+              "ordem": 23,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "25 Lei Maria da Penha - Violência doméstica e familiar contra a mulher (Lei nº 11.340/2006)",
+              "ordem": 24,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "26 Dispositivos penais da Lei de Drogas (Lei n° 11.343/2006)",
+              "ordem": 25,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "27 Organizações Criminosas (Lei nº 12.850/2013)",
+              "ordem": 26,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "28 Discriminação contra portadores de HIV ou AIDS (Lei nº 12.984/2014)",
+              "ordem": 27,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "29 Crimes previstos na Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146/2015)",
+              "ordem": 28,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "30 Lei de Terrorismo (Lei nº 13.260/2016)",
+              "ordem": 29,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "31 Abuso de Autoridade (Lei n° 13.869/2019)",
+              "ordem": 30,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "32 Lei de Violência Doméstica e Familiar Contra a Criança e o Adolescente (Lei nº 14.344/2022)",
+              "ordem": 31,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "33 Crimes previstos na Lei Geral do Esporte (Lei nº 14.597/2023)",
+              "ordem": 32,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwc7tbh0j",
+              "nome": "34 Atos normativos que complementem e diplomas legais que alterem as mencionadas leis",
+              "ordem": 33,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dwmim7a6k",
+      "nome": "DIREITO TRIBUTÁRIO E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO TRIBUTÁRIO",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 O Estado e o poder de tributar",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "2 Direito tributário: conceito e princípios",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "3 Tributo: conceito e espécies",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "4 Código Tributário Nacional",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "5 Normas gerais de direito tributário",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "6 Obrigação tributária",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "6.1 Conceito e espécies",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "6.2 Fato gerador (hipótese de incidência)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "6.3 Sujeitos ativo e passivo",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "6.4 Solidariedade",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "6.5 Capacidade tributária",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "6.6 Domicílio tributário",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7 Crédito tributário",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "7.1 Conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "7.2 Natureza",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "7.3 Lançamento",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "7.4 Revisão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "7.5 Suspensão, extinção e exclusão",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "7.6 Prescrição e decadência",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "7.7 Repetição do indébito",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "8 Responsabilidade tributária",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "8.1 Responsabilidade por dívida própria e por dívida de outrem",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "8.2 Solidariedade e sucessão",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "8.3 Responsabilidade pessoal e de terceiros",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "8.4 Responsabilidade supletiva",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "9 Sistema Tributário Nacional",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "9.1 Princípios gerais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "9.2 Limitações ao poder de tributar",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "10 Tributos da União, dos estados, do Distrito Federal e dos municípios",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "11 Ilícito tributário: ilícito administrativo tributário, ilícito penal tributário, crimes contra a ordem tributária",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "1 EC 132/2023 (Reforma Tributária do Consumo)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "2 Lei Complementar nº 105/2001",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "3 Lei Complementar nº 116/2003",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwmim7a6k",
+              "nome": "4 Lei nº 8.137/90",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dwpb1qy22",
+      "nome": "MEDICINA LEGAL",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "1 Perícia Médico-Legal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.1 Importância da prova pericial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.2 Noções de corpo de delito",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.3 Cadeia de custódia",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.4 Atuação dos assistentes técnicos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.5 Documentos médico-legais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.5.1 Atestados",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.5.2 Prontuários médicos",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.5.3 Relatórios",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.5.4 Pareceres",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.6 Laudos periciais",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.6.1 Estrutura do laudo",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.6.2 Quesitos oficiais",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.6.3 Modelos de laudos de lesão corporal, de sexologia forense e necroscópicos",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.7 Crime de Falsa Perícia",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "1.8 Interface da medicina-legal com outros campos das ciências forenses e criminalística",
+              "ordem": 14,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2 Traumatologia Forense",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1 Lesão corporal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.1 Conceito",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.2 Interpretação do artigo 129 do Código Penal",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.3 Classificação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.4 Quesitos oficiais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.5 Quantificação de dano e nexo de causalidade",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.6 Perícia médico-legal em vítimas de tortura",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.7 Protocolo de Istambul",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.1.8 Síndrome da criança espancada",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.2 Energias de ordem mecânica",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.2.1 Conceito",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.2.2 Lesões e morte por ação contundente",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.2.3 Estudo Médico-Legal dos Traumatismos Cranioencefálicos",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.2.4 Lesões e morte por armas brancas",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.2.5 Lesões e morte por instrumentos perfurocontundentes",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.2.6 Lesões e morte por projéteis de alta energia",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.3 Energias de ordem física não mecânica",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.3.1 Conceito",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.3.2 Estudo Médico Legal das Baropatias",
+              "ordem": 18,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.3.3 Lesões e morte por ação térmica",
+              "ordem": 19,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "2.3.4 Lesões e morte por ação elétrica",
+              "ordem": 20,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "3 Asfixiologia Forense",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "3.1 Conceito e classificação das asfixias",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "3.2 Asfixia por sufocação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "3.3 Asfixia por constrição cervical",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "3.4 Asfixia por modificações no meio-ambiente",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "4 Tanatologia Forense",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.1 Conceito de morte",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.2 Estudo médico-legal dos transplantes",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.3 Destinação do cadáver e atestado de óbito",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.4 Inumação, exumação, cremação e embalsamamento",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.5 Causas jurídicas da morte",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.5.1 Homicídio",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.5.2 Suicídio",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.5.3 Acidente",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.6 Morte súbita e morte suspeita",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.7 Exame perinecroscópico",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.8 Estimativa do tempo de morte",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.8.1 Cronotanatognose",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.8.2 Entomologia Forense",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.9 Lesões intra vitam e post mortem",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.10 Necropsia médico-legal",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.10.1 Indicações",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.10.2 Requisitos",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.10.3 Técnicas",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "4.10.4 Protocolo de Minnesota",
+              "ordem": 18,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5 Sexologia Forense",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "5.1 Conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "5.2 Legislação correlata",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "5.3 Quesitos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "5.4 Perícia nos crimes contra a liberdade sexual",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "5.5 Estudo médico-legal do aborto",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "5.6 Estudo médico-legal do infanticídio",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "5.7 Perícia nos crimes de pedofilia",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "6 Toxicologia Forense",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "6.1 Conceitos fundamentais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "6.2 Embriaguez etílica ou por outras drogas e legislação aplicável",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "6.3 Dependência do álcool ou de outras drogas e legislação aplicável",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "6.4 Estudo médico legal das lesões causadas por substâncias cáusticas e venenos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7 Psicopatologia Forense",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "7.1 Conceitos fundamentais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "7.2 Estudo médico-legal da imputabilidade e da responsabilidade penal",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "7.3 Estudo médico-legal da capacidade civil",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwpb1qy22",
+              "nome": "7.4 Estudo médico-legal das dependências químicas",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dwxpxvtgs",
+      "nome": "DIREITO PROCESSUAL PENAL E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO PROCESSUAL PENAL",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 Direito processual penal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "1.1 Princípios gerais, conceito, finalidade, características",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "1.2 Fontes",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "1.3 Lei processual penal: fontes, eficácia, interpretação, analogia, imunidades",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "1.4 Sistemas de processo penal",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "2 Inquérito policial",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "2.1 Histórico, natureza, conceito, finalidade, características, fundamento, titularidade, grau de cognição, valor probatório, formas de instauração, notitia criminis; delatio criminis, procedimentos investigativos, indiciamento, garantias do investigado, conclusão e prazos",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "3 Ação penal",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "3.1 Conceito, características, espécies e condições",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "4 Competência",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "4.1 Critérios de determinação e modificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "4.2 Incompetência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "4.3 Conexão e continência",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "5 Questões e processos incidentes",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "6 Provas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6.1 Conceito, objeto, classificação e sistemas de avaliação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6.2 Princípios gerais da prova, procedimento probatório",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6.3 Valoração",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6.4 Ônus da prova",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6.5 Provas ilícitas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6.6 Meios de prova: perícias, interrogatório, confissão, testemunhas, reconhecimento de pessoas e coisas, acareação, documentos, indícios",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6.7 Busca e apreensão: pessoal, domiciliar, requisitos, restrições, horários",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "7 Sujeitos do processo: juiz, Ministério Público, acusado e seu defensor, assistente, auxiliares da justiça, peritos e intérpretes, serventuários da justiça, impedimentos e suspeições",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "8 Juizados especiais criminais",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "8.1 Termo circunstanciado de ocorrência",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "8.2 Atos processuais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "8.3 Forma, lugar e tempo",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "9 Prisão",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "9.1 Conceito, espécies, mandado de prisão e cumprimento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "9.2 Prisão em flagrante",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "9.3 Prisão temporária",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "9.4 Prisão preventiva",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "9.5 Princípio da necessidade, prisão especial, liberdade provisória",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "9.6 Fiança",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "10 Sentença criminal",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "11 Citação, intimação, interdição de direito",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "12 Processos dos crimes de responsabilidade dos funcionários públicos",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "13 Sentença: coisa julgada, habeas corpus, mandado de segurança em matéria criminal",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "14 Processo criminal de crimes comuns",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "15 Processo penal constitucional",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "16 Aplicação da lei processual no tempo, no espaço e em relação às pessoas",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "17 Disposições preliminares do Código de Processo Penal",
+          "ordem": 17,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "18 Processo, procedimento e relação jurídica processual",
+          "ordem": 18,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "19 Elementos identificadores da relação processual",
+          "ordem": 19,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "19.1 Formas do procedimento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "19.2 Princípios gerais e informadores do processo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "19.3 Pretensão punitiva",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "20 Ação civil ex delicto",
+          "ordem": 20,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "21 Jurisdição e competência",
+          "ordem": 21,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "22 Medidas cautelares e liberdade provisória",
+          "ordem": 22,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "23 Citações e intimações",
+          "ordem": 23,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "24 Nulidades",
+          "ordem": 24,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "25 Recursos em geral",
+          "ordem": 25,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "26 Entendimento dos tribunais superiores acerca dos institutos de direito processual penal",
+          "ordem": 26,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 27,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "1 Lei nº 7.960/1989 – Prisão Temporária",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "2 Lei nº 8.072/1990 – Crimes Hediondos (aspectos processuais penais)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "3 Lei nº 9.099/1995 – Juizados Especiais Criminais (aspectos processuais penais)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "4 Lei nº 9.296/1996 – Interceptação Telefônica, Telemática e Ambiental",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "5 Lei nº 9.613/1998 – Lavagem de Dinheiro (aspectos processuais penais)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "6 Lei nº 9.807/1999 – Proteção a vítimas e testemunhas ameaçadas",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "7 Lei nº 11.340/2006 – Lei Maria da Penha (aspectos processuais penais)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "8 Lei nº 11.343/2006 – Lei de Drogas (aspectos processuais penais)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "9 Lei nº 12.037/2009 – Identificação Criminal",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "10 Lei nº 12.850/2013 – Organização Criminosa",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "11 Lei nº 13.431/2017 – Sistema de Garantia de Direitos da Criança e do Adolescente Vítima ou Testemunha de Violência",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "12 Lei nº 13.869/2019 – Lei de Abuso de Autoridade (aspectos processuais penais)",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "13 Lei nº 13.964/2019 – Pacote Anticrime (aspectos processuais penais)",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dwxpxvtgs",
+              "nome": "14 Lei nº 14.344/2022 – Mecanismos para a prevenção e o enfrentamento da violência doméstica e familiar contra a criança e o adolescente (Lei Henry Borel)",
+              "ordem": 13,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dx3fzrdgd",
+      "nome": "DIREITO AMBIENTAL E LEGISLAÇÃO COMPLEMENTAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "I DIREITO AMBIENTAL",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "1 Princípios do direito ambiental",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "2 Meio ambiente na Constituição Federal",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "3 Repartição de competências em matéria ambiental",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "4 Normas de cooperação",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "5 Poder de polícia e Direito Ambiental",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "6 Licenciamento ambiental",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "7 Estudo de impacto ambiental",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "8 Compensação ambiental",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "9 Biossegurança",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "10 Infrações ambientais",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "11 Responsabilidade ambiental: conceito de dano e reparação ambiental",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "12 Organizações dos sistemas nacionais de meio ambiente e de unidades de conservação (SISNAMA e SNUC)",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "II LEGISLAÇÃO COMPLEMENTAR",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mp00dx3fzrdgd",
+              "nome": "1 Constituição Federal de 1988 (Artigo 225)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mp00dx3fzrdgd",
+              "nome": "2 Poder de polícia ambiental; crimes e infrações administrativas contra o meio ambiente (Lei nº 9.605/1998 e regulamentos); procedimento administrativo para apuração de infrações ambientais (Decreto nº 6.514/2008)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mp00dx42uo7m8",
+      "nome": "CONHECIMENTOS DO DISTRITO FEDERAL, POLÍTICA PARA MULHERES, LEGISLAÇÃO E NOÇÕES DE PRIMEIROS SOCORROS",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "1 Tópicos atuais e relevantes acerca da realidade étnica, social, histórica, geográfica, cultural, política e econômica do Distrito Federal e da região integrada de desenvolvimento do Distrito Federal e do entorno (RIDE), instituída pela Lei Complementar federal nº 94/1998 e regulamentada pelo Decreto federal nº 7.469/2011",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "2 Plano Distrital de Política para Mulheres (PDPM)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "3 Noções de primeiros socorros, cuidados iniciais com a vítima, identificação de situações de emergência e acionamento do socorro especializado, cuidados básicos em casos de engasgo, sangramentos, fraturas, queimaduras, desmaio, convulsões e intoxicações",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"DIR. ADM. E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#f55a5a\",\"materiaId\":\"mp00dvvr8ius9\"},{\"nome\":\"DIR. CONSTITUCIONAL E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mp00dw1pd5rtn\"},{\"nome\":\"DIR. CIVIL E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mp00dw7sz83zm\"},{\"nome\":\"DIR. EMPRESARIAL E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mp00dwahnqytm\"},{\"nome\":\"DIR. PENAL E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#f5c842\",\"materiaId\":\"mp00dwc7tbh0j\"},{\"nome\":\"DIR. TRIBUTÁRIO E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#f5874a\",\"materiaId\":\"mp00dwmim7a6k\"},{\"nome\":\"MEDICINA LEGAL\",\"cor\":\"#00bcd4\",\"materiaId\":\"mp00dwpb1qy22\"},{\"nome\":\"DIR. PROCESSUAL PENAL E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#e91e8c\",\"materiaId\":\"mp00dwxpxvtgs\"},{\"nome\":\"DIR. AMBIENTAL E LEGISLAÇÃO COMPLEMENTAR\",\"cor\":\"#8bc34a\",\"materiaId\":\"mp00dx3fzrdgd\"},{\"nome\":\"CON. DO DISTRITO FEDERAL, POLÍTICA PARA MULHERES, LEGISLAÇÃO E NOÇÕES D\",\"cor\":\"#ff9800\",\"materiaId\":\"mp00dx42uo7m8\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1778431829751_6435a\",\"baseId\":\"base_DIR. ADM. E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dvvr8ius9\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778431832431_94114\",\"baseId\":\"base_DIR. CONSTITUCIONAL E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dw1pd5rtn\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778431834736_b192f\",\"baseId\":\"base_DIR. CIVIL E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dw7sz83zm\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778431874365_a4a42\",\"baseId\":\"base_DIR. PENAL E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dwc7tbh0j\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778431880550_909b7\",\"baseId\":\"base_DIR. TRIBUTARIO E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dwmim7a6k\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778431886495_d7881\",\"baseId\":\"base_MEDICINA LEGAL\",\"materiaId\":\"mp00dwpb1qy22\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778431922412_9badc\",\"baseId\":\"base_DIR. PROCESSUAL PENAL E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dwxpxvtgs\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778431926972_fe4bc\",\"baseId\":\"base_DIR. AMBIENTAL E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dx3fzrdgd\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778432087811_6ba7b\",\"baseId\":\"base_DIR. EMPRESARIAL E LEGISLACAO COMPLEMENTAR\",\"materiaId\":\"mp00dwahnqytm\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778432094308_f724c\",\"baseId\":\"base_CON. DO DISTRITO FEDERAL, POLITICA PARA MULHERES, LEGISLACAO E NOCOES D\",\"materiaId\":\"mp00dx42uo7m8\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_comp\",\"name\":\"Prova objetiva (p1)\",\"items\":[{\"id\":\"mp00dvvr8ius9\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dw1pd5rtn\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dw7sz83zm\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dwc7tbh0j\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dwahnqytm\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dwmim7a6k\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dwpb1qy22\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dwxpxvtgs\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dx3fzrdgd\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mp00dx42uo7m8\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":120,\"w\":1,\"useBlockData\":true,\"minPts\":36}],\"scoringMode\":\"cebraspe\",\"errorPenalty\":1}"
+  }
+}
