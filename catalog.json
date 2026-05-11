@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-10T19:27:02.624Z",
+  "atualizadoEm": "2026-05-11T14:13:05.667Z",
   "editais": [
+    {
+      "id": "escriturario-banco-do-brasil",
+      "titulo": "Banco do Brasil",
+      "orgao": "Banco do Brasil",
+      "banca": "CESGRANRIO",
+      "cargo": "Escriturário - Banco do Brasil / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/photo_2026-05-09_09-32-35.jpg",
+      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
+      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON",
+      "atualizadoEm": "2026-05-11T14:11:50.000Z"
+    },
     {
       "id": "analista-de-transito-administracao-detran-al",
       "titulo": "DETRAN AL",
@@ -85,22 +102,6 @@
       "arquivo": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/P%C3%B3s-edital%20Agente%20Administrativo%20SAAE%20Passos-MG.json",
       "arquivoNome": "Pós-edital Agente Administrativo SAAE Passos-MG.json",
       "atualizadoEm": "2026-05-09T19:57:03.000Z"
-    },
-    {
-      "id": "escriturario-banco-do-brasil",
-      "titulo": "Banco do Brasil",
-      "orgao": "Banco do Brasil",
-      "banca": "CESGRANRIO",
-      "cargo": "Escriturário - Banco do Brasil / Nível Superior",
-      "ano": 2022,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/photo_2026-05-09_09-32-35.jpg",
-      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
-      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON",
-      "atualizadoEm": "2026-05-09T12:46:05.000Z"
     },
     {
       "id": "soldado-pm-al",
