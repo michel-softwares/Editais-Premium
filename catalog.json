@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-14T18:29:07.867Z",
+  "atualizadoEm": "2026-05-14T20:07:43.710Z",
   "editais": [
+    {
+      "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
+      "titulo": "Ministério da Fazenda",
+      "orgao": "Ministério da Fazenda",
+      "banca": "ESAF",
+      "cargo": "Assistente Técnico-Administrativo (ATA) - Ministério da Fazenda / Nível Médio",
+      "ano": 2014,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
+      "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
+      "arquivoNome": "template_minist_rio_da_fazenda.json",
+      "atualizadoEm": "2026-05-14T20:07:43.000Z"
+    },
     {
       "id": "agente-administrativo-saae-passos-mg",
       "titulo": "SAAE Passos - MG",
