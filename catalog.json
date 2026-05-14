@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-12T12:51:58.133Z",
+  "atualizadoEm": "2026-05-14T14:51:38.562Z",
   "editais": [
+    {
+      "id": "agente-administrativo-prf-2014",
+      "titulo": "Polícia Rodoviária Federal",
+      "orgao": "Polícia Rodoviária Federal",
+      "banca": "FUNCAB",
+      "cargo": "Agente Administrativo - PRF / Nível Médio",
+      "ano": 2014,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Administrativo%20-%20PRF%202014/Captura%20de%20tela%202026-05-14%20114912.png",
+      "arquivo": "Agente%20Administrativo%20-%20PRF%202014/Pr%C3%A9-edital%20PRF%20Administrativo%202014.json",
+      "arquivoNome": "Pré-edital PRF Administrativo 2014.json",
+      "atualizadoEm": "2026-05-14T14:51:29.000Z"
+    },
     {
       "id": "auditor-fiscal-sefaz-ce",
       "titulo": "SEFAZ CE",
