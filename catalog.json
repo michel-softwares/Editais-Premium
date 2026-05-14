@@ -1,71 +1,22 @@
 {
-  "atualizadoEm": "2026-05-14T17:58:13.956Z",
+  "atualizadoEm": "2026-05-14T18:29:07.867Z",
   "editais": [
     {
-      "id": "agente-administrativo-prf-2014",
-      "titulo": "Polícia Rodoviária Federal",
-      "orgao": "Polícia Rodoviária Federal",
-      "banca": "FUNCAB",
-      "cargo": "Agente Administrativo - PRF / Nível Médio",
-      "ano": 2014,
+      "id": "agente-administrativo-saae-passos-mg",
+      "titulo": "SAAE Passos - MG",
+      "orgao": "SAAE Passos - MG",
+      "banca": "IBGP",
+      "cargo": "Agente Administrativo - SAAE / Nível Médio",
+      "ano": 2026,
       "tags": [
         "edital pronto",
         "nivel medio"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20Administrativo%20-%20PRF%202014/Captura%20de%20tela%202026-05-14%20114912.png",
-      "arquivo": "Agente%20Administrativo%20-%20PRF%202014/Pr%C3%A9-edital%20PRF%20Administrativo%202014.json",
-      "arquivoNome": "Pré-edital PRF Administrativo 2014.json",
-      "atualizadoEm": "2026-05-14T17:58:15.000Z"
-    },
-    {
-      "id": "auditor-fiscal-sefaz-ce",
-      "titulo": "SEFAZ CE",
-      "orgao": "SEFAZ CE",
-      "banca": "FCC",
-      "cargo": "Auditor Fiscal - SEFAZ CE / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
-      "arquivo": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20SEFAZ%20CE.json",
-      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal SEFAZ CE.json",
-      "atualizadoEm": "2026-05-12T12:51:40.000Z"
-    },
-    {
-      "id": "auditor-fiscal-ti-sefaz-ce",
-      "titulo": "SEFAZ CE",
-      "orgao": "SEFAZ CE",
-      "banca": "FCC",
-      "cargo": "Auditor Fiscal TI - SEFAZ CE / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
-      "arquivo": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20TI%20SEFAZ%20CE.json",
-      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal TI SEFAZ CE.json",
-      "atualizadoEm": "2026-05-12T12:51:40.000Z"
-    },
-    {
-      "id": "escriturario-banco-do-brasil",
-      "titulo": "Banco do Brasil",
-      "orgao": "Banco do Brasil",
-      "banca": "CESGRANRIO",
-      "cargo": "Escriturário - Banco do Brasil / Nível Médio",
-      "ano": 2022,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/photo_2026-05-09_09-32-35.jpg",
-      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
-      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON",
-      "atualizadoEm": "2026-05-11T14:11:50.000Z"
+      "imagem": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/Captura%20de%20tela%202026-05-09%20165459.png",
+      "arquivo": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/P%C3%B3s-edital%20Agente%20Administrativo%20SAAE%20Passos-MG.json",
+      "arquivoNome": "Pós-edital Agente Administrativo SAAE Passos-MG.json",
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
       "id": "analista-de-transito-administracao-detran-al",
@@ -82,24 +33,7 @@
       "imagem": "Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20-%20DETRAN%20AL/Captura%20de%20tela%202026-05-10%20162300.png",
       "arquivo": "Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20-%20DETRAN%20AL/Edital%20Premium%20Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20DETRAN%20AL.json",
       "arquivoNome": "Edital Premium Analista de Trânsito Administração DETRAN AL.json",
-      "atualizadoEm": "2026-05-10T19:26:57.000Z"
-    },
-    {
-      "id": "delegado-pcdf",
-      "titulo": "Polícia Civil DF",
-      "orgao": "Polícia Civil DF",
-      "banca": "CEBRASPE",
-      "cargo": "Delegado - PCDF / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Delegado%20-%20PCDF/Captura%20de%20tela%202026-05-10%20162356.png",
-      "arquivo": "Delegado%20-%20PCDF/Edital%20Premium%20Delegado%20PCDF.json",
-      "arquivoNome": "Edital Premium Delegado PCDF.json",
-      "atualizadoEm": "2026-05-10T19:26:57.000Z"
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
       "id": "assistente-administrativo-creci-ba",
@@ -116,7 +50,7 @@
       "imagem": "Assistente%20Administrativo%20-%20CRECI%20BA/Captura%20de%20tela%202026-05-09%20201103.png",
       "arquivo": "Assistente%20Administrativo%20-%20CRECI%20BA/Edital%20Premium%20Assistente%20Administrativo%20CRECI%20BA.json",
       "arquivoNome": "Edital Premium Assistente Administrativo CRECI BA.json",
-      "atualizadoEm": "2026-05-09T23:12:01.000Z"
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
       "id": "assistente-em-administracao-ifpi",
@@ -133,24 +67,106 @@
       "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
       "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
       "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
-      "atualizadoEm": "2026-05-09T22:56:57.000Z"
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
-      "id": "agente-administrativo-saae-passos-mg",
-      "titulo": "SAAE Passos - MG",
-      "orgao": "SAAE Passos - MG",
-      "banca": "IBGP",
-      "cargo": "Agente Administrativo - SAAE / Nível Médio",
+      "id": "auditor-fiscal-sefaz-ce",
+      "titulo": "SEFAZ CE",
+      "orgao": "SEFAZ CE",
+      "banca": "FCC",
+      "cargo": "Auditor Fiscal - SEFAZ CE / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
+      "arquivo": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20SEFAZ%20CE.json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal SEFAZ CE.json",
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+    },
+    {
+      "id": "auditor-fiscal-ti-sefaz-ce",
+      "titulo": "SEFAZ CE",
+      "orgao": "SEFAZ CE",
+      "banca": "FCC",
+      "cargo": "Auditor Fiscal TI - SEFAZ CE / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
+      "arquivo": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20TI%20SEFAZ%20CE.json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal TI SEFAZ CE.json",
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+    },
+    {
+      "id": "cadete-espcex-2026",
+      "titulo": "EsPCEx",
+      "orgao": "EsPCEx",
+      "banca": "VUNESP",
+      "cargo": "Cadete - EsPCEx 2026 / mínimo 17 anos e máximo 22 anos",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Cadete%20-%20EsPCEx%202026/card_premium_espcex.png",
+      "arquivo": "Cadete%20-%20EsPCEx%202026/Edital%20Premium%20EsPCEx_Track%20Concursos.json",
+      "arquivoNome": "Edital Premium EsPCEx_Track Concursos.json",
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+    },
+    {
+      "id": "delegado-pcdf",
+      "titulo": "Polícia Civil DF",
+      "orgao": "Polícia Civil DF",
+      "banca": "CEBRASPE",
+      "cargo": "Delegado - PCDF / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Delegado%20-%20PCDF/Captura%20de%20tela%202026-05-10%20162356.png",
+      "arquivo": "Delegado%20-%20PCDF/Edital%20Premium%20Delegado%20PCDF.json",
+      "arquivoNome": "Edital Premium Delegado PCDF.json",
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+    },
+    {
+      "id": "escriturario-banco-do-brasil",
+      "titulo": "Banco do Brasil",
+      "orgao": "Banco do Brasil",
+      "banca": "CESGRANRIO",
+      "cargo": "Escriturário - Banco do Brasil / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
+      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
+      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON",
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+    },
+    {
+      "id": "gcm-maceio",
+      "titulo": "GCM Maceió",
+      "orgao": "GCM Maceió",
+      "banca": "COPEVE UFAL",
+      "cargo": "Guarda Municipal - Prefeitura de Maceió / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
         "nivel medio"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/Captura%20de%20tela%202026-05-09%20165459.png",
-      "arquivo": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/P%C3%B3s-edital%20Agente%20Administrativo%20SAAE%20Passos-MG.json",
-      "arquivoNome": "Pós-edital Agente Administrativo SAAE Passos-MG.json",
-      "atualizadoEm": "2026-05-09T19:57:03.000Z"
+      "imagem": "GCM%20-%20Macei%C3%B3/card_premium_gcm_macei.png",
+      "arquivo": "GCM%20-%20Macei%C3%B3/GCM%20Maceio.json",
+      "arquivoNome": "GCM Maceio.json",
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
       "id": "soldado-pm-al",
@@ -165,10 +181,10 @@
         "cebraspe"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Soldado%20-%20PM%20AL/photo_2026-04-19_16-48-25.jpg",
+      "imagem": "Soldado%20-%20PM%20AL/card_premium_pm_al.png",
       "arquivo": "Soldado%20-%20PM%20AL/Edital%20Premium%20Soldado%20PM%20AL_Track%20Concursos.json",
       "arquivoNome": "Edital Premium Soldado PM AL_Track Concursos.json",
-      "atualizadoEm": "2026-05-09T12:46:05.000Z"
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
       "id": "soldado-pm-mg",
@@ -181,43 +197,10 @@
         "edital pronto"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Soldado%20-%20PM%20MG/photo_2026-05-09_09-31-03.jpg",
+      "imagem": "Soldado%20-%20PM%20MG/card_premium_pol_cia_militar_mg.png",
       "arquivo": "Soldado%20-%20PM%20MG/Soldado_Pol%C3%ADcia_Militar_MG.json",
       "arquivoNome": "Soldado_Polícia_Militar_MG.json",
-      "atualizadoEm": "2026-05-09T12:46:05.000Z"
-    },
-    {
-      "id": "gcm-maceio",
-      "titulo": "GCM Maceió",
-      "orgao": "GCM Maceió",
-      "banca": "COPEVE UFAL",
-      "cargo": "Guarda Municipal - Prefeitura de Maceió / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "GCM%20-%20Macei%C3%B3/photo_2026-05-02_17-10-21.jpg",
-      "arquivo": "GCM%20-%20Macei%C3%B3/GCM%20Maceio.json",
-      "arquivoNome": "GCM Maceio.json",
-      "atualizadoEm": "2026-05-09T12:43:52.000Z"
-    },
-    {
-      "id": "cadete-espcex-2026",
-      "titulo": "EsPCEx",
-      "orgao": "EsPCEx",
-      "banca": "VUNESP",
-      "cargo": "Cadete - EsPCEx 2026 / mínimo 17 anos e máximo 22 anos",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Cadete%20-%20EsPCEx%202026/photo_2026-05-02_17-10-21.jpg",
-      "arquivo": "Cadete%20-%20EsPCEx%202026/Edital%20Premium%20EsPCEx_Track%20Concursos.json",
-      "arquivoNome": "Edital Premium EsPCEx_Track Concursos.json",
-      "atualizadoEm": "2026-05-08T19:57:43.000Z"
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
       "id": "terceiro-sargento-eags-administracao",
@@ -231,10 +214,10 @@
         "nivel medio"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/photo_2026-05-07_17-23-12.jpg",
+      "imagem": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/card_premium_eags.png",
       "arquivo": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/Edital%20Premium%20EAGS%20Administra%C3%A7%C3%A3o.json",
       "arquivoNome": "Edital Premium EAGS Administração.json",
-      "atualizadoEm": "2026-05-08T19:43:04.000Z"
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
     },
     {
       "id": "tecnico-do-seguro-social-inss",
@@ -250,10 +233,27 @@
         "inss"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/photo_2026-05-08_16-17-02.jpg",
+      "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/card_premium_inss.png",
       "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
       "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
-      "atualizadoEm": "2026-05-08T19:37:59.000Z"
+      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+    },
+    {
+      "id": "agente-administrativo-prf-2014",
+      "titulo": "Polícia Rodoviária Federal",
+      "orgao": "Polícia Rodoviária Federal",
+      "banca": "FUNCAB",
+      "cargo": "Agente Administrativo - PRF / Nível Médio",
+      "ano": 2014,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Administrativo%20-%20PRF%202014/Captura%20de%20tela%202026-05-14%20114912.png",
+      "arquivo": "Agente%20Administrativo%20-%20PRF%202014/Pr%C3%A9-edital%20PRF%20Administrativo%202014.json",
+      "arquivoNome": "Pré-edital PRF Administrativo 2014.json",
+      "atualizadoEm": "2026-05-14T17:58:15.000Z"
     }
   ]
 }
