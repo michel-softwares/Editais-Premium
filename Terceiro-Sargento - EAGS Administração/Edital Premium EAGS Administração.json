@@ -12,7 +12,7 @@
     "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
   },
   "exportOptions": {
-    "includeLinks": true
+    "includeLinks": false
   },
   "concurso": {
     "nome": "EAGS",
@@ -27,11 +27,11 @@
     "preEdital": true,
     "pontuacaoMax": null,
     "vagas": null,
-    "obs": ""
+    "obs": "Entre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;  para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
   },
   "materias": [
     {
-      "id": "movsc0n5sttvp",
+      "id": "mp5tdg9x8fb6q",
       "nome": "LÍNGUA PORTUGUESA",
       "ordem": 0,
       "cadernos": [],
@@ -42,7 +42,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Interpretação de textos literários ou não literários",
               "ordem": 0,
               "cadernos": []
@@ -55,151 +55,151 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Fonética: sílaba",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Fonética: separação silábica",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Fonética: encontros vocálicos",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Fonética: encontros consonantais",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Fonética: tonicidade",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Fonética: acentuação gráfica",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Fonética: ortografia",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Morfologia: processos de formação de palavras",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: substantivo (classificação e flexão)",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: adjetivo (classificação, flexão e locução adjetiva)",
               "ordem": 9,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: advérbio (classificação e locução adverbial)",
               "ordem": 10,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: conjunções (coordenativas e subordinativas)",
               "ordem": 11,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: verbo (flexão verbal: número, pessoa, modo, tempo, voz)",
               "ordem": 12,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: verbo (classificação: regulares, irregulares, defectivos, abundantes, auxiliares e principais)",
               "ordem": 13,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: verbo (conjugação dos tempos simples)",
               "ordem": 14,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Classes de palavras: pronome (classificação e emprego)",
               "ordem": 15,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Pontuação",
               "ordem": 16,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Sintaxe: Períodos Simples e Composto (termos essenciais, integrantes e acessórios)",
               "ordem": 17,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Sintaxe: coordenação e subordinação",
               "ordem": 18,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Sintaxe: orações reduzidas",
               "ordem": 19,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Concordâncias verbal e nominal",
               "ordem": 20,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Regências verbal e nominal",
               "ordem": 21,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Crase e Colocação Pronominal",
               "ordem": 22,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Tipos de discurso",
               "ordem": 23,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0n5sttvp",
+              "materiaId": "mp5tdg9x8fb6q",
               "nome": "Estilística: Figuras de linguagem",
               "ordem": 24,
               "cadernos": []
@@ -209,7 +209,7 @@
       ]
     },
     {
-      "id": "movsc0p9mx49j",
+      "id": "mp5tdgcleitwj",
       "nome": "ADMINISTRAÇÃO",
       "ordem": 0,
       "cadernos": [],
@@ -220,193 +220,193 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Introdução à Teoria Geral da Administração",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "A Administração e suas perspectivas",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Primórdios da Administração",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Antecedentes históricos da Administração",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "A Abordagem Clássica da Administração",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Administração Científica",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria Clássica da Administração",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "A Abordagem Humanística da Administração",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teorias Transitivas da Administração",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teorias das Relações Humanas",
               "ordem": 9,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Decorrências da Teoria das Relações Humanas",
               "ordem": 10,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "A Abordagem Neoclássica da Administração",
               "ordem": 11,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria Neoclássica da Administração",
               "ordem": 12,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Decorrências da Abordagem Neoclássica",
               "ordem": 13,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Processo Administrativo",
               "ordem": 14,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Tipos de Organização",
               "ordem": 15,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Departamentalização",
               "ordem": 16,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Administração por Objetivos",
               "ordem": 17,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Abordagem Estruturalista da Administração",
               "ordem": 18,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Modelo Burocrático de Organização",
               "ordem": 19,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria Estruturalista da Administração",
               "ordem": 20,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Abordagem Comportamental da Administração",
               "ordem": 21,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria Comportamental da Administração",
               "ordem": 22,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria do Desenvolvimento Organizacional",
               "ordem": 23,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Abordagem Sistêmica da Administração",
               "ordem": 24,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Tecnologia e Administração",
               "ordem": 25,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria Matemática da Administração",
               "ordem": 26,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria de Sistemas",
               "ordem": 27,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Abordagem Contingencial da Administração",
               "ordem": 28,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Teoria da Contingência",
               "ordem": 29,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Novas Abordagens da Administração",
               "ordem": 30,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Para onde vai o TGA",
               "ordem": 31,
               "cadernos": []
@@ -419,73 +419,73 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Patrimônio",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Contas",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Atos e Fatos Administrativos",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Escrituração: livros",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Escrituração: métodos de escrituração",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Escrituração: lançamento",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Razonete e Balancete",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Plano de Contas",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Depreciação e Amortização",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Regime da Competência",
               "ordem": 9,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Demonstrações Contábeis (Financeiras)",
               "ordem": 10,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Resultado do Exercício",
               "ordem": 11,
               "cadernos": []
@@ -498,55 +498,55 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Licitações e Contratos Administrativos",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Lei nº 14.133, de 1° de abril de 2021",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Contabilidade Pública",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Regimes Contábeis",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Orçamento Público",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Receita Pública",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Despesa Pública",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Restos a Pagar",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Dívida Pública",
               "ordem": 8,
               "cadernos": []
@@ -559,559 +559,559 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte: Conceito",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte: Titularidade",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte: Formas de Exercício",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte: Espécies",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte Originário",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte Derivado",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte Difuso",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder Constituinte Supranacional",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Princípios Fundamentais",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Direitos e Garantias Fundamentais – Teoria Geral e Regime Jurídico",
               "ordem": 9,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Origem",
               "ordem": 10,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Os quatro status de Jellinek",
               "ordem": 11,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Distinção entre direitos humanos e direitos fundamentais",
               "ordem": 12,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Distinção entre Direitos e Garantias",
               "ordem": 13,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Características",
               "ordem": 14,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Classificação",
               "ordem": 15,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Destinatários",
               "ordem": 16,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Relações Privadas",
               "ordem": 17,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Natureza Relativa",
               "ordem": 18,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Restrições Legais",
               "ordem": 19,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Conflito (ou colisão)",
               "ordem": 20,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Princípios, Direitos e Garantias Fundamentais: Renúncia",
               "ordem": 21,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Os Direitos Fundamentais na Constituição Federal de 1988 – Aspectos Gerais",
               "ordem": 22,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Aplicabilidade Imediata",
               "ordem": 23,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Enumeração aberta e interpretação",
               "ordem": 24,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Restrições e suspensões admitidas constitucionalmente",
               "ordem": 25,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Direito à vida",
               "ordem": 26,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Direito à liberdade",
               "ordem": 27,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Princípio da igualdade",
               "ordem": 28,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Princípio da legalidade",
               "ordem": 29,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Liberdade de Expressão",
               "ordem": 30,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Liberdade de crença religiosa e convicção política e filosófica",
               "ordem": 31,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Inviolabilidade da intimidade da vida privada, da honra e da imagem das pessoas",
               "ordem": 32,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Inviolabilidade domiciliar",
               "ordem": 33,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Inviolabilidade das correspondências e comunicações",
               "ordem": 34,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Liberdade de atividade profissional",
               "ordem": 35,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Liberdade de Reunião",
               "ordem": 36,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Liberdade de associação",
               "ordem": 37,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Direito de propriedade",
               "ordem": 38,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Desapropriação",
               "ordem": 39,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Requisição Administrativa",
               "ordem": 40,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Direito de informação",
               "ordem": 41,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Direito de Petição",
               "ordem": 42,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Direito de Certidão",
               "ordem": 43,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Princípio da inafastabilidade de jurisdição",
               "ordem": 44,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Juízo natural",
               "ordem": 45,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Júri Popular",
               "ordem": 46,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Princípio da Legalidade Penal e da Retroatividade da Lei Penal mais Favorável",
               "ordem": 47,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Vedação ao Racismo",
               "ordem": 48,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Pessoalidade da pena",
               "ordem": 49,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Princípio da individualização da pena",
               "ordem": 50,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Penas admitidas e penas vedadas",
               "ordem": 51,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Extradição",
               "ordem": 52,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Devido Processo Legal",
               "ordem": 53,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Princípio da razoabilidade ou proporcionalidade",
               "ordem": 54,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Contraditório e ampla defesa",
               "ordem": 55,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Ampla defesa e duplo grau de jurisdição",
               "ordem": 56,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Vedação à prova ilícita",
               "ordem": 57,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Princípio da presunção da inocência",
               "ordem": 58,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Prisão civil por dívida",
               "ordem": 59,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Direitos e Deveres Individuais e Coletivos (Art. 5º): Assistência jurídica gratuita",
               "ordem": 60,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Habeas Corpus: Ofensa indireta ao direito de locomoção",
               "ordem": 61,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Habeas Corpus: Descabimento",
               "ordem": 62,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Natureza jurídica",
               "ordem": 63,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Cabimento",
               "ordem": 64,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Descabimento",
               "ordem": 65,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Direito líquido e certo",
               "ordem": 66,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Legitimação ativa",
               "ordem": 67,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Legitimação passiva",
               "ordem": 68,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Medida liminar",
               "ordem": 69,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Vedação à concessão de medida liminar",
               "ordem": 70,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Prazo para impetração",
               "ordem": 71,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de segurança: Competência",
               "ordem": 72,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de injunção: Cabimento",
               "ordem": 73,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Mandado de injunção: Descabimento",
               "ordem": 74,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Habeas data: Objeto",
               "ordem": 75,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Habeas data: Competência",
               "ordem": 76,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Ação popular: Objeto",
               "ordem": 77,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Ação popular: Competência",
               "ordem": 78,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Nacionalidade: Noções",
               "ordem": 79,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Nacionalidade: Espécies de nacionalidade",
               "ordem": 80,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Nacionalidade: Critérios de atribuição de nacionalidade",
               "ordem": 81,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Brasileiros natos",
               "ordem": 82,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Brasileiros naturalizados",
               "ordem": 83,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Tratamento diferenciado entre brasileiro nato e naturalizado",
               "ordem": 84,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Perda de nacionalidade",
               "ordem": 85,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Dupla nacionalidade",
               "ordem": 86,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Organização Político-Administrativa: Introdução",
               "ordem": 87,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Formas de Estado",
               "ordem": 88,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Formas de Governo",
               "ordem": 89,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Sistemas de Governo",
               "ordem": 90,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Regimes de Governo",
               "ordem": 91,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Intervenção Federal",
               "ordem": 92,
               "cadernos": []
@@ -1124,61 +1124,61 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Regime Jurídico Administrativo: Princípios da Administração Pública",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Regime Jurídico Administrativo: Poderes da Administração",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Poder de Polícia: Polícia Administrativa e Judiciária",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Atos Administrativos",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Contratos Administrativos",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Servidores Públicos: Agentes públicos",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Controle da Administração Pública",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Processo Administrativo no Âmbito da Administração Pública Federal (Lei n° 9.784/1999)",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Improbidade Administrativa (Lei n° 14.230/2021)",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Normas Gerais de Direito Financeiro (Lei n° 4.320/1964)",
               "ordem": 9,
               "cadernos": []
@@ -1191,79 +1191,79 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Writer 7.1: Introdução ao Writer",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Writer 7.1: Trabalhar com texto Básico",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Writer 7.1: Trabalhar com texto Avançado",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Writer 7.1: Formatar Texto",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Writer 7.1: Formatar páginas noções básicas",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Writer 7.1: Formatar páginas avançado",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Writer 7.1: Imprimir, Exportar, Enviar por e-mail, Assinar",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Calc 7.0: Introdução",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Calc 7.0: Inserir, Editar e Formatar Dados",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Calc 7.0: Fórmulas e Funções Introdução",
               "ordem": 9,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Calc 7.0: Configurar um documento de planilha",
               "ordem": 10,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Calc 7.0: Criar fórmulas",
               "ordem": 11,
               "cadernos": []
             },
             {
-              "materiaId": "movsc0p9mx49j",
+              "materiaId": "mp5tdgcleitwj",
               "nome": "Calc 7.0: Entender funções",
               "ordem": 12,
               "cadernos": []
@@ -1276,9 +1276,9 @@
   "simulados": [],
   "estrutura": {
     "cronoWeekly": null,
-    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"movsc0n5sttvp\"},{\"nome\":\"ADMINISTRAÇÃO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"movsc0p9mx49j\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mp5tdg9x8fb6q\"},{\"nome\":\"ADMINISTRAÇÃO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mp5tdgcleitwj\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
     "cronoMode": "cycle",
-    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1778176434562_00a64\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"movsc0n5sttvp\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778176435945_94987\",\"baseId\":\"base_ADMINISTRACAO\",\"materiaId\":\"movsc0p9mx49j\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
-    "configProva": "{\"groups\":[{\"id\":\"g_comp\",\"name\":\"Portugues\",\"items\":[{\"id\":\"movsc0n5sttvp\",\"q\":40,\"w\":1,\"minPts\":5}],\"q\":40,\"w\":1,\"minPts\":5},{\"id\":\"g_espec\",\"name\":\"Administração\",\"items\":[{\"id\":\"movsc0p9mx49j\",\"q\":60,\"w\":2,\"minPts\":5}],\"q\":0,\"w\":1,\"minPts\":5}],\"scoringMode\":\"media_areas\",\"errorPenalty\":1}"
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1778176434562_00a64\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mp5tdg9x8fb6q\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1778176435945_94987\",\"baseId\":\"base_ADMINISTRACAO\",\"materiaId\":\"mp5tdgcleitwj\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_comp\",\"name\":\"Portugues\",\"items\":[{\"id\":\"mp5tdg9x8fb6q\",\"q\":40,\"w\":1,\"minPts\":5}],\"q\":40,\"w\":1,\"minPts\":5},{\"id\":\"g_espec\",\"name\":\"Administração\",\"items\":[{\"id\":\"mp5tdgcleitwj\",\"q\":60,\"w\":2,\"minPts\":5}],\"q\":0,\"w\":1,\"minPts\":5}],\"scoringMode\":\"media_areas\",\"errorPenalty\":1}"
   }
 }

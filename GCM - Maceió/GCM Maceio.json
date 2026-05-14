@@ -27,11 +27,11 @@
     "preEdital": false,
     "pontuacaoMax": 100,
     "vagas": 100,
-    "obs": ""
+    "obs": "Entre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;  para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
   },
   "materias": [
     {
-      "id": "moe8p4vxmqxzm",
+      "id": "mp5t4udattvyw",
       "nome": "LÍNGUA PORTUGUESA",
       "ordem": 0,
       "cadernos": [],
@@ -42,55 +42,55 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Compreensão geral do texto",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Elementos que compõem uma narrativa",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Tipos de discurso",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Ponto de vista ou ideia central defendida pelo autor",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Argumentação",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Elementos de coesão e coerência textuais",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Intertextualidade",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Inferências",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Estrutura e organização do texto e dos parágrafos",
               "ordem": 8,
               "cadernos": []
@@ -115,31 +115,31 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Sinonímia e antonímia",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Homonímia e paronímia",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Conotação e denotação",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Ambiguidade",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4vxmqxzm",
+              "materiaId": "mp5t4udattvyw",
               "nome": "Polissemia",
               "ordem": 4,
               "cadernos": []
@@ -203,7 +203,7 @@
       ]
     },
     {
-      "id": "moe8p4wu6mf19",
+      "id": "mp5t4uf2x7h8j",
       "nome": "RACIOCÍNIO LÓGICO",
       "ordem": 1,
       "cadernos": [],
@@ -214,13 +214,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Proposições simbólicas (fórmulas)",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Tabela verdade de uma fórmula",
               "ordem": 1,
               "cadernos": []
@@ -233,7 +233,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Proposições quantificadas",
               "ordem": 0,
               "cadernos": []
@@ -252,13 +252,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Operações",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Diagramas de Venn",
               "ordem": 1,
               "cadernos": []
@@ -271,49 +271,49 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Operações com números inteiros",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Comparação de números inteiros",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Múltiplos e divisores",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Critérios de divisibilidade",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Fatoração",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Números primos",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Máximo divisor comum",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Mínimo múltiplo comum",
               "ordem": 7,
               "cadernos": []
@@ -326,67 +326,67 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Números racionais e irracionais",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Frações",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Comparação de frações",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Operações com frações",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Números decimais",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Comparações de números decimais",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Operações com números decimais",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Relação entre frações e números decimais",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Dízimas periódicas",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Razões e proporções",
               "ordem": 9,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Porcentagem",
               "ordem": 10,
               "cadernos": []
@@ -399,19 +399,19 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Características das figuras geométricas planas e espaciais",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Áreas e volumes",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Raciocínio geométrico",
               "ordem": 2,
               "cadernos": []
@@ -424,13 +424,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Progressões aritméticas e geométricas",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Raciocínio lógico sequencial",
               "ordem": 1,
               "cadernos": []
@@ -455,13 +455,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Análise e interpretação de dados apresentados em gráficos e tabelas",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4wu6mf19",
+              "materiaId": "mp5t4uf2x7h8j",
               "nome": "Média, moda e mediana de uma série de dados",
               "ordem": 1,
               "cadernos": []
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "id": "moe8p4ykad2v1",
+      "id": "mp5t4uinyj03t",
       "nome": "NOÇÕES DE INFORMÁTICA",
       "ordem": 2,
       "cadernos": [],
@@ -494,19 +494,19 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Conceitos básicos de computação: hardware e software",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Componentes de um computador e dispositivos de entrada e saída",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Noções de operação de dispositivos móveis (tablets e smartphones) e tecnologias vestíveis aplicadas à segurança (câmeras corporais e rádio digital)",
               "ordem": 2,
               "cadernos": []
@@ -519,19 +519,19 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Utilização do ambiente gráfico, área de trabalho e atalhos de teclado",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Gerenciamento de arquivos e pastas: criação, cópia, movimentação, exclusão e busca",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Configurações básicas do sistema e painel de controle",
               "ordem": 2,
               "cadernos": []
@@ -544,13 +544,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Editores de texto (Microsoft Word / LibreOffice Writer): Estruturação de relatórios, documentos oficiais, formatação de parágrafos e tabelas",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Planilhas eletrônicas (Microsoft Excel / LibreOffice Calc): Preenchimento de dados operacionais, organização de tabelas e funções básicas (soma, média, filtros)",
               "ordem": 1,
               "cadernos": []
@@ -563,19 +563,19 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Navegação na Internet: busca avançada (Google), uso de navegadores (Chrome, Edge) e serviços de mapas/geolocalização",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Correio eletrônico, organização de mensagens, anexos e normas de etiqueta na comunicação institucional",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Noções de redes sem fio (Wi-Fi e Dados Móveis) e conectividade",
               "ordem": 2,
               "cadernos": []
@@ -588,25 +588,25 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Proteção de senhas e autenticação em dois fatores",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Identificação de ameaças: vírus, malwares e ataques de phishing",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Procedimentos de Backup e armazenamento em nuvem",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4ykad2v1",
+              "materiaId": "mp5t4uinyj03t",
               "nome": "Conceitos básicos da LGPD (Lei Geral de Proteção de Dados) aplicados ao tratamento de dados de cidadãos e ocorrências",
               "ordem": 3,
               "cadernos": []
@@ -616,7 +616,7 @@
       ]
     },
     {
-      "id": "moe8p4zfrdwqu",
+      "id": "mp5t4ukbj3wfw",
       "nome": "LEGISLAÇÃO MUNICIPAL ESPECÍFICA",
       "ordem": 3,
       "cadernos": [],
@@ -627,7 +627,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zfrdwqu",
+              "materiaId": "mp5t4ukbj3wfw",
               "nome": "Institui o Estatuto dos Servidores Municipais de Maceió",
               "ordem": 0,
               "cadernos": []
@@ -640,7 +640,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zfrdwqu",
+              "materiaId": "mp5t4ukbj3wfw",
               "nome": "Estatuto da Guarda Municipal de Maceió",
               "ordem": 0,
               "cadernos": []
@@ -653,7 +653,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zfrdwqu",
+              "materiaId": "mp5t4ukbj3wfw",
               "nome": "Dispõe sobre o Plano de Cargos e Carreiras dos servidores ativos da Administração Direta, Autarquias e Fundações da Prefeitura Municipal de Maceió",
               "ordem": 0,
               "cadernos": []
@@ -666,7 +666,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zfrdwqu",
+              "materiaId": "mp5t4ukbj3wfw",
               "nome": "Dispõe sobre a criação, junto ao gabinete do prefeito do município de Maceió, a corregedoria da guarda municipal, a ouvidoria da guarda municipal, bem como os cargos em comissão e funções gratificadas, e dá outras providências, regulamentada pelo Decreto Municipal n° 7190, de 25 de outubro de 2010",
               "ordem": 0,
               "cadernos": []
@@ -679,7 +679,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zfrdwqu",
+              "materiaId": "mp5t4ukbj3wfw",
               "nome": "Dispõe sobre Código de ética e disciplina profissional dos servidores da Guarda Municipal de Maceió e dá outras providências",
               "ordem": 0,
               "cadernos": []
@@ -692,7 +692,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zfrdwqu",
+              "materiaId": "mp5t4ukbj3wfw",
               "nome": "Institui o SISIGMM (Serviço de Identificação dos Servidores Integrantes da Guarda Municipal), regulamentada pelo Decreto Municipal n° 7.605, de 5 de fevereiro de 2014",
               "ordem": 0,
               "cadernos": []
@@ -705,7 +705,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zfrdwqu",
+              "materiaId": "mp5t4ukbj3wfw",
               "nome": "Dispõe sobre o Serviço Indenizado de Adesão Voluntária (SIAV), regulamentada pelo Decreto Municipal n° 8.759, de 03 de julho de 2019",
               "ordem": 0,
               "cadernos": []
@@ -715,7 +715,7 @@
       ]
     },
     {
-      "id": "moe8p4zx690wx",
+      "id": "mp5t4ul78lydd",
       "nome": "CONHECIMENTOS ESPECÍFICOS",
       "ordem": 4,
       "cadernos": [],
@@ -726,7 +726,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Definição, fundamentos e componentes do sistema de segurança pública",
               "ordem": 0,
               "cadernos": []
@@ -739,7 +739,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Diferenças, competências e atribuições constitucionais",
               "ordem": 0,
               "cadernos": []
@@ -758,7 +758,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Conceitos e definições",
               "ordem": 0,
               "cadernos": []
@@ -771,7 +771,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Responsabilidade e atuação institucional",
               "ordem": 0,
               "cadernos": []
@@ -796,13 +796,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Conceito",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Administração direta e indireta",
               "ordem": 1,
               "cadernos": []
@@ -815,7 +815,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Fundamentos, princípios e ética nas relações interpessoais no serviço público",
               "ordem": 0,
               "cadernos": []
@@ -828,7 +828,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Conceitos, elementos, poderes, natureza, finalidades e princípios",
               "ordem": 0,
               "cadernos": []
@@ -841,7 +841,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Conceito, fontes e princípios",
               "ordem": 0,
               "cadernos": []
@@ -854,13 +854,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Conceito, requisitos, atributos, classificação e espécies",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Invalidação, anulação e revogação",
               "ordem": 1,
               "cadernos": []
@@ -873,25 +873,25 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Dos Princípios Fundamentais (arts. 1º a 4º da Constituição Federal)",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Dos Direitos e Garantias Fundamentais (arts. 5º a 11 da Constituição Federal)",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Da Organização do Estado (arts. 18 a 31 e 37 a 41 da Constituição Federal)",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Da Segurança Pública (art. 144 da Constituição Federal)",
               "ordem": 3,
               "cadernos": []
@@ -904,13 +904,13 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Crimes contra a Pessoa e contra o Patrimônio (arts. 121 a 183 do Código Penal)",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Crimes contra a Administração Pública (arts. 312 a 337-A do Código Penal)",
               "ordem": 1,
               "cadernos": []
@@ -923,37 +923,37 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Lei Federal n° 9.503, de 23 de setembro de 1997: Código de Trânsito Brasileiro (CTB) e suas alterações",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Lei Federal n° 9.602, de 21 de janeiro de 1998: dispõe sobre legislação de trânsito e dá outras providências",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Lei Federal nº 13.103, de 2 de março de 2015",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Anexo II do CTB: Sinalização de Trânsito e as seguintes Resoluções do CONTRAN e suas atualizações: n°  973, de 18 de julho  de 2022 (Sinalização viária) ; n° 985, de 15 de dezembro de 2022 (Aprova o Manual Brasileiro de Fiscalização de Trânsito); n° 918, de 28 de março  de 2022 (Consolida as normas sobre procedimentos para a aplicação das multas por infrações, a arrecadação e o repasse dos valores  arrecadados, nos termos do Código de Trânsito Brasileiro – CTB); n° 14, de 6 de fevereiro de 1998 (Estabelece os equipamentos obrigatórios para  a frota de veículos em circulação e dá outras providências); n° 940, de 28 de março de 2022 (Disciplina o uso de capacete para condutor e  passageiro de motocicletas, motonetas, ciclomotores, triciclos motorizados e quadriciclos motorizados); n° 819, 12 de março de 2021 (Dispõe  sobre o transporte de crianças com idade inferior a dez anos que não tenham atingido 1,45 m de altura no dispositivo de retenção adequado).",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Lei Federal n° 14.071, 13 de outubro de 2020",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Lei Federal n° 14.861, de 27 de maio de 2024",
               "ordem": 5,
               "cadernos": []
@@ -984,7 +984,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Acidentes de trabalho (conceito, causas e prevenção)",
               "ordem": 0,
               "cadernos": []
@@ -997,73 +997,73 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Papel do socorrista",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Parada cardiorrespiratória",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Hemorragias",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Ferimentos",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Entorses",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Luxações",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Fraturas",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Distúrbios causados pelo calor",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Choque elétrico",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Mordidas e picadas de animais",
               "ordem": 9,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Transporte de acidentados",
               "ordem": 10,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Corpos estranhos no organismo",
               "ordem": 11,
               "cadernos": []
@@ -1076,7 +1076,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Estatuto da Criança e do Adolescente",
               "ordem": 0,
               "cadernos": []
@@ -1089,7 +1089,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Estatuto da Pessoa Idosa",
               "ordem": 0,
               "cadernos": []
@@ -1102,7 +1102,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Lei Maria da Penha",
               "ordem": 0,
               "cadernos": []
@@ -1115,19 +1115,19 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Arts. 54 a 61: Poluição e outros crimes",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Arts. 62 a 65: Crimes contra o Ordenamento Urbano e o Patrimônio Cultural",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Arts. 66 a 69: Crimes contra a Administração Ambiental",
               "ordem": 2,
               "cadernos": []
@@ -1140,7 +1140,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Estatuto Geral das Guardas Municipais",
               "ordem": 0,
               "cadernos": []
@@ -1153,7 +1153,7 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "moe8p4zx690wx",
+              "materiaId": "mp5t4ul78lydd",
               "nome": "Sistema Único de Segurança Pública",
               "ordem": 0,
               "cadernos": []
@@ -1166,9 +1166,9 @@
   "simulados": [],
   "estrutura": {
     "cronoWeekly": null,
-    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"moe8p4vxmqxzm\"},{\"nome\":\"RACIOCÍNIO LÓGICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"moe8p4wu6mf19\"},{\"nome\":\"NOÇÕES DE INFORMÁTICA\",\"cor\":\"#7c5cfc\",\"materiaId\":\"moe8p4ykad2v1\"},{\"nome\":\"LEGISLAÇÃO MUNICIPAL ESPECÍFICA\",\"cor\":\"#3ecf8e\",\"materiaId\":\"moe8p4zfrdwqu\"},{\"nome\":\"CON. ESPECÍFICOS\",\"cor\":\"#f5c842\",\"materiaId\":\"moe8p4zx690wx\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mp5t4udattvyw\"},{\"nome\":\"RACIOCÍNIO LÓGICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mp5t4uf2x7h8j\"},{\"nome\":\"NOÇÕES DE INFORMÁTICA\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mp5t4uinyj03t\"},{\"nome\":\"LEGISLAÇÃO MUNICIPAL ESPECÍFICA\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mp5t4ukbj3wfw\"},{\"nome\":\"CON. ESPECÍFICOS\",\"cor\":\"#f5c842\",\"materiaId\":\"mp5t4ul78lydd\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
     "cronoMode": "cycle",
-    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"entry_1777115730186_0c9a6\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1777115730186_0c9a6\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"moe8p4vxmqxzm\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115731305_7e009\",\"baseId\":\"base_RACIOCINIO LOGICO\",\"materiaId\":\"moe8p4wu6mf19\",\"targetSeconds\":5400,\"remainingSeconds\":5400,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115732385_6d6be\",\"baseId\":\"base_NOCOES DE INFORMATICA\",\"materiaId\":\"moe8p4ykad2v1\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115733889_d40c8\",\"baseId\":\"base_LEGISLACAO MUNICIPAL ESPECIFICA\",\"materiaId\":\"moe8p4zfrdwqu\",\"targetSeconds\":9000,\"remainingSeconds\":9000,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115735107_79e30\",\"baseId\":\"base_CON. ESPECIFICOS\",\"materiaId\":\"moe8p4zx690wx\",\"targetSeconds\":10800,\"remainingSeconds\":10800,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
-    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_gerais\",\"name\":\"Conhecimentos Gerais\",\"items\":[{\"id\":\"moe8p4vxmqxzm\",\"q\":15,\"w\":1},{\"id\":\"moe8p4wu6mf19\",\"q\":5,\"w\":1},{\"id\":\"moe8p4ykad2v1\",\"q\":5,\"w\":1}],\"q\":0,\"w\":1},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"items\":[{\"id\":\"moe8p4zfrdwqu\",\"q\":10,\"w\":1.5},{\"id\":\"moe8p4zx690wx\",\"q\":30,\"w\":2}],\"q\":0,\"w\":1}]}"
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"entry_1777115730186_0c9a6\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1777115730186_0c9a6\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mp5t4udattvyw\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115731305_7e009\",\"baseId\":\"base_RACIOCINIO LOGICO\",\"materiaId\":\"mp5t4uf2x7h8j\",\"targetSeconds\":5400,\"remainingSeconds\":5400,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115732385_6d6be\",\"baseId\":\"base_NOCOES DE INFORMATICA\",\"materiaId\":\"mp5t4uinyj03t\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115733889_d40c8\",\"baseId\":\"base_LEGISLACAO MUNICIPAL ESPECIFICA\",\"materiaId\":\"mp5t4ukbj3wfw\",\"targetSeconds\":9000,\"remainingSeconds\":9000,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1777115735107_79e30\",\"baseId\":\"base_CON. ESPECIFICOS\",\"materiaId\":\"mp5t4ul78lydd\",\"targetSeconds\":10800,\"remainingSeconds\":10800,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_gerais\",\"name\":\"Conhecimentos Gerais\",\"items\":[{\"id\":\"mp5t4udattvyw\",\"q\":15,\"w\":1},{\"id\":\"mp5t4uf2x7h8j\",\"q\":5,\"w\":1},{\"id\":\"mp5t4uinyj03t\",\"q\":5,\"w\":1}],\"q\":0,\"w\":1},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"items\":[{\"id\":\"mp5t4ukbj3wfw\",\"q\":10,\"w\":1.5},{\"id\":\"mp5t4ul78lydd\",\"q\":30,\"w\":2}],\"q\":0,\"w\":1}]}"
   }
 }
