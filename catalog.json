@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-14T20:20:53.466Z",
+  "atualizadoEm": "2026-05-16T12:10:59.431Z",
   "editais": [
+    {
+      "id": "policial-rodoviario-federal-prf-2021",
+      "titulo": "Polícia Rodoviária Federal",
+      "orgao": "Polícia Rodoviária Federal",
+      "banca": "CEBRASPE",
+      "cargo": "Policial Rodoviário Federal - PRF / Nível Superior",
+      "ano": 2021,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/card_premium_prf.png",
+      "arquivo": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/Edital%20Premium%20Track%20Concursos%20Policial%20Rodovi%C3%A1rio%20Federal%20PRF.json",
+      "arquivoNome": "Edital Premium Track Concursos Policial Rodoviário Federal PRF.json",
+      "atualizadoEm": "2026-05-16T12:11:01.000Z"
+    },
     {
       "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
       "titulo": "Ministério da Fazenda",
