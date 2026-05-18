@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-16T12:10:59.431Z",
+  "atualizadoEm": "2026-05-18T17:38:14.470Z",
   "editais": [
+    {
+      "id": "tecnico-judiciario-tjce",
+      "titulo": "Tribunal de Justiça do Ceará",
+      "orgao": "Tribunal de Justiça do Ceará",
+      "banca": "FCC",
+      "cargo": "Técnico Judiciário - TJCE / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJCE/card_premium_tjce.png",
+      "arquivo": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJCE/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Judici%C3%A1rio%20TJCE.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Judiciário TJCE.json",
+      "atualizadoEm": "2026-05-18T17:38:12.000Z"
+    },
     {
       "id": "policial-rodoviario-federal-prf-2021",
       "titulo": "Polícia Rodoviária Federal",
