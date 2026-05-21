@@ -1,0 +1,1194 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "MPES",
+    "cargo": "Agente de Apoio",
+    "salario": "R$ 5.073,26",
+    "banca": "FGV",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-08-02",
+    "localProva": "",
+    "linkEdital": "https://conhecimento.fgv.br/sites/default/files/concursos/mpes-edital-retificado-02-08.04.2026.pdf",
+    "preEdital": false,
+    "pontuacaoMax": 100,
+    "vagas": 20,
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mpfsnjjuqiv6y",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Elementos de construção do texto e seu sentido",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Gênero do texto (literário e não literário, narrativo, descritivo e argumentativo)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Interpretação e organização interna",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Semântica",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Sentido e emprego dos vocábulos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Campos semânticos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Emprego de tempos e modos dos verbos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfologia",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Reconhecimento, emprego e sentido das classes gramaticais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Processos de formação de palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Mecanismos de flexão dos nomes e verbos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sintaxe",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Frase, oração e período",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Termos da oração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Processos de coordenação e subordinação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Concordância Nominal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Concordância Verbal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Transitividade e regência de nomes e verbos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Padrões gerais de colocação pronominal",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Mecanismos de coesão textual",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ortografia",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Acentuação gráfica",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Emprego do sinal indicativo de crase",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Pontuação",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Estilística: figuras de linguagem",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Reescritura de frases",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Substituição, deslocamento e paralelismo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjjuqiv6y",
+              "nome": "Variação linguística: norma padrão",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpfsnjqe1ubj1",
+      "nome": "RACIOCÍNIO LÓGICO-MATEMÁTICO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lógica de Proposições",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Proposições, conectivos, equivalências lógicas, quantificadores e predicados",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Conjuntos e suas operações",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Conjuntos e suas operações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Diagramas de conjuntos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Aritmética e Álgebra Básica",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Números inteiros, racionais e reais e suas operações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Porcentagem",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Proporcionalidade direta e inversa",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Medidas e Grandezas",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Medidas de comprimento, área, volume, massa e tempo",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estrutura lógica e dedução",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Dedução de novas informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Compreensão e análise da lógica de uma situação",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio sequencial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Reconhecimento de padrões",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Orientação espacial e temporal",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Formação de conceitos e discriminação de elementos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Compreensão de dados apresentados em gráficos e tabelas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Problemas de lógica e raciocínio",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Problemas de contagem e noções de probabilidade",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Problemas de contagem",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Noções de probabilidade",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Geometria básica",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Ângulos, triângulos, polígonos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Distâncias, proporcionalidade, perímetro e área",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de estatística",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Média, moda, mediana",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjqe1ubj1",
+              "nome": "Desvio padrão",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpfsnjxarc0t9",
+      "nome": "LEGISLAÇÃO E CÓDIGO DE ÉTICA DO MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lei Orgânica do MPES - Lei Complementar Estadual nº 95/1997",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Lei Complementar Estadual nº 95/1997: Título I - Da Organização e Atribuições do Ministério Público",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Lei Complementar Estadual nº 95/1997: Capítulo I - Das Disposições Gerais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Lei Complementar Estadual nº 95/1997: Capítulo II - Da Organização do Ministério Público",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Constituição do Estado do Espírito Santo de 1989",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Constituição Estadual do ES: Título I - Do Estado do Espírito Santo e seu Território",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Constituição Estadual do ES: Título II - Dos Direitos e Garantias Fundamentais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Constituição Estadual do ES: Título IV - Da Organização dos Poderes (Capítulo IV - Das Funções Essenciais à Administração da Justiça, Seção I - Do Ministério Público)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Plano de Carreiras e Vencimentos dos Servidores Administrativos do MPES",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Lei Estadual nº 7.233/2002 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei Geral de Proteção de Dados Pessoais - LGPD",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Lei Federal nº 13.709/2018 (LGPD) e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Política de Privacidade e Proteção de Dados no MPES",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Portaria PGJ nº 897/2023",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Código de Ética do Ministério Público",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Resolução CNMP nº 261/2023",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estratégia Institucional e Governança no MPES",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Portaria PGJ nº 8.565/2017 (Estratégia Institucional e seu modelo de governança)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Planejamento Estratégico 2024-2032 do MPES",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "O Ministério Público brasileiro e a promoção dos ODS da Agenda 2030",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regimento Interno da Estrutura Organizacional do MPES",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnjxarc0t9",
+              "nome": "Resolução nº 12/2012 (Regimento Interno da Estrutura Organizacional do MPES)",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpfsnk2sh0847",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL E DE DIREITO ADMINISTRATIVO",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios Fundamentais da CRFB/88",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Organização do Estado Brasileiro",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "União, Estados, Distrito Federal e Municipios",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direitos e Garantias Fundamentais",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Direitos individuais e coletivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Deveres individuais e coletivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Direitos sociais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Nacionalidade",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização dos Poderes",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Poder Executivo: atribuições e responsabilidades",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Poder Legislativo: estrutura e competências",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Poder Judiciário: organização e funções",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ministério Público na CRFB/88",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Princípios institucionais do MP",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Garantias e vedações dos membros do MP",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Funções institucionais do MP (Art. 129 da CRFB/88)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços Públicos na CRFB/88",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Princípios gerais dos serviços públicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Direitos dos usuários de serviços públicos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Controle da Administração Pública",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Controle interno e controle externo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Papel do Ministério Público no controle da Administração",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regime Jurídico-Administrativo",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Princípios da Administração Pública: legalidade e impessoalidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Princípios da Administração Pública: moralidade, publicidade e eficiência",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização Administrativa",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Administração Direta",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Administração Indireta",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Autarquias e Fundações Públicas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Empresas Públicas e Sociedades de Economia Mista",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Atos Administrativos",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Conceito, elementos e atributos dos atos administrativos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Classificação dos atos administrativos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Vinculação e discricionariedade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Invalidade, revogação e anulação",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regime Jurídico dos Servidores Públicos do ES (Lei Complementar nº 46/1994)",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Lei Complementar Estadual nº 46/1994: Direitos e deveres dos servidores",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Lei Complementar Estadual nº 46/1994: Processo administrativo disciplinar",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Licitações e Contratos Administrativos (Lei nº 14.133/2021)",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Princípios da licitação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Modalidades de licitação da Lei 14.133/2021",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Contratos administrativos: características e execução",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei de Improbidade Administrativa (Lei nº 8.429/1992)",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Lei nº 8.429/1992: Atos de improbidade administrativa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Lei nº 8.429/1992: Sanções aplicáveis",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Processo Administrativo",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnk2sh0847",
+              "nome": "Princípios e fases do processo administrativo",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpfsnkg2vtxcd",
+      "nome": "NOÇÕES DE ADMINISTRAÇÃO E DE ADMINISTRAÇÃO PÚBLICA",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Conceitos Fundamentais de Administração",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Funções da Administração: planejamento, organização, direção e controle",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Processo administrativo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Eficiência, eficácia e efetividade",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Comunicação Organizacional",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Comunicação Organizacional: conceitos e tipos de comunicação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Redação oficial e administrativa",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Atendimento ao público",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gestão de Documentos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Protocolo e arquivo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Tabela de temporalidade: classificação e arquivamento de documentos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Gestão de Materiais",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Controle de estoques",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Aquisições e armazenamento",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Conservação de materiais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Conceito e Evolução da Administração Pública",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Modelos de Administração Pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Reformas administrativas no Brasil",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Princípios Constitucionais da Administração Pública (Art. 37 da CRFB/88)",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Princípios: legalidade, impessoalidade e moralidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Princípios: publicidade e eficiência",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização da Administração Pública",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Administração Direta e Indireta",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Autarquias, Fundações Públicas, Empresas Públicas e Sociedades de Economia Mista",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poderes do Administrador Público",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Poder vinculado e Poder discricionário",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Poder hierárquico, Poder disciplinar e Poder regulamentar",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços Públicos",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Conceito e classificação dos serviços públicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Formas de prestação de serviços públicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Princípios do serviço público",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão Pública Moderna, Transparência e Controle",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Lei de Acesso à Informação (Lei Federal nº 12.527/2011)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Portal da Transparência e Controle Social",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ética no Serviço Público",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Código de Ética Profissional do Serviço Público (Decreto Federal nº 1.171/1994)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Conflito de interesses",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Qualidade no Serviço Público",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Ouvidoria e atendimento ao cidadão",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Gestão por resultados: simplificação de processos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Processos Administrativos e SEI no MPES",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Sistema Eletrônico de Informações (SEI): noções básicas de utilização",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "SEI: tramitação de processos digitais e protocolo eletrônico",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão de Documentos no MPES",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Normas internas de arquivamento no MPES",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Controle de prazos processuais e preservação de documentos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Atendimento no MPES",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Atendimento no MPES: postura institucional",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Atendimento no MPES: sigilo e confidencialidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpfsnkg2vtxcd",
+              "nome": "Atendimento no MPES: relacionamento interpessoal",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mpfsnjjuqiv6y\"},{\"nome\":\"RACIOCÍNIO LÓGICO-MATEMÁTICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mpfsnjqe1ubj1\"},{\"nome\":\"LEGISLAÇÃO E CÓDIGO DE ÉTICA DO MINISTÉRIO PÚBLICO DO ESTADO DO ESPÍRITO SANTO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mpfsnjxarc0t9\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL E DE DIR. ADM.\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mpfsnk2sh0847\"},{\"nome\":\"NOÇÕES DE ADMINISTRAÇÃO E DE ADMINISTRAÇÃO PÚBLICA\",\"cor\":\"#f5c842\",\"materiaId\":\"mpfsnkg2vtxcd\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1779386314520_51f4e\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mpfsnjjuqiv6y\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779386314519_043f6\",\"baseId\":\"base_NOCOES DE DIR. CONSTITUCIONAL E DE DIR. ADM.\",\"materiaId\":\"mpfsnk2sh0847\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779386314519_ee85b\",\"baseId\":\"base_LEGISLACAO E CODIGO DE ETICA DO MINISTERIO PUBLICO DO ESTADO DO ESPIRITO SANTO\",\"materiaId\":\"mpfsnjxarc0t9\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779386314520_21728\",\"baseId\":\"base_NOCOES DE ADMINISTRACAO E DE ADMINISTRACAO PUBLICA\",\"materiaId\":\"mpfsnkg2vtxcd\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779386314520_4101d\",\"baseId\":\"base_RACIOCINIO LOGICO-MATEMATICO\",\"materiaId\":\"mpfsnjqe1ubj1\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_basicos\",\"name\":\"Conhecimentos Básicos\",\"useBlockData\":false,\"minPts\":10,\"items\":[{\"id\":\"mpfsnjjuqiv6y\",\"q\":15,\"w\":1},{\"id\":\"mpfsnjqe1ubj1\",\"q\":5,\"w\":1}],\"q\":20,\"w\":1},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"useBlockData\":false,\"minPts\":30,\"items\":[{\"id\":\"mpfsnjxarc0t9\",\"q\":10,\"w\":1.5},{\"id\":\"mpfsnk2sh0847\",\"q\":15,\"w\":1.5},{\"id\":\"mpfsnkg2vtxcd\",\"q\":15,\"w\":1.5}],\"q\":40,\"w\":1.5},{\"id\":\"g_redacao\",\"name\":\"Redação\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":20,\"redType\":\"Dissertativa-Argumentativa\",\"isClassificatoriaOnly\":false,\"minPts\":10}]}"
+  }
+}
