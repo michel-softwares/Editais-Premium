@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-05-21T14:13:21.536Z",
+  "atualizadoEm": "2026-05-21T14:51:06.717Z",
   "editais": [
+    {
+      "id": "perito-criminal-informatica-pcdf-2016",
+      "titulo": "Polícia Civil do Distrito Federal",
+      "orgao": "Polícia Civil do Distrito Federal",
+      "banca": "IADES",
+      "cargo": "Perito Criminal - Informática - PCDF / Nível Superior",
+      "ano": 2016,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Perito%20Criminal%20-%20Inform%C3%A1tica%20-%20PCDF%202016/card_premium_pcdf.png",
+      "arquivo": "Perito%20Criminal%20-%20Inform%C3%A1tica%20-%20PCDF%202016/Edital%20Premium%20Track%20Concursos%20Perito%20Criminal%20-%20Inform%C3%A1tica%20PCDF%202016.json",
+      "arquivoNome": "Edital Premium Track Concursos Perito Criminal - Informática PCDF 2016.json",
+      "atualizadoEm": "2026-05-21T14:51:13.000Z"
+    },
     {
       "id": "agente-social-sedes-df-2026",
       "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
