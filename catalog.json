@@ -1,6 +1,39 @@
 {
-  "atualizadoEm": "2026-05-21T18:20:17.281Z",
+  "atualizadoEm": "2026-05-21T20:21:34.704Z",
   "editais": [
+    {
+      "id": "analista-legislativo-desenvolvedor-de-software-alece-2026",
+      "titulo": "Assembleia Legislativa do Estado do Ceará",
+      "orgao": "Assembleia Legislativa do Estado do Ceará",
+      "banca": "IDECAN",
+      "cargo": "Analista Legislativo – Desenvolvedor de Software - ALECE / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20-%20ALECE%202026/card_premium_alece.png",
+      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20ALECE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Desenvolvedor de Software ALECE 2026.json",
+      "atualizadoEm": "2026-05-21T20:21:31.000Z"
+    },
+    {
+      "id": "tecnico-legislativo-alece-2026",
+      "titulo": "Assembleia Legislativa do Estado do Ceará",
+      "orgao": "Assembleia Legislativa do Estado do Ceará",
+      "banca": "IDECAN",
+      "cargo": "Técnico Legislativo - ALECE / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Legislativo%20-%20ALECE%202026/card_premium_alece.png",
+      "arquivo": "T%C3%A9cnico%20Legislativo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Legislativo%20ALECE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Legislativo ALECE 2026.json",
+      "atualizadoEm": "2026-05-21T20:21:31.000Z"
+    },
     {
       "id": "agente-de-apoio-mpes-2026",
       "titulo": "Ministério Público do Estado do Espírito Santo",
