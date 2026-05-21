@@ -1,0 +1,840 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Arquivo gerado para importacao no Track Concursos."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "Sedes/DF",
+    "cargo": "Agente Social",
+    "banca": "QUADRIX",
+    "logoEmoji": "🪪",
+    "logoBase64": null,
+    "dataProva": "2026-09-06",
+    "preEdital": false,
+    "pontuacaoMax": 100,
+    "vagas": 532,
+    "salario": "R$ 4.320,16",
+    "linkEdital": "https://www.quadrix.org.br",
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mat_001",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Compreensão e interpretação de textos de gêneros variados",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002",
+          "nome": "Reconhecimento de tipos e gêneros textuais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_003",
+          "nome": "Domínio da ortografia oficial",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004",
+          "nome": "Domínio dos mecanismos de coesão textual",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_001",
+              "nome": "Emprego de elementos de referenciação, substituição e repetição",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_001",
+              "nome": "Emprego de conectores e outros elementos de sequenciação textual",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_001",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Domínio da estrutura morfossintática do período",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_001",
+              "nome": "Emprego das classes de palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_001",
+              "nome": "Relações de coordenação entre orações e entre termos da oração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_001",
+              "nome": "Relações de subordinação entre orações e entre termos da oração",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_001",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005",
+              "materiaId": "mat_001",
+              "nome": "Concordância Nominal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006",
+              "materiaId": "mat_001",
+              "nome": "Concordância Verbal",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_007",
+              "materiaId": "mat_001",
+              "nome": "Regência Nominal",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_008",
+              "materiaId": "mat_001",
+              "nome": "Regência Verbal",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_009",
+              "materiaId": "mat_001",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_010",
+              "materiaId": "mat_001",
+              "nome": "Colocação dos pronomes átonos",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006",
+          "nome": "Reescrita de frases e parágrafos do texto",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_001",
+              "nome": "Significação das palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_001",
+              "nome": "Substituição de palavras ou de trechos de texto",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_001",
+              "nome": "Reorganização da estrutura de orações e de períodos do texto",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_001",
+              "nome": "Reescrita de textos de diferentes gêneros e níveis de formalidade",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_002",
+      "nome": "LEGISLAÇÃO, CONHECIMENTOS DO DF E PRIMEIROS SOCORROS",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Realidade do Distrito Federal e RIDE",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_002",
+              "nome": "Tópicos atuais e relevantes acerca da realidade étnica, social, histórica, geográfica, cultural, política e econômica do Distrito Federal e da RIDE",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_002",
+              "nome": "Lei Complementar Federal nº 94/1998 e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_002",
+              "nome": "Decreto Federal nº 7.469/2011 e suas alterações",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Plano Distrital de Política para Mulheres (PDPM)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_003",
+          "nome": "Lei Orgânica do Distrito Federal",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_002",
+              "nome": "Título VI - Da Ordem Social e do Meio Ambiente",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Lei Complementar nº 840/2011 e suas alterações",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_002",
+              "nome": "Lei Complementar 840/2011: Título I - Das Disposições Preliminares",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_002",
+              "nome": "Lei Complementar 840/2011: Título V - Dos Deveres",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_002",
+              "nome": "Lei Complementar 840/2011: Título VI - Do Regime Disciplinar",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_002",
+              "nome": "Lei Complementar 840/2011: Título VII - Dos Processos de Apuração de Infração Disciplinar",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Lei Federal nº 11.340/2006 e suas alterações (Lei Maria da Penha)",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_006",
+          "nome": "Lei Distrital nº 7.484/2024",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_007",
+          "nome": "Noções básicas de primeiros socorros",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_002",
+              "nome": "Cuidados iniciais com a vítima",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_002",
+              "nome": "Reconhecimento de situações de urgência e emergência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_002",
+              "nome": "Acionamento do socorro especializado",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_002",
+              "nome": "Condutas básicas em casos de engasgo, sangramento, fratura, queimadura, desmaio, convulsão e intoxicação",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_003",
+      "nome": "FUNDAMENTOS E GESTÃO DO SUAS",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "PNAS/2004 e organização da assistência social",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_003",
+              "nome": "Princípios, diretrizes e objetivos da PNAS/2004",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_003",
+              "nome": "Proteções afiançadas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_003",
+              "nome": "Proteção Social Básica",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_003",
+              "nome": "Proteção Social Especial",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005",
+              "materiaId": "mat_003",
+              "nome": "Matricialidade sociofamiliar",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006",
+              "materiaId": "mat_003",
+              "nome": "Descentralização político-administrativa e territorialização",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Sistema Único de Assistência Social (SUAS)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_003",
+              "nome": "Princípios e diretrizes do SUAS",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_003",
+              "nome": "Organização e seguranças socioassistenciais: acolhida, convívio, renda e autonomia",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "NOB/SUAS (2012)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_003",
+              "nome": "Responsabilidades dos entes federativos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_003",
+              "nome": "Cofinanciamento",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_003",
+              "nome": "Gestão do trabalho",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_003",
+              "nome": "Vigilância socioassistencial",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_004",
+      "nome": "PROGRAMAS E BENEFÍCIOS SOCIOASSISTENCIAIS DO DF",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Programa de Provimento Alimentar Direto em Caráter Emergencial - Cartão Prato Cheio",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_004",
+              "nome": "Lei Distrital nº 7.009/2021 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_004",
+              "nome": "Decreto nº 42.873/2021 e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Programa Cartão Gás",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_004",
+              "nome": "Lei Distrital nº 6.938/2021 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_004",
+              "nome": "Decreto nº 42.376/2021 e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "Plano DF Social",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_004",
+              "nome": "Lei Distrital nº 7.008/2021 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_004",
+              "nome": "Decreto nº 42.872/2021",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_004",
+              "nome": "Portaria nº 42/2023",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Benefícios Eventuais da Política de Assistência Social do Distrito Federal",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_004",
+              "nome": "Lei Distrital nº 5.165/2013",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_004",
+              "nome": "Decreto nº 35.191/2014",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "SISAN e Restaurante Comunitário",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_004",
+              "nome": "Decreto nº 33.329/2011 e suas alterações: Seção II",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_005",
+      "nome": "CONHECIMENTOS ESPECÍFICOS - AGENTE SOCIAL",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Rede Socioassistencial e Trabalho no Território",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_005",
+              "nome": "Organização e funcionamento dos CRAS, CREAS e Unidades de Acolhimento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_005",
+              "nome": "Territorialização e diagnóstico socioterritorial",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_005",
+              "nome": "Articulação com a rede intersetorial: saúde, educação, justiça e segurança pública",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_005",
+              "nome": "Fluxos de encaminhamento, referência e contrarreferência no SUAS",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Proteção Social Básica e Trabalho com Famílias e Comunidades",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_005",
+              "nome": "Serviço de Proteção e Atendimento Integral à Família (PAIF)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_005",
+              "nome": "Serviço de Convivência e Fortalecimento de Vínculos (SCFV)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_005",
+              "nome": "Ações de prevenção de situações de vulnerabilidade e risco social",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_005",
+              "nome": "Mobilização comunitária e fortalecimento de vínculos familiares e comunitários",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "Proteção Social Especial (Média e Alta Complexidade)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_005",
+              "nome": "Situações de risco pessoal e social e violação de direitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_005",
+              "nome": "Papel do CREAS e acompanhamento especializado",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_005",
+              "nome": "Noções sobre serviços de acolhimento institucional e familiar",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_005",
+              "nome": "Articulação entre serviços e continuidade do atendimento",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Abordagem Social e População em Situação de Rua",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_005",
+              "nome": "Decreto nº 7.053/2009 (Política Nacional para a População em Situação de Rua)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_005",
+              "nome": "Abordagem social no território: princípios, estratégias e postura profissional",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_005",
+              "nome": "Construção de vínculo e respeito à autonomia dos usuários",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_005",
+              "nome": "Atuação em serviços como Centros POP, abrigos e unidades de acolhimento",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Noções de Saúde Mental e Uso de Álcool e Outras Drogas",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_005",
+              "nome": "Sofrimento psíquico e vulnerabilidade social",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_005",
+              "nome": "Abordagem humanizada e não estigmatizante",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_005",
+              "nome": "Noções de redução de danos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_005",
+              "nome": "Articulação com a rede de saúde e atenção psicossocial",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": null,
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": {
+      "groups": [
+        {
+          "id": "g_conhecimentos_gerais",
+          "name": "Conhecimentos Gerais",
+          "q": 20,
+          "w": 1,
+          "useBlockData": true,
+          "minPts": 10,
+          "items": [
+            {
+              "id": "mat_001",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_002",
+              "q": "X",
+              "w": "Y"
+            }
+          ]
+        },
+        {
+          "id": "g_conhecimentos_especificos",
+          "name": "Conhecimentos Específicos",
+          "q": 40,
+          "w": 2,
+          "useBlockData": true,
+          "minPts": 40,
+          "items": [
+            {
+              "id": "mat_003",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_004",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_005",
+              "q": "X",
+              "w": "Y"
+            }
+          ]
+        },
+        {
+          "id": "g_redacao",
+          "name": "Redacao",
+          "type": "redacao",
+          "items": [],
+          "q": 0,
+          "w": 1,
+          "pts": 10,
+          "redType": "Dissertativa-Argumentativa",
+          "isClassificatoriaOnly": false,
+          "minPts": null
+        }
+      ]
+    }
+  }
+}
