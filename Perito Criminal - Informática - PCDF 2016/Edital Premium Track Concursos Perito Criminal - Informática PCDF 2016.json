@@ -1,0 +1,1378 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "PCDF",
+    "cargo": "Perito Criminal - Informática",
+    "salario": "R$ 16.830,85",
+    "banca": "IADES",
+    "logoEmoji": "🪪",
+    "logoBase64": null,
+    "dataProva": null,
+    "localProva": "",
+    "linkEdital": "https://www.pcdf.df.gov.br/images/conteudo/espc/concursos/Perito_Criminal/2016/Edital_01_-_Perito_Criminal.pdf",
+    "preEdital": true,
+    "pontuacaoMax": 100,
+    "vagas": 12,
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mpflsl01wg1je",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e interpretação de textos de gêneros variados",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Compreensão literal e inferencial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Reescritura de períodos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Coerência e utilização de estratégias coesivas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Substituição de palavras e (ou) expressões",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Tipos e gêneros textuais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Domínio da ortografia oficial",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Emprego das letras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Acentuação gráfica",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Significação das palavras",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Sinonímia e Antonímia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Homonímia e Paronímia",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Processo de formação das palavras",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Domínio da estrutura morfossintática do período",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Termos da oração",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Período composto por coordenação e subordinação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Sintaxe de concordância nominal e verbal",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Sintaxe de regência nominal e verbal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Sintaxe de colocação dos pronomes oblíquos átonos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl01wg1je",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Correspondência oficial (conforme Manual da Presidência da República e respectivas atualizações)",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mpflsl4si0fjq",
+      "nome": "MATEMÁTICA, ESTATÍSTICA E RACIOCÍNIO LÓGICO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Geometria Plana",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Ângulos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Polígonos e polígonos regulares",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Circunferência e círculo",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Triângulo retângulo e teorema de Pitágoras",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Teorema de Talles",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Área de figuras e regiões planas",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Proporcionalidade",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Razão e proporção",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Regra de três simples e composta",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Escalas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Matrizes, determinantes e sistemas lineares",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Análise combinatória e probabilidade",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Polinômios e equações polinomiais",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Funções e gráficos",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Função composta e função inversa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Função par e função ímpar",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Funções elementares (linear, quadrática, exponencial, logarítmica e trigonométricas)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Progressão aritmética e progressão geométrica",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Geometria Analítica",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Coordenadas no plano e distância entre dois pontos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Estudo e equações da reta e da circunferência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Estudo e equações da elipse, da hipérbole e da parábola",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Triângulos quaisquer: Lei dos senos e lei dos cossenos",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Geometria espacial: Prisma, pirâmide, cilindro, cone e esfera (Áreas e volumes)",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Raciocínio Lógico",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Proposições e conectivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Operações lógicas sobre proposições",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Tabelas-verdade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Tautologias, contradições e contingências",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Implicação lógica e equivalência lógica",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Álgebra das proposições",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Método dedutivo",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estatística",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Conceitos básicos (população, amostra, variável)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Gráficos e tabelas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Medidas de posição",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Medidas de dispersão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Curva normal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Teste de hipóteses",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsl4si0fjq",
+              "nome": "Correlação",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpflsldbjpywq",
+      "nome": "ASPECTOS GEOPOLÍTICOS DO DISTRITO FEDERAL",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Atualidades e aspectos históricos, geográficos, sociais, políticos, econômicos e culturais referentes ao Brasil e ao Distrito Federal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Região Integrada de Desenvolvimento do Entorno (RIDE)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Noções de Georreferenciamento",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mpflsldyrgtos",
+      "nome": "LEI ORGÂNICA DO DISTRITO FEDERAL",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lei Orgânica do Distrito Federal: Título I - Dos Fundamentos da Organização dos Poderes e do Distrito Federal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei Orgânica do Distrito Federal: Título II - Da Organização do Distrito Federal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei Orgânica do Distrito Federal: Título III - Da Organização dos Poderes",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei Orgânica do Distrito Federal: Título VI - Da Ordem Social e do Meio Ambiente",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mpflsler9mov8",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios da Administração Pública",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Estado, governo e administração pública (Conceitos, elementos, poderes, organização, natureza, fins e princípios)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Organização administrativa do Estado",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Administração direta e indireta",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Agentes públicos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsler9mov8",
+              "nome": "Espécies e classificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsler9mov8",
+              "nome": "Poderes, deveres e prerrogativas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsler9mov8",
+              "nome": "Cargo, emprego e função públicos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poderes administrativos",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Atos administrativos (Conceitos, requisitos, atributos, classificação, espécies e invalidação)",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Controle e responsabilização da administração",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsler9mov8",
+              "nome": "Controle administrativo, judicial e legislativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsler9mov8",
+              "nome": "Responsabilidade civil do Estado",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpflslhbxl8ig",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios fundamentais da Constituição Federal de 1988",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Direitos e garantias fundamentais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslhbxl8ig",
+              "nome": "Direitos e deveres individuais e coletivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslhbxl8ig",
+              "nome": "Direitos sociais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslhbxl8ig",
+              "nome": "Nacionalidade, direitos políticos e partidos políticos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poder Executivo: atribuições e responsabilidades do presidente da República",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Defesa do Estado e das instituições democráticas: segurança pública (organização da segurança pública)",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ordem social",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslhbxl8ig",
+              "nome": "Base e objetivos da ordem social e seguridade social",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslhbxl8ig",
+              "nome": "Meio ambiente",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslhbxl8ig",
+              "nome": "Família, criança, adolescente, idoso e índio",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpflsljiowg0i",
+      "nome": "NOÇÕES DE DIREITO PENAL",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios do Direito Penal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Aplicação da lei penal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Princípios da legalidade e da anterioridade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "A lei penal no tempo e no espaço (Tempo e lugar do crime)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Lei penal excepcional, especial e temporária",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Territorialidade e extraterritorialidade da lei penal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Interpretação da lei penal e analogia",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Irretroatividade da lei penal e conflito aparente de normas penais",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Infração penal (Elementos, espécies, sujeito ativo e sujeito passivo)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "O fato típico e seus elementos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Crime consumado e tentado e pena da tentativa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Concurso de crimes",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Ilicitude, causas de exclusão e punibilidade (excesso punível)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Culpabilidade (elementos e causas de exclusão) e imputabilidade penal",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Crimes em espécie",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Crimes contra a pessoa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Crimes contra o patrimônio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Crimes contra a fé pública",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflsljiowg0i",
+              "nome": "Crimes contra a administração pública",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Concurso de pessoas",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mpflslnl1jcsk",
+      "nome": "NOÇÕES DE DIREITO PROCESSUAL PENAL",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios do Processo Penal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Inquérito policial",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Histórico, natureza, conceito, finalidade e características do inquérito policial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Fundamento, titularidade e grau de cognição",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Valor probatório, formas de instauração, notitia criminis e delatio criminis",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Procedimentos investigativos, indiciamento, garantias do investigado, conclusão e prazos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Provas no Processo Penal",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Exame do corpo de delito e perícias em geral",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Interrogatório do investigado e confissão",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Qualificação e oitiva do ofendido e testemunhas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Reconhecimento de pessoas e coisas e acareação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Documentos de prova, indícios, busca e apreensão",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Prisão e restrição de liberdade",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Prisão em flagrante",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Prisão preventiva",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslnl1jcsk",
+              "nome": "Lei Federal nº 7.960/1989 (Prisão Temporária)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpflslqu7tdfy",
+      "nome": "LEGISLAÇÃO ESPECIAL",
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Leis Especiais Penais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 4.898/1965 (Abuso de Autoridade)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 9.455/1997 (Crimes de Tortura)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 8.069/1990 (Estatuto da Criança e do Adolescente)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 10.826/2003 (Estatuto do Desarmamento)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 9.605/1998 (Lei dos Crimes Ambientais)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 8.072/1990 (Lei dos Crimes Hediondos)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 8.078/1990 (Código de Defesa do Consumidor)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 11.343/2006 (Lei de Drogas)",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação Específica da Polícia Civil do Distrito Federal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Distrital nº 837/1994 (Organização e manutenção da PCDF)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 4.878/1965 (Regime jurídico dos policiais civis da União e DF)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Decreto-Lei Federal nº 59.310/1966 (Regulamenta a Lei 4.878/1965)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 8.112/1990 (Regime jurídico único)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 12.030/2009 (Disposição sobre perícias oficiais)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Lei Federal nº 9.264/1996 (Reestruturação de cargos da PCDF)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslqu7tdfy",
+              "nome": "Regimento Interno da PCDF (Decreto Distrital nº 30.490/2009)",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpflslufnmrp7",
+      "nome": "INFORMÁTICA E CIÊNCIA DA COMPUTAÇÃO",
+      "ordem": 9,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Arquitetura e Organização de Computadores",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Componentes de um computador: processador, memória principal, entrada e saída",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Memória cache",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Arquitetura RISC e CISC",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Características dos principais processadores do mercado",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Representação e Aritmética Computacional",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Representação de dados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Conversão de base e aritmética computacional",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas de Arquivos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Organização física e metadados de sistemas de arquivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistema de arquivos NTFS",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistemas de arquivos FAT12, FAT16 e FAT32",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistemas de arquivos EXT2, EXT3 e EXT4",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistemas de arquivos de mídias óticas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Técnicas de recuperação de arquivos apagados",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Tecnologia RAID",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Tipos de RAID e características",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Aplicações de RAID",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas de Bancos de Dados",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Arquiteturas, modelos lógicos e representação física de bancos de dados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Linguagem de Consulta Estruturada (SQL)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Mecanismos de banco de dados relacionais: arquitetura e segurança/auditoria",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Log de transação, backup e restore",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Programação e Estruturas de Dados",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Noções de linguagens procedurais e orientadas a objetos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Montadores, compiladores, ligadores e interpretadores",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Estruturas de controle de fluxo de execução",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Estruturas de dados: listas, filas, pilhas e árvores",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Métodos de acesso, busca, inserção e ordenação",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Complexidade de algoritmos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Desenvolvimento seguro de aplicações",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Engenharia Reversa e Malwares",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Técnicas de descompilação de programas e compactação de código executável",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Análise de código malicioso e técnicas de ofuscação de código",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redes de Computadores",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Técnicas básicas de comunicação e topologias de redes",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Técnicas de comutação de circuitos, pacotes e células",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Elemento de interconexão de redes de computadores",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Modelo OSI e arquitetura TCP/IP",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Protocolos da camada de aplicação: HTTP, SMTP, POP3, FTP, DNS",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Protocolos da camada de transporte: TCP e UDP",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Protocolos da camada de rede: IPv4 e IPv6",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Protocolos da camada de enlace: Ethernet e sem fio (802.11)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Segurança de redes sem fio: EAP, WEP, WPA, WPA2",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança de Redes e Criptografia",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Ataques a redes de computadores, monitoramento e análise de tráfego (firewall)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistemas de detecção de intrusão (IDS) e redes privadas virtuais (VPN)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Noções de Criptografia: Cifras simétricas (fluxo: RC4; bloco: DES, AES)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Criptografia assimétrica (RSA) e hashes criptográficos (MD-5, SHA-1)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Certificação digital, assinatura digital e Infraestrutura de Chaves Públicas (ICP)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas Operacionais",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Gerência de processos, memória e entrada/saída",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Virtualização de plataformas e computação em nuvem",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistemas operacionais Windows (Server 2008, Server 2012, Windows 7, Windows 8.1)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Gerenciamento de usuários, log de eventos e registro do Windows",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistemas operacionais Linux: gerenciamento de usuários, logs e arquivos de configuração",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpflslufnmrp7",
+              "nome": "Sistemas operacionais embarcados/móveis: Android, iOS, Windows Phone, Windows Mobile",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mpflsl01wg1je\"},{\"nome\":\"MATEMÁTICA, ESTATÍSTICA E RACIOCÍNIO LÓGICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mpflsl4si0fjq\"},{\"nome\":\"ASPECTOS GEOPOLÍTICOS DO DISTRITO FEDERAL\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mpflsldbjpywq\"},{\"nome\":\"LEI ORGÂNICA DO DISTRITO FEDERAL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mpflsldyrgtos\"},{\"nome\":\"NOÇÕES DE DIR. ADM.\",\"cor\":\"#f5c842\",\"materiaId\":\"mpflsler9mov8\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL\",\"cor\":\"#f5874a\",\"materiaId\":\"mpflslhbxl8ig\"},{\"nome\":\"NOÇÕES DE DIR. PENAL\",\"cor\":\"#00bcd4\",\"materiaId\":\"mpflsljiowg0i\"},{\"nome\":\"NOÇÕES DE DIR. PROCESSUAL PENAL\",\"cor\":\"#e91e8c\",\"materiaId\":\"mpflslnl1jcsk\"},{\"nome\":\"LEGISLAÇÃO ESPECIAL\",\"cor\":\"#8bc34a\",\"materiaId\":\"mpflslqu7tdfy\"},{\"nome\":\"INFORMÁTICA E CIÊNCIA DA COMPUTAÇÃO\",\"cor\":\"#ff9800\",\"materiaId\":\"mpflslufnmrp7\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1779374811329_2e379\",\"baseId\":\"base_NOCOES DE DIR. PENAL\",\"materiaId\":\"mpflsljiowg0i\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811330_f5305\",\"baseId\":\"base_LEGISLACAO ESPECIAL\",\"materiaId\":\"mpflslqu7tdfy\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811331_98d4a\",\"baseId\":\"base_NOCOES DE DIR. CONSTITUCIONAL\",\"materiaId\":\"mpflslhbxl8ig\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811331_1a89f\",\"baseId\":\"base_MATEMATICA, ESTATISTICA E RACIOCINIO LOGICO\",\"materiaId\":\"mpflsl4si0fjq\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811332_abcfe\",\"baseId\":\"base_NOCOES DE DIR. ADM.\",\"materiaId\":\"mpflsler9mov8\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811332_227b7\",\"baseId\":\"base_INFORMATICA E CIENCIA DA COMPUTACAO\",\"materiaId\":\"mpflslufnmrp7\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811333_af736\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mpflsl01wg1je\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811333_1ea42\",\"baseId\":\"base_ASPECTOS GEOPOLITICOS DO DISTRITO FEDERAL\",\"materiaId\":\"mpflsldbjpywq\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811334_9fb02\",\"baseId\":\"base_NOCOES DE DIR. PROCESSUAL PENAL\",\"materiaId\":\"mpflslnl1jcsk\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779374811334_d8faa\",\"baseId\":\"base_LEI ORGANICA DO DISTRITO FEDERAL\",\"materiaId\":\"mpflsldyrgtos\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_gerais\",\"name\":\"Conhecimentos Gerais\",\"q\":40,\"w\":1.25,\"useBlockData\":false,\"minPts\":25,\"items\":[{\"id\":\"mpflsl01wg1je\",\"q\":8,\"w\":1.25},{\"id\":\"mpflsl4si0fjq\",\"q\":6,\"w\":1.25},{\"id\":\"mpflsldbjpywq\",\"q\":4,\"w\":1.25},{\"id\":\"mpflsldyrgtos\",\"q\":3,\"w\":1.25},{\"id\":\"mpflsler9mov8\",\"q\":4,\"w\":1.25},{\"id\":\"mpflslhbxl8ig\",\"q\":4,\"w\":1.25},{\"id\":\"mpflsljiowg0i\",\"q\":4,\"w\":1.25},{\"id\":\"mpflslnl1jcsk\",\"q\":4,\"w\":1.25},{\"id\":\"mpflslqu7tdfy\",\"q\":3,\"w\":1.25}]},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"q\":40,\"w\":1.25,\"useBlockData\":false,\"minPts\":25,\"items\":[{\"id\":\"mpflslufnmrp7\",\"q\":40,\"w\":1.25}]},{\"id\":\"g_prova_discursiva\",\"name\":\"Prova Discursiva\",\"type\":\"redacao\",\"q\":0,\"w\":1,\"pts\":100,\"redType\":\"Questões Discursivas\",\"isClassificatoriaOnly\":false,\"minPts\":60,\"items\":[]}]}"
+  }
+}
