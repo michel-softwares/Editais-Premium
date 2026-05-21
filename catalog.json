@@ -1,23 +1,6 @@
 {
-  "atualizadoEm": "2026-05-21T13:38:16.913Z",
+  "atualizadoEm": "2026-05-21T14:13:21.536Z",
   "editais": [
-    {
-      "id": "tecnico-administrativo-sedes-df-2026",
-      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "banca": "QUADRIX",
-      "cargo": "Técnico Administrativo - Sedes DF / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
-      "arquivo": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Administrativo%20Sedes%20DF%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Técnico Administrativo Sedes DF 2026.json",
-      "atualizadoEm": "2026-05-21T13:38:25.000Z"
-    },
     {
       "id": "agente-social-sedes-df-2026",
       "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
@@ -33,7 +16,7 @@
       "imagem": "Agente%20Social%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
       "arquivo": "Agente%20Social%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20Agente%20Social%20Sedes%20DF%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Agente Social Sedes DF 2026.json",
-      "atualizadoEm": "2026-05-21T13:36:44.000Z"
+      "atualizadoEm": "2026-05-21T14:13:27.000Z"
     },
     {
       "id": "edas-direito-e-legislacao-sedes-df-2026",
@@ -49,7 +32,24 @@
       "imagem": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
       "arquivo": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20Sedes%20DF%202026.json",
       "arquivoNome": "Edital Premium Track Concursos EDAS Direito e Legislação Sedes DF 2026.json",
-      "atualizadoEm": "2026-05-21T13:36:44.000Z"
+      "atualizadoEm": "2026-05-21T14:13:27.000Z"
+    },
+    {
+      "id": "tecnico-administrativo-sedes-df-2026",
+      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
+      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
+      "banca": "QUADRIX",
+      "cargo": "Técnico Administrativo - Sedes DF / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
+      "arquivo": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Administrativo%20Sedes%20DF%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Administrativo Sedes DF 2026.json",
+      "atualizadoEm": "2026-05-21T14:13:27.000Z"
     },
     {
       "id": "tecnico-judiciario-tjce",
