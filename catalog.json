@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-05-21T20:21:34.704Z",
+  "atualizadoEm": "2026-05-22T12:51:10.250Z",
   "editais": [
+    {
+      "id": "analista-legislativo-jornalismo-alece-2026",
+      "titulo": "Assembleia Legislativa do Estado do Ceará",
+      "orgao": "Assembleia Legislativa do Estado do Ceará",
+      "banca": "IDECAN",
+      "cargo": "Analista Legislativo – Jornalismo - ALECE / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/card_premium_alece.png",
+      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Jornalismo%20ALECE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Jornalismo ALECE 2026.json",
+      "atualizadoEm": "2026-05-22T12:51:19.000Z"
+    },
     {
       "id": "analista-legislativo-desenvolvedor-de-software-alece-2026",
       "titulo": "Assembleia Legislativa do Estado do Ceará",
