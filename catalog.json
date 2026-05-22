@@ -1,6 +1,39 @@
 {
-  "atualizadoEm": "2026-05-22T13:13:54.884Z",
+  "atualizadoEm": "2026-05-22T13:59:15.160Z",
   "editais": [
+    {
+      "id": "analista-de-transito-engenharia-civil-detran-al-2026",
+      "titulo": "DEPARTAMENTO ESTADUAL DE TRÂNSITO DE ALAGOAS",
+      "orgao": "DEPARTAMENTO ESTADUAL DE TRÂNSITO DE ALAGOAS",
+      "banca": "A definir",
+      "cargo": "Analista de Trânsito – Engenharia Civil - DETRAN/AL / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20-%20DETRAN%20AL%202026/card_premium_detran_al.png",
+      "arquivo": "Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20-%20DETRAN%20AL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20DETRAN%20AL%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Trânsito – Engenharia Civil DETRAN AL 2026.json",
+      "atualizadoEm": "2026-05-22T13:59:24.000Z"
+    },
+    {
+      "id": "engenheiro-civil-projetista-campina-grande-pb-2026",
+      "titulo": "Prefeitura Municipal de Campina Grande",
+      "orgao": "Prefeitura Municipal de Campina Grande",
+      "banca": "IDECAN",
+      "cargo": "Engenheiro Civil - Projetista - Campina Grande PB / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Engenheiro%20Civil%20-%20Projetista%20-%20Campina%20Grande%20PB%202026/card_premium_prefeitura_de_campina_grande_pb.png",
+      "arquivo": "Engenheiro%20Civil%20-%20Projetista%20-%20Campina%20Grande%20PB%202026/Edital%20Premium%20Track%20Concursos%20Engenheiro%20Civil%20-%20Projetista%20Campina%20Grande%20PB%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Engenheiro Civil - Projetista Campina Grande PB 2026.json",
+      "atualizadoEm": "2026-05-22T13:59:24.000Z"
+    },
     {
       "id": "analista-legislativo-engenharia-civil-alece-2026",
       "titulo": "Assembleia Legislativa do Estado do Ceará",
