@@ -1,0 +1,1711 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "DETRAN/AL",
+    "cargo": "Analista de Trânsito – Engenharia Civil",
+    "salario": "R$ 7.800,00",
+    "banca": "Cebraspe",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-08-02",
+    "localProva": "",
+    "linkEdital": "https://www.cebraspe.org.br/concursos/detran_al_26",
+    "preEdital": false,
+    "pontuacaoMax": 150,
+    "vagas": 2,
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mpgykjtlgn8d4",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e Interpretação de Textos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Compreensão e interpretação de textos de gêneros variados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Reconhecimento de tipos e gêneros textuais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ortografia Oficial",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Domínio da ortografia oficial",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Coesão Textual",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Domínio dos mecanismos de coesão textual",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Emprego de elementos de referenciação, substituição e repetição",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Emprego de conectores e outros elementos de sequenciação textual",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfossintaxe",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Domínio da estrutura morfossintática do período",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Emprego das classes de palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Relações de coordenação entre orações e entre termos da oração",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Relações de subordinação entre orações e entre termos da oração",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Concordância verbal e nominal",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Regência verbal e nominal",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Colocação dos pronomes átonos",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Reescrita de Frases e Períodos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Reescrita de frases e parágrafos do texto",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Significação das palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Substituição de palavras ou de trechos de texto",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Reorganização da estrutura de orações e de períodos do texto",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjtlgn8d4",
+              "nome": "Reescrita de textos de diferentes gêneros e níveis de formalidade",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykjygnmmf0",
+      "nome": "RACIOCÍNIO LÓGICO E ANALÍTICO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lógica Sentencial ou Proposicional",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Proposições simples e compostas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Tabelas verdade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Equivalências lógicas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estrutura Lógica e Dedução",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Dedução de novas informações das relações fornecidas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Avaliação das condições usadas para estabelecer a estrutura das relações",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Funções Intelectuais e Análise Lógica",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Compreensão e análise da lógica de uma situação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Raciocínio verbal, matemático e sequencial",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Reconhecimento de padrões",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Orientação espacial e temporal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Formação de conceitos e discriminação de elementos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Compreensão de dados apresentados em gráficos e tabelas",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Problemas de Lógica e Matemática",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Problemas de lógica e raciocínio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Problemas de contagem e noções de probabilidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Falácias lógicas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Estatística",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Noções de estatísticas: média, moda e mediana",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykjygnmmf0",
+              "nome": "Desvio-padrão",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykk2epblaq",
+      "nome": "TECNOLOGIA DA INFORMAÇÃO",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Sistemas Operacionais e Arquivos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Noções de sistema operacional (ambiente Windows)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Noções de organização e gerenciamento de informações, arquivos, pastas e programas",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Suítes de Escritório",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Edição de textos, planilhas e apresentações (ambiente Microsoft Office)",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redes de Computadores e Internet",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Programas de navegação (Microsoft Edge, Mozilla Firefox, Google Chrome e similares)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Programas de correio eletrônico (Microsoft Outlook)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Sítios de busca e pesquisa na Internet",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Grupos de discussão e Redes sociais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Computação na nuvem (cloud computing)",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança da Informação",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Procedimentos de segurança da informação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Noções de malware, vírus, worms e pragas virtuais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Aplicativos para segurança: antivírus, firewall, anti-spyware etc.",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Procedimentos de backup",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk2epblaq",
+              "nome": "Armazenamento de dados na nuvem (cloud storage)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykk5s0sa6k",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios Fundamentais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Princípios fundamentais da República Federativa do Brasil",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direitos e Garantias Fundamentais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Direitos e deveres individuais e coletivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Direitos sociais, nacionalidade, cidadania e direitos políticos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Controle de Constitucionalidade",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Controle de constitucionalidade no ordenamento brasileiro: modalidades",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Efeitos subjetivos e temporais da declaração de constitucionalidade e inconstitucionalidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Ações do controle concentrado de constitucionalidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Súmula vinculante",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Repercussão geral no recurso extraordinário",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização do Estado",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Organização político-administrativa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "União, Estados federados, municípios, Distrito Federal e territórios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Administração pública: disposições gerais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Servidores públicos na Constituição Federal",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização dos Poderes e Funções da Justiça",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Poder Legislativo na Constituição",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Poder Executivo: atribuições e responsabilidades",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Poder Judiciário: disposições gerais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Supremo Tribunal Federal e Superior Tribunal de Justiça",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Tribunais regionais federais e juízes federais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Tribunais e juízes eleitorais",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Tribunais e juízes dos estados",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Funções essenciais à justiça",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Finanças Públicas e Ordem Econômica",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Finanças públicas: normas gerais e orçamentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Ordem econômica e financeira: princípios gerais da atividade econômica",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykk5s0sa6k",
+              "nome": "Jurisprudência do Supremo Tribunal Federal aplicada",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykkb8i2x9o",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios e Organização Administrativa",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Administração pública: princípios básicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Organização administrativa: administração direta e indireta; centralizada e descentralizada",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Autarquias, fundações, empresas públicas e sociedades de economia mista",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Consórcios públicos (Lei nº 11.107/2005)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Órgãos públicos: conceito, natureza e classificação",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poderes e Atos Administrativos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Poderes administrativos: poder hierárquico, disciplinar e regulamentar",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Poder de polícia: conceito, características e limites",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Uso e abuso do poder",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Ato administrativo: conceito, requisitos e atributos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Anulação, revogação e convalidação do ato administrativo",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Discricionariedade e vinculação",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços Públicos e Delegação",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Serviços públicos: conceito, regime jurídico, princípios, titularidade e competência",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Delegação de serviços públicos: concessão, permissão e autorização",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Agentes Públicos e CLT",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Servidores públicos: cargo, emprego e função públicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "CLT aplicada ao serviço público: conceito de empregado e empregador",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Anotações na CTPS e Duração do trabalho",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Períodos de descanso, trabalho noturno, teletrabalho e férias anuais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Dano extrapatrimonial e Contrato individual de trabalho",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Remuneração e Rescisão contratual na CLT",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Processo Administrativo Estadual de Alagoas",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Lei estadual nº 10.177/1998: Artigos 1º ao 36",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Controle, Responsabilidade e Improbidade",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Controle e responsabilização da administração: controle administrativo, judicial e legislativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Responsabilidade civil do Estado",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Lei nº 8.429/1992 (Lei de Improbidade Administrativa): disposições gerais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Atos de improbidade administrativa",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Licitações e Contratos",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Licitações e contratos da administração pública: Lei nº 8.666/1993 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkb8i2x9o",
+              "nome": "Modalidade Pregão: Lei nº 10.520/2002",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykkhfa7q76",
+      "nome": "NOÇÕES DE DIREITO CIVIL",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lei de Introdução às Normas do Direito Brasileiro",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Fontes do direito civil, princípios aplicáveis e normas gerais",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Pessoas, Bens e Fatos Jurídicos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Pessoas naturais e pessoas jurídicas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Domicílio e Bens",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Atos jurídicos e Negócio jurídico",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Prescrição, Obrigações e Responsabilidade Civil",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Prescrição e decadência",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Prova jurídica",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Obrigações e Contratos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Responsabilidade civil",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direito das Coisas",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkhfa7q76",
+              "nome": "Posse, propriedade e direitos reais",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykkjzm9klo",
+      "nome": "CONHECIMENTOS DO ESTADO DE ALAGOAS",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Formação Histórica de Alagoas",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Colonização portuguesa no território alagoano",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Economia açucareira",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Emancipação política da capitania de Pernambuco em 1817",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Elevação a província em 1821",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Quilombo dos Palmares",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Formação no período colonial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Resistência à escravidão e Liderança de Zumbi dos Palmares",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Aspectos Geográficos e Políticos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Divisões regionais de Alagoas: litoral, zona da mata, agreste e sertão",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Rio São Francisco e sua importância regional",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Maceió como capital estadual e a organização dos municípios",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Organização político-administrativa: Poderes Executivo, Legislativo e Judiciário",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Economia, Cultura e Legislação",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Economia estadual: agroindústria canavieira, turismo e setor de serviços",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Cultura e patrimônio: manifestações culturais populares e patrimônio histórico-cultural",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkjzm9klo",
+              "nome": "Constituição do Estado de Alagoas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykkn97fprf",
+      "nome": "LEGISLAÇÃO DE TRÂNSITO",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Código de Trânsito Brasileiro",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Código de Trânsito Brasileiro (Lei nº 9.503/1997 e suas alterações)",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Resoluções do CONTRAN",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 30/1998 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 32/1998 e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 56/1998 e suas alterações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 108/1999 e suas alterações",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 110/2000 e suas alterações",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 300/2008 e suas alterações",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 351/2010 e suas alterações",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 558/2015 e suas alterações",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 623/2016 e suas alterações",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 634/2016 e suas alterações",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 712/2017 e suas alterações",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 715/2017 e suas alterações",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 723/2018 e suas alterações",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 780/2019 e suas alterações",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 789/2020 e suas alterações",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 809/2020 e suas alterações",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 849/2021 e suas alterações",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 870/2021 e suas alterações",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 871/2021 e suas alterações",
+              "ordem": 18,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 886/2021 e suas alterações",
+              "ordem": 19,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 897/2022 e suas alterações",
+              "ordem": 20,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 926/2022 e suas alterações",
+              "ordem": 21,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 929/2022 e suas alterações",
+              "ordem": 22,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 932/2022 e suas alterações",
+              "ordem": 23,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkn97fprf",
+              "nome": "Resolução CONTRAN nº 941/2022 e suas alterações",
+              "ordem": 24,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykkt4mr8ql",
+      "nome": "ENGENHARIA CIVIL",
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Planejamento de Projetos e Obras de Engenharia",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Programação e controle de obras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Viabilidade, planejamento e controle das construções: técnico, físico-financeiro e econômico",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Segurança e higiene do trabalho em obras públicas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Projeto e Execução de Rodovias e Ferrovias",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Estudos preliminares em infraestrutura de transportes",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Terraplenagem e locação da obra",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Canteiro de obras",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Fundações de obras de arte especiais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Escavações, contenção de taludes e escoramentos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Estruturas metálicas e de concreto; formas; armação; alvenaria estrutural; estruturas pré-fabricadas",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Movimento de terra e Projeto geométrico",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Ensaios geotécnicos principais para rodovias",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Pavimentação/superestrutura: projeto, tipos, aplicação e componentes",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Drenagem e Critérios de medição",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "SICRO (sistema de custos referenciais de obras): rodoviárias, aquaviárias e ferroviárias",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Noções de projeto assistido por computador (CAD)",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Noções de projeto aplicados em plataforma BIM",
+              "ordem": 12,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Materiais de Construção Civil",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Aglomerantes e agregados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Materiais betuminosos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Propriedades físicas e mecânicas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Ensaios laboratoriais de materiais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Sistemas construtivos tradicionais e inovadores",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Mecânica dos Solos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Origem e formação dos solos: processos erosivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Índices físicos dos solos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Caracterização e propriedades dos solos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Pressões nos solos e Prospecção geotécnica",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Permeabilidade dos solos; percolação nos solos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Compactação, compressibilidade e adensamento dos solos; estimativa de recalques",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Resistência dos solos ao cisalhamento",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Empuxos de terra; estruturas de arrimo",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Estabilidade de taludes, de fundações superficiais e de fundações profundas",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Resistência dos Materiais e Análise Estrutural",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Deformações e análise de tensões",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Flexão simples; flexão composta; torção; cisalhamento e flambagem",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Esforços em uma seção: esforço normal; esforço cortante; torção e momento fletor",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Diagrama de esforços solicitantes",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Estruturas isostáticas: vigas simples, vigas Gerber, quadros, arcos e treliças",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Estruturas hiperestáticas: métodos dos esforços; método dos deslocamentos",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Dimensionamento de Estruturas em Concreto",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Características mecânicas e reológicas do concreto",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Tipos de aço para concreto armado; fabricação do aço; características mecânicas do aço; estados limites",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Aderência; ancoragem e emendas em barras de armação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Dimensionamento de elementos estruturais: pilares, lajes e vigas",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Detalhamento de armação em concreto armado",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Concreto protendido: noções gerais e tipos de protensão",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Concreto pré-moldado: dimensionamento, detalhamento e montagem",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Engenharia Legal e Fiscalização",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Engenharia de avaliações: métodos, depreciação, desapropriações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Fiscalização de obras e Ensaios de recebimento da obra",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Acompanhamento da aplicação de recursos (medições, emissão de fatura, cálculos de reajustamento)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Controle de execução de obras e serviços",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Análise de documentação técnica: diário de obra, documentos de legalização, ARTs, aditivos contratuais",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Engenharia de Custos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Levantamento de serviços e seus quantitativos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Orçamento analítico e sintético",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Composição analítica de serviços",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Cronograma físico-financeiro",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Cálculo de benefício e despesas indiretas (BDI) e encargos sociais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Índices de atualização de custos na construção civil",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Patologia de Obras de Engenharia",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Patologia de obras de terra",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykkt4mr8ql",
+              "nome": "Patologia de obras rodoviárias",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpgykl5wge9t8",
+      "nome": "ATUALIDADES (PARA A PROVA DISCURSIVA)",
+      "ordem": 9,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Atualidades",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpgykl5wge9t8",
+              "nome": "Segurança, transportes e mobilidade urbana",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykl5wge9t8",
+              "nome": "Política, economia e sociedade no Brasil",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykl5wge9t8",
+              "nome": "Educação, saúde e cultura",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykl5wge9t8",
+              "nome": "Tecnologia, energia e desenvolvimento sustentável",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpgykl5wge9t8",
+              "nome": "Relações internacionais e ecologia global",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mpgykjtlgn8d4\"},{\"nome\":\"RACIOCÍNIO LÓGICO E ANALÍTICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mpgykjygnmmf0\"},{\"nome\":\"TECNOLOGIA DA INFORMAÇÃO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mpgykk2epblaq\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mpgykk5s0sa6k\"},{\"nome\":\"NOÇÕES DE DIR. ADM.\",\"cor\":\"#f5c842\",\"materiaId\":\"mpgykkb8i2x9o\"},{\"nome\":\"NOÇÕES DE DIR. CIVIL\",\"cor\":\"#f5874a\",\"materiaId\":\"mpgykkhfa7q76\"},{\"nome\":\"CON. DO ESTADO DE ALAGOAS\",\"cor\":\"#00bcd4\",\"materiaId\":\"mpgykkjzm9klo\"},{\"nome\":\"LEGISLAÇÃO DE TRÂNSITO\",\"cor\":\"#e91e8c\",\"materiaId\":\"mpgykkn97fprf\"},{\"nome\":\"ENGENHARIA CIVIL\",\"cor\":\"#8bc34a\",\"materiaId\":\"mpgykkt4mr8ql\"},{\"nome\":\"AT. (PARA A PROVA DISCURSIVA)\",\"cor\":\"#ff9800\",\"materiaId\":\"mpgykl5wge9t8\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1779456716135_180fa\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mpgykjtlgn8d4\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716134_77d4a\",\"baseId\":\"base_NOCOES DE DIR. ADM.\",\"materiaId\":\"mpgykkb8i2x9o\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716134_231bc\",\"baseId\":\"base_ENGENHARIA CIVIL\",\"materiaId\":\"mpgykkt4mr8ql\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716135_81448\",\"baseId\":\"base_RACIOCINIO LOGICO E ANALITICO\",\"materiaId\":\"mpgykjygnmmf0\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716136_b9dc7\",\"baseId\":\"base_NOCOES DE DIR. CONSTITUCIONAL\",\"materiaId\":\"mpgykk5s0sa6k\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716136_6f7e3\",\"baseId\":\"base_LEGISLACAO DE TRANSITO\",\"materiaId\":\"mpgykkn97fprf\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716137_57f9e\",\"baseId\":\"base_NOCOES DE DIR. CIVIL\",\"materiaId\":\"mpgykkhfa7q76\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716137_0447b\",\"baseId\":\"base_TECNOLOGIA DA INFORMACAO\",\"materiaId\":\"mpgykk2epblaq\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716137_a8ec7\",\"baseId\":\"base_CON. DO ESTADO DE ALAGOAS\",\"materiaId\":\"mpgykkjzm9klo\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779456716138_92f0e\",\"baseId\":\"base_AT. (PARA A PROVA DISCURSIVA)\",\"materiaId\":\"mpgykl5wge9t8\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"scoringMode\":\"cebraspe\",\"errorPenalty\":1,\"groups\":[{\"id\":\"g_conhecimentos_basicos\",\"name\":\"Conhecimentos Básicos\",\"useBlockData\":true,\"minPts\":10,\"items\":[{\"id\":\"mpgykjtlgn8d4\",\"q\":\"50\",\"w\":\"1\"},{\"id\":\"mpgykjygnmmf0\",\"q\":\"50\",\"w\":\"1\"},{\"id\":\"mpgykk2epblaq\",\"q\":\"50\",\"w\":\"1\"},{\"id\":\"mpgykk5s0sa6k\",\"q\":\"50\",\"w\":\"1\"},{\"id\":\"mpgykkb8i2x9o\",\"q\":\"50\",\"w\":\"1\"},{\"id\":\"mpgykkhfa7q76\",\"q\":\"50\",\"w\":\"1\"},{\"id\":\"mpgykkjzm9klo\",\"q\":\"50\",\"w\":\"1\"},{\"id\":\"mpgykl5wge9t8\",\"q\":\"50\",\"w\":\"1\"}],\"q\":50,\"w\":1},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"useBlockData\":true,\"minPts\":21,\"items\":[{\"id\":\"mpgykkn97fprf\",\"q\":\"70\",\"w\":\"1\"},{\"id\":\"mpgykkt4mr8ql\",\"q\":\"70\",\"w\":\"1\"}],\"q\":70,\"w\":1},{\"id\":\"g_redacao\",\"name\":\"Redação\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":30,\"redType\":\"Texto dissertativo, de até 30 linhas, a respeito de temas relacionados a atualidades\",\"isClassificatoriaOnly\":false,\"minPts\":15}]}"
+  }
+}
