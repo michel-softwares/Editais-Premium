@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-23T12:43:49.076Z",
+  "atualizadoEm": "2026-05-24T04:00:15.373Z",
   "editais": [
+    {
+      "id": "cadete-pm-pm-sp-2026",
+      "titulo": "Polícia Militar do Estado de São Paulo",
+      "orgao": "Polícia Militar do Estado de São Paulo",
+      "banca": "VUNESP",
+      "cargo": "Cadete PM (Oficial - CFO) - PM SP / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Cadete%20PM%20-%20PM%20SP%202026/card_premium_pm_sp.png",
+      "arquivo": "Cadete%20PM%20-%20PM%20SP%202026/Edital%20Premium%20Track%20Concursos%20Cadete%20PM%20PM%20SP%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Cadete PM PM SP 2026.json",
+      "atualizadoEm": "2026-05-24T04:00:00.000Z"
+    },
     {
       "id": "acai-ibge-2021",
       "titulo": "Instituto Brasileiro de Geografia e Estatística",
@@ -17,23 +34,6 @@
       "arquivo": "ACAI%20-%20IBGE%202021/Edital%20Premium%20Track%20Concursos%20ACAI%20IBGE%202021.json",
       "arquivoNome": "Edital Premium Track Concursos ACAI IBGE 2021.json",
       "atualizadoEm": "2026-05-23T12:43:25.000Z"
-    },
-    {
-      "id": "cadete-pm-pm-sp-2026",
-      "titulo": "Polícia Militar do Estado de São Paulo",
-      "orgao": "Polícia Militar do Estado de São Paulo",
-      "banca": "A definir",
-      "cargo": "Cadete PM (Oficial - CFO) - PM SP / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Cadete%20PM%20-%20PM%20SP%202026/card_premium_pm_sp.png",
-      "arquivo": "Cadete%20PM%20-%20PM%20SP%202026/Edital%20Premium%20Track%20Concursos%20Cadete%20PM%20PM%20SP%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Cadete PM PM SP 2026.json",
-      "atualizadoEm": "2026-05-23T06:02:18.000Z"
     },
     {
       "id": "bombeiro-militar-combatente-cbm-al-2026",
