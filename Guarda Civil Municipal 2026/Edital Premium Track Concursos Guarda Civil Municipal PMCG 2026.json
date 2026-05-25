@@ -1,0 +1,1053 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "GCM Campina Grande",
+    "cargo": "Guarda Civil Municipal",
+    "salario": "R$ 3.071,68",
+    "banca": "IDECAN",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-08-30",
+    "localProva": "",
+    "linkEdital": "https://campinagrande.pb.gov.br/wp-content/uploads/2026/05/EDITAL-CAMPINA-GRANDE-GUARDA-MUNICIPAL.pdf",
+    "preEdital": false,
+    "pontuacaoMax": 60,
+    "vagas": 30,
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mplmok49bgxpy",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Leitura e Interpretação de Texto",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Leitura, compreensão e interpretação de textos de gêneros variados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Estruturação do texto e dos parágrafos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Articulação do texto: pronomes e expressões referenciais, nexos e operadores sequenciais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Significação contextual de palavras e expressões",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Equivalência e transformação de estruturas",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sintaxe e Construção Frasal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Processos de coordenação e subordinação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Concordância nominal e verbal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Regência nominal e verbal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Pronomes: emprego, formas de tratamento e colocação",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfologia e Estrutura das Palavras",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Estrutura e formação de palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Funções das classes de palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Flexão nominal e verbal",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Norma-padrão da Língua Portuguesa",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Ortografia oficial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok49bgxpy",
+              "nome": "Acentuação gráfica",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mplmok8tiaf24",
+      "nome": "RACIOCÍNIO LÓGICO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Estruturas Lógicas e Dedução",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Dedução de novas informações a partir das relações fornecidas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Avaliação das condições utilizadas para estabelecer a estrutura lógica das relações apresentadas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Compreensão e Análise Lógica de Situações-Problema",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Compreensão e análise da lógica de uma situação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Raciocínio verbal",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Raciocínio matemático",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Raciocínio sequencial",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Orientação espacial e temporal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Formação de conceitos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Discriminação de elementos",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Operações Lógicas e Resolução de Problemas",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Operações com conjuntos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Raciocínio lógico envolvendo problemas aritméticos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Raciocínio lógico envolvendo problemas geométricos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmok8tiaf24",
+              "nome": "Raciocínio lógico envolvendo problemas matriciais",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mplmokclc3hdl",
+      "nome": "HISTÓRIA DE CAMPINA GRANDE - PB",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "História de Campina Grande",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokclc3hdl",
+              "nome": "História geral sobre o município de Campina Grande, na Paraíba (Origens, Emancipação e Evolução)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokclc3hdl",
+              "nome": "Aspectos históricos, socioeconômicos e culturais de Campina Grande - PB",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mplmokddb21j4",
+      "nome": "LEGISLAÇÃO E ÉTICA NO SERVIÇO PÚBLICO",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Legislação Aplicada ao Serviço Público",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Lei Orgânica do Município de Campina Grande - PB",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Lei Federal nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais - LGPD)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Lei Federal nº 12.527/2011 (Lei de Acesso à Informação - LAI)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ética no Serviço Público",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Ética no serviço público e função pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Ética e moral: definição e distinção",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Valores, virtude, honestidade, integridade, decoro e zelo no serviço público: conceitos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Ética, democracia, cidadania e o papel do servidor público",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Princípios da Administração Pública Aplicados à Ética",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokddb21j4",
+              "nome": "Aplicação dos princípios éticos na Administração Pública",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mplmokg34wa2m",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Administração Pública",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Conceito, organização e finalidade da Administração Pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Administração Pública direta e indireta",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Entidades: autarquias, fundações públicas, empresas públicas e sociedades de economia mista",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Regime jurídico-administrativo",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Princípios da Administração Pública",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Princípios expressos no caput do art. 37 da CF: legalidade, impessoalidade, moralidade, publicidade e eficiência",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Princípios implícitos: supremacia do interesse público, indisponibilidade do interesse público, razoabilidade, proporcionalidade, motivação, continuidade do serviço público e autotutela",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Atos Administrativos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Conceito, atributos e elementos dos atos administrativos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Espécies e classificação dos atos administrativos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Validade, anulação, revogação e convalidação dos atos administrativos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Extinção dos atos administrativos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poderes da Administração Pública",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Poder vinculado e poder discricionário",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Poder hierárquico e Poder disciplinar",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Poder regulamentar e Poder de polícia",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços Públicos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Conceito, princípios e classificação dos serviços públicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Formas de prestação e delegação dos serviços públicos: concessão, permissão e autorização",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Agentes Públicos",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Conceito e classificação dos agentes públicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Cargo, emprego e função pública",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Direitos e deveres dos servidores públicos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Responsabilidade civil, penal e administrativa do servidor público",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Acumulação de cargos públicos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Responsabilidade Civil do Estado",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Responsabilidade civil da Administração Pública: responsabilidade objetiva do Estado",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokg34wa2m",
+              "nome": "Responsabilidade por ação e omissão estatal",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mplmokmfagzfd",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL E DIREITOS HUMANOS",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Noções de Direito Constitucional",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Teoria da Constituição: Estado (conceito, elementos e formas)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Constituição: conceito, conteúdo, objeto e classificação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Supremacia da Constituição e aplicabilidade das normas constitucionais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "CF/88: Preâmbulo e Princípios Fundamentais (Fundamentos, objetivos e princípios das relações internacionais)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Dignidade da pessoa humana e direitos humanos (Dimensões dos direitos humanos no Brasil)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Direitos e Garantias Fundamentais: Direitos e deveres individuais e coletivos (Art. 5º)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Direitos Sociais, Nacionalidade, Direitos Políticos e Partidos Políticos",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Aplicação dos direitos e garantias fundamentais",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Remédios Constitucionais: Habeas corpus, Habeas data, Mandado de segurança individual/coletivo, Mandado de injunção, Ação popular",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Organização do Estado: Organização político-administrativa (União, Estados, DF, Municípios e Territórios)",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Competências constitucionais dos entes federativos",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Administração Pública: Disposições gerais e servidores públicos",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Princípios constitucionais da Administração Pública (Art. 37 da CF)",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Defesa do Estado e das Instituições Democráticas: Segurança Pública (Art. 144 da CF)",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Organização e órgãos de segurança pública previstos no art. 144 da CF",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Ordem Social: Base e objetivos da ordem social",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Direitos Fundamentais Aplicados à Segurança Pública (Direito à vida, liberdade, igualdade, segurança, propriedade e locomoção)",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Devido processo legal, contraditório e ampla defesa aplicado à segurança",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Legalidade e abuso de autoridade no exercício da função pública",
+              "ordem": 18,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Direitos Humanos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Direitos Humanos e Direitos Fundamentais (Conceito, características, fundamentos, dimensões/gerações)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Direitos humanos na CF/88 (Arts. 5º ao 15)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Universalidade, indivisibilidade, interdependência e imprescritibilidade dos direitos humanos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Política Nacional de Direitos Humanos: PNDH-3 (Decreto Federal nº 7.037/2009 e alterações)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Sistema Global de Proteção dos Direitos Humanos (ONU): Declaração Universal dos Direitos Humanos (DUDH 1948)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Sistema Interamericano: Convenção Americana sobre Direitos Humanos - Pacto de San José da Costa Rica (Decreto Federal nº 678/1992)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Proteção de Grupos Vulneráveis: Direitos da criança e do adolescente",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Proteção de Grupos Vulneráveis: Direitos da pessoa idosa",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Proteção de Grupos Vulneráveis: Direitos da pessoa com deficiência",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokmfagzfd",
+              "nome": "Proteção de Grupos Vulneráveis: Direitos das mulheres e enfrentamento à violência de gênero",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mplmoktharvzn",
+      "nome": "NOÇÕES DE DIREITO PENAL E PROCESSO PENAL",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Direito Penal - Parte Geral",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Lei penal: aplicação da lei penal, tempo e lugar do crime (noções)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crime: conceito, elementos, consumação e tentativa",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Excludentes de ilicitude e culpabilidade (noções)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Concurso de pessoas (noções)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Crimes em Espécie - Código Penal (Decreto-Lei nº 2.848/40)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a pessoa: Crimes contra a vida e Lesão corporal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a pessoa: Periclitação da vida e da saúde",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra o patrimônio: Furto, Roubo, Dano e Receptação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a dignidade sexual: Disposições gerais e crimes em espécie",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a fé pública: Falsificação de documento público e particular",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a fé pública: Falsidade ideológica e Uso de documento falso",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a Administração Pública: Praticados por funcionário público contra a Administração",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a Administração Pública: Praticados por particular contra a Administração",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Crimes contra a Administração Pública: Resistência, desobediência e desacato",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direito Processual Penal - Código de Processo Penal (Decreto-Lei nº 3.689/41)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Inquérito policial: Conceito, finalidade, características e procedimentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Provas: Disposições gerais, exame de corpo de delito e perícias",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Provas: Cadeia de custódia da prova",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Provas: Busca e apreensão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Prisão, medidas cautelares e liberdade provisória: Disposições gerais e Prisão em flagrante",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Prisão, medidas cautelares e liberdade provisória: Medidas cautelares diversas da prisão e Liberdade provisória",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislações Penais Especiais (Código Penal)",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Abuso de Autoridade (Lei Federal nº 13.869/2019)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Violência contra grupos vulneráveis: Crimes previstos na Lei Maria da Penha (Lei nº 11.340/2006) - noções",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmoktharvzn",
+              "nome": "Violência contra grupos vulneráveis: Crimes previstos no Estatuto da Criança e do Adolescente (Lei nº 8.069/1990) - noções",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mplmokzk9swac",
+      "nome": "LEGISLAÇÃO EXTRAVAGANTE",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Legislação de Proteção Institucional e Atuação do Agente Público",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 13.869/2019 (Lei de Abuso de Autoridade) e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 10.826/2003 (Estatuto do Desarmamento) e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação de Proteção de Grupos Vulneráveis",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 8.069/1990 (Estatuto da Criança e do Adolescente - ECA) e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 11.340/2006 (Lei Maria da Penha - violência doméstica e familiar contra a mulher) e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 7.716/1989 (Crimes resultantes de preconceito de raça ou de cor) e suas alterações",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação Penal Especial",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 11.343/2006 (Lei de Drogas - SISNAD) e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 9.605/1998 (Lei de Crimes Ambientais) e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação de Segurança Pública e Trânsito",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 13.022/2014 (Estatuto Geral das Guardas Municipais) e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 9.503/1997 (Código de Trânsito Brasileiro - CTB) e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei de Improbidade Administrativa",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mplmokzk9swac",
+              "nome": "Lei Federal nº 8.429/1992 (Lei de Improbidade Administrativa) com as alterações da Lei nº 14.230/2021",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mplmok49bgxpy\"},{\"nome\":\"RACIOCÍNIO LÓGICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mplmok8tiaf24\"},{\"nome\":\"HISTÓRIA DE CAMPINA GRANDE - PB\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mplmokclc3hdl\"},{\"nome\":\"LEGISLAÇÃO E ÉTICA NO SERVIÇO PÚBLICO\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mplmokddb21j4\"},{\"nome\":\"NOÇÕES DE DIR. ADM.\",\"cor\":\"#f5c842\",\"materiaId\":\"mplmokg34wa2m\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL E DIREITOS HUMANOS\",\"cor\":\"#f5874a\",\"materiaId\":\"mplmokmfagzfd\"},{\"nome\":\"NOÇÕES DE DIR. PENAL E PROCESSO PENAL\",\"cor\":\"#00bcd4\",\"materiaId\":\"mplmoktharvzn\"},{\"nome\":\"LEGISLAÇÃO EXTRAVAGANTE\",\"cor\":\"#e91e8c\",\"materiaId\":\"mplmokzk9swac\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"startedAt\":\"2026-05-25T19:58:19.047Z\",\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1779739099040_4477b\",\"baseId\":\"base_LEGISLACAO E ETICA NO SERVICO PUBLICO\",\"materiaId\":\"mplmokddb21j4\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779739099040_7b96c\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mplmok49bgxpy\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779739099041_a6d70\",\"baseId\":\"base_RACIOCINIO LOGICO\",\"materiaId\":\"mplmok8tiaf24\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779739099041_05c34\",\"baseId\":\"base_NOCOES DE DIR. CONSTITUCIONAL E DIREITOS HUMANOS\",\"materiaId\":\"mplmokmfagzfd\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779739099042_2385e\",\"baseId\":\"base_NOCOES DE DIR. ADM.\",\"materiaId\":\"mplmokg34wa2m\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779739099042_06fce\",\"baseId\":\"base_HISTORIA DE CAMPINA GRANDE - PB\",\"materiaId\":\"mplmokclc3hdl\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779739099042_8de7f\",\"baseId\":\"base_NOCOES DE DIR. PENAL E PROCESSO PENAL\",\"materiaId\":\"mplmoktharvzn\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1779739099043_438ce\",\"baseId\":\"base_LEGISLACAO EXTRAVAGANTE\",\"materiaId\":\"mplmokzk9swac\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_prova_objetiva\",\"name\":\"Prova Objetiva\",\"items\":[{\"id\":\"mplmok49bgxpy\",\"q\":8,\"w\":1,\"minPts\":1},{\"id\":\"mplmok8tiaf24\",\"q\":4,\"w\":1,\"minPts\":1},{\"id\":\"mplmokclc3hdl\",\"q\":4,\"w\":1,\"minPts\":1},{\"id\":\"mplmokddb21j4\",\"q\":4,\"w\":1,\"minPts\":1},{\"id\":\"mplmokg34wa2m\",\"q\":3,\"w\":2,\"minPts\":2},{\"id\":\"mplmokmfagzfd\",\"q\":5,\"w\":2,\"minPts\":2},{\"id\":\"mplmoktharvzn\",\"q\":5,\"w\":2,\"minPts\":2},{\"id\":\"mplmokzk9swac\",\"q\":7,\"w\":2,\"minPts\":2}],\"q\":40,\"w\":1,\"minPts\":30}]}"
+  }
+}
