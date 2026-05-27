@@ -1,6 +1,56 @@
 {
-  "atualizadoEm": "2026-05-27T19:47:29.077Z",
+  "atualizadoEm": "2026-05-27T20:44:16.973Z",
   "editais": [
+    {
+      "id": "acai-ibge-2021",
+      "titulo": "Instituto Brasileiro de Geografia e Estatistica (IBGE)",
+      "orgao": "Instituto Brasileiro de Geografia e Estatistica (IBGE)",
+      "banca": "IBFC",
+      "cargo": "ACAI / Nível Médio",
+      "ano": 2021,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "ACAI%20-%20IBGE%202021/card_premium_ibge.png",
+      "arquivo": "ACAI%20-%20IBGE%202021/Edital%20Premium%20Track%20Concursos%20ACAI%20IBGE%202021.json",
+      "arquivoNome": "Edital Premium Track Concursos ACAI IBGE 2021.json",
+      "atualizadoEm": "2026-05-27T20:43:59.000Z"
+    },
+    {
+      "id": "advogado-crt-sp-2026",
+      "titulo": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
+      "orgao": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
+      "banca": "QUADRIX",
+      "cargo": "Advogado / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Advogado%20-%20CRT%20SP%202026/logotipo-vertical.png",
+      "arquivo": "Advogado%20-%20CRT%20SP%202026/Edital%20Premium%20Advogado%20CRT%20SP%202026.json",
+      "arquivoNome": "Edital Premium Advogado CRT SP 2026.json",
+      "atualizadoEm": "2026-05-27T20:43:59.000Z"
+    },
+    {
+      "id": "tecnico-administrativo-crt-sp-2026",
+      "titulo": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
+      "orgao": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
+      "banca": "QUADRIX",
+      "cargo": "Técnico Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Administrativo%20-%20CRT%20SP%202026/logotipo-vertical.png",
+      "arquivo": "T%C3%A9cnico%20Administrativo%20-%20CRT%20SP%202026/Edital%20Premium%20T%C3%A9cnico%20Administrativo%20CRT%20SP%202026.json",
+      "arquivoNome": "Edital Premium Técnico Administrativo CRT SP 2026.json",
+      "atualizadoEm": "2026-05-27T20:43:59.000Z"
+    },
     {
       "id": "agente-social-sedes-df-2026",
       "titulo": "Sedes/DF (Sedes/DF)",
@@ -236,39 +286,6 @@
       "atualizadoEm": "2026-05-27T19:36:48.000Z"
     },
     {
-      "id": "advogado-crt-sp-2026",
-      "titulo": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
-      "orgao": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
-      "banca": "QUADRIX",
-      "cargo": "Advogado / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Advogado%20-%20CRT%20SP%202026/logotipo-vertical.png",
-      "arquivo": "Advogado%20-%20CRT%20SP%202026/Edital%20Premium%20Advogado%20CRT%20SP%202026.json",
-      "arquivoNome": "Edital Premium Advogado CRT SP 2026.json",
-      "atualizadoEm": "2026-05-27T19:12:47.000Z"
-    },
-    {
-      "id": "tecnico-administrativo-crt-sp-2026",
-      "titulo": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
-      "orgao": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
-      "banca": "QUADRIX",
-      "cargo": "Técnico Administrativo / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20Administrativo%20-%20CRT%20SP%202026/logotipo-vertical.png",
-      "arquivo": "T%C3%A9cnico%20Administrativo%20-%20CRT%20SP%202026/Edital%20Premium%20T%C3%A9cnico%20Administrativo%20CRT%20SP%202026.json",
-      "arquivoNome": "Edital Premium Técnico Administrativo CRT SP 2026.json",
-      "atualizadoEm": "2026-05-27T19:12:47.000Z"
-    },
-    {
       "id": "auditor-fiscal-sefaz-ce",
       "titulo": "SEFAZ CE (SEFAZ CE)",
       "orgao": "SEFAZ CE (SEFAZ CE)",
@@ -490,23 +507,6 @@
       "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
       "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
       "atualizadoEm": "2026-05-27T17:55:17.000Z"
-    },
-    {
-      "id": "acai-ibge-2021",
-      "titulo": "IBGE (IBGE)",
-      "orgao": "IBGE (IBGE)",
-      "banca": "IBFC",
-      "cargo": "ACAI / Nível Médio",
-      "ano": 2021,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "ACAI%20-%20IBGE%202021/card_premium_ibge.png",
-      "arquivo": "ACAI%20-%20IBGE%202021/Edital%20Premium%20Track%20Concursos%20ACAI%20IBGE%202021.json",
-      "arquivoNome": "Edital Premium Track Concursos ACAI IBGE 2021.json",
-      "atualizadoEm": "2026-05-27T17:55:15.000Z"
     },
     {
       "id": "cadete-espcex-2026",
