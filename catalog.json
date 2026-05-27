@@ -1,6 +1,40 @@
 {
-  "atualizadoEm": "2026-05-27T13:21:51.841Z",
+  "atualizadoEm": "2026-05-27T13:40:59.828Z",
   "editais": [
+    {
+      "id": "cadete-pm-pm-sp-2026",
+      "titulo": "Polícia Militar do Estado de São Paulo (PM SP)",
+      "orgao": "Polícia Militar do Estado de São Paulo (PM SP)",
+      "banca": "Vunesp",
+      "cargo": "Cadete PM (Oficial - CFO) / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Cadete%20PM%20-%20PM%20SP%202026/card_premium_pm_sp.png",
+      "arquivo": "Cadete%20PM%20-%20PM%20SP%202026/Edital%20Premium%20Track%20Concursos%20Cadete%20PM%20PM%20SP%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Cadete PM PM SP 2026.json",
+      "atualizadoEm": "2026-05-27T13:40:32.000Z"
+    },
+    {
+      "id": "guarda-civil-municipal-2026",
+      "titulo": "GCM Campina Grande (GCM Campina Grande)",
+      "orgao": "GCM Campina Grande (GCM Campina Grande)",
+      "banca": "IDECAN",
+      "cargo": "Guarda Civil Municipal / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Guarda%20Civil%20Municipal%202026/card_premium_gcm_campina_grande.png",
+      "arquivo": "Guarda%20Civil%20Municipal%202026/Edital%20Premium%20Track%20Concursos%20Guarda%20Civil%20Municipal%20PMCG%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Guarda Civil Municipal PMCG 2026.json",
+      "atualizadoEm": "2026-05-27T13:40:32.000Z"
+    },
     {
       "id": "acai-ibge-2021",
       "titulo": "IBGE (IBGE)",
@@ -105,23 +139,6 @@
       "atualizadoEm": "2026-05-27T12:39:18.000Z"
     },
     {
-      "id": "guarda-civil-municipal-2026",
-      "titulo": "GCM Campina Grande (GCM Campina Grande)",
-      "orgao": "GCM Campina Grande (GCM Campina Grande)",
-      "banca": "IDECAN",
-      "cargo": "Guarda Civil Municipal / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Guarda%20Civil%20Municipal%202026/card_premium_gcm_campina_grande.png",
-      "arquivo": "Guarda%20Civil%20Municipal%202026/Edital%20Premium%20Track%20Concursos%20Guarda%20Civil%20Municipal%20PMCG%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Guarda Civil Municipal PMCG 2026.json",
-      "atualizadoEm": "2026-05-27T12:39:18.000Z"
-    },
-    {
       "id": "tecnico-administrativo-sedes-df-2026",
       "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
       "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
@@ -152,23 +169,6 @@
       "imagem": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/card_premium_alece.png",
       "arquivo": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Jornalismo%20ALECE%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Jornalismo ALECE 2026.json",
-      "atualizadoEm": "2026-05-27T12:39:17.000Z"
-    },
-    {
-      "id": "cadete-pm-pm-sp-2026",
-      "titulo": "Polícia Militar do Estado de São Paulo (PM SP)",
-      "orgao": "Polícia Militar do Estado de São Paulo (PM SP)",
-      "banca": "Vunesp",
-      "cargo": "Cadete PM (Oficial - CFO) / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Cadete%20PM%20-%20PM%20SP%202026/card_premium_pm_sp.png",
-      "arquivo": "Cadete%20PM%20-%20PM%20SP%202026/Edital%20Premium%20Track%20Concursos%20Cadete%20PM%20PM%20SP%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Cadete PM PM SP 2026.json",
       "atualizadoEm": "2026-05-27T12:39:17.000Z"
     },
     {
