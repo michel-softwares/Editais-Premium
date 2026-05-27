@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-05-27T19:21:48.312Z",
+  "atualizadoEm": "2026-05-27T19:22:20.900Z",
   "editais": [
+    {
+      "id": "policial-rodoviario-federal-prf-2021",
+      "titulo": "PRF (PRF)",
+      "orgao": "PRF (PRF)",
+      "banca": "CEBRASPE",
+      "cargo": "Policial Rodoviário Federal / Nível Superior",
+      "ano": 2021,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/card_premium_prf.png",
+      "arquivo": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/Edital%20Premium%20Track%20Concursos%20Policial%20Rodovi%C3%A1rio%20Federal%20PRF.json",
+      "arquivoNome": "Edital Premium Track Concursos Policial Rodoviário Federal PRF.json",
+      "atualizadoEm": "2026-05-27T19:22:01.000Z"
+    },
     {
       "id": "advogado-crt-sp-2026",
       "titulo": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
@@ -64,23 +81,6 @@
       "imagem": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
       "arquivo": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20TI%20SEFAZ%20CE.json",
       "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal TI SEFAZ CE.json",
-      "atualizadoEm": "2026-05-27T18:02:14.000Z"
-    },
-    {
-      "id": "policial-rodoviario-federal-prf-2021",
-      "titulo": "PRF (PRF)",
-      "orgao": "PRF (PRF)",
-      "banca": "CEBRASPE",
-      "cargo": "Policial Rodoviário Federal / Nível Superior",
-      "ano": 2021,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/card_premium_prf.png",
-      "arquivo": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/Edital%20Premium%20Track%20Concursos%20Policial%20Rodovi%C3%A1rio%20Federal%20PRF.json",
-      "arquivoNome": "Edital Premium Track Concursos Policial Rodoviário Federal PRF.json",
       "atualizadoEm": "2026-05-27T18:02:14.000Z"
     },
     {
@@ -562,23 +562,6 @@
       "atualizadoEm": "2026-05-27T12:39:12.000Z"
     },
     {
-      "id": "assistente-em-administracao-ifpi",
-      "titulo": "IFPI (IFPI)",
-      "orgao": "IFPI (IFPI)",
-      "banca": "IFPI",
-      "cargo": "Assistente Administrativo / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
-      "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
-      "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
-      "atualizadoEm": "2026-05-27T12:38:53.000Z"
-    },
-    {
       "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
       "titulo": "Ministério da Fazenda (Ministério da Fazenda)",
       "orgao": "Ministério da Fazenda (Ministério da Fazenda)",
@@ -593,6 +576,23 @@
       "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
       "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
       "arquivoNome": "template_minist_rio_da_fazenda.json",
+      "atualizadoEm": "2026-05-27T12:38:53.000Z"
+    },
+    {
+      "id": "assistente-em-administracao-ifpi",
+      "titulo": "IFPI (IFPI)",
+      "orgao": "IFPI (IFPI)",
+      "banca": "IFPI",
+      "cargo": "Assistente Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
+      "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
+      "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
       "atualizadoEm": "2026-05-27T12:38:53.000Z"
     },
     {
