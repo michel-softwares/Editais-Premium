@@ -1,5 +1,16 @@
-Assembleia Legislativa do Estado do Ceará
-🪪 Analista Legislativo – Desenvolvedor de Software - ALECE / Nível Superior
-⬇️ baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar
-🧾 IDECAN 2026
-💵 Remuneração: R$ 6.126,48
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS
+============================================================
+
+🏢 ÓRGÃO: Assembleia Legislativa do Estado do Ceará (ALECE)
+🪪 CARGO: Analista Legislativo – Desenvolvedor de Software / Nível Superior
+🧾 BANCA: IDECAN 2026
+
+📝 PAINEL DE PROVAS:
+• Prova Objetiva: 70 questões, dividida em 4 disciplinas (pontuação máxima de 120 pontos | mínimo de 24 pontos para habilitação).
+• Prova Discursiva: Não há.
+
+🎓 ESCOLARIDADE: Nível Superior completo
+👥 VAGAS: 2 vagas
+📅 DATA DA PROVA: 16/08/2026
+💵 REMUNERAÇÃO INICIAL: R$ 6.126,48
