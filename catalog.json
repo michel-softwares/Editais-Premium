@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-05-27T19:03:40.672Z",
+  "atualizadoEm": "2026-05-27T19:04:03.885Z",
   "editais": [
     {
       "id": "advogado-crt-sp-2026",
@@ -15,7 +15,7 @@
       "imagem": "Advogado%20-%20CRT%20SP%202026/logotipo-vertical.png",
       "arquivo": "Advogado%20-%20CRT%20SP%202026/Edital%20Premium%20Advogado%20CRT%20SP%202026.json",
       "arquivoNome": "Edital Premium Advogado CRT SP 2026.json",
-      "atualizadoEm": "2026-05-27T18:56:22.000Z"
+      "atualizadoEm": "2026-05-27T19:03:48.000Z"
     },
     {
       "id": "tecnico-administrativo-crt-sp-2026",
@@ -32,7 +32,7 @@
       "imagem": "T%C3%A9cnico%20Administrativo%20-%20CRT%20SP%202026/logotipo-vertical.png",
       "arquivo": "T%C3%A9cnico%20Administrativo%20-%20CRT%20SP%202026/Edital%20Premium%20T%C3%A9cnico%20Administrativo%20CRT%20SP%202026.json",
       "arquivoNome": "Edital Premium Técnico Administrativo CRT SP 2026.json",
-      "atualizadoEm": "2026-05-27T18:56:22.000Z"
+      "atualizadoEm": "2026-05-27T19:03:48.000Z"
     },
     {
       "id": "auditor-fiscal-sefaz-ce",
@@ -563,23 +563,6 @@
       "atualizadoEm": "2026-05-27T12:39:12.000Z"
     },
     {
-      "id": "assistente-em-administracao-ifpi",
-      "titulo": "IFPI (IFPI)",
-      "orgao": "IFPI (IFPI)",
-      "banca": "IFPI",
-      "cargo": "Assistente Administrativo / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
-      "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
-      "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
-      "atualizadoEm": "2026-05-27T12:38:53.000Z"
-    },
-    {
       "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
       "titulo": "Ministério da Fazenda (Ministério da Fazenda)",
       "orgao": "Ministério da Fazenda (Ministério da Fazenda)",
@@ -594,6 +577,23 @@
       "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
       "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
       "arquivoNome": "template_minist_rio_da_fazenda.json",
+      "atualizadoEm": "2026-05-27T12:38:53.000Z"
+    },
+    {
+      "id": "assistente-em-administracao-ifpi",
+      "titulo": "IFPI (IFPI)",
+      "orgao": "IFPI (IFPI)",
+      "banca": "IFPI",
+      "cargo": "Assistente Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
+      "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
+      "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
       "atualizadoEm": "2026-05-27T12:38:53.000Z"
     },
     {
