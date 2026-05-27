@@ -1,0 +1,1202 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Arquivo gerado para importacao no Track Concursos."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "CRT-SP",
+    "cargo": "Advogado",
+    "banca": "QUADRIX",
+    "logoEmoji": null,
+    "logoBase64": null,
+    "dataProva": "2026-08-02",
+    "preEdital": false,
+    "pontuacaoMax": 130,
+    "vagas": 50,
+    "salario": "R$ 12.155,27 [R$ 10.600,01 base + R$ 1.555,26 benefícios (VR R$ 1.112,48 + VA R$ 442,78) | Plano de Saúde + Plano de Cargos e Salários + Vale Transporte]",
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mat_001",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Compreensão e interpretação de textos de gêneros variados, incluindo digitais e multimodais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_001",
+              "nome": "Análise de textos variados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_001",
+              "nome": "Identificação de tipos textuais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_001",
+              "nome": "Figuras de linguagem",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_001",
+              "nome": "Denotação e conotação",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Análise linguística e semântica",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_005",
+              "materiaId": "mat_001",
+              "nome": "Ortografia oficial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006",
+              "materiaId": "mat_001",
+              "nome": "Significado de palavras (sinônimos, antônimos)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_007",
+              "materiaId": "mat_001",
+              "nome": "Emprego das classes de palavras",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_008",
+              "materiaId": "mat_001",
+              "nome": "Colocação pronominal",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "Estruturação textual",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_009",
+              "materiaId": "mat_001",
+              "nome": "Coesão e coerência",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_010",
+              "materiaId": "mat_001",
+              "nome": "Uso de conectores",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_011",
+              "materiaId": "mat_001",
+              "nome": "Emprego correto de tempos e modos verbais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Sintaxe do período",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_012",
+              "materiaId": "mat_001",
+              "nome": "Estrutura de orações e períodos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_013",
+              "materiaId": "mat_001",
+              "nome": "Relações de coordenação e subordinação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_014",
+              "materiaId": "mat_001",
+              "nome": "Concordância verbal e nominal",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_015",
+              "materiaId": "mat_001",
+              "nome": "Regência verbal e nominal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_016",
+              "materiaId": "mat_001",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Pontuação",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_017",
+              "materiaId": "mat_001",
+              "nome": "Uso correto dos sinais de pontuação",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006",
+          "nome": "Reescrita e produção textual",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_018",
+              "materiaId": "mat_001",
+              "nome": "Reescrita de frases e textos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_019",
+              "materiaId": "mat_001",
+              "nome": "Adequação da linguagem a diferentes contextos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_002",
+      "nome": "RACIOCÍNIO LÓGICO E MATEMÁTICA",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Análise combinatória e probabilidade",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_002",
+              "nome": "Princípios de contagem (arranjos, combinações, permutações)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_002",
+              "nome": "Noções de probabilidade",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Raciocínio lógico",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_003",
+              "materiaId": "mat_002",
+              "nome": "Estruturas lógicas e argumentação (dedução e indução)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_002",
+              "nome": "Diagramas lógicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005",
+              "materiaId": "mat_002",
+              "nome": "Proposições e conectivos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "Raciocínio analítico e espacial",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_006",
+              "materiaId": "mat_002",
+              "nome": "Raciocínio verbal, matemático e sequencial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_007",
+              "materiaId": "mat_002",
+              "nome": "Orientação no espaço e no tempo",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Análise de dados",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_008",
+              "materiaId": "mat_002",
+              "nome": "Estatística básica (média, moda, mediana)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_009",
+              "materiaId": "mat_002",
+              "nome": "Interpretação de gráficos e tabelas",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Matemática financeira",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_010",
+              "materiaId": "mat_002",
+              "nome": "Juros simples e compostos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_011",
+              "materiaId": "mat_002",
+              "nome": "Descontos e taxas",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_003",
+      "nome": "NOÇÕES DE INFORMÁTICA",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Conceitos fundamentais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_003",
+              "nome": "Hardware",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_003",
+              "nome": "Software",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_003",
+              "nome": "Periféricos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Aplicativos de escritório e comunicação",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_004",
+              "materiaId": "mat_003",
+              "nome": "Editores de texto (Microsoft 365, Google Workspace)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005",
+              "materiaId": "mat_003",
+              "nome": "Planilhas eletrônicas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006",
+              "materiaId": "mat_003",
+              "nome": "Apresentações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_007",
+              "materiaId": "mat_003",
+              "nome": "Ferramentas de comunicação (Teams, Meet)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "Sistemas operacionais",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_008",
+              "materiaId": "mat_003",
+              "nome": "Noções de Windows 10 e 11",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_009",
+              "materiaId": "mat_003",
+              "nome": "Sistemas móveis (Android e iOS)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Redes e internet",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_010",
+              "materiaId": "mat_003",
+              "nome": "Conceitos básicos de redes, internet e intranet",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_011",
+              "materiaId": "mat_003",
+              "nome": "Navegadores (Chrome, Firefox, Edge)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_012",
+              "materiaId": "mat_003",
+              "nome": "Uso de e-mail (Outlook, webmail)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_013",
+              "materiaId": "mat_003",
+              "nome": "Sites de busca",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Gerenciamento e segurança da informação",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_014",
+              "materiaId": "mat_003",
+              "nome": "Organização de arquivos e pastas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_015",
+              "materiaId": "mat_003",
+              "nome": "Armazenamento em nuvem (OneDrive, Google Drive)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_016",
+              "materiaId": "mat_003",
+              "nome": "Segurança da informação (vírus, antivírus e firewall)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_017",
+              "materiaId": "mat_003",
+              "nome": "Procedimentos de backup",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006",
+          "nome": "Transformação digital",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_018",
+              "materiaId": "mat_003",
+              "nome": "Conceitos básicos de Inteligência Artificial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_019",
+              "materiaId": "mat_003",
+              "nome": "Computação em nuvem",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_004",
+      "nome": "LEGISLAÇÃO E ÉTICA NA ADMINISTRAÇÃO PÚBLICA",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Ética no setor público",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_004",
+              "nome": "Conceito de ética na função pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_004",
+              "nome": "Princípios fundamentais da Administração Pública",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Improbidade administrativa",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_003",
+              "materiaId": "mat_004",
+              "nome": "Lei nº 8.429/1992 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "Processo administrativo",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_004",
+              "materiaId": "mat_004",
+              "nome": "Lei nº 9.784/1999: direitos e deveres dos administrados",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Transparência e acesso à informação",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_005",
+              "materiaId": "mat_004",
+              "nome": "Lei nº 12.527/2011 e seus decretos",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Proteção de dados pessoais",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_006",
+              "materiaId": "mat_004",
+              "nome": "Lei Geral de Proteção de Dados - LGPD (Lei nº 13.709/2018)",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_005",
+      "nome": "CONHECIMENTOS ESPECÍFICOS",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Direito Constitucional",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_005",
+              "nome": "Constituição: conceito, objeto, elementos e classificações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_005",
+              "nome": "Supremacia da Constituição e aplicabilidade das normas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_005",
+              "nome": "Princípios fundamentais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_004",
+              "materiaId": "mat_005",
+              "nome": "Direitos e deveres individuais e coletivos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005",
+              "materiaId": "mat_005",
+              "nome": "Habeas corpus, mandado de segurança, mandado de injunção e habeas data",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006",
+              "materiaId": "mat_005",
+              "nome": "Direitos sociais",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_007",
+              "materiaId": "mat_005",
+              "nome": "Organização do Estado e organização político-administrativa",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_008",
+              "materiaId": "mat_005",
+              "nome": "Administração Pública: princípios constitucionais e servidores públicos",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_009",
+              "materiaId": "mat_005",
+              "nome": "Organização dos Poderes (Legislativo, Executivo e Judiciário)",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_010",
+              "materiaId": "mat_005",
+              "nome": "Funções essenciais à Justiça (Ministério Público e Advocacia Pública)",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "id": "sub_011",
+              "materiaId": "mat_005",
+              "nome": "Controle de constitucionalidade: sistemas de controle, ADI, ADC e ADPF",
+              "ordem": 10,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002",
+          "nome": "Direito Administrativo",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_012",
+              "materiaId": "mat_005",
+              "nome": "Regime jurídico-administrativo: princípios expressos e implícitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_013",
+              "materiaId": "mat_005",
+              "nome": "Organização administrativa (centralização, descentralização, concentração, desconcentração)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_014",
+              "materiaId": "mat_005",
+              "nome": "Administração direta e indireta (autarquias, fundações, empresas públicas, sociedades de economia mista)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_015",
+              "materiaId": "mat_005",
+              "nome": "Atos administrativos: conceito, requisitos, elementos, atributos e classificação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_016",
+              "materiaId": "mat_005",
+              "nome": "Extinção, revogação, anulação e convalidação de atos administrativos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_017",
+              "materiaId": "mat_005",
+              "nome": "Processo administrativo (Lei nº 9.784/1999): princípios e fases",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_018",
+              "materiaId": "mat_005",
+              "nome": "Licitações e contratos administrativos (Lei nº 14.133/2021)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_019",
+              "materiaId": "mat_005",
+              "nome": "Contratação direta: dispensa e inexigibilidade",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_020",
+              "materiaId": "mat_005",
+              "nome": "Contratos administrativos: conceito, características, cláusulas exorbitantes, alteração e execução",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_021",
+              "materiaId": "mat_005",
+              "nome": "Agentes públicos: espécies, classificação, cargo, emprego e função",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "id": "sub_022",
+              "materiaId": "mat_005",
+              "nome": "Direitos, deveres e responsabilidade administrativa, civil e penal",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "id": "sub_023",
+              "materiaId": "mat_005",
+              "nome": "Responsabilidade civil do Estado: teorias, omissão, comissão e excludentes",
+              "ordem": 11,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003",
+          "nome": "Direito Civil",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_024",
+              "materiaId": "mat_005",
+              "nome": "LINDB: vigência, interpretação e eficácia; conflito de leis no tempo e espaço",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_025",
+              "materiaId": "mat_005",
+              "nome": "Pessoas naturais e jurídicas: personalidade, capacidade e domicílio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_026",
+              "materiaId": "mat_005",
+              "nome": "Associações, fundações e sociedades no Código Civil",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_027",
+              "materiaId": "mat_005",
+              "nome": "Bens: diferentes classes",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_028",
+              "materiaId": "mat_005",
+              "nome": "Fatos jurídicos e negócio jurídico: elementos, defeitos e invalidade",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_029",
+              "materiaId": "mat_005",
+              "nome": "Prescrição e decadência",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_030",
+              "materiaId": "mat_005",
+              "nome": "Obrigações: modalidades, adimplemento, extinção e inadimplemento",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_031",
+              "materiaId": "mat_005",
+              "nome": "Contratos: princípios, classificação, formação, efeitos, extinção e espécies",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_004",
+          "nome": "Direito Processual Civil",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_032",
+              "materiaId": "mat_005",
+              "nome": "Código de Processo Civil (Lei nº 13.105/2015): normas processuais, função jurisdicional e sujeitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_033",
+              "materiaId": "mat_005",
+              "nome": "Atos processuais, tutela provisória e formação/extinção do processo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_034",
+              "materiaId": "mat_005",
+              "nome": "Processo de conhecimento e procedimento comum",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_035",
+              "materiaId": "mat_005",
+              "nome": "Petição inicial, contestação, reconvenção, provas, sentença e coisa julgada",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_036",
+              "materiaId": "mat_005",
+              "nome": "Cumprimento de sentença",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_037",
+              "materiaId": "mat_005",
+              "nome": "Processos nos tribunais e meios de impugnação: recursos (teoria geral e espécies)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_038",
+              "materiaId": "mat_005",
+              "nome": "Processo Judicial Eletrônico (PJe)",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005",
+          "nome": "Direito do Trabalho e Processual do Trabalho",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_039",
+              "materiaId": "mat_005",
+              "nome": "Princípios e fontes do direito do trabalho",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_040",
+              "materiaId": "mat_005",
+              "nome": "Relação de trabalho e relação de emprego",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_041",
+              "materiaId": "mat_005",
+              "nome": "Contrato individual de trabalho: alteração, suspensão, interrupção e rescisão",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_042",
+              "materiaId": "mat_005",
+              "nome": "Duração do trabalho e períodos de descanso",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_043",
+              "materiaId": "mat_005",
+              "nome": "Salário e remuneração",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_044",
+              "materiaId": "mat_005",
+              "nome": "Férias, 13º salário e FGTS",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_045",
+              "materiaId": "mat_005",
+              "nome": "Organização e Competência da Justiça do Trabalho",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_046",
+              "materiaId": "mat_005",
+              "nome": "Procedimentos nos dissídios individuais",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_047",
+              "materiaId": "mat_005",
+              "nome": "Recursos no processo do trabalho",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006",
+          "nome": "Legislação e Ética na Administração Pública",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_048",
+              "materiaId": "mat_005",
+              "nome": "Ética no Setor Público: conceito na função pública e princípios fundamentais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_049",
+              "materiaId": "mat_005",
+              "nome": "Improbidade Administrativa: Lei nº 8.429/1992",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_050",
+              "materiaId": "mat_005",
+              "nome": "Processo Administrativo: Lei nº 9.784/1999",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_051",
+              "materiaId": "mat_005",
+              "nome": "Transparência e Acesso à Informação: Lei nº 12.527/2011",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_052",
+              "materiaId": "mat_005",
+              "nome": "Proteção de Dados Pessoais: LGPD (Lei nº 13.709/2018)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_007",
+          "nome": "Legislação do Sistema CFT/CRTs",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_053",
+              "materiaId": "mat_005",
+              "nome": "Lei nº 5.524/1968 (profissão de técnico industrial)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_054",
+              "materiaId": "mat_005",
+              "nome": "Decreto nº 90.922/1985 (regulamenta a Lei nº 5.524/1968)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_055",
+              "materiaId": "mat_005",
+              "nome": "Decreto nº 4.560/2002 (altera o Decreto nº 90.922/1985)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_056",
+              "materiaId": "mat_005",
+              "nome": "Lei nº 13.639/2018 (cria o CFT e os CRTs)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_008",
+          "nome": "Legislação Específica",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_057",
+              "materiaId": "mat_005",
+              "nome": "Regimento Interno do CRT-SP",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_058",
+              "materiaId": "mat_005",
+              "nome": "Resolução CFT nº 206/2022 (Código de Ética Profissional)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_059",
+              "materiaId": "mat_005",
+              "nome": "Resolução CFT nº 207/2022 (Código de Processo Ético Profissional)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_060",
+              "materiaId": "mat_005",
+              "nome": "Resolução CFT nº 208/2022 (Código de Conduta Ética dos Diretores e Conselheiros)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_061",
+              "materiaId": "mat_005",
+              "nome": "Resolução CFT nº 288/2025 (fiscalização, procedimentos por infração e penalidades)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": null,
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": {
+      "groups": [
+        {
+          "id": "g_conhecimentos_basicos",
+          "name": "Conhecimentos Básicos",
+          "useBlockData": true,
+          "minPts": 10,
+          "items": [
+            {
+              "id": "mat_001",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_002",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_003",
+              "q": "X",
+              "w": "Y"
+            }
+          ],
+          "q": 40,
+          "w": 1
+        },
+        {
+          "id": "g_conhecimentos_complementares",
+          "name": "Conhecimentos Complementares",
+          "useBlockData": true,
+          "minPts": 8,
+          "items": [
+            {
+              "id": "mat_004",
+              "q": "X",
+              "w": "Y"
+            }
+          ],
+          "q": 30,
+          "w": 1
+        },
+        {
+          "id": "g_conhecimentos_especificos",
+          "name": "Conhecimentos Específicos",
+          "useBlockData": true,
+          "minPts": 12,
+          "items": [
+            {
+              "id": "mat_005",
+              "q": "X",
+              "w": "Y"
+            }
+          ],
+          "q": 50,
+          "w": 1
+        },
+        {
+          "id": "g_redacao",
+          "name": "Redação",
+          "type": "redacao",
+          "items": [],
+          "q": 0,
+          "w": 1,
+          "pts": 10,
+          "redType": "Texto dissertativo de 20 a 30 linhas",
+          "isClassificatoriaOnly": false,
+          "minPts": 5
+        }
+      ]
+    }
+  }
+}
