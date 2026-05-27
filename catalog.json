@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-05-27T19:37:02.984Z",
+  "atualizadoEm": "2026-05-27T19:42:44.120Z",
   "editais": [
     {
       "id": "policial-rodoviario-federal-prf-2021",
@@ -124,11 +124,10 @@
       "titulo": "Sedes/DF (Sedes/DF)",
       "orgao": "Sedes/DF (Sedes/DF)",
       "banca": "QUADRIX",
-      "cargo": "EDAS Direito e Legislação / Nível Médio",
+      "cargo": "EDAS Direito e Legislação / Nível Superior",
       "ano": 2026,
       "tags": [
-        "edital pronto",
-        "nivel medio"
+        "edital pronto"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
       "imagem": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
@@ -562,23 +561,6 @@
       "atualizadoEm": "2026-05-27T12:39:12.000Z"
     },
     {
-      "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
-      "titulo": "Ministério da Fazenda (Ministério da Fazenda)",
-      "orgao": "Ministério da Fazenda (Ministério da Fazenda)",
-      "banca": "ESAF",
-      "cargo": "Assistente Técnico-Administrativo / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
-      "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
-      "arquivoNome": "template_minist_rio_da_fazenda.json",
-      "atualizadoEm": "2026-05-27T12:38:53.000Z"
-    },
-    {
       "id": "assistente-em-administracao-ifpi",
       "titulo": "IFPI (IFPI)",
       "orgao": "IFPI (IFPI)",
@@ -593,6 +575,23 @@
       "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
       "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
       "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
+      "atualizadoEm": "2026-05-27T12:38:53.000Z"
+    },
+    {
+      "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
+      "titulo": "Ministério da Fazenda (Ministério da Fazenda)",
+      "orgao": "Ministério da Fazenda (Ministério da Fazenda)",
+      "banca": "ESAF",
+      "cargo": "Assistente Técnico-Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
+      "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
+      "arquivoNome": "template_minist_rio_da_fazenda.json",
       "atualizadoEm": "2026-05-27T12:38:53.000Z"
     },
     {
