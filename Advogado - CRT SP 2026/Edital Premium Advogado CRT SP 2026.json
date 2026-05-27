@@ -1196,7 +1196,9 @@
           "isClassificatoriaOnly": false,
           "minPts": 5
         }
-      ]
+      ],
+      "scoringMode": "cebraspe",
+      "errorPenalty": 1
     }
   }
 }

@@ -1036,7 +1036,9 @@
           "q": 50,
           "w": 1
         }
-      ]
+      ],
+      "scoringMode": "cebraspe",
+      "errorPenalty": 1
     }
   }
 }
