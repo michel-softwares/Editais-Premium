@@ -1,46 +1,12 @@
 {
-  "atualizadoEm": "2026-05-27T12:34:25.925Z",
+  "atualizadoEm": "2026-05-27T13:12:36.828Z",
   "editais": [
     {
-      "id": "guarda-civil-municipal-2026",
-      "titulo": "",
-      "orgao": "",
-      "banca": "A definir",
-      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "",
-      "imagem": "Guarda%20Civil%20Municipal%202026/card_premium_gcm_campina_grande.png",
-      "arquivo": "Guarda%20Civil%20Municipal%202026/Edital%20Premium%20Track%20Concursos%20Guarda%20Civil%20Municipal%20PMCG%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Guarda Civil Municipal PMCG 2026.json",
-      "atualizadoEm": "2026-05-27T12:34:06.000Z"
-    },
-    {
-      "id": "cadete-pm-pm-sp-2026",
-      "titulo": "Polícia Militar do Estado de São Paulo",
-      "orgao": "Polícia Militar do Estado de São Paulo",
-      "banca": "VUNESP",
-      "cargo": "Cadete PM (Oficial - CFO) - PM SP / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Cadete%20PM%20-%20PM%20SP%202026/card_premium_pm_sp.png",
-      "arquivo": "Cadete%20PM%20-%20PM%20SP%202026/Edital%20Premium%20Track%20Concursos%20Cadete%20PM%20PM%20SP%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Cadete PM PM SP 2026.json",
-      "atualizadoEm": "2026-05-24T04:00:00.000Z"
-    },
-    {
       "id": "acai-ibge-2021",
-      "titulo": "Instituto Brasileiro de Geografia e Estatística",
-      "orgao": "Instituto Brasileiro de Geografia e Estatística",
+      "titulo": "IBGE (IBGE)",
+      "orgao": "IBGE (IBGE)",
       "banca": "IBFC",
-      "cargo": "Agente Censitário Administração e Informática - IBGE / Nível Médio",
+      "cargo": "Agente Censitário Administração e Informática / Nível Médio",
       "ano": 2021,
       "tags": [
         "edital pronto",
@@ -50,14 +16,14 @@
       "imagem": "ACAI%20-%20IBGE%202021/card_premium_ibge.png",
       "arquivo": "ACAI%20-%20IBGE%202021/Edital%20Premium%20Track%20Concursos%20ACAI%20IBGE%202021.json",
       "arquivoNome": "Edital Premium Track Concursos ACAI IBGE 2021.json",
-      "atualizadoEm": "2026-05-23T12:43:25.000Z"
+      "atualizadoEm": "2026-05-27T12:44:35.000Z"
     },
     {
       "id": "bombeiro-militar-combatente-cbm-al-2026",
-      "titulo": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS",
-      "orgao": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS",
-      "banca": "A definir",
-      "cargo": "Bombeiro Militar – Combatente - CBM/AL / Nível Médio",
+      "titulo": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS (CBM/AL)",
+      "orgao": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS (CBM/AL)",
+      "banca": "Cebraspe",
+      "cargo": "Bombeiro Militar – Combatente / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
@@ -68,14 +34,31 @@
       "imagem": "Bombeiro%20Militar%20%E2%80%93%20Combatente%20-%20CBM%20AL%202026/card_premium_cbm_al.png",
       "arquivo": "Bombeiro%20Militar%20%E2%80%93%20Combatente%20-%20CBM%20AL%202026/Edital%20Premium%20Track%20Concursos%20Bombeiro%20Militar%20%E2%80%93%20Combatente%20CBM%20AL%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Bombeiro Militar – Combatente CBM AL 2026.json",
-      "atualizadoEm": "2026-05-22T18:59:44.000Z"
+      "atualizadoEm": "2026-05-27T12:39:19.000Z"
+    },
+    {
+      "id": "cadete-espcex-2026",
+      "titulo": "EsPCEx (EsPCEx)",
+      "orgao": "EsPCEx (EsPCEx)",
+      "banca": "VUNESP",
+      "cargo": "Cadete / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Cadete%20-%20EsPCEx%202026/card_premium_espcex.png",
+      "arquivo": "Cadete%20-%20EsPCEx%202026/Edital%20Premium%20EsPCEx_Track%20Concursos.json",
+      "arquivoNome": "Edital Premium EsPCEx_Track Concursos.json",
+      "atualizadoEm": "2026-05-27T12:39:19.000Z"
     },
     {
       "id": "oficial-de-estado-maior-cbm-al-2026",
-      "titulo": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS",
-      "orgao": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS",
-      "banca": "A definir",
-      "cargo": "Oficial de Estado-Maior - CBM/AL / Nível Médio",
+      "titulo": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS (CBM/AL)",
+      "orgao": "CORPO DE BOMBEIROS MILITAR DO ESTADO DE ALAGOAS (CBM/AL)",
+      "banca": "Cebraspe",
+      "cargo": "Oficial de Estado-Maior / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
@@ -86,63 +69,81 @@
       "imagem": "Oficial%20de%20Estado-Maior%20-%20CBM%20AL%202026/card_premium_cbm_al.png",
       "arquivo": "Oficial%20de%20Estado-Maior%20-%20CBM%20AL%202026/Edital%20Premium%20Track%20Concursos%20Oficial%20de%20Estado-Maior%20CBM%20AL%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Oficial de Estado-Maior CBM AL 2026.json",
-      "atualizadoEm": "2026-05-22T18:59:44.000Z"
+      "atualizadoEm": "2026-05-27T12:39:19.000Z"
     },
     {
-      "id": "analista-de-transito-engenharia-civil-detran-al-2026",
-      "titulo": "DEPARTAMENTO ESTADUAL DE TRÂNSITO DE ALAGOAS",
-      "orgao": "DEPARTAMENTO ESTADUAL DE TRÂNSITO DE ALAGOAS",
-      "banca": "A definir",
-      "cargo": "Analista de Trânsito – Engenharia Civil - DETRAN/AL / Nível Superior",
+      "id": "agente-social-sedes-df-2026",
+      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
+      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
+      "banca": "QUADRIX",
+      "cargo": "Agente Social / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
-        "cebraspe"
+        "nivel medio"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20-%20DETRAN%20AL%202026/card_premium_detran_al.png",
-      "arquivo": "Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20-%20DETRAN%20AL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20DETRAN%20AL%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Analista de Trânsito – Engenharia Civil DETRAN AL 2026.json",
-      "atualizadoEm": "2026-05-22T13:59:24.000Z"
+      "imagem": "Agente%20Social%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
+      "arquivo": "Agente%20Social%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20Agente%20Social%20Sedes%20DF%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Agente Social Sedes DF 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:18.000Z"
     },
     {
-      "id": "engenheiro-civil-projetista-campina-grande-pb-2026",
-      "titulo": "Prefeitura Municipal de Campina Grande",
-      "orgao": "Prefeitura Municipal de Campina Grande",
-      "banca": "IDECAN",
-      "cargo": "Engenheiro Civil - Projetista - Campina Grande PB / Nível Superior",
+      "id": "edas-direito-e-legislacao-sedes-df-2026",
+      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
+      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
+      "banca": "QUADRIX",
+      "cargo": "EDAS Direito e Legislação / Nível Superior",
       "ano": 2026,
       "tags": [
         "edital pronto"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Engenheiro%20Civil%20-%20Projetista%20-%20Campina%20Grande%20PB%202026/card_premium_prefeitura_de_campina_grande_pb.png",
-      "arquivo": "Engenheiro%20Civil%20-%20Projetista%20-%20Campina%20Grande%20PB%202026/Edital%20Premium%20Track%20Concursos%20Engenheiro%20Civil%20-%20Projetista%20Campina%20Grande%20PB%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Engenheiro Civil - Projetista Campina Grande PB 2026.json",
-      "atualizadoEm": "2026-05-22T13:59:24.000Z"
+      "imagem": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
+      "arquivo": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20Sedes%20DF%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos EDAS Direito e Legislação Sedes DF 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:18.000Z"
     },
     {
-      "id": "analista-legislativo-engenharia-civil-alece-2026",
-      "titulo": "Assembleia Legislativa do Estado do Ceará",
-      "orgao": "Assembleia Legislativa do Estado do Ceará",
+      "id": "guarda-civil-municipal-2026",
+      "titulo": "GCM Campina Grande (GCM Campina Grande)",
+      "orgao": "GCM Campina Grande (GCM Campina Grande)",
       "banca": "IDECAN",
-      "cargo": "Analista Legislativo – Engenharia Civil - ALECE / Nível Superior",
+      "cargo": "Guarda Civil Municipal / Nível Médio",
       "ano": 2026,
       "tags": [
-        "edital pronto"
+        "edital pronto",
+        "nivel medio"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20Legislativo%20%E2%80%93%20Engenharia%20Civil%20-%20ALECE%202026/card_premium_alece.png",
-      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Engenharia%20Civil%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Engenharia%20Civil%20ALECE%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Engenharia Civil ALECE 2026.json",
-      "atualizadoEm": "2026-05-22T13:13:57.000Z"
+      "imagem": "Guarda%20Civil%20Municipal%202026/card_premium_gcm_campina_grande.png",
+      "arquivo": "Guarda%20Civil%20Municipal%202026/Edital%20Premium%20Track%20Concursos%20Guarda%20Civil%20Municipal%20PMCG%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Guarda Civil Municipal PMCG 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:18.000Z"
+    },
+    {
+      "id": "tecnico-administrativo-sedes-df-2026",
+      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
+      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal (Sedes/DF)",
+      "banca": "QUADRIX",
+      "cargo": "Técnico Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
+      "arquivo": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Administrativo%20Sedes%20DF%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Administrativo Sedes DF 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:18.000Z"
     },
     {
       "id": "analista-legislativo-jornalismo-alece-2026",
-      "titulo": "Assembleia Legislativa do Estado do Ceará",
-      "orgao": "Assembleia Legislativa do Estado do Ceará",
+      "titulo": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "orgao": "Assembleia Legislativa do Estado do Ceará (ALECE)",
       "banca": "IDECAN",
-      "cargo": "Analista Legislativo – Jornalismo - ALECE / Nível Superior",
+      "cargo": "Analista Legislativo – Jornalismo / Nível Superior",
       "ano": 2026,
       "tags": [
         "edital pronto"
@@ -151,30 +152,47 @@
       "imagem": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/card_premium_alece.png",
       "arquivo": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Jornalismo%20ALECE%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Jornalismo ALECE 2026.json",
-      "atualizadoEm": "2026-05-22T12:51:19.000Z"
+      "atualizadoEm": "2026-05-27T12:39:17.000Z"
     },
     {
-      "id": "analista-legislativo-desenvolvedor-de-software-alece-2026",
-      "titulo": "Assembleia Legislativa do Estado do Ceará",
-      "orgao": "Assembleia Legislativa do Estado do Ceará",
+      "id": "cadete-pm-pm-sp-2026",
+      "titulo": "Polícia Militar do Estado de São Paulo (PM SP)",
+      "orgao": "Polícia Militar do Estado de São Paulo (PM SP)",
+      "banca": "Vunesp",
+      "cargo": "Cadete PM (Oficial - CFO) / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Cadete%20PM%20-%20PM%20SP%202026/card_premium_pm_sp.png",
+      "arquivo": "Cadete%20PM%20-%20PM%20SP%202026/Edital%20Premium%20Track%20Concursos%20Cadete%20PM%20PM%20SP%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Cadete PM PM SP 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:17.000Z"
+    },
+    {
+      "id": "engenheiro-civil-projetista-campina-grande-pb-2026",
+      "titulo": "Prefeitura Municipal de Campina Grande (Prefeitura de Campina Grande PB)",
+      "orgao": "Prefeitura Municipal de Campina Grande (Prefeitura de Campina Grande PB)",
       "banca": "IDECAN",
-      "cargo": "Analista Legislativo – Desenvolvedor de Software - ALECE / Nível Superior",
+      "cargo": "Engenheiro Civil - Projetista / Nível Superior",
       "ano": 2026,
       "tags": [
         "edital pronto"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20-%20ALECE%202026/card_premium_alece.png",
-      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20ALECE%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Desenvolvedor de Software ALECE 2026.json",
-      "atualizadoEm": "2026-05-21T20:21:31.000Z"
+      "imagem": "Engenheiro%20Civil%20-%20Projetista%20-%20Campina%20Grande%20PB%202026/card_premium_prefeitura_de_campina_grande_pb.png",
+      "arquivo": "Engenheiro%20Civil%20-%20Projetista%20-%20Campina%20Grande%20PB%202026/Edital%20Premium%20Track%20Concursos%20Engenheiro%20Civil%20-%20Projetista%20Campina%20Grande%20PB%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Engenheiro Civil - Projetista Campina Grande PB 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:17.000Z"
     },
     {
       "id": "tecnico-legislativo-alece-2026",
-      "titulo": "Assembleia Legislativa do Estado do Ceará",
-      "orgao": "Assembleia Legislativa do Estado do Ceará",
+      "titulo": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "orgao": "Assembleia Legislativa do Estado do Ceará (ALECE)",
       "banca": "IDECAN",
-      "cargo": "Técnico Legislativo - ALECE / Nível Médio",
+      "cargo": "Técnico Legislativo / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
@@ -184,14 +202,129 @@
       "imagem": "T%C3%A9cnico%20Legislativo%20-%20ALECE%202026/card_premium_alece.png",
       "arquivo": "T%C3%A9cnico%20Legislativo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Legislativo%20ALECE%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Técnico Legislativo ALECE 2026.json",
-      "atualizadoEm": "2026-05-21T20:21:31.000Z"
+      "atualizadoEm": "2026-05-27T12:39:17.000Z"
+    },
+    {
+      "id": "analista-legislativo-desenvolvedor-de-software-alece-2026",
+      "titulo": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "orgao": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "banca": "IDECAN",
+      "cargo": "Analista Legislativo – Desenvolvedor de Software / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20-%20ALECE%202026/card_premium_alece.png",
+      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Desenvolvedor%20de%20Software%20ALECE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Desenvolvedor de Software ALECE 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:16.000Z"
+    },
+    {
+      "id": "analista-legislativo-engenharia-civil-alece-2026",
+      "titulo": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "orgao": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "banca": "IDECAN",
+      "cargo": "Analista Legislativo – Engenharia Civil / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20Legislativo%20%E2%80%93%20Engenharia%20Civil%20-%20ALECE%202026/card_premium_alece.png",
+      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Engenharia%20Civil%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Engenharia%20Civil%20ALECE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Engenharia Civil ALECE 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:16.000Z"
+    },
+    {
+      "id": "tecnico-judiciario-tjce",
+      "titulo": "Tribunal de Justiça do Ceará (TJCE)",
+      "orgao": "Tribunal de Justiça do Ceará (TJCE)",
+      "banca": "FCC",
+      "cargo": "Técnico Judiciário / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJCE/card_premium_tjce.png",
+      "arquivo": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJCE/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Judici%C3%A1rio%20TJCE.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Judiciário TJCE.json",
+      "atualizadoEm": "2026-05-27T12:39:16.000Z"
+    },
+    {
+      "id": "analista-de-regulacao-direito-arsal-2026",
+      "titulo": "AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DO ESTADO DE ALAGOAS (ARSAL)",
+      "orgao": "AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DO ESTADO DE ALAGOAS (ARSAL)",
+      "banca": "Cebraspe",
+      "cargo": "Analista de Regulação - Direito / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
+      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:15.000Z"
+    },
+    {
+      "id": "analista-de-transito-engenharia-civil-detran-al-2026",
+      "titulo": "DEPARTAMENTO ESTADUAL DE TRÂNSITO DE ALAGOAS (DETRAN/AL)",
+      "orgao": "DEPARTAMENTO ESTADUAL DE TRÂNSITO DE ALAGOAS (DETRAN/AL)",
+      "banca": "Cebraspe",
+      "cargo": "Analista de Trânsito – Engenharia Civil / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20-%20DETRAN%20AL%202026/card_premium_detran_al.png",
+      "arquivo": "Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20-%20DETRAN%20AL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Tr%C3%A2nsito%20%E2%80%93%20Engenharia%20Civil%20DETRAN%20AL%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Trânsito – Engenharia Civil DETRAN AL 2026.json",
+      "atualizadoEm": "2026-05-27T12:39:15.000Z"
+    },
+    {
+      "id": "auditor-fiscal-sefaz-ce",
+      "titulo": "SEFAZ CE (SEFAZ CE)",
+      "orgao": "SEFAZ CE (SEFAZ CE)",
+      "banca": "FCC",
+      "cargo": "Auditor Fiscal / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
+      "arquivo": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20SEFAZ%20CE.json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal SEFAZ CE.json",
+      "atualizadoEm": "2026-05-27T12:39:15.000Z"
+    },
+    {
+      "id": "auditor-fiscal-ti-sefaz-ce",
+      "titulo": "SEFAZ CE (SEFAZ CE)",
+      "orgao": "SEFAZ CE (SEFAZ CE)",
+      "banca": "FCC",
+      "cargo": "Auditor Fiscal - TI / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
+      "arquivo": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20TI%20SEFAZ%20CE.json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal TI SEFAZ CE.json",
+      "atualizadoEm": "2026-05-27T12:39:15.000Z"
     },
     {
       "id": "agente-de-apoio-mpes-2026",
-      "titulo": "Ministério Público do Estado do Espírito Santo",
-      "orgao": "Ministério Público do Estado do Espírito Santo",
+      "titulo": "Ministério Público do Estado do Espírito Santo (MPES)",
+      "orgao": "Ministério Público do Estado do Espírito Santo (MPES)",
       "banca": "FGV",
-      "cargo": "Agente de Apoio - MPES / Nível Médio",
+      "cargo": "Agente de Apoio / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
@@ -202,182 +335,14 @@
       "imagem": "Agente%20de%20Apoio%20-%20MPES%202026/card_premium_mpes.png",
       "arquivo": "Agente%20de%20Apoio%20-%20MPES%202026/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20MPES%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Agente de Apoio MPES 2026.json",
-      "atualizadoEm": "2026-05-21T18:20:25.000Z"
-    },
-    {
-      "id": "escrevente-tecnico-judiciario-tjsp-2025",
-      "titulo": "Tribunal de Justiça do Estado de São Paulo",
-      "orgao": "Tribunal de Justiça do Estado de São Paulo",
-      "banca": "VUNESP",
-      "cargo": "Escrevente Técnico Judiciário - TJSP / Nível Médio",
-      "ano": 2025,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Escrevente%20T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJSP%202025/card_premium_tjsp.png",
-      "arquivo": "Escrevente%20T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJSP%202025/Edital%20Premium%20Track%20Concursos%20Escrevente%20T%C3%A9cnico%20Judici%C3%A1rio%20TJSP%202025.json",
-      "arquivoNome": "Edital Premium Track Concursos Escrevente Técnico Judiciário TJSP 2025.json",
-      "atualizadoEm": "2026-05-21T18:20:25.000Z"
-    },
-    {
-      "id": "analista-de-regulacao-direito-arsal-2026",
-      "titulo": "AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DO ESTADO DE ALAGOAS",
-      "orgao": "AGÊNCIA REGULADORA DE SERVIÇOS PÚBLICOS DO ESTADO DE ALAGOAS",
-      "banca": "A definir",
-      "cargo": "Analista de Regulação - Direito - ARSAL / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
-      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
-      "atualizadoEm": "2026-05-21T17:17:22.000Z"
-    },
-    {
-      "id": "perito-criminal-informatica-pcdf-2016",
-      "titulo": "Polícia Civil do Distrito Federal",
-      "orgao": "Polícia Civil do Distrito Federal",
-      "banca": "IADES",
-      "cargo": "Perito Criminal - Informática - PCDF / Nível Superior",
-      "ano": 2016,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Perito%20Criminal%20-%20Inform%C3%A1tica%20-%20PCDF%202016/card_premium_pcdf.png",
-      "arquivo": "Perito%20Criminal%20-%20Inform%C3%A1tica%20-%20PCDF%202016/Edital%20Premium%20Track%20Concursos%20Perito%20Criminal%20-%20Inform%C3%A1tica%20PCDF%202016.json",
-      "arquivoNome": "Edital Premium Track Concursos Perito Criminal - Informática PCDF 2016.json",
-      "atualizadoEm": "2026-05-21T14:51:13.000Z"
-    },
-    {
-      "id": "agente-social-sedes-df-2026",
-      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "banca": "QUADRIX",
-      "cargo": "Agente Social - Sedes/DF / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20Social%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
-      "arquivo": "Agente%20Social%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20Agente%20Social%20Sedes%20DF%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Agente Social Sedes DF 2026.json",
-      "atualizadoEm": "2026-05-21T14:13:27.000Z"
-    },
-    {
-      "id": "edas-direito-e-legislacao-sedes-df-2026",
-      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "banca": "QUADRIX",
-      "cargo": "EDAS Direito e Legislação - Sedes/DF / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
-      "arquivo": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20Sedes%20DF%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos EDAS Direito e Legislação Sedes DF 2026.json",
-      "atualizadoEm": "2026-05-21T14:13:27.000Z"
-    },
-    {
-      "id": "tecnico-administrativo-sedes-df-2026",
-      "titulo": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "orgao": "Secretaria de Estado de Desenvolvimento Social do Distrito Federal",
-      "banca": "QUADRIX",
-      "cargo": "Técnico Administrativo - Sedes DF / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/card_premium_sedes_df.png",
-      "arquivo": "T%C3%A9cnico%20Administrativo%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Administrativo%20Sedes%20DF%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Técnico Administrativo Sedes DF 2026.json",
-      "atualizadoEm": "2026-05-21T14:13:27.000Z"
-    },
-    {
-      "id": "tecnico-judiciario-tjce",
-      "titulo": "Tribunal de Justiça do Ceará",
-      "orgao": "Tribunal de Justiça do Ceará",
-      "banca": "FCC",
-      "cargo": "Técnico Judiciário - TJCE / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJCE/card_premium_tjce.png",
-      "arquivo": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJCE/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Judici%C3%A1rio%20TJCE.json",
-      "arquivoNome": "Edital Premium Track Concursos Técnico Judiciário TJCE.json",
-      "atualizadoEm": "2026-05-21T13:36:44.000Z"
-    },
-    {
-      "id": "policial-rodoviario-federal-prf-2021",
-      "titulo": "Polícia Rodoviária Federal",
-      "orgao": "Polícia Rodoviária Federal",
-      "banca": "CEBRASPE",
-      "cargo": "Policial Rodoviário Federal - PRF / Nível Superior",
-      "ano": 2021,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/card_premium_prf.png",
-      "arquivo": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/Edital%20Premium%20Track%20Concursos%20Policial%20Rodovi%C3%A1rio%20Federal%20PRF.json",
-      "arquivoNome": "Edital Premium Track Concursos Policial Rodoviário Federal PRF.json",
-      "atualizadoEm": "2026-05-16T12:11:01.000Z"
-    },
-    {
-      "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
-      "titulo": "Ministério da Fazenda",
-      "orgao": "Ministério da Fazenda",
-      "banca": "ESAF",
-      "cargo": "Assistente Técnico-Administrativo (ATA) - Ministério da Fazenda / Nível Médio",
-      "ano": 2014,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
-      "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
-      "arquivoNome": "template_minist_rio_da_fazenda.json",
-      "atualizadoEm": "2026-05-14T20:20:50.000Z"
-    },
-    {
-      "id": "agente-administrativo-saae-passos-mg",
-      "titulo": "SAAE Passos - MG",
-      "orgao": "SAAE Passos - MG",
-      "banca": "IBGP",
-      "cargo": "Agente Administrativo - SAAE / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/Captura%20de%20tela%202026-05-09%20165459.png",
-      "arquivo": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/P%C3%B3s-edital%20Agente%20Administrativo%20SAAE%20Passos-MG.json",
-      "arquivoNome": "Pós-edital Agente Administrativo SAAE Passos-MG.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+      "atualizadoEm": "2026-05-27T12:39:14.000Z"
     },
     {
       "id": "analista-de-transito-administracao-detran-al",
-      "titulo": "DETRAN AL",
-      "orgao": "DETRAN AL",
+      "titulo": "DETRAN AL (Detran AL)",
+      "orgao": "DETRAN AL (Detran AL)",
       "banca": "CEBRASPE",
-      "cargo": "Analista de Trânsito especialidade Administração - DETRAN AL / Nível Superior",
+      "cargo": "ANALISTA DE TRÂNSITO - ADMINISTRAÇÃO / Nível Superior",
       "ano": 2026,
       "tags": [
         "edital pronto",
@@ -387,130 +352,14 @@
       "imagem": "Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20-%20DETRAN%20AL/Captura%20de%20tela%202026-05-10%20162300.png",
       "arquivo": "Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20-%20DETRAN%20AL/Edital%20Premium%20Analista%20de%20Tr%C3%A2nsito%20Administra%C3%A7%C3%A3o%20DETRAN%20AL.json",
       "arquivoNome": "Edital Premium Analista de Trânsito Administração DETRAN AL.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "assistente-administrativo-creci-ba",
-      "titulo": "CRECI BA",
-      "orgao": "CRECI BA",
-      "banca": "QUADRIX",
-      "cargo": "Assistente Administrativo - CRECI BA / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Assistente%20Administrativo%20-%20CRECI%20BA/Captura%20de%20tela%202026-05-09%20201103.png",
-      "arquivo": "Assistente%20Administrativo%20-%20CRECI%20BA/Edital%20Premium%20Assistente%20Administrativo%20CRECI%20BA.json",
-      "arquivoNome": "Edital Premium Assistente Administrativo CRECI BA.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "assistente-em-administracao-ifpi",
-      "titulo": "IFPI",
-      "orgao": "IFPI",
-      "banca": "IFPI",
-      "cargo": "Assistente em Administração - IFPI / Nível Médio",
-      "ano": 2022,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
-      "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
-      "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "auditor-fiscal-sefaz-ce",
-      "titulo": "SEFAZ CE",
-      "orgao": "SEFAZ CE",
-      "banca": "FCC",
-      "cargo": "Auditor Fiscal - SEFAZ CE / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
-      "arquivo": "Auditor%20Fiscal%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20SEFAZ%20CE.json",
-      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal SEFAZ CE.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "auditor-fiscal-ti-sefaz-ce",
-      "titulo": "SEFAZ CE",
-      "orgao": "SEFAZ CE",
-      "banca": "FCC",
-      "cargo": "Auditor Fiscal TI - SEFAZ CE / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Captura%20de%20tela%202026-05-11%20165701.png",
-      "arquivo": "Auditor%20Fiscal%20TI%20-%20SEFAZ%20CE/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20TI%20SEFAZ%20CE.json",
-      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal TI SEFAZ CE.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "cadete-espcex-2026",
-      "titulo": "EsPCEx",
-      "orgao": "EsPCEx",
-      "banca": "VUNESP",
-      "cargo": "Cadete - EsPCEx 2026 / mínimo 17 anos e máximo 22 anos",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Cadete%20-%20EsPCEx%202026/card_premium_espcex.png",
-      "arquivo": "Cadete%20-%20EsPCEx%202026/Edital%20Premium%20EsPCEx_Track%20Concursos.json",
-      "arquivoNome": "Edital Premium EsPCEx_Track Concursos.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "delegado-pcdf",
-      "titulo": "Polícia Civil DF",
-      "orgao": "Polícia Civil DF",
-      "banca": "CEBRASPE",
-      "cargo": "Delegado - PCDF / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Delegado%20-%20PCDF/Captura%20de%20tela%202026-05-10%20162356.png",
-      "arquivo": "Delegado%20-%20PCDF/Edital%20Premium%20Delegado%20PCDF.json",
-      "arquivoNome": "Edital Premium Delegado PCDF.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "escriturario-banco-do-brasil",
-      "titulo": "Banco do Brasil",
-      "orgao": "Banco do Brasil",
-      "banca": "CESGRANRIO",
-      "cargo": "Escriturário - Banco do Brasil / Nível Médio",
-      "ano": 2022,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
-      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
-      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+      "atualizadoEm": "2026-05-27T12:39:14.000Z"
     },
     {
       "id": "gcm-maceio",
-      "titulo": "GCM Maceió",
-      "orgao": "GCM Maceió",
-      "banca": "COPEVE UFAL",
-      "cargo": "Guarda Municipal - Prefeitura de Maceió / Nível Médio",
+      "titulo": "GCM Maceió (GCM Maceió)",
+      "orgao": "GCM Maceió (GCM Maceió)",
+      "banca": "Copeve",
+      "cargo": "Guarda Municipal / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
@@ -520,14 +369,14 @@
       "imagem": "GCM%20-%20Macei%C3%B3/card_premium_gcm_macei.png",
       "arquivo": "GCM%20-%20Macei%C3%B3/GCM%20Maceio.json",
       "arquivoNome": "GCM Maceio.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+      "atualizadoEm": "2026-05-27T12:39:14.000Z"
     },
     {
       "id": "soldado-pm-al",
-      "titulo": "Polícia Militar AL",
-      "orgao": "Polícia Militar AL",
+      "titulo": "Polícia Militar AL (PM AL)",
+      "orgao": "Polícia Militar AL (PM AL)",
       "banca": "CEBRASPE",
-      "cargo": "Soldado - PMAL / Nível Médio",
+      "cargo": "Soldado / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
@@ -538,48 +387,66 @@
       "imagem": "Soldado%20-%20PM%20AL/card_premium_pm_al.png",
       "arquivo": "Soldado%20-%20PM%20AL/Edital%20Premium%20Soldado%20PM%20AL_Track%20Concursos.json",
       "arquivoNome": "Edital Premium Soldado PM AL_Track Concursos.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+      "atualizadoEm": "2026-05-27T12:39:14.000Z"
     },
     {
-      "id": "soldado-pm-mg",
-      "titulo": "Polícia Militar MG",
-      "orgao": "Polícia Militar MG",
-      "banca": "A definir",
-      "cargo": "Soldado - PM MG / Nível Superior",
+      "id": "agente-administrativo-saae-passos-mg",
+      "titulo": "SAAE Passos - MG (SAAE)",
+      "orgao": "SAAE Passos - MG (SAAE)",
+      "banca": "IBGP",
+      "cargo": "Agente Administrativo / Nível Médio",
       "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Soldado%20-%20PM%20MG/card_premium_pol_cia_militar_mg.png",
-      "arquivo": "Soldado%20-%20PM%20MG/Soldado_Pol%C3%ADcia_Militar_MG.json",
-      "arquivoNome": "Soldado_Polícia_Militar_MG.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
-    },
-    {
-      "id": "terceiro-sargento-eags-administracao",
-      "titulo": "Força Aérea Brasileira",
-      "orgao": "Força Aérea Brasileira",
-      "banca": "EEAR",
-      "cargo": "Terceiro-Sargento - EAGS Administração / Nível Médio Técnico",
-      "ano": 2025,
       "tags": [
         "edital pronto",
         "nivel medio"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/card_premium_eags.png",
-      "arquivo": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/Edital%20Premium%20EAGS%20Administra%C3%A7%C3%A3o.json",
-      "arquivoNome": "Edital Premium EAGS Administração.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+      "imagem": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/Captura%20de%20tela%202026-05-09%20165459.png",
+      "arquivo": "Agente%20Administrativo%20-%20SAAE%20PASSOS%20MG/P%C3%B3s-edital%20Agente%20Administrativo%20SAAE%20Passos-MG.json",
+      "arquivoNome": "Pós-edital Agente Administrativo SAAE Passos-MG.json",
+      "atualizadoEm": "2026-05-27T12:39:13.000Z"
+    },
+    {
+      "id": "assistente-administrativo-creci-ba",
+      "titulo": "CRECI BA (CRECI BA)",
+      "orgao": "CRECI BA (CRECI BA)",
+      "banca": "QUADRIX",
+      "cargo": "Assistente Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20Administrativo%20-%20CRECI%20BA/Captura%20de%20tela%202026-05-09%20201103.png",
+      "arquivo": "Assistente%20Administrativo%20-%20CRECI%20BA/Edital%20Premium%20Assistente%20Administrativo%20CRECI%20BA.json",
+      "arquivoNome": "Edital Premium Assistente Administrativo CRECI BA.json",
+      "atualizadoEm": "2026-05-27T12:39:13.000Z"
+    },
+    {
+      "id": "delegado-pcdf",
+      "titulo": "Polícia Civil DF (PCDF)",
+      "orgao": "Polícia Civil DF (PCDF)",
+      "banca": "CEBRASPE",
+      "cargo": "Delegado / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Delegado%20-%20PCDF/Captura%20de%20tela%202026-05-10%20162356.png",
+      "arquivo": "Delegado%20-%20PCDF/Edital%20Premium%20Delegado%20PCDF.json",
+      "arquivoNome": "Edital Premium Delegado PCDF.json",
+      "atualizadoEm": "2026-05-27T12:39:13.000Z"
     },
     {
       "id": "tecnico-do-seguro-social-inss",
-      "titulo": "INSS",
-      "orgao": "INSS",
+      "titulo": "INSS (INSS)",
+      "orgao": "INSS (INSS)",
       "banca": "CEBRASPE",
       "cargo": "Técnico do Seguro Social / Nível Médio",
-      "ano": 2022,
+      "ano": 2026,
       "tags": [
         "edital pronto",
         "nivel medio",
@@ -590,14 +457,150 @@
       "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/card_premium_inss.png",
       "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
       "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
-      "atualizadoEm": "2026-05-14T18:28:57.000Z"
+      "atualizadoEm": "2026-05-27T12:39:13.000Z"
+    },
+    {
+      "id": "soldado-pm-mg",
+      "titulo": "Polícia Militar MG (Polícia Militar MG)",
+      "orgao": "Polícia Militar MG (Polícia Militar MG)",
+      "banca": "PM MG",
+      "cargo": "Soldado Combatente / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Soldado%20-%20PM%20MG/card_premium_pol_cia_militar_mg.png",
+      "arquivo": "Soldado%20-%20PM%20MG/Soldado_Pol%C3%ADcia_Militar_MG.json",
+      "arquivoNome": "Soldado_Polícia_Militar_MG.json",
+      "atualizadoEm": "2026-05-27T12:39:12.000Z"
+    },
+    {
+      "id": "terceiro-sargento-eags-administracao",
+      "titulo": "EAGS (EAGS)",
+      "orgao": "EAGS (EAGS)",
+      "banca": "Força Aérea Brasileira",
+      "cargo": "Administração / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/card_premium_eags.png",
+      "arquivo": "Terceiro-Sargento%20-%20EAGS%20Administra%C3%A7%C3%A3o/Edital%20Premium%20EAGS%20Administra%C3%A7%C3%A3o.json",
+      "arquivoNome": "Edital Premium EAGS Administração.json",
+      "atualizadoEm": "2026-05-27T12:39:12.000Z"
+    },
+    {
+      "id": "escrevente-tecnico-judiciario-tjsp-2025",
+      "titulo": "TJSP (TJSP)",
+      "orgao": "TJSP (TJSP)",
+      "banca": "VUNESP",
+      "cargo": "Escrevente Técnico Judiciário / Nível Médio",
+      "ano": 2025,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escrevente%20T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJSP%202025/card_premium_tjsp.png",
+      "arquivo": "Escrevente%20T%C3%A9cnico%20Judici%C3%A1rio%20-%20TJSP%202025/Edital%20Premium%20Track%20Concursos%20Escrevente%20T%C3%A9cnico%20Judici%C3%A1rio%20TJSP%202025.json",
+      "arquivoNome": "Edital Premium Track Concursos Escrevente Técnico Judiciário TJSP 2025.json",
+      "atualizadoEm": "2026-05-27T12:39:11.000Z"
+    },
+    {
+      "id": "policial-rodoviario-federal-prf-2021",
+      "titulo": "PRF (PRF)",
+      "orgao": "PRF (PRF)",
+      "banca": "CEBRASPE",
+      "cargo": "Policial Rodoviário Federal / Nível Médio",
+      "ano": 2021,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/card_premium_prf.png",
+      "arquivo": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/Edital%20Premium%20Track%20Concursos%20Policial%20Rodovi%C3%A1rio%20Federal%20PRF.json",
+      "arquivoNome": "Edital Premium Track Concursos Policial Rodoviário Federal PRF.json",
+      "atualizadoEm": "2026-05-27T12:39:11.000Z"
+    },
+    {
+      "id": "assistente-em-administracao-ifpi",
+      "titulo": "IFPI (IFPI)",
+      "orgao": "IFPI (IFPI)",
+      "banca": "IFPI",
+      "cargo": "Assistente Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
+      "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
+      "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
+      "atualizadoEm": "2026-05-27T12:38:53.000Z"
+    },
+    {
+      "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
+      "titulo": "Ministério da Fazenda (Ministério da Fazenda)",
+      "orgao": "Ministério da Fazenda (Ministério da Fazenda)",
+      "banca": "ESAF",
+      "cargo": "Assistente Técnico-Administrativo / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
+      "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
+      "arquivoNome": "template_minist_rio_da_fazenda.json",
+      "atualizadoEm": "2026-05-27T12:38:53.000Z"
+    },
+    {
+      "id": "escriturario-banco-do-brasil",
+      "titulo": "Banco do Brasil (Banco do Brasil)",
+      "orgao": "Banco do Brasil (Banco do Brasil)",
+      "banca": "Cesgranrio",
+      "cargo": "Agente Comercial / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
+      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
+      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON",
+      "atualizadoEm": "2026-05-27T12:38:53.000Z"
+    },
+    {
+      "id": "perito-criminal-informatica-pcdf-2016",
+      "titulo": "PCDF (PCDF)",
+      "orgao": "PCDF (PCDF)",
+      "banca": "IADES",
+      "cargo": "Perito Criminal - Informática / Nível Superior",
+      "ano": 2016,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Perito%20Criminal%20-%20Inform%C3%A1tica%20-%20PCDF%202016/card_premium_pcdf.png",
+      "arquivo": "Perito%20Criminal%20-%20Inform%C3%A1tica%20-%20PCDF%202016/Edital%20Premium%20Track%20Concursos%20Perito%20Criminal%20-%20Inform%C3%A1tica%20PCDF%202016.json",
+      "arquivoNome": "Edital Premium Track Concursos Perito Criminal - Informática PCDF 2016.json",
+      "atualizadoEm": "2026-05-27T12:38:52.000Z"
     },
     {
       "id": "agente-administrativo-prf-2014",
-      "titulo": "Polícia Rodoviária Federal",
-      "orgao": "Polícia Rodoviária Federal",
+      "titulo": "PRF (PRF)",
+      "orgao": "PRF (PRF)",
       "banca": "FUNCAB",
-      "cargo": "Agente Administrativo - PRF / Nível Médio",
+      "cargo": "Agente Administrativo / Nível Médio",
       "ano": 2014,
       "tags": [
         "edital pronto",
@@ -607,7 +610,7 @@
       "imagem": "Agente%20Administrativo%20-%20PRF%202014/Captura%20de%20tela%202026-05-14%20114912.png",
       "arquivo": "Agente%20Administrativo%20-%20PRF%202014/Pr%C3%A9-edital%20PRF%20Administrativo%202014.json",
       "arquivoNome": "Pré-edital PRF Administrativo 2014.json",
-      "atualizadoEm": "2026-05-14T17:58:15.000Z"
+      "atualizadoEm": "2026-05-27T12:38:51.000Z"
     }
   ]
 }

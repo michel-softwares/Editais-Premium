@@ -68,17 +68,48 @@ function buildTags(text, folderName) {
 function parseInfo(text, folderName, jsonName) {
   const cleaned = cleanText(text);
   const lines = cleaned.split('\n');
-  const titleLine = lines[0] || folderName;
-  const cargoLine = lines[1] || titleLine;
-  const descriptionLine = lines[2] || cargoLine;
-  const bancaYearLine = lines[3] || '';
-  const simpleBancaMatch = bancaYearLine.match(/\b([A-Z]{3,}(?:\s+[A-Z]{2,})*)\s+(20\d{2})\b/);
+  
+  let titleLine = folderName;
+  let cargoLine = folderName;
+  let descriptionLine = "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar";
+  let bancaYearLine = "";
+  
+  const isPremiumFormat = text.includes("FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS");
+  
+  if (isPremiumFormat) {
+    for (const line of lines) {
+      if (line.includes("🏢 ÓRGÃO:")) {
+        titleLine = line.replace("🏢 ÓRGÃO:", "").trim();
+      } else if (line.includes("🪪 CARGO:")) {
+        cargoLine = line.replace("🪪 CARGO:", "").trim();
+      } else if (line.includes("🧾 BANCA:")) {
+        bancaYearLine = line;
+      }
+    }
+  } else {
+    titleLine = lines[0] || folderName;
+    cargoLine = lines[1] || titleLine;
+    descriptionLine = lines[2] || cargoLine;
+    bancaYearLine = lines[3] || '';
+  }
+  
   const yearMatch = bancaYearLine.match(/\b(20\d{2})\b/);
+  let banca = 'A definir';
+  
+  let cleanBancaLine = bancaYearLine
+    .replace(/🧾\s*(?:BANCA:)?/i, '')
+    .replace(/\b(20\d{2})\b/, '')
+    .replace(/:/g, '')
+    .trim();
+    
+  if (cleanBancaLine) {
+    banca = cleanBancaLine;
+  }
 
   return {
     titulo: stripDecorativePrefix(titleLine),
     orgao: stripDecorativePrefix(titleLine),
-    banca: simpleBancaMatch?.[1]?.trim() || 'A definir',
+    banca: banca,
     cargo: stripDecorativePrefix(cargoLine),
     ano: yearMatch ? Number(yearMatch[1]) : new Date().getFullYear(),
     tags: buildTags(cleaned, folderName),
