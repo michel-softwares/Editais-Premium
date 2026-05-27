@@ -1,22 +1,22 @@
 {
-  "atualizadoEm": "2026-05-25T20:02:45.918Z",
+  "atualizadoEm": "2026-05-27T11:59:05.240Z",
   "editais": [
     {
       "id": "guarda-civil-municipal-2026",
-      "titulo": "Guarda Municipal Campina Grande PB",
-      "orgao": "Guarda Municipal Campina Grande PB",
-      "banca": "IDECAN",
-      "cargo": "Guarda Civil Municipal - GCM  / Nível Médio",
+      "titulo": "",
+      "orgao": "",
+      "banca": "A definir",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
       "ano": 2026,
       "tags": [
         "edital pronto",
         "nivel medio"
       ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "descricao": "",
       "imagem": "Guarda%20Civil%20Municipal%202026/card_premium_gcm_campina_grande.png",
       "arquivo": "Guarda%20Civil%20Municipal%202026/Edital%20Premium%20Track%20Concursos%20Guarda%20Civil%20Municipal%20PMCG%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Guarda Civil Municipal PMCG 2026.json",
-      "atualizadoEm": "2026-05-25T20:02:34.000Z"
+      "atualizadoEm": "2026-05-27T11:57:31.000Z"
     },
     {
       "id": "cadete-pm-pm-sp-2026",
