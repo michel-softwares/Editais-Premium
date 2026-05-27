@@ -1,39 +1,20 @@
-==================================================
-      FICHA INFORMATIVA - EDITAL PREMIUM TRACK     
-==================================================
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS
+============================================================
 
-🏢 ÓRGÃO: Prefeitura Municipal de Campina Grande – PB (PMCG)
-🪪 CARGO: Guarda Civil Municipal (GCM)
+🏢 ÓRGÃO: Prefeitura Municipal de Campina Grande (PMCG)
+🪪 CARGO: Guarda Civil Municipal / Nível Médio
+🧾 BANCA: IDECAN 2026
+
+📝 PAINEL DE PROVAS:
+• Prova Objetiva: 40 questões, dividida em 8 disciplinas (pontuação máxima de 60 pontos | mínimo de 30 pontos para habilitação).
+• Prova Discursiva: Não há.
+
 🎓 ESCOLARIDADE: Nível Médio completo
-🧾 BANCA ORGANIZADORA: IDECAN
-📅 ANO DO CONCURSO: 2026 (Pós-Edital)
-💵 TAXA DE INSCRIÇÃO: R$ 110,00
-👥 VAGAS: 30 vagas (27 Ampla Concorrência | 03 PCD)
-📅 DATA DA PROVA: 30 de agosto de 2026 (Turno da Tarde)
-💵 REMUNERAÇÃO INICIAL: R$ 3.071,68
-   (Vencimento Base: R$ 1.535,84 + 100% Gratificação de Atividade - GEAT: R$ 1.535,84)
+👥 VAGAS: 30 vagas imediatas (27 Ampla Concorrência | 03 PCD)
+📅 DATA DA PROVA: 30/08/2026
+💵 REMUNERAÇÃO INICIAL: R$ 3.071,68 (Vencimento Base: R$ 1.535,84 + 100% Gratificação de Atividade - GEAT: R$ 1.535,84)
 
-==================================================
-       PAINEL DE PROVA OBJETIVA (TRACK)           
-==================================================
-
-A prova objetiva é composta por 40 questões, com pontuação total máxima de 60,00 pontos.
-* HABILITAÇÃO MÍNIMA GERAL: 50% dos pontos da prova (30,00 pontos)
-* CRITÉRIO DE ELIMINAÇÃO POR DISCIPLINA: Não zerar nenhuma matéria.
-
-1. Área de Conhecimentos Gerais (Peso 1.0 por questão | Mínimo: 1.0 ponto por disciplina)
-   • Língua Portuguesa: 8 questões (Mínimo: 1 questão correta)
-   • Raciocínio Lógico: 4 questões (Mínimo: 1 questão correta)
-   • História de Campina Grande - PB: 4 questões (Mínimo: 1 questão correta)
-   • Legislação e Ética no Serviço Público: 4 questões (Mínimo: 1 questão correta)
-
-2. Área de Conhecimentos Específicos (Peso 2.0 por questão | Mínimo: 2.0 pontos por disciplina)
-   • Noções de Direito Administrativo: 3 questões (Mínimo: 1 questão correta)
-   • Noções de Direito Constitucional e Direitos Humanos: 5 questões (Mínimo: 1 questão correta)
-   • Noções de Direito Penal e Processo Penal: 5 questões (Mínimo: 1 questão correta)
-   • Legislação Extravagante: 7 questões (Mínimo: 1 questão correta)
-
---------------------------------------------------
-⬇️ IMPORTAÇÃO NO APP:
-Baixe o arquivo .JSON presente nesta pasta, abra o seu aplicativo Track Concursos, clique em Importar Edital e selecione-o para ter o cronograma de estudos e o painel de simulados 100% prontos!
-==================================================
+------------------------------------------------------------
+⬇️ baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar!
+============================================================
