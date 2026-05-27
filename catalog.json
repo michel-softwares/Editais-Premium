@@ -1,12 +1,12 @@
 {
-  "atualizadoEm": "2026-05-27T20:44:16.973Z",
+  "atualizadoEm": "2026-05-27T20:49:28.865Z",
   "editais": [
     {
       "id": "acai-ibge-2021",
       "titulo": "Instituto Brasileiro de Geografia e Estatistica (IBGE)",
       "orgao": "Instituto Brasileiro de Geografia e Estatistica (IBGE)",
       "banca": "IBFC",
-      "cargo": "ACAI / Nível Médio",
+      "cargo": "Agente Censitário de Administração e Informática / Nível Médio",
       "ano": 2021,
       "tags": [
         "edital pronto",
@@ -16,7 +16,7 @@
       "imagem": "ACAI%20-%20IBGE%202021/card_premium_ibge.png",
       "arquivo": "ACAI%20-%20IBGE%202021/Edital%20Premium%20Track%20Concursos%20ACAI%20IBGE%202021.json",
       "arquivoNome": "Edital Premium Track Concursos ACAI IBGE 2021.json",
-      "atualizadoEm": "2026-05-27T20:43:59.000Z"
+      "atualizadoEm": "2026-05-27T20:49:07.000Z"
     },
     {
       "id": "advogado-crt-sp-2026",
