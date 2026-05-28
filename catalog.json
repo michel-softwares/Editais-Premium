@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-05-28T10:23:48.835Z",
+  "atualizadoEm": "2026-05-28T13:40:35.706Z",
   "editais": [
     {
       "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
@@ -7,7 +7,7 @@
       "orgao": "Ministério da Fazenda (Ministério da Fazenda)",
       "banca": "ESAF",
       "cargo": "Assistente Técnico-Administrativo (ATA) / Nível Médio",
-      "ano": 2026,
+      "ano": 2014,
       "tags": [
         "edital pronto",
         "nivel medio"
@@ -16,7 +16,7 @@
       "imagem": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/card_premium_minist_rio_da_fazenda.png",
       "arquivo": "Assistente%20T%C3%A9cnico-Administrativo%20-%20Minist%C3%A9rio%20da%20Fazenda/template_minist_rio_da_fazenda.json",
       "arquivoNome": "template_minist_rio_da_fazenda.json",
-      "atualizadoEm": "2026-05-28T10:23:34.000Z"
+      "atualizadoEm": "2026-05-28T13:40:15.000Z"
     },
     {
       "id": "policial-penal-policia-penal-rs-2026",
