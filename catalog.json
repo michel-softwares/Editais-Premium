@@ -1,6 +1,39 @@
 {
-  "atualizadoEm": "2026-05-28T09:29:59.834Z",
+  "atualizadoEm": "2026-05-28T10:15:57.594Z",
   "editais": [
+    {
+      "id": "policial-penal-policia-penal-rs-2026",
+      "titulo": "Polícia Penal do Rio Grande do Sul (PPRS)",
+      "orgao": "Polícia Penal do Rio Grande do Sul (PPRS)",
+      "banca": "FUNDATEC",
+      "cargo": "Policial Penal (Código 24)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Policial%20Penal%20-%20Pol%C3%ADcia%20Penal%20RS%202026/card_premium_policial_penal.png",
+      "arquivo": "Policial%20Penal%20-%20Pol%C3%ADcia%20Penal%20RS%202026/Edital%20Premium%20Track%20Concursos%20Policial%20Penal%20PPRS.json",
+      "arquivoNome": "Edital Premium Track Concursos Policial Penal PPRS.json",
+      "atualizadoEm": "2026-05-28T10:15:39.000Z"
+    },
+    {
+      "id": "tecnico-administrativo-policia-penal-rs-2026",
+      "titulo": "Polícia Penal do Rio Grande do Sul (PPRS)",
+      "orgao": "Polícia Penal do Rio Grande do Sul (PPRS)",
+      "banca": "FUNDATEC",
+      "cargo": "Técnico Administrativo da Polícia Penal (Código 25)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Administrativo%20-%20Pol%C3%ADcia%20Penal%20RS%202026/card_premium_tecnico_administrativo.png",
+      "arquivo": "T%C3%A9cnico%20Administrativo%20-%20Pol%C3%ADcia%20Penal%20RS%202026/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Administrativo%20PPRS.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Administrativo PPRS.json",
+      "atualizadoEm": "2026-05-28T10:15:39.000Z"
+    },
     {
       "id": "advogado-crt-sp-2026",
       "titulo": "Conselho Regional dos Técnicos Industriais do Estado de São Paulo (CRT-SP)",
