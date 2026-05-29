@@ -1,23 +1,6 @@
 {
-  "atualizadoEm": "2026-05-29T19:30:02.465Z",
+  "atualizadoEm": "2026-05-29T19:31:11.344Z",
   "editais": [
-    {
-      "id": "especialista-tecnico-ti-bnb-2022",
-      "titulo": "Banco do Nordeste (BNB)",
-      "orgao": "Banco do Nordeste (BNB)",
-      "banca": "Cebraspe",
-      "cargo": "Especialista Técnico - Desenvolvimento",
-      "ano": 2022,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Especialista%20T%C3%A9cnico%20TI%20-%20BNB%202022/card_premium_especialista_ti_bnb.png",
-      "arquivo": "Especialista%20T%C3%A9cnico%20TI%20-%20BNB%202022/Edital%20Premium%20Especialista%20TI%20-%20BNB%202022.json",
-      "arquivoNome": "Edital Premium Especialista TI - BNB 2022.json",
-      "atualizadoEm": "2026-05-29T19:30:00.379Z"
-    },
     {
       "id": "analista-bancario-bnb-2024",
       "titulo": "Banco do Nordeste (BNB)",
@@ -33,7 +16,24 @@
       "imagem": "Analista%20Banc%C3%A1rio%20-%20BNB%202024/card_premium_analista_bancario_bnb.png",
       "arquivo": "Analista%20Banc%C3%A1rio%20-%20BNB%202024/Edital%20Premium%20Analista%20Banc%C3%A1rio%20-%20BNB%202024.json",
       "arquivoNome": "Edital Premium Analista Bancário - BNB 2024.json",
-      "atualizadoEm": "2026-05-29T19:29:57.908Z"
+      "atualizadoEm": "2026-05-29T19:30:51.000Z"
+    },
+    {
+      "id": "especialista-tecnico-ti-bnb-2022",
+      "titulo": "Banco do Nordeste (BNB)",
+      "orgao": "Banco do Nordeste (BNB)",
+      "banca": "Cebraspe",
+      "cargo": "Especialista Técnico - Desenvolvimento",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Especialista%20T%C3%A9cnico%20TI%20-%20BNB%202022/card_premium_especialista_ti_bnb.png",
+      "arquivo": "Especialista%20T%C3%A9cnico%20TI%20-%20BNB%202022/Edital%20Premium%20Especialista%20TI%20-%20BNB%202022.json",
+      "arquivoNome": "Edital Premium Especialista TI - BNB 2022.json",
+      "atualizadoEm": "2026-05-29T19:30:51.000Z"
     },
     {
       "id": "tecnico-bancario-novo-caixa-2024",
@@ -203,24 +203,6 @@
       "atualizadoEm": "2026-05-27T20:49:07.000Z"
     },
     {
-      "id": "agente-de-apoio-mpes-2026",
-      "titulo": "MPES (MPES)",
-      "orgao": "MPES (MPES)",
-      "banca": "FGV",
-      "cargo": "Agente de Apoio / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio",
-        "fgv"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20de%20Apoio%20-%20MPES%202026/card_premium_mpes.png",
-      "arquivo": "Agente%20de%20Apoio%20-%20MPES%202026/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20MPES%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Agente de Apoio MPES 2026.json",
-      "atualizadoEm": "2026-05-27T19:47:09.000Z"
-    },
-    {
       "id": "agente-social-sedes-df-2026",
       "titulo": "Sedes/DF (Sedes/DF)",
       "orgao": "Sedes/DF (Sedes/DF)",
@@ -238,20 +220,21 @@
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
-      "id": "analista-de-regulacao-direito-arsal-2026",
-      "titulo": "ARSAL (ARSAL)",
-      "orgao": "ARSAL (ARSAL)",
-      "banca": "Cebraspe",
-      "cargo": "Analista de Regulação - Direito / Nível Superior",
+      "id": "agente-de-apoio-mpes-2026",
+      "titulo": "MPES (MPES)",
+      "orgao": "MPES (MPES)",
+      "banca": "FGV",
+      "cargo": "Agente de Apoio / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
-        "cebraspe"
+        "nivel medio",
+        "fgv"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
-      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
+      "imagem": "Agente%20de%20Apoio%20-%20MPES%202026/card_premium_mpes.png",
+      "arquivo": "Agente%20de%20Apoio%20-%20MPES%202026/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20MPES%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Apoio MPES 2026.json",
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
@@ -300,6 +283,23 @@
       "imagem": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/card_premium_alece.png",
       "arquivo": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Jornalismo%20ALECE%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Jornalismo ALECE 2026.json",
+      "atualizadoEm": "2026-05-27T19:47:09.000Z"
+    },
+    {
+      "id": "analista-de-regulacao-direito-arsal-2026",
+      "titulo": "ARSAL (ARSAL)",
+      "orgao": "ARSAL (ARSAL)",
+      "banca": "Cebraspe",
+      "cargo": "Analista de Regulação - Direito / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
+      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
