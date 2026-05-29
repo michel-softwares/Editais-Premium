@@ -342,94 +342,479 @@
       "cadernos": [],
       "topicos": [
         {
-          "nome": "Engenharia de software: UP (Processo Unificado), UX, Análise e Projeto Orientado a Objetos, UML, Padrões de Projeto e Requisitos.",
+          "nome": "Engenharia de software: Processo Unificado (UP) e Engenharia de Requisitos",
           "ordem": 0,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Processo Unificado (UP): conceitos gerais, disciplinas, fases, papéis, atividades e artefatos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "UX (User Experience)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Análise e projeto orientados a objetos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Linguagem UML: modelos e diagramas",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Padrões de projeto (Design Patterns)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Engenharia de requisitos",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Estrutura de dados e algoritmos: busca sequencial/binária, ordenação (bolha, seleção, inserção), lista, pilha, fila e árvore binária.",
+          "nome": "Estrutura de dados e algoritmos",
           "ordem": 1,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Algoritmos de busca sequencial e busca binária sobre arrays",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Algoritmos de ordenação (bolha, seleção e inserção)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Estruturas de dados lineares: lista encadeada, pilha e fila",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Estruturas de dados não lineares: noções de árvore binária",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Linguagens de programação: Java SE 21, JEE 8, Microprofile, C# 12, .NET, AngularJS, Angular, TypeScript, Javascript, Python 3.9 (Pandas, NumPy, SciPy, Matplotlib, Tensorflow, PyTorch, Scikit-learn), Scala, Kotlin, Flutter, Swift, Cobol.",
+          "nome": "Linguagens de programação e Frameworks",
           "ordem": 2,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Linguagens orientadas a objeto e procedurais (conceitos)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Java SE 21, JEE 8 e Microprofile",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "C# 12 e ecossistema .NET",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Desenvolvimento Frontend: AngularJS, Angular, TypeScript 4.X e Javascript",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Python 3.9 e bibliotecas científicas/ML (Pandas, NumPy, SciPy, Matplotlib, Tensorflow, PyTorch e Scikit-learn)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Linguagens de Ciência de Dados e Mobile: Scala, R, Kotlin, Objective-C, Swift e Flutter",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Linguagem legada: Cobol",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Desenvolvimento de software Web: microsserviços, Java EE 8 (Servlets, JSF, JSP), Ajax, Web Services, REST, SOAP, HTML, XML, JSON.",
+          "nome": "Desenvolvimento de software Web e APIs",
           "ordem": 3,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Sistemas distribuídos e microsserviços (arquitetura)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Arquitetura e padrões de projeto Java EE 8 (Servlets, JSF, JSP)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Desenvolvimento Web cliente: Ajax, HTML 4.01, XHTML 1.0",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Formatos de dados e transformação: XML, JSON e XSLT",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Interoperabilidade, SOA e Web Services (UDDI, WSDL e SOAP)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Padrões REST e HTTP response Status code",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Framework Quarkus",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Teste e qualidade de software: revisão, inspeção, testes de unidade, integração, regressão, segurança, aceitação e desenvolvimento TDD.",
+          "nome": "Teste e qualidade de software",
           "ordem": 4,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Controle de qualidade estático: revisão, inspeção, medição e análise estática",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Princípios e técnicas de teste (unidade, integração, regressão)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Testes especiais e de homologação (alfa, beta, segurança, aceitação e aprovação)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Desenvolvimento Dirigido por Testes (TDD)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Bancos de dados: modelo entidade-relacionamento, modelo relacional, SQL, Data Warehouse (tabelas, índices, particionamento) e Big Data.",
+          "nome": "Bancos de dados, BI e Big Data",
           "ordem": 5,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Modelagem conceitual de dados: abordagem entidade-relacionamento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Modelo relacional de dados: conceitos básicos e normalização",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Sistemas Gerenciadores de Bancos de Dados (SGBD) e Linguagem SQL",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Data Warehouse: modelagem física (tabelas, índices, particionamento, desempenho) e conceitual (multidimensional)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Big Data: fundamentos, técnicas de preparação/apresentação de dados e soluções de Big Data",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Agilidade e DevOps: Lean, XP, SCRUM, Kanban, SAFe, Nexus, métricas, User Stories, Planning Poker, CI/CD e DevSecOps.",
+          "nome": "Metodologias Ágeis, Gestão de Produtos e DevOps",
           "ordem": 6,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Fundamentos Ágeis: Lean, Lean IT, XP e Kanban",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Frameworks Scrum e Ágil em escala (Nexus, SAFe SA)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Ferramentas, artefatos, métricas e indicadores ágeis",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Filosofias e técnicas de design: Management 3.0, Lean UX e Design Thinking",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Gestão do Backlog e Técnicas de Priorização (MoSCoW, Scorecard, BUC, Testes de Suposição, Risco/Valor)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Estimativa de escopo (Planning Poker, Story Points, T-shirt Sizing)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Cultura e Cerimônias de Integração Ágil (SoS, PoSinc, Planning, Review, Retrospectiva, Daily, PI Planning)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Cultura DevOps: Integração, Deploy e Entrega Contínua (CI/CD)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Segurança e Qualidade Ágil: DevSecOps, Débitos Técnicos e Incidentes",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Organização e arquitetura de computadores: CPU, hierarquia de memória, representação binária e de ponto flutuante, E/S.",
+          "nome": "Organização e arquitetura de computadores",
           "ordem": 7,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Arquitetura básica de um computador: CPU e hierarquia de memória",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Armazenamento e representação de dados: binário, complemento a dois, ponto flutuante e caracteres",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Armazenamento, representação de instruções e modos de endereçamento",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Conjunto típico de instruções de uma CPU",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Subsistema de Entrada/Saída (E/S) e dispositivos de armazenamento secundário",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Sistemas Operacionais: processos, gerência de memória, Windows 10, Linux (SUSE SLES 15 SP2) e IBM z/OS.",
+          "nome": "Sistemas Operacionais",
           "ordem": 8,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Conceitos de Sistemas Operacionais: funções e estrutura",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Gerência de Processos: conceitos básicos, comunicação, sincronização e escalonamento",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Gerência de Memória e Armazenamento: partição, memória virtual, swapping, sistemas de arquivos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Sistemas Operacionais Comerciais e Corporativos: Windows 10, Linux (SUSE SLES 15 SP2) e IBM z/OS",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Arquiteturas de software: MVC, SOA, microsserviços, computação em nuvem (pública/privada), serverless e migração de nuvem.",
+          "nome": "Arquitetura de software e Computação em Nuvem",
           "ordem": 9,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Arquitetura de software: camadas, MVC, SOA, monolitos, microsserviços e micro-frontend",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Computação em Nuvem: nuvem pública/privada, governança, computação serverless e segurança compartilhada",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Estratégias de migração de aplicações para nuvem",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Estimativas de software e Análise de Pontos de Função (APF)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Gerência de configuração de software e controle de defeitos.",
+          "nome": "Gerência de configuração de software e controle de defeitos",
           "ordem": 10,
           "cadernos": [],
           "subtopicos": []
         },
         {
-          "nome": "Portais corporativos, arquitetura da informação, JSER, acessibilidade do governo eletrônico.",
+          "nome": "Portais corporativos e Acessibilidade",
           "ordem": 11,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Arquitetura da informação: portlets e RSS",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Ferramentas de Gestão de Conteúdos (CMS)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Modelo de Acessibilidade do Governo Eletrônico (eMAG)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Qualidade de software (CMMI e MPS-BR): conceitos básicos, níveis de maturidade e capacidade.",
+          "nome": "Qualidade de software: CMMI e MPS-BR",
           "ordem": 12,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "CMMI e MPS-BR: conceitos básicos, objetivos e disciplinas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "CMMI e MPS-BR: formas de representação, níveis de capacidade e maturidade",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
         },
         {
-          "nome": "Conceitos de Arquitetura de Referência e soluções de TI.",
+          "nome": "Conceitos de Arquitetura de Referência e Arquitetura de Solução",
           "ordem": 13,
           "cadernos": [],
           "subtopicos": []
         },
         {
-          "nome": "Gestão e Governança de TI: ITIL v.4 e COBIT 2019.",
+          "nome": "Gestão e Governança de TI",
           "ordem": 14,
           "cadernos": [],
-          "subtopicos": []
+          "subtopicos": [
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Framework ITIL v.4",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpr2l63ndz2ln",
+              "nome": "Framework COBIT 2019",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
         }
       ]
     },
@@ -517,9 +902,9 @@
   "simulados": [],
   "estrutura": {
     "cronoWeekly": null,
-    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mpr2l5tx6l7c1\"},{\"nome\":\"LÍNGUA INGLESA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mpr2l5xhgsi8o\"},{\"nome\":\"MATEMÁTICA FINANCEIRA\",\"cor\":\"#f5874a\",\"materiaId\":\"mpr2l5xvydl9w\"},{\"nome\":\"NOÇÕES DE PROBABILIDADE E ESTATÍSTICA\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mpr2l5zmfs188\"},{\"nome\":\"COMPORTAMENTOS ÉTICOS E COMPLIANCE\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mpr2l60s5wz3j\"},{\"nome\":\"TECNOLOGIA DA INFORMAÇÃO\",\"cor\":\"#e879f9\",\"materiaId\":\"mpr2l63ndz2ln\"},{\"nome\":\"CONHECIMENTOS E COMPORTAMENTOS DIGITAIS\",\"cor\":\"#fb7185\",\"materiaId\":\"mpr2l66riizj8\"}]",
-    "cronoMode": "cycle",
-    "ciclo": "{\"round\":1,\"startedAt\":\"2026-05-29T15:21:51.039Z\",\"currentIndex\":0,\"currentItemId\":\"\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_lh4pxsn6458\",\"baseId\":\"base_LÍNGUA_PORTUGUESA\",\"materiaId\":\"mpr2l5tx6l7c1\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_wtacocsrg7r\",\"baseId\":\"base_LÍNGUA_INGLESA\",\"materiaId\":\"mpr2l5xhgsi8o\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_89uj9408dz1\",\"baseId\":\"base_MATEMÁTICA_FINANCEIRA\",\"materiaId\":\"mpr2l5xvydl9w\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_h8msfng14u0\",\"baseId\":\"base_NOÇÕES_DE_PROBABILIDADE_E_ESTATÍSTICA\",\"materiaId\":\"mpr2l5zmfs188\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_4boi26p1sz0\",\"baseId\":\"base_COMPORTAMENTOS_ÉTICOS_E_COMPLIANCE\",\"materiaId\":\"mpr2l60s5wz3j\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_a28re0rx0h6\",\"baseId\":\"base_TECNOLOGIA_DA_INFORMAÇÃO\",\"materiaId\":\"mpr2l63ndz2ln\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_nc2jok3hndm\",\"baseId\":\"base_CONHECIMENTOS_E_COMPORTAMENTOS_DIGITAIS\",\"materiaId\":\"mpr2l66riizj8\",\"targetSeconds\":0,\"remainingSeconds\":0,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "cronoMats": null,
+    "cronoMode": null,
+    "ciclo": null,
     "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_basicos\",\"name\":\"Conhecimentos Básicos\",\"minPts\":12.5,\"q\":25,\"w\":1,\"items\":[{\"id\":\"mpr2l5tx6l7c1\",\"q\":5,\"w\":1,\"minPts\":1},{\"id\":\"mpr2l5xhgsi8o\",\"q\":5,\"w\":1,\"minPts\":1},{\"id\":\"mpr2l5xvydl9w\",\"q\":5,\"w\":1,\"minPts\":1},{\"id\":\"mpr2l5zmfs188\",\"q\":5,\"w\":1,\"minPts\":1},{\"id\":\"mpr2l60s5wz3j\",\"q\":5,\"w\":1,\"minPts\":1}]},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"minPts\":17.5,\"q\":35,\"w\":1,\"items\":[{\"id\":\"mpr2l63ndz2ln\",\"q\":30,\"w\":1,\"minPts\":1},{\"id\":\"mpr2l66riizj8\",\"q\":5,\"w\":1,\"minPts\":1}]},{\"id\":\"g_redacao\",\"name\":\"Redação\",\"type\":\"redacao\",\"q\":0,\"w\":1,\"pts\":100,\"redType\":\"Dissertativa-Argumentativa\",\"isClassificatoriaOnly\":false,\"minPts\":70,\"items\":[]}],\"scoringMode\":\"tradicional\",\"errorPenalty\":0}"
   }
 }
