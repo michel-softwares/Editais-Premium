@@ -1,0 +1,508 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado para uso pessoal no Track Concursos. Revenda proibida."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "Banco do Nordeste (BNB)",
+    "cargo": "Especialista Técnico - Desenvolvimento de Sistemas",
+    "salario": "R$ 6.269,76",
+    "banca": "CEBRASPE",
+    "logoEmoji": null,
+    "logoBase64": null,
+    "dataProva": null,
+    "preEdital": true,
+    "pontuacaoMax": 120.0,
+    "vagas": "6 vagas imediatas + 200 CR"
+  },
+  "materias": [
+    {
+      "id": "mat_001",
+      "nome": "Língua Portuguesa",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e interpretação de textos de gêneros variados",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Reconhecimento de tipos e gêneros textuais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Domínio da ortografia oficial e acentuação gráfica",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Mecanismos de coesão textual",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego de elementos de referenciação, substituição e repetição",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego de conectores e outros de sequenciação textual",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estrutura morfossintática do período",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego das classes de palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Relações de coordenação e subordinação entre orações e termos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Concordância verbal e nominal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Regência verbal e nominal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Colocação dos pronomes átonos",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Reescrita de frases e parágrafos do texto",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_001",
+              "nome": "Significação das palavras e substituição de termos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Reorganização da estrutura de orações e de períodos do texto",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Reescrita de textos de diferentes gêneros e níveis de formalidade",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_002",
+      "nome": "Raciocínio Lógico e Quantitativo",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Estruturas lógicas de proposições e conectivos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Tabelas-verdade, tautologias, contradições e equivalências",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lógica de argumentação e validade de argumentos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Operações com conjuntos e diagramas lógicos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Problemas de raciocínio verbal, geométrico e espacial",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_003",
+      "nome": "Tecnologia da Informação",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lógica de Programação e Estruturas de Dados",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Construção de algoritmos e avaliação de expressões",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Tipos de dados estruturados, variáveis e constantes",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Estruturas de controle: seleção, repetição e desvio",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Recursividade e passagem de parâmetros",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Algoritmos de ordenação, pesquisa e hashing",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Engenharia de Software e Práticas Ágeis",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Conceitos e técnicas do projeto e desenvolvimento incremental",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Métodos guiados por testes: TDD, BDD e ATDD",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Elicitação, modelagem e gerenciamento de requisitos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Requisitos de Experiência do Usuário (UX) e prototipação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Histórias de Usuário, critérios de aceitação e MVPs",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Gestão de produtos",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Arquitetura de Software",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Padrões de design de software e componentização",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Arquitetura MVC (Model-View-Controller) e N camadas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Microsserviços, APIs e API Gateway",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Arquitetura orientada a eventos e arquitetura Cloud Native",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Barramento de Serviços Corporativos (ESB) e interoperabilidade",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Refatoração e modernização de aplicações",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Servidores de aplicações e conteinerização (Docker)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Frameworks de persistência de dados e ORMs",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Linguagens e Tecnologias de Programação",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Linguagens Java, C# (.NET Core) e Python",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Frameworks Spring Boot e ecossistema moderno de TI",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Desenvolvimento Frontend: HTML 5, CSS 3 e JavaScript",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Desenvolvimento Mobile: Android, iOS e Ionic",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Protocolos de rede aplicados ao desenvolvimento: HTTP e HTTPS",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Tecnologias emergentes: RPA, Low Code e No Code",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Fundamentos de Inteligência Artificial e Machine Learning",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Segurança no desenvolvimento: criptografia simétrica e assimétrica, assinaturas e certificados",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Bancos de Dados",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Modelagem de dados: conceitual (entidade-relacionamento), lógica e física",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Modelo Relacional: conceitos básicos, chaves e normalização",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Linguagem SQL: comandos DDL e DML",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Modelagem dimensional e Data Warehouse",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Conceitos de SGBDs e integridade referencial",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Computação em Nuvem",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Conceitos básicos e modelos de serviços: IaaS, PaaS, SaaS",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Modelos de implantação: nuvem pública, privada e híbrida",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Recursos da nuvem: regiões, zonas de disponibilidade, subscrições",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Identidade, privacidade, conformidade e segurança na nuvem",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Infraestrutura como Código (IaC) e automação em nuvem",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": null,
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": {
+      "groups": [
+        {
+          "id": "g_conhecimentos_gerais",
+          "name": "Conhecimentos Básicos",
+          "items": [
+            {
+              "id": "mat_001",
+              "q": 25,
+              "w": 1.0
+            },
+            {
+              "id": "mat_002",
+              "q": 25,
+              "w": 1.0
+            }
+          ],
+          "q": 50,
+          "w": 1.0
+        },
+        {
+          "id": "g_conhecimentos_especificos",
+          "name": "Conhecimentos Específicos",
+          "items": [
+            {
+              "id": "mat_003",
+              "q": 70,
+              "w": 1.0
+            }
+          ],
+          "q": 70,
+          "w": 1.0
+        }
+      ]
+    }
+  }
+}

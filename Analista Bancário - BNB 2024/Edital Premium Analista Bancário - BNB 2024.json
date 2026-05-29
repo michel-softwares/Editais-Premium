@@ -1,0 +1,697 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado para uso pessoal no Track Concursos. Revenda proibida."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "Banco do Nordeste (BNB)",
+    "cargo": "Analista Bancário 1",
+    "salario": "R$ 3.788,16",
+    "banca": "CESGRANRIO",
+    "logoEmoji": null,
+    "logoBase64": null,
+    "dataProva": null,
+    "preEdital": true,
+    "pontuacaoMax": 100.0,
+    "vagas": "410 vagas imediatas + 300 CR"
+  },
+  "materias": [
+    {
+      "id": "mat_001",
+      "nome": "Língua Portuguesa",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e interpretação de textos de gêneros variados",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Reconhecimento de tipos e gêneros textuais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Domínio da ortografia oficial e acentuação gráfica",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Mecanismos de coesão textual",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego de elementos de referenciação, substituição e repetição",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego de conectores e outros elementos de sequenciação textual",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estrutura morfossintática do período",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego das classes de palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Relações de coordenação e subordinação entre orações e termos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Concordância verbal e nominal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Regência verbal e nominal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Colocação dos pronomes átonos",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Reescrita de frases e parágrafos do texto",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_001",
+              "nome": "Significação das palavras e substituição de termos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Reorganização da estrutura de orações e de períodos do texto",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_001",
+              "nome": "Reescrita de textos de diferentes gêneros e níveis de formalidade",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_002",
+      "nome": "Matemática / Raciocínio Lógico e Quantitativo",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Aritmética e Conjuntos Numéricos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_002",
+              "nome": "Números reais: operações básicas, radiciação e potenciação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Expressões numéricas e problemas do cotidiano",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Múltiplos e divisores: MMC e MDC",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Proporcionalidade e Médias",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_002",
+              "nome": "Razões, proporções e divisão em partes diretas e inversas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Médias aritmética, geométrica e ponderada",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Regras de três simples e composta",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Porcentagem e problemas associados",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Álgebra e Sistemas Lineares",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_002",
+              "nome": "Funções, equações e inequações de 1º e de 2º graus",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Funções, equações e inequações exponenciais e logarítmicas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Representação gráfica de funções",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Sistemas lineares: conceitos e resolução",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Análise Combinatória e Probabilidade",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_002",
+              "nome": "Princípios fundamentais de contagem, arranjos e permutações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Combinações e Binômio de Newton",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Cálculo de probabilidades básicas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Matemática Financeira",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_002",
+              "nome": "Juros simples e compostos: capitalização e descontos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Taxas de juros: nominal, efetiva, equivalentes, proporcionais, real e aparente",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Planos ou sistemas de amortização de empréstimos e financiamentos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Custo real efetivo de operações de financiamento, empréstimo e investimento",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_002",
+              "nome": "Taxas de retorno de investimento",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_003",
+      "nome": "Conhecimentos Bancários",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Sistema Financeiro Nacional",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Instituições do SFN: tipos, finalidades e atuação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Conselho Monetário Nacional (CMN) e Banco Central (BCB): funções e atividades",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Instituições Financeiras Oficiais Federais: papel e atuação regional",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Cadastro e Fundamentos do Crédito",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Cadastro de Pessoas Físicas (PF)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Cadastro de Pessoas Jurídicas (PJ): tipos, constituição, tributação e mandatos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Fundamentos do crédito: conceito, elementos e requisitos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Riscos da Atividade Bancária",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Tipos de risco: de crédito, de mercado, operacional, sistêmico e de liquidez",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Variáveis relacionadas ao risco de crédito: cliente e operação",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Operações de Crédito Bancário Geral",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Diferenças entre empréstimos, descontos, financiamentos e adiantamentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Crédito Pessoal e Crédito Direto ao Consumidor (CDC)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Desconto de duplicatas, notas promissórias e cheques pré-datados",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Contas garantidas, Capital de giro e Cartão de crédito",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Microcrédito urbano e operacionalização",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Operações de Crédito Especializado",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Crédito Rural: conceitos, beneficiários, finalidades (investimento, custeio, comercialização)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Programa Nacional de Fortalecimento da Agricultura Familiar (PRONAF)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Crédito industrial, agroindustrial, para comércio e serviços: finalidades",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Fundos e Recursos para Financiamento",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Fundo Constitucional de Financiamento do Nordeste (FNE): base legal e regras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "BNDES e FINAME: base legal, finalidade e atuação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Fundo de Amparo ao Trabalhador (FAT): base legal, finalidades e regras",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Microfinanças: base legal e formas de atuação",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços Bancários e Financeiros",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Conta corrente: abertura, movimentação, encerramento, cheques e CCF",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Depósitos à vista e a prazo (CDB e RDB)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Fundos de investimentos, caderneta de poupança e títulos de capitalização",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Planos de aposentadoria e previdência privados; seguros",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Convênios de arrecadação e pagamentos (serviços públicos, tributos, INSS, folha)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Serviço de compensação de cheques; cobrança bancária",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Sistema de Pagamentos Brasileiro (SPB)",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Aspectos Jurídicos e Garantias",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Noções de direito aplicadas: fato/ato jurídico, requisitos e tipos de contratos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Instrumentos de formalização das operações de crédito: cédulas e notas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Garantias fidejussórias (fiança e aval) e garantias reais (hipoteca e penhor)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Alienação fiduciária de bens móveis",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Títulos de crédito: nota promissória, duplicata e cheque",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "O Banco do Nordeste do Brasil S.A.: legislação básica, programas e atuação no desenvolvimento regional",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ética, Compliance e Sustentabilidade",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Ética, moral, valores e virtudes corporativas e profissionais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Código de Conduta Ética e Integridade do Banco do Nordeste do Brasil",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Política de Responsabilidade Social, Ambiental e Climática (PRSAC) do BNB",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Estratégia ASG (Ambiental, Social e Governança) no BNB",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Atualidades do Mercado Financeiro",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mat_003",
+              "nome": "Os bancos na Era Digital: atualidade, tendências, internet e mobile banking",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Open finance e novos modelos de negócios (Fintechs, startups, big techs)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Dinheiro digital: blockchain, bitcoin e criptomoedas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Marketplace, correspondentes bancários e arranjos de pagamentos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Sistema de pagamentos instantâneos (PIX)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Lei Geral de Proteção de Dados (LGPD) e segurança cibernética (Res. CMN 4.893)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mat_003",
+              "nome": "Legislação anticorrupção (Lei 12.846/2013 e Dec. 11.129/2022)",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": null,
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": {
+      "groups": [
+        {
+          "id": "g_conhecimentos_gerais",
+          "name": "Conhecimentos Básicos",
+          "items": [
+            {
+              "id": "mat_001",
+              "q": 10,
+              "w": 1.0
+            },
+            {
+              "id": "mat_002",
+              "q": 10,
+              "w": 1.0
+            }
+          ],
+          "q": 20,
+          "w": 1.0
+        },
+        {
+          "id": "g_conhecimentos_especificos",
+          "name": "Conhecimentos Específicos",
+          "items": [
+            {
+              "id": "mat_003",
+              "q": 40,
+              "w": 2.0
+            }
+          ],
+          "q": 40,
+          "w": 2.0
+        }
+      ]
+    }
+  }
+}
