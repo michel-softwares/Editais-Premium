@@ -1,6 +1,40 @@
 {
-  "atualizadoEm": "2026-05-29T13:07:48.729Z",
+  "atualizadoEm": "2026-05-29T15:06:22.683Z",
   "editais": [
+    {
+      "id": "tecnico-bancario-novo-caixa-2024",
+      "titulo": "Caixa Econômica Federal (CEF)",
+      "orgao": "Caixa Econômica Federal (CEF)",
+      "banca": "Cesgranrio",
+      "cargo": "Técnico Bancário Novo (TBN)",
+      "ano": 2024,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Banc%C3%A1rio%20Novo%20-%20Caixa%202024/card_premium_tbn_geral.png",
+      "arquivo": "T%C3%A9cnico%20Banc%C3%A1rio%20Novo%20-%20Caixa%202024/Edital%20Premium%20TBN%20Geral%20-%20Caixa%202024.json",
+      "arquivoNome": "Edital Premium TBN Geral - Caixa 2024.json",
+      "atualizadoEm": "2026-05-29T15:06:01.000Z"
+    },
+    {
+      "id": "tecnico-bancario-novo-ti-caixa-2024",
+      "titulo": "Caixa Econômica Federal (CEF)",
+      "orgao": "Caixa Econômica Federal (CEF)",
+      "banca": "Cesgranrio",
+      "cargo": "Técnico Bancário Novo - TI",
+      "ano": 2024,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Banc%C3%A1rio%20Novo%20TI%20-%20Caixa%202024/card_premium_tbn_ti.png",
+      "arquivo": "T%C3%A9cnico%20Banc%C3%A1rio%20Novo%20TI%20-%20Caixa%202024/Edital%20Premium%20TBN%20TI%20-%20Caixa%202024.json",
+      "arquivoNome": "Edital Premium TBN TI - Caixa 2024.json",
+      "atualizadoEm": "2026-05-29T15:06:01.000Z"
+    },
     {
       "id": "guarda-civil-municipal-gcm-aracaju-2026",
       "titulo": "Guarda Civil Municipal Aracaju",
