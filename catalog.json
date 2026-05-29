@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-05-28T19:15:54.968Z",
+  "atualizadoEm": "2026-05-29T13:07:48.729Z",
   "editais": [
+    {
+      "id": "guarda-civil-municipal-gcm-aracaju-2026",
+      "titulo": "Guarda Civil Municipal Aracaju",
+      "orgao": "Guarda Civil Municipal Aracaju",
+      "banca": "IDECAN",
+      "cargo": "Guarda Civil Municipal (GCM)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Guarda%20Civil%20Municipal%20-%20GCM%20Aracaju%202026/card_premium_gcm_aracaju.png",
+      "arquivo": "Guarda%20Civil%20Municipal%20-%20GCM%20Aracaju%202026/Edital%20Premium%20Track%20Concursos%20GCM%20Aracaju.json",
+      "arquivoNome": "Edital Premium Track Concursos GCM Aracaju.json",
+      "atualizadoEm": "2026-05-29T13:07:19.000Z"
+    },
     {
       "id": "assistente-tecnico-administrativo-ministerio-da-fazenda",
       "titulo": "Ministério da Fazenda (Ministério da Fazenda)",
