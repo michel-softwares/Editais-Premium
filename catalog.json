@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-05-31T19:47:52.540Z",
+  "atualizadoEm": "2026-05-31T19:51:41.304Z",
   "editais": [
     {
       "id": "agente-administrativo-dpe-pb-2021",
@@ -269,6 +269,24 @@
       "atualizadoEm": "2026-05-27T20:49:07.000Z"
     },
     {
+      "id": "agente-de-apoio-mpes-2026",
+      "titulo": "MPES (MPES)",
+      "orgao": "MPES (MPES)",
+      "banca": "FGV",
+      "cargo": "Agente de Apoio / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20de%20Apoio%20-%20MPES%202026/card_premium_mpes.png",
+      "arquivo": "Agente%20de%20Apoio%20-%20MPES%202026/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20MPES%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Apoio MPES 2026.json",
+      "atualizadoEm": "2026-05-27T19:47:09.000Z"
+    },
+    {
       "id": "agente-social-sedes-df-2026",
       "titulo": "Sedes/DF (Sedes/DF)",
       "orgao": "Sedes/DF (Sedes/DF)",
@@ -286,21 +304,20 @@
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
-      "id": "agente-de-apoio-mpes-2026",
-      "titulo": "MPES (MPES)",
-      "orgao": "MPES (MPES)",
-      "banca": "FGV",
-      "cargo": "Agente de Apoio / Nível Médio",
+      "id": "analista-de-regulacao-direito-arsal-2026",
+      "titulo": "ARSAL (ARSAL)",
+      "orgao": "ARSAL (ARSAL)",
+      "banca": "Cebraspe",
+      "cargo": "Analista de Regulação - Direito / Nível Superior",
       "ano": 2026,
       "tags": [
         "edital pronto",
-        "nivel medio",
-        "fgv"
+        "cebraspe"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20de%20Apoio%20-%20MPES%202026/card_premium_mpes.png",
-      "arquivo": "Agente%20de%20Apoio%20-%20MPES%202026/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20MPES%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Agente de Apoio MPES 2026.json",
+      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
+      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
@@ -349,23 +366,6 @@
       "imagem": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/card_premium_alece.png",
       "arquivo": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Jornalismo%20ALECE%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Jornalismo ALECE 2026.json",
-      "atualizadoEm": "2026-05-27T19:47:09.000Z"
-    },
-    {
-      "id": "analista-de-regulacao-direito-arsal-2026",
-      "titulo": "ARSAL (ARSAL)",
-      "orgao": "ARSAL (ARSAL)",
-      "banca": "Cebraspe",
-      "cargo": "Analista de Regulação - Direito / Nível Superior",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
-      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
