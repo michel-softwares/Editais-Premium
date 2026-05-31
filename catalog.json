@@ -1,55 +1,6 @@
 {
-  "atualizadoEm": "2026-05-31T19:47:19.387Z",
+  "atualizadoEm": "2026-05-31T19:47:52.540Z",
   "editais": [
-    {
-      "id": "tecnico-em-informatica-dpe-pb-2021",
-      "titulo": "Defensoria Pública do Estado da Paraíba (DPE PB)",
-      "orgao": "Defensoria Pública do Estado da Paraíba (DPE PB)",
-      "banca": "Ápice Consultoria",
-      "cargo": "Técnico em Informática",
-      "ano": 2021,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20em%20Inform%C3%A1tica%20-%20DPE%20PB%202021/card_premium_tecnico_informatica_dpe_pb.png",
-      "arquivo": "T%C3%A9cnico%20em%20Inform%C3%A1tica%20-%20DPE%20PB%202021/Edital%20Premium%20T%C3%A9cnico%20em%20Inform%C3%A1tica%20-%20DPE%20PB%202021.json",
-      "arquivoNome": "Edital Premium Técnico em Informática - DPE PB 2021.json",
-      "atualizadoEm": "2026-05-31T19:47:19.187Z"
-    },
-    {
-      "id": "assistente-juridico-dpe-pb-2021",
-      "titulo": "Defensoria Pública do Estado da Paraíba (DPE PB)",
-      "orgao": "Defensoria Pública do Estado da Paraíba (DPE PB)",
-      "banca": "Ápice Consultoria",
-      "cargo": "Assistente Jurídico",
-      "ano": 2021,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Assistente%20Jur%C3%ADdico%20-%20DPE%20PB%202021/card_premium_assistente_juridico_dpe_pb.png",
-      "arquivo": "Assistente%20Jur%C3%ADdico%20-%20DPE%20PB%202021/Edital%20Premium%20Assistente%20Jur%C3%ADdico%20-%20DPE%20PB%202021.json",
-      "arquivoNome": "Edital Premium Assistente Jurídico - DPE PB 2021.json",
-      "atualizadoEm": "2026-05-31T19:47:11.978Z"
-    },
-    {
-      "id": "analista-de-desenvolvimento-de-sistemas-dpe-pb-2021",
-      "titulo": "Defensoria Pública do Estado da Paraíba (DPE PB)",
-      "orgao": "Defensoria Pública do Estado da Paraíba (DPE PB)",
-      "banca": "Ápice Consultoria",
-      "cargo": "Analista de Desenvolvimento de Sistemas",
-      "ano": 2021,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20de%20Desenvolvimento%20de%20Sistemas%20-%20DPE%20PB%202021/card_premium_analista_desenvolvimento_dpe_pb.png",
-      "arquivo": "Analista%20de%20Desenvolvimento%20de%20Sistemas%20-%20DPE%20PB%202021/Edital%20Premium%20Analista%20de%20Desenvolvimento%20de%20Sistemas%20-%20DPE%20PB%202021.json",
-      "arquivoNome": "Edital Premium Analista de Desenvolvimento de Sistemas - DPE PB 2021.json",
-      "atualizadoEm": "2026-05-31T19:47:10.861Z"
-    },
     {
       "id": "agente-administrativo-dpe-pb-2021",
       "titulo": "Defensoria Pública do Estado da Paraíba (DPE PB)",
@@ -65,7 +16,56 @@
       "imagem": "Agente%20Administrativo%20-%20DPE%20PB%202021/card_premium_agente_administrativo_dpe_pb.png",
       "arquivo": "Agente%20Administrativo%20-%20DPE%20PB%202021/Edital%20Premium%20Agente%20Administrativo%20-%20DPE%20PB%202021.json",
       "arquivoNome": "Edital Premium Agente Administrativo - DPE PB 2021.json",
-      "atualizadoEm": "2026-05-31T19:47:10.104Z"
+      "atualizadoEm": "2026-05-31T19:47:32.000Z"
+    },
+    {
+      "id": "analista-de-desenvolvimento-de-sistemas-dpe-pb-2021",
+      "titulo": "Defensoria Pública do Estado da Paraíba (DPE PB)",
+      "orgao": "Defensoria Pública do Estado da Paraíba (DPE PB)",
+      "banca": "Ápice Consultoria",
+      "cargo": "Analista de Desenvolvimento de Sistemas",
+      "ano": 2021,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Desenvolvimento%20de%20Sistemas%20-%20DPE%20PB%202021/card_premium_analista_desenvolvimento_dpe_pb.png",
+      "arquivo": "Analista%20de%20Desenvolvimento%20de%20Sistemas%20-%20DPE%20PB%202021/Edital%20Premium%20Analista%20de%20Desenvolvimento%20de%20Sistemas%20-%20DPE%20PB%202021.json",
+      "arquivoNome": "Edital Premium Analista de Desenvolvimento de Sistemas - DPE PB 2021.json",
+      "atualizadoEm": "2026-05-31T19:47:32.000Z"
+    },
+    {
+      "id": "assistente-juridico-dpe-pb-2021",
+      "titulo": "Defensoria Pública do Estado da Paraíba (DPE PB)",
+      "orgao": "Defensoria Pública do Estado da Paraíba (DPE PB)",
+      "banca": "Ápice Consultoria",
+      "cargo": "Assistente Jurídico",
+      "ano": 2021,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Assistente%20Jur%C3%ADdico%20-%20DPE%20PB%202021/card_premium_assistente_juridico_dpe_pb.png",
+      "arquivo": "Assistente%20Jur%C3%ADdico%20-%20DPE%20PB%202021/Edital%20Premium%20Assistente%20Jur%C3%ADdico%20-%20DPE%20PB%202021.json",
+      "arquivoNome": "Edital Premium Assistente Jurídico - DPE PB 2021.json",
+      "atualizadoEm": "2026-05-31T19:47:32.000Z"
+    },
+    {
+      "id": "tecnico-em-informatica-dpe-pb-2021",
+      "titulo": "Defensoria Pública do Estado da Paraíba (DPE PB)",
+      "orgao": "Defensoria Pública do Estado da Paraíba (DPE PB)",
+      "banca": "Ápice Consultoria",
+      "cargo": "Técnico em Informática",
+      "ano": 2021,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20em%20Inform%C3%A1tica%20-%20DPE%20PB%202021/card_premium_tecnico_informatica_dpe_pb.png",
+      "arquivo": "T%C3%A9cnico%20em%20Inform%C3%A1tica%20-%20DPE%20PB%202021/Edital%20Premium%20T%C3%A9cnico%20em%20Inform%C3%A1tica%20-%20DPE%20PB%202021.json",
+      "arquivoNome": "Edital Premium Técnico em Informática - DPE PB 2021.json",
+      "atualizadoEm": "2026-05-31T19:47:32.000Z"
     },
     {
       "id": "tecnico-bancario-novo-caixa-2024",
@@ -269,24 +269,6 @@
       "atualizadoEm": "2026-05-27T20:49:07.000Z"
     },
     {
-      "id": "agente-de-apoio-mpes-2026",
-      "titulo": "MPES (MPES)",
-      "orgao": "MPES (MPES)",
-      "banca": "FGV",
-      "cargo": "Agente de Apoio / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio",
-        "fgv"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20de%20Apoio%20-%20MPES%202026/card_premium_mpes.png",
-      "arquivo": "Agente%20de%20Apoio%20-%20MPES%202026/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20MPES%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Agente de Apoio MPES 2026.json",
-      "atualizadoEm": "2026-05-27T19:47:09.000Z"
-    },
-    {
       "id": "agente-social-sedes-df-2026",
       "titulo": "Sedes/DF (Sedes/DF)",
       "orgao": "Sedes/DF (Sedes/DF)",
@@ -304,20 +286,21 @@
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
-      "id": "analista-de-regulacao-direito-arsal-2026",
-      "titulo": "ARSAL (ARSAL)",
-      "orgao": "ARSAL (ARSAL)",
-      "banca": "Cebraspe",
-      "cargo": "Analista de Regulação - Direito / Nível Superior",
+      "id": "agente-de-apoio-mpes-2026",
+      "titulo": "MPES (MPES)",
+      "orgao": "MPES (MPES)",
+      "banca": "FGV",
+      "cargo": "Agente de Apoio / Nível Médio",
       "ano": 2026,
       "tags": [
         "edital pronto",
-        "cebraspe"
+        "nivel medio",
+        "fgv"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
-      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
-      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
+      "imagem": "Agente%20de%20Apoio%20-%20MPES%202026/card_premium_mpes.png",
+      "arquivo": "Agente%20de%20Apoio%20-%20MPES%202026/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20MPES%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Apoio MPES 2026.json",
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
@@ -366,6 +349,23 @@
       "imagem": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/card_premium_alece.png",
       "arquivo": "Analista%20Legislativo%20%E2%80%93%20Jornalismo%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Jornalismo%20ALECE%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Jornalismo ALECE 2026.json",
+      "atualizadoEm": "2026-05-27T19:47:09.000Z"
+    },
+    {
+      "id": "analista-de-regulacao-direito-arsal-2026",
+      "titulo": "ARSAL (ARSAL)",
+      "orgao": "ARSAL (ARSAL)",
+      "banca": "Cebraspe",
+      "cargo": "Analista de Regulação - Direito / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/card_premium_arsal.png",
+      "arquivo": "Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20-%20ARSAL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Regula%C3%A7%C3%A3o%20-%20Direito%20ARSAL%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Regulação - Direito ARSAL 2026.json",
       "atualizadoEm": "2026-05-27T19:47:09.000Z"
     },
     {
