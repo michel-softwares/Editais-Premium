@@ -10,7 +10,13 @@
       "ano": 2022,
       "tags": [
         "edital pronto",
+<<<<<<< Updated upstream
         "nivel medio"
+=======
+        "nivel medio",
+        "Materiais Linkados",
+        "Cadernos Qconcursos"
+>>>>>>> Stashed changes
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
       "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
