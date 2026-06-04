@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-06-04T03:43:52.178Z",
+  "atualizadoEm": "2026-06-04T12:31:22.017Z",
   "editais": [
+    {
+      "id": "escriturario-banco-do-brasil",
+      "titulo": "Banco do Brasil (Banco do Brasil)",
+      "orgao": "Banco do Brasil (Banco do Brasil)",
+      "banca": "Cesgranrio",
+      "cargo": "Agente Comercial / Nível Médio",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
+      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil%20com%20cadernos%20quest%C3%B5es%20Qconcursos%20linkados.JSON",
+      "arquivoNome": "Edital_Premium_Banco do Brasil com cadernos questões Qconcursos linkados.JSON",
+      "atualizadoEm": "2026-06-04T12:31:11.000Z"
+    },
     {
       "id": "analista-legislativo-analise-de-dados-alece-2026",
       "titulo": "ALECE (ALECE)",
@@ -823,23 +840,6 @@
       "imagem": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Captura%20de%20tela%202026-05-09%20195527.png",
       "arquivo": "Assistente%20em%20Administra%C3%A7%C3%A3o%20-%20IFPI/Pr%C3%A9%20Edital%20Premium%20Assistente%20em%20Administra%C3%A7%C3%A3o.json",
       "arquivoNome": "Pré Edital Premium Assistente em Administração.json",
-      "atualizadoEm": "2026-05-27T12:38:53.000Z"
-    },
-    {
-      "id": "escriturario-banco-do-brasil",
-      "titulo": "Banco do Brasil (Banco do Brasil)",
-      "orgao": "Banco do Brasil (Banco do Brasil)",
-      "banca": "Cesgranrio",
-      "cargo": "Agente Comercial / Nível Médio",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
-      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil.JSON",
-      "arquivoNome": "Edital_Premium_Banco do Brasil.JSON",
       "atualizadoEm": "2026-05-27T12:38:53.000Z"
     },
     {
