@@ -1,16 +1,14 @@
 {
-  "atualizadoEm": "2026-06-04T19:18:51.497Z",
+  "atualizadoEm": "2026-06-04T22:06:55.817Z",
   "editais": [
     {
       "id": "escriturario-banco-do-brasil",
       "titulo": "Banco do Brasil (Banco do Brasil)",
       "orgao": "Banco do Brasil (Banco do Brasil)",
-      "banca": "Cesgranrio",
+      "banca": "CESGRANRIO",
       "cargo": "Agente Comercial / Nível Médio",
       "ano": 2022,
       "tags": [
-        "Materiais Linkados",
-        "Cadernos Qconcursos",
         "edital pronto",
         "nivel medio"
       ],
@@ -18,7 +16,40 @@
       "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
       "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil%20com%20cadernos%20quest%C3%B5es%20Qconcursos%20linkados.JSON",
       "arquivoNome": "Edital_Premium_Banco do Brasil com cadernos questões Qconcursos linkados.JSON",
-      "atualizadoEm": "2026-06-04T15:33:53.000Z"
+      "atualizadoEm": "2026-06-04T22:06:42.000Z"
+    },
+    {
+      "id": "tecnico-judiciario-especialidade-programacao-tst-2023",
+      "titulo": "Tribunal Superior do Trabalho (TST)",
+      "orgao": "Tribunal Superior do Trabalho (TST)",
+      "banca": "CEBRASPE",
+      "cargo": "Técnico Judiciário – Especialidade Programação",
+      "ano": 2023,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20Especialidade%20Programa%C3%A7%C3%A3o%20-%20TST%202023/card_premium_tecnico_programacao.png",
+      "arquivo": "T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20Especialidade%20Programa%C3%A7%C3%A3o%20-%20TST%202023/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20Especialidade%20Programa%C3%A7%C3%A3o%20TST%202023.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Judiciário – Especialidade Programação TST 2023.json",
+      "atualizadoEm": "2026-06-04T22:06:42.000Z"
+    },
+    {
+      "id": "tecnico-judiciario-area-administrativa-tst-2017",
+      "titulo": "Tribunal Superior do Trabalho (TST)",
+      "orgao": "Tribunal Superior do Trabalho (TST)",
+      "banca": "FCC",
+      "cargo": "Técnico Judiciário – Área Administrativa",
+      "ano": 2017,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20%C3%81rea%20Administrativa%20-%20TST%202017/card_premium_tecnico_judiciario.png",
+      "arquivo": "T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20%C3%81rea%20Administrativa%20-%20TST%202017/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20%C3%81rea%20Administrativa%20TST%202017.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico Judiciário – Área Administrativa TST 2017.json",
+      "atualizadoEm": "2026-06-04T22:06:42.000Z"
     },
     {
       "id": "analista-legislativo-analise-de-dados-alece-2026",
