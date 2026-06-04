@@ -1,0 +1,1129 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "Banco do Estado do Rio Grande do Sul (Banrisul)",
+    "cargo": "Escriturário",
+    "salario": "R$ 2.963,01 + adicionais (Total aprox. R$ 5.150,97)",
+    "banca": "Cesgranrio",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": null,
+    "localProva": "",
+    "linkEdital": "https://www.banrisul.com.br/bob/site/link/midias/46310_Edital-de-Concurso-Banrisul-nov-2022.pdf",
+    "preEdital": true,
+    "pontuacaoMax": 100,
+    "vagas": "824 vagas imediatas + cadastro de reserva",
+    "obs": "Edital Premium do Banco do Estado do Rio Grande do Sul (Banrisul) verticalizado.\nCargo: Escriturário. Concurso Público 01/2022.\nRequisito: Certificado de conclusão ou diploma de curso de Nível Médio.\nBanca: Cesgranrio.\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mpwpwoafihuh8",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão de Textos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Compreensão e interpretação de textos de diferentes gêneros e níveis de complexidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Inferências, pressupostos e intertextualidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Coesão e coerência textuais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ortografia e Léxico",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Ortografia oficial conforme o Novo Acordo Ortográfico",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Significação das palavras: sinônimos, antônimos, parônimos, homônimos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Articulação do texto: marcadores de coesão e relações semânticas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfologia e Classes de Palavras",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Classe e emprego das palavras (substantivo, adjetivo, verbo, pronome, artigo, numeral, preposição, conjunção, interjeição)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Flexões nominais e verbais; formas nominais do verbo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Emprego do acento indicativo de crase",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sintaxe da Oração e do Período",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Termos essenciais, integrantes e acessórios da oração",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Período simples e composto por coordenação e subordinação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Emprego dos sinais de pontuação e seus efeitos de sentido",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Concordância, Regência e Colocação Pronominal",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Concordância verbal e nominal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Regência verbal e nominal",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoafihuh8",
+              "nome": "Colocação pronominal dos pronomes oblíquos átonos: próclise, mesóclise e ênclise",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpwpwoewmk5gv",
+      "nome": "MATEMÁTICA",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Aritmética e Fundamentos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Números inteiros, racionais e reais; problemas de contagem",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Sistema legal de medidas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Razões e proporções; divisão proporcional; regras de três simples e compostas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Porcentagens: cálculo de porcentagens, aumentos e descontos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lógica e Conjuntos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Lógica proposicional: conectivos, tabela-verdade, equivalências lógicas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Dedução de novas informações das relações fornecidas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Noções de conjuntos e operações entre conjuntos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Álgebra e Funções",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Relações e funções; funções polinomiais (1º e 2º grau)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Funções exponenciais e logarítmicas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Matrizes, determinantes e sistemas lineares",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sequências e Progressões",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Sequências numéricas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Progressões aritméticas (PA): termo geral e soma dos termos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoewmk5gv",
+              "nome": "Progressões geométricas (PG): termo geral e soma dos termos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpwpwoj0b0tz9",
+      "nome": "ATUALIDADES DO MERCADO FINANCEIRO",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Bancos na Era Digital",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Os bancos na Era Digital: atualidade, tendências e desafios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Internet banking e mobile banking",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Open banking: conceito e impactos no sistema financeiro",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Novos modelos de negócios bancários",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Fintechs, Criptoativos e Inovação",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Fintechs, startups e big techs no setor financeiro",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Sistema de bancos-sombra (Shadow banking)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Funções da moeda na economia",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "O dinheiro na era digital: blockchain, bitcoin e demais criptomoedas",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Pagamentos e Transformação Digital",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Marketplace e correspondentes bancários",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Arranjos de pagamentos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Sistema de Pagamentos Instantâneos (PIX): funcionamento e impacto",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoj0b0tz9",
+              "nome": "Segmentação e interações digitais; Transformação digital no Sistema Financeiro",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpwpwomtxz1an",
+      "nome": "MATEMÁTICA FINANCEIRA",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Conceitos Gerais e Fluxo de Caixa",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "O conceito do valor do dinheiro no tempo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Capital, juros, taxas de juros e capitalização",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Regimes de capitalização: simples e composto",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Fluxos de caixa e diagramas de fluxo de caixa",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Equivalência financeira",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Juros Simples e Compostos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Juros simples: cálculo do montante, dos juros, da taxa de juros, do principal e do prazo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Juros compostos: cálculo do montante, dos juros, da taxa de juros, do principal e do prazo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Conversão e equivalência de taxas de juros",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas de Amortização",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Sistema Price (Francês): parcelas fixas, amortização e saldo devedor",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Sistema SAC (Amortização Constante): parcelas decrescentes, amortização e saldo devedor",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwomtxz1an",
+              "nome": "Comparativo e aplicações dos sistemas de amortização",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpwpwoqhu1er6",
+      "nome": "CONHECIMENTOS BANCÁRIOS",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Sistema Financeiro Nacional (SFN)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Estrutura do Sistema Financeiro Nacional",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Órgãos normativos: Conselho Monetário Nacional (CMN), Conselho Nacional de Seguros Privados (CNSP)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Instituições supervisoras: Banco Central do Brasil (BACEN), Comissão de Valores Mobiliários (CVM)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Instituições executoras e operadoras: bancos múltiplos, comerciais, de investimento e de desenvolvimento",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Mercados Financeiros",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Mercado monetário e suas operações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Mercado de crédito: operações ativas e passivas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Mercado de capitais: ações, debêntures, fundos de investimento",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Mercado cambial: câmbio e operações básicas; regimes de taxas de câmbio fixas, flutuantes e intermediários",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Taxas de câmbio nominais e reais; impactos sobre exportações e importações",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Política Monetária e Títulos Públicos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Políticas monetárias convencionais e não-convencionais (Quantitative Easing)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Taxa SELIC e operações compromissadas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Debate sobre os depósitos remunerados dos bancos no Banco Central",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Orçamento público, títulos do Tesouro Nacional e dívida pública",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Taxas de juros de curto prazo, curva de juros e taxas nominais/reais",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Produtos e Serviços Bancários",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Cartões de crédito e débito: funcionamento e regulamentação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Crédito direto ao consumidor (CDC) e crédito rural",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Poupança, capitalização e previdência privada",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Consórcio, investimentos (CDB, LCI, LCA) e seguros",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Noções de mercado de capitais: ações, fundos e produtos de investimento",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Garantias e Operações do SFN",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Garantias do SFN: aval, fiança, penhor mercantil, alienação fiduciária, hipoteca e fianças bancárias",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Dinâmica do mercado interbancário",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Operações de tesouraria, varejo bancário e recuperação de crédito",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Diferencial de juros interno e externo, prêmios de risco, fluxo de capitais e impactos sobre câmbio",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Compliance, Regulação e Segurança",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Crime de lavagem de dinheiro: conceito e etapas (colocação, ocultação e integração)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Prevenção e combate à lavagem de dinheiro (PLD): Lei nº 9.613/1998 e atualizações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Circular nº 3.978/2020 e Carta Circular nº 4.001/2020 (PLD)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Autorregulação bancária",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Sigilo Bancário: Lei Complementar nº 105/2001 e atualizações",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Lei Geral de Proteção de Dados (LGPD): Lei nº 13.709/2018",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Compliance e legislação anticorrupção: Lei nº 12.846/2013 e Decreto nº 11.129/2022",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwoqhu1er6",
+              "nome": "Segurança cibernética: Resolução CMN nº 4.893/2021",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpwpwozj8tu8d",
+      "nome": "CONHECIMENTOS DE INFORMÁTICA",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Sistemas Operacionais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Noções de sistemas operacionais: Windows 10 (32 e 64 bits)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Conceitos de organização e gerenciamento de informações, arquivos, pastas e programas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Instalação e configuração de aplicativos e periféricos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Pacotes de Escritório",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Edição de textos: Microsoft Word (O365) e LibreOffice Writer 7.4.2",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Planilhas eletrônicas: Microsoft Excel (O365) e LibreOffice Calc 7.4.2",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Apresentações: Microsoft PowerPoint (O365) e LibreOffice Impress 7.4.2",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Gerenciamento de e-mails: Microsoft Outlook (O365)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança da Informação",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Fundamentos, conceitos e mecanismos de segurança da informação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Proteção de estações de trabalho: controle de dispositivos USB, hardening e antimalware",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Firewall pessoal: conceito e configuração básica",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redes, Internet e Comunicação",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Redes de computadores: conceitos básicos, ferramentas, aplicativos e procedimentos de internet e intranet",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Navegadores Web: Google Chrome 106.x (64-bit), Microsoft Edge 91 e Mozilla Firefox 78ESR",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Pesquisa e busca eficiente na Web",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Correio eletrônico, grupos de discussão, fóruns e wikis",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Redes Sociais: Twitter, Facebook, LinkedIn, WhatsApp, YouTube, Instagram e Telegram",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Tecnologias Avançadas e Produtividade",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Visão geral sobre sistemas de suporte à decisão e inteligência de negócio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Fundamentos sobre análise de dados",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Conceitos de educação a distância (EAD)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Conceitos de tecnologias e ferramentas multimídia, de reprodução de áudio e vídeo",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwozj8tu8d",
+              "nome": "Ferramentas de produtividade e trabalho a distância: Microsoft Teams, Cisco Webex, Google Hangout, Google Drive e Skype",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpwpwp5r5ale6",
+      "nome": "VENDAS E NEGOCIAÇÃO",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Estratégia Empresarial e Mercado",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Noções de estratégia empresarial: análise de mercado, forças competitivas (Porter), imagem institucional, identidade e posicionamento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Segmentação de mercado",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Ações para aumentar o valor percebido pelo cliente",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Gestão da experiência do cliente (CX)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Qualidade em Serviços",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Aprendizagem e sustentabilidade organizacional",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Características dos serviços: intangibilidade, inseparabilidade, variabilidade e perecibilidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Gestão da qualidade em serviços",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Padrões de qualidade no atendimento aos clientes: satisfação, valor e retenção",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Técnicas de Vendas",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Técnicas de vendas: da pré-abordagem ao pós-vendas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Ética e conduta profissional em vendas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Utilização de canais remotos para vendas e Telemarketing",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Comportamento do consumidor e sua relação com vendas e negociação",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regulamentação de Vendas e Atendimento",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Política de Relacionamento com o Cliente: Resolução CMN nº 4.949/2021",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Resolução CMN nº 4.860/2020 (componente organizacional de ouvidoria pelas instituições financeiras)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Código de Proteção e Defesa do Consumidor: Lei nº 8.078/1990 e atualizações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwp5r5ale6",
+              "nome": "Resolução CMN nº 3.849/2010 (ouvidoria das instituições financeiras)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mpwpwpar19aeo",
+      "nome": "ÉTICA E DIVERSIDADE",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Ética Empresarial e Profissional",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Ética aplicada: ética, moral, valores e virtudes",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Noções de ética empresarial e profissional",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "A gestão de ética nas empresas públicas e privadas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Código de Ética e de Conduta do Banrisul",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação de Diversidade e Inclusão",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Lei Federal nº 11.340/2006 (Lei Maria da Penha): política nacional para coibir a violência doméstica e familiar contra a mulher",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Lei Federal nº 12.288/2010 (Estatuto da Igualdade Racial) e atualizações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Lei Estadual nº 13.694/2011 (Estatuto Estadual da Igualdade Racial - RS) e Decreto nº 48.598/2011",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Lei Brasileira de Inclusão da Pessoa com Deficiência (LBI): Lei nº 13.146/2015",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Lei nº 10.098/2000 (promoção de acessibilidade) e Lei nº 10.048/2000 (prioridade de atendimento)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Decreto nº 5.296/2004 (regulamentação das leis de acessibilidade)",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Responsabilidade Socioambiental do Banrisul",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Política de Responsabilidade Socioambiental do Banrisul",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Relatório de Sustentabilidade Banrisul 2020",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mpwpwpar19aeo",
+              "nome": "Boas práticas de ESG (Environmental, Social and Governance) no setor bancário",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mpwpwoafihuh8\"},{\"nome\":\"MATEMÁTICA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mpwpwoewmk5gv\"},{\"nome\":\"AT. DO MERCADO FINANCEIRO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mpwpwoj0b0tz9\"},{\"nome\":\"MATEMÁTICA FINANCEIRA\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mpwpwomtxz1an\"},{\"nome\":\"CON. BANCÁRIOS\",\"cor\":\"#f5c842\",\"materiaId\":\"mpwpwoqhu1er6\"},{\"nome\":\"CON. DE INFORMÁTICA\",\"cor\":\"#f5874a\",\"materiaId\":\"mpwpwozj8tu8d\"},{\"nome\":\"VENDAS E NEGOCIAÇÃO\",\"cor\":\"#00bcd4\",\"materiaId\":\"mpwpwp5r5ale6\"},{\"nome\":\"ÉTICA E DIVERSIDADE\",\"cor\":\"#e91e8c\",\"materiaId\":\"mpwpwpar19aeo\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": "{\"round\":1,\"startedAt\":\"2026-06-02T14:13:26.952Z\",\"currentIndex\":0,\"currentItemId\":\"entry_1780409606952_2f2c6_1\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1780409606952_2f2c6_1\",\"baseId\":\"base_ETICA E DIVERSIDADE\",\"materiaId\":\"mpwpwpar19aeo\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_1ae2d_1\",\"baseId\":\"base_CON. DE INFORMATICA\",\"materiaId\":\"mpwpwozj8tu8d\",\"targetSeconds\":5400,\"remainingSeconds\":5400,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_3a1d2_1\",\"baseId\":\"base_VENDAS E NEGOCIACAO\",\"materiaId\":\"mpwpwp5r5ale6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_d1494_1\",\"baseId\":\"base_CON. BANCARIOS\",\"materiaId\":\"mpwpwoqhu1er6\",\"targetSeconds\":5400,\"remainingSeconds\":5400,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_c743a_1\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mpwpwoafihuh8\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_0129b_1\",\"baseId\":\"base_MATEMATICA FINANCEIRA\",\"materiaId\":\"mpwpwomtxz1an\",\"targetSeconds\":5400,\"remainingSeconds\":5400,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_09542_2\",\"baseId\":\"base_VENDAS E NEGOCIACAO\",\"materiaId\":\"mpwpwp5r5ale6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_3b207_1\",\"baseId\":\"base_AT. DO MERCADO FINANCEIRO\",\"materiaId\":\"mpwpwoj0b0tz9\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_97681_1\",\"baseId\":\"base_MATEMATICA\",\"materiaId\":\"mpwpwoewmk5gv\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_8723f_2\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mpwpwoafihuh8\",\"targetSeconds\":1800,\"remainingSeconds\":1800,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"},{\"id\":\"entry_1780409606952_70b37_3\",\"baseId\":\"base_VENDAS E NEGOCIACAO\",\"materiaId\":\"mpwpwp5r5ale6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-06-02T14:13:26.952Z\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_basicos\",\"name\":\"Conhecimentos Básicos\",\"useBlockData\":false,\"items\":[{\"id\":\"mpwpwoafihuh8\",\"q\":15,\"w\":1},{\"id\":\"mpwpwoewmk5gv\",\"q\":5,\"w\":1},{\"id\":\"mpwpwoj0b0tz9\",\"q\":5,\"w\":1}],\"q\":25,\"w\":1,\"minPts\":0},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"useBlockData\":false,\"items\":[{\"id\":\"mpwpwomtxz1an\",\"q\":10,\"w\":1},{\"id\":\"mpwpwoqhu1er6\",\"q\":10,\"w\":1},{\"id\":\"mpwpwozj8tu8d\",\"q\":10,\"w\":1},{\"id\":\"mpwpwp5r5ale6\",\"q\":20,\"w\":2},{\"id\":\"mpwpwpar19aeo\",\"q\":5,\"w\":1}],\"q\":55,\"w\":1,\"minPts\":0}]}"
+  }
+}
