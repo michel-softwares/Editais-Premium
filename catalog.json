@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-06-04T22:09:15.581Z",
+  "atualizadoEm": "2026-06-04T22:18:07.895Z",
   "editais": [
+    {
+      "id": "escriturario-banco-do-brasil",
+      "titulo": "Banco do Brasil (Banco do Brasil)",
+      "orgao": "Banco do Brasil (Banco do Brasil)",
+      "banca": "CESGRANRIO",
+      "cargo": "Agente Comercial / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
+      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil%20com%20cadernos%20quest%C3%B5es%20Qconcursos%20linkados.JSON",
+      "arquivoNome": "Edital_Premium_Banco do Brasil com cadernos questões Qconcursos linkados.JSON",
+      "atualizadoEm": "2026-06-04T22:17:57.000Z"
+    },
     {
       "id": "tecnico-judiciario-especialidade-programacao-tst-2023",
       "titulo": "Tribunal Superior do Trabalho (TST)",
@@ -33,23 +50,6 @@
       "arquivo": "T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20%C3%81rea%20Administrativa%20-%20TST%202017/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Judici%C3%A1rio%20%E2%80%93%20%C3%81rea%20Administrativa%20TST%202017.json",
       "arquivoNome": "Edital Premium Track Concursos Técnico Judiciário – Área Administrativa TST 2017.json",
       "atualizadoEm": "2026-06-04T22:09:08.000Z"
-    },
-    {
-      "id": "escriturario-banco-do-brasil",
-      "titulo": "Banco do Brasil (Banco do Brasil)",
-      "orgao": "Banco do Brasil (Banco do Brasil)",
-      "banca": "CESGRANRIO",
-      "cargo": "Agente Comercial / Nível Médio",
-      "ano": 2022,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
-      "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil%20com%20cadernos%20quest%C3%B5es%20Qconcursos%20linkados.JSON",
-      "arquivoNome": "Edital_Premium_Banco do Brasil com cadernos questões Qconcursos linkados.JSON",
-      "atualizadoEm": "2026-06-04T22:06:42.000Z"
     },
     {
       "id": "analista-legislativo-analise-de-dados-alece-2026",
