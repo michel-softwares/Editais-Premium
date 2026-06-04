@@ -1,0 +1,1499 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "Tribunal Superior do Trabalho",
+    "cargo": "Técnico Judiciário – Área Administrativa",
+    "salario": "R$ 6.376,41",
+    "banca": "FCC",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": null,
+    "localProva": "",
+    "linkEdital": "https://www.concursosfcc.com.br/concursos/tstdc117/microsoft_word_-_boletim_tstdc117_final_site.pdf",
+    "preEdital": true,
+    "pontuacaoMax": 400,
+    "vagas": "22 vagas + CR (16 AC, 4 Negros, 2 PcD)",
+    "obs": "OBS: hoje em dia a formação exigida para o cargo Técnico Judiciário é nível superior!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mq01ihh9gl3nn",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e interpretação de textos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Argumentação, pressupostos e subentendidos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Níveis de linguagem",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Coesão e coerência textual",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Morfologia",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Classes de palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Flexão nominal",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Flexão verbal",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sintaxe da oração e do período",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Termos da oração",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Processos de coordenação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Processos de subordinação",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Discurso direto e indireto",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Tempos, modos e vozes verbais",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Concordância Nominal e Verbal",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Concordância Nominal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Concordância Verbal",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regência Nominal e Verbal",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Regência Nominal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Regência Verbal",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ocorrência da Crase",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ortografia e acentuação gráfica",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Ortografia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihh9gl3nn",
+              "nome": "Acentuação gráfica",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Pontuação",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Equivalência e transformação de estruturas",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Redação (produção de textos)",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq01ihosz3i66",
+      "nome": "RACIOCÍNIO LÓGICO-MATEMÁTICO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Aritmética e Álgebra",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Números inteiros e racionais: operações e expressões numéricas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Múltiplos e divisores de números naturais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Frações e operações com frações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Resolução de problemas aritméticos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Números e grandezas proporcionais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Razões e proporções",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Divisão em partes proporcionais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Regra de três simples e composta",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Porcentagem e resolução de problemas",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estrutura lógica de relações",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Dedução de novas informações e avaliação de condições estruturais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Raciocínio Lógico e Situações-Problema",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Raciocínio verbal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Raciocínio matemático",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Raciocínio sequencial",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Orientação espacial e temporal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Formação de conceitos e discriminação de elementos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihosz3i66",
+              "nome": "Processo lógico de inferência a partir de hipóteses e conclusões",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq01ihuaqqi5g",
+      "nome": "DIREITOS DAS PESSOAS COM DEFICIÊNCIA",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Constituição Federal e Direitos das Pessoas com Deficiência",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei nº 13.146/2015 (Estatuto da Pessoa com Deficiência)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Resolução CNJ nº 230/2016",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Resolução CNJ 230/2016: Artigo 19",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei nº 11.126/2005 (Direito ao Cão-Guia)",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Acessibilidade e Prioridade de Atendimento",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Lei nº 10.098/2000 (Promoção da Acessibilidade)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Lei nº 10.048/2000 (Prioridade de Atendimento)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Decreto nº 5.296/2004 (Regulamenta Acessibilidade e Prioridades)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Transporte Coletivo e Símbolo de Identificação",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Lei nº 8.899/1994 (Passe Livre no Transporte Coletivo)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Decreto nº 3.691/2000 (Regulamenta Passe Livre)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Lei nº 8.160/1991 (Símbolo de Identificação da Deficiência Auditiva)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Apoio e Integração Social da Pessoa com Deficiência",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Lei nº 7.853/1989 (Apoio às Pessoas com Deficiência e sua Integração Social)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihuaqqi5g",
+              "nome": "Decreto nº 3.298/1999 (Regulamenta a Lei 7.853/1989)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq01ihyrp1r93",
+      "nome": "REGIMENTO INTERNO DO TST",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Regimento Interno do TST",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ihyrp1r93",
+              "nome": "Artigos 1º a 44",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihyrp1r93",
+              "nome": "Artigos 58 a 69",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihyrp1r93",
+              "nome": "Artigos 73 a 75",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ihyrp1r93",
+              "nome": "Artigos 284 a 307",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq01ii0dw3iuf",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Constituição: Princípios Fundamentais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Direitos e Garantias Fundamentais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Direitos e deveres individuais e coletivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Direitos sociais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Nacionalidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Direitos políticos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Partidos políticos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização Político-Administrativa",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Competências da União",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Competências dos Estados",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Competências dos Municípios",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Administração Pública na Constituição",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Disposições gerais da Administração Pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Servidores públicos na Constituição",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização dos Poderes",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Poder Executivo: atribuições e responsabilidades do Presidente da República",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Poder Legislativo: fiscalização contábil, financeira e orçamentária",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poder Judiciário",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Disposições gerais do Poder Judiciário",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Supremo Tribunal Federal (STF)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Conselho Nacional de Justiça (CNJ): Organização e Competência",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Superior Tribunal de Justiça (STJ)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Tribunais Regionais Federais e Juízes Federais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Conselho Superior da Justiça do Trabalho (CSJT): Organização e Competência",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Tribunal Superior do Trabalho (TST)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Tribunais Regionais do Trabalho (TRT)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Juízes do Trabalho",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Funções Essenciais à Justiça",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Ministério Público",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Advocacia Pública",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Advocacia",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii0dw3iuf",
+              "nome": "Defensoria Pública",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq01ii9buy7ev",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Organização Administrativa e Princípios",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Princípios básicos da Administração Pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Administração direta e indireta",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Órgãos públicos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Agentes Públicos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ato Administrativo",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Requisitos do ato administrativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Atributos do ato administrativo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Classificação e espécies de atos administrativos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Revogação, invalidação e convalidação do ato administrativo",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poderes e Deveres dos Administradores Públicos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Uso e abuso do poder",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Poder vinculado e discricionário",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Poder hierárquico, disciplinar e regulamentar",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Poder de polícia",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Deveres dos administradores públicos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regime Jurídico dos Servidores Públicos Federais (Lei nº 8.112/1990)",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Provimento e Vacância",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Direitos e Vantagens",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Deveres e Proibições",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Acumulação de cargos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Responsabilidades e Penalidades",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Processo administrativo disciplinar e sua revisão",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Licitações e Contratos Administrativos (Lei nº 8.666/1993)",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Princípios da licitação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Modalidades de licitação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Contratos administrativos: formalização e características",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Execução, inexecução e rescisão contratual",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ii9buy7ev",
+              "nome": "Sanções administrativas",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Modalidade Pregão (Lei nº 10.520/2002)",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Processo Administrativo Federal (Lei nº 9.784/1999)",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei de Improbidade Administrativa (Lei nº 8.429/1992)",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq01iii35jr3c",
+      "nome": "NOÇÕES DE DIREITO DO TRABALHO",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Introdução ao Direito do Trabalho",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Princípios e fontes do Direito do Trabalho",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Hierarquia das fontes do Direito do Trabalho",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Direitos constitucionais dos trabalhadores (Artigo 7º da CF/88)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Relação de Trabalho e Relação de Emprego",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Características e diferenciação entre relação de trabalho e de emprego",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Sujeitos do contrato de trabalho: empregado e empregador",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Grupo econômico e suas implicações no contrato de trabalho",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Sucessão de empregadores e responsabilidade solidária",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Terceirização e flexibilização trabalhista",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Contrato Individual de Trabalho",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Conceito, classificação e características do contrato de trabalho",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Alteração do contrato de trabalho: princípio informador, unilateralidade, bilateralidade e jus variandi",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Suspensão e interrupção do contrato de trabalho: distinções e hipóteses",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Rescisão do contrato de trabalho: hipóteses",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Aviso prévio: prazo e efeitos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Duraçao do Trabalho e Descansos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Jornada de trabalho",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Períodos de descanso e intervalo para repouso e alimentação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Descanso semanal remunerado (DSR)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Trabalho noturno",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Trabalho extraordinário (horas extras)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Salário e Remuneração",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Salário-mínimo: irredutibilidade e garantia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Conceito e distinções entre salário e remuneração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Composição e modalidades do salário",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Formas e meios de pagamento do salário",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Adicionais salariais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Décimo terceiro salário (13º salário)",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Férias e FGTS",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Direito a férias e sua duração",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Período concessivo e período aquisitivo de férias",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Remuneração e abono de férias",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Fundo de Garantia do Tempo de Serviço (FGTS)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Prescrição e Decadência no Direito do Trabalho",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Proteção ao Trabalho e Saúde",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Atividades perigosas ou insalubres (segurança e medicina no trabalho)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Proteção ao trabalho do menor",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Estatuto da Criança e do Adolescente (aspectos trabalhistas)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Proteção ao trabalho da mulher",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Estabilidade da gestante",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Licença-maternidade",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direito Coletivo do Trabalho e Outros Temas",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Organização sindical",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Liberdade sindical (Convenção 87 da OIT)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Conceito de categoria e categoria diferenciada",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Convenções e acordos coletivos de trabalho",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Comissões de Conciliação Prévia (CCP)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Representação dos empregados",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iii35jr3c",
+              "nome": "Renúncia e transação",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq01iivrfub8e",
+      "nome": "NOÇÕES DE DIREITO PROCESSUAL DO TRABALHO",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Introdução e Fontes do Processo do Trabalho",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Fontes de Direito Processual do Trabalho",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Princípios específicos do processo do trabalho",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Aplicação subsidiária e supletiva do CPC ao processo do trabalho",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização e Competência da Justiça do Trabalho",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Organização e competência da Justiça do Trabalho (Emenda Constitucional nº 45/2004)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Varas do Trabalho: jurisdição e competência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Tribunais Regionais do Trabalho (TRT): jurisdição e competência",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Tribunal Superior do Trabalho (TST): composição e competência",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Serviços auxiliares da Justiça do Trabalho: secretarias das Varas e distribuidores",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Fase de Conhecimento",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Audiência trabalhista: instrução e julgamento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Provas no processo trabalhista: testemunhal, documental e pericial",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Procedimento ordinário",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Procedimento sumaríssimo",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Recursos no Processo do Trabalho",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Espécies e prazos dos recursos trabalhistas",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Execução Trabalhista",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Iniciativa da execução",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Execução provisória",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Execução contra a Fazenda Pública",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Execução contra a massa falida",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Citação, depósito da condenação e nomeação de bens",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Mandado e penhora",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Bens penhoráveis e impenhoráveis",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Embargos à execução e impugnação à sentença",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Embargos de terceiro",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Praça, leilão, arrematação e remição",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Custas na execução",
+              "ordem": 10,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Processo Judicial Eletrônico (PJe)",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Peculiaridades, características e prazos do PJe",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01iivrfub8e",
+              "nome": "Normas aplicáveis ao processo judicial eletrônico",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Súmulas do TST sobre Direito Processual do Trabalho",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq01ij4ostuoz",
+      "nome": "NOÇÕES DE ORÇAMENTO PÚBLICO",
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios Orçamentários",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Orçamento na Constituição Federal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ij4ostuoz",
+              "nome": "Artigos 165 a 169",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei nº 4.320/1964",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq01ij4ostuoz",
+              "nome": "Exercício financeiro",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ij4ostuoz",
+              "nome": "Despesa pública: empenho, liquidação e pagamento",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ij4ostuoz",
+              "nome": "Créditos adicionais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ij4ostuoz",
+              "nome": "Restos a pagar",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq01ij4ostuoz",
+              "nome": "Suprimento de fundos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mq01ihh9gl3nn\"},{\"nome\":\"RACIOCÍNIO LÓGICO-MATEMÁTICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mq01ihosz3i66\"},{\"nome\":\"DIREITOS DAS PESSOAS COM DEFICIÊNCIA\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mq01ihuaqqi5g\"},{\"nome\":\"REGIMENTO INTERNO DO TST\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mq01ihyrp1r93\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL\",\"cor\":\"#f5c842\",\"materiaId\":\"mq01ii0dw3iuf\"},{\"nome\":\"NOÇÕES DE DIR. ADM.\",\"cor\":\"#f5874a\",\"materiaId\":\"mq01ii9buy7ev\"},{\"nome\":\"NOÇÕES DE DIR. DO TRABALHO\",\"cor\":\"#00bcd4\",\"materiaId\":\"mq01iii35jr3c\"},{\"nome\":\"NOÇÕES DE DIR. PROCESSUAL DO TRABALHO\",\"cor\":\"#e91e8c\",\"materiaId\":\"mq01iivrfub8e\"},{\"nome\":\"NOÇÕES DE ORÇAMENTO PÚBLICO\",\"cor\":\"#8bc34a\",\"materiaId\":\"mq01ij4ostuoz\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_basicos\",\"name\":\"Conhecimentos Básicos\",\"useBlockData\":true,\"q\":30,\"w\":1,\"minPts\":0,\"items\":[{\"id\":\"mq01ihh9gl3nn\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mq01ihosz3i66\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mq01ihuaqqi5g\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mq01ihyrp1r93\",\"q\":\"X\",\"w\":\"Y\"}]},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"useBlockData\":true,\"q\":40,\"w\":3,\"minPts\":0,\"items\":[{\"id\":\"mq01ii0dw3iuf\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mq01ii9buy7ev\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mq01iii35jr3c\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mq01iivrfub8e\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mq01ij4ostuoz\",\"q\":\"X\",\"w\":\"Y\"}]},{\"id\":\"g_redacao\",\"name\":\"Redação\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":100,\"redType\":\"Dissertativa\",\"isClassificatoriaOnly\":false,\"minPts\":60}],\"redacao\":{\"pts\":100,\"tipo\":\"Dissertativa\"}}"
+  }
+}
