@@ -1,26 +1,6 @@
 {
-<<<<<<< Updated upstream
-  "atualizadoEm": "2026-05-31T20:07:58.648Z",
-=======
-  "atualizadoEm": "2026-06-04T03:20:13.392Z",
->>>>>>> Stashed changes
+  "atualizadoEm": "2026-06-04T03:43:52.178Z",
   "editais": [
-    {
-      "id": "escriturario-banrisul-2022",
-      "titulo": "Escriturário - Banrisul 2022",
-      "orgao": "Escriturário - Banrisul 2022",
-      "banca": "Fundação Cesgranrio - Concurso Público 01/",
-      "cargo": "Escriturário",
-      "ano": 2022,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Escritur%C3%A1rio%20-%20Banrisul%202022/card_premium_escriturario_banrisul.png",
-      "arquivo": "Escritur%C3%A1rio%20-%20Banrisul%202022/Edital%20Premium%20Escritur%C3%A1rio%20-%20Banrisul%202022.json",
-      "arquivoNome": "Edital Premium Escriturário - Banrisul 2022.json",
-      "atualizadoEm": "2026-06-04T03:20:11.157Z"
-    },
     {
       "id": "analista-legislativo-analise-de-dados-alece-2026",
       "titulo": "ALECE (ALECE)",
@@ -35,7 +15,42 @@
       "imagem": "Analista%20Legislativo%20%E2%80%93%20An%C3%A1lise%20de%20Dados%20-%20ALECE%202026/card_premium_alece.png",
       "arquivo": "Analista%20Legislativo%20%E2%80%93%20An%C3%A1lise%20de%20Dados%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20An%C3%A1lise%20de%20Dados%20ALECE%202026.json",
       "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Análise de Dados ALECE 2026.json",
-      "atualizadoEm": "2026-06-04T03:20:09.150Z"
+      "atualizadoEm": "2026-06-04T03:43:42.000Z"
+    },
+    {
+      "id": "escriturario-banrisul-2022",
+      "titulo": "Escriturário - Banrisul 2022",
+      "orgao": "Escriturário - Banrisul 2022",
+      "banca": "CESGRANRIO",
+      "cargo": "Escriturário",
+      "ano": 2022,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Escritur%C3%A1rio%20-%20Banrisul%202022/card_premium_escriturario_banrisul.png",
+      "arquivo": "Escritur%C3%A1rio%20-%20Banrisul%202022/Edital%20Premium%20Escritur%C3%A1rio%20-%20Banrisul%202022.json",
+      "arquivoNome": "Edital Premium Escriturário - Banrisul 2022.json",
+      "atualizadoEm": "2026-06-04T03:43:42.000Z"
+    },
+    {
+      "id": "tecnico-do-seguro-social-inss",
+      "titulo": "INSS (INSS)",
+      "orgao": "INSS (INSS)",
+      "banca": "CEBRASPE",
+      "cargo": "Técnico do Seguro Social / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe",
+        "inss"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/card_premium_inss.png",
+      "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
+      "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
+      "atualizadoEm": "2026-06-04T03:43:42.000Z"
     },
     {
       "id": "agente-administrativo-dpe-pb-2021",
@@ -724,25 +739,6 @@
       "arquivo": "Delegado%20-%20PCDF/Edital%20Premium%20Delegado%20PCDF.json",
       "arquivoNome": "Edital Premium Delegado PCDF.json",
       "atualizadoEm": "2026-05-27T17:55:18.000Z"
-    },
-    {
-      "id": "tecnico-do-seguro-social-inss",
-      "titulo": "INSS (INSS)",
-      "orgao": "INSS (INSS)",
-      "banca": "CEBRASPE",
-      "cargo": "Técnico do Seguro Social / Nível Médio",
-      "ano": 2022,
-      "tags": [
-        "edital pronto",
-        "nivel medio",
-        "cebraspe",
-        "inss"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/card_premium_inss.png",
-      "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
-      "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
-      "atualizadoEm": "2026-05-27T17:55:17.000Z"
     },
     {
       "id": "cadete-espcex-2026",
