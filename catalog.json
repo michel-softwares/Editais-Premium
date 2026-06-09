@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-06-04T22:18:07.895Z",
+  "atualizadoEm": "2026-06-09T18:39:58.227Z",
   "editais": [
+    {
+      "id": "analista-legislativo-gestao-e-governanca-alece-2026",
+      "titulo": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "orgao": "Assembleia Legislativa do Estado do Ceará (ALECE)",
+      "banca": "IDECAN",
+      "cargo": "Analista Legislativo - Gestão e Governança",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20Legislativo%20%E2%80%93%20Gest%C3%A3o%20e%20Governan%C3%A7a%20-%20ALECE%202026/card_premium_analista_gestao_governanca.png",
+      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Gest%C3%A3o%20e%20Governan%C3%A7a%20-%20ALECE%202026/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Especialidade%20Gest%C3%A3o%20e%20Governan%C3%A7a%20ALECE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Especialidade Gestão e Governança ALECE 2026.json",
+      "atualizadoEm": "2026-06-09T18:39:45.000Z"
+    },
     {
       "id": "escriturario-banco-do-brasil",
       "titulo": "Banco do Brasil (Banco do Brasil)",
