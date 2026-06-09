@@ -1,0 +1,906 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "ALECE",
+    "cargo": "Analista Legislativo – Gestão e Governança",
+    "salario": "R$ 6.126,48",
+    "banca": "IDECAN",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-08-16",
+    "localProva": "",
+    "linkEdital": "https://doalece.al.ce.gov.br/storage_doalece/edicoes/B7dfL6pfzetwRF1IvcAIykfm8pgXfVSLbZxtIrJN/B7dfL6pfzetwRF1IvcAIykfm8pgXfVSLbZxtIrJN.pdf",
+    "preEdital": false,
+    "pontuacaoMax": 120,
+    "vagas": "38 vagas + 76 CR (Immediate: 24 AC, 2 PcD, 10 PP, 1 PI, 1 PQ | CR: 49 AC, 4 PcD, 19 PP, 2 PI, 2 PQ)",
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos; para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mq6z0zsa6p8ps",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Leitura e interpretação textual",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Leitura, compreensão e interpretação de textos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Estruturação do texto e dos parágrafos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Articulação do texto: pronomes e expressões referenciais, nexos e operadores sequenciais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Significação contextual de palavras e expressões",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Equivalência e transformação de estruturas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Linguagem verbal e não verbal: ícone, índice e símbolo",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Modalizadores discursivos",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sintaxe e construção frasal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Sintaxe: processos de coordenação e subordinação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Pontuação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Pronomes: emprego, formas de tratamento e colocação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Sintaxe do período simples e composto",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Concordância nominal e verbal",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Concordância nominal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Concordância verbal",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regência nominal e verbal",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Regência nominal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Regência verbal",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfologia e estrutura das palavras",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Estrutura e formação de palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Funções das classes de palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Flexão nominal e verbal",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Norma-padrão da língua portuguesa",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Ortografia oficial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z0zsa6p8ps",
+              "nome": "Acentuação gráfica",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq6z1057fjsy7",
+      "nome": "NOÇÕES DE INFORMÁTICA",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Hardware e componentes computacionais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Hardware: dispositivos de armazenamento, memórias e periféricos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Extensões e arquivos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas operacionais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Sistema Operacional Windows: conceito de pastas, diretórios, arquivos, atalhos, área de trabalho e manipulação de arquivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Sistema Operacional Linux: conceito de pastas, diretórios, arquivos, atalhos e manipulação de arquivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Uso dos menus, programas, aplicativos e interação com o conjunto de aplicativos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "MS Office M365",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Microsoft Word: edição, formatação de textos, cabeçalhos, parágrafos, fontes, colunas, tabelas, quebras, numeração, legendas, índices e caixas de texto",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Microsoft Excel: planilhas, células, linhas, colunas, fórmulas, funções, macros, gráficos e classificação de dados externos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Microsoft PowerPoint: edição e estrutura básica de apresentações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "OneDrive e Sharepoint",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Correio eletrônico",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Uso de correio eletrônico, preparo e envio de mensagens e anexação de arquivos",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ferramentas de comunicação e reuniões on-line",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Microsoft Teams",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Google Meet",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Zoom",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Internet e navegação",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Internet, intranet e extranet",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Protocolos e serviços de internet",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Sítios de busca e pesquisa na internet",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Navegadores: Mozilla Firefox e Google Chrome",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Computação em nuvem e redes sociais",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Tecnologia da informação e segurança da informação",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Tecnologia da informação e segurança de dados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Princípios de segurança, confidencialidade e assinatura digital",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Procedimentos de segurança e backup",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Ferramentas de segurança (antivírus e firewalls)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Malwares e ataques",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Tecnologias emergentes no setor público",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Conceitos básicos de inteligência artificial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z1057fjsy7",
+              "nome": "Técnicas de prompts",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq6z10ks3c2h2",
+      "nome": "LEGISLAÇÃO E ÉTICA NO SERVIÇO PÚBLICO",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Legislação aplicada ao serviço público",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Lei Geral de Proteção de Dados Pessoais (LGPD) - Lei Federal nº 13.709/2018",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Lei de Acesso à Informação (LAI) - Lei Federal nº 12.527/2011",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ética no serviço público",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Ética e função pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Ética e moral: definição e distinção",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Valores, virtude, honestidade, integridade, decoro e zelo no serviço público: conceitos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Ética, democracia, cidadania e o papel do servidor público",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Princípios da Administração Pública aplicados à ética",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Aplicação dos princípios éticos na Administração Pública",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação Estadual Interna",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Estatuto dos Funcionários Públicos Civis do Estado do Ceará - Lei Estadual nº 9.826/1974 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Plano de Cargos, Carreira e Remuneração da ALECE - Lei Estadual nº 17.091/2019 e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Código de Ética e Decoro Parlamentar - Resolução nº 546/2006",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Regimento Interno da Assembleia Legislativa do Estado do Ceará - Resolução nº 751/2022 e suas alterações",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Estrutura Organizacional da ALECE - Resolução nº 780/2025 e suas alterações",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10ks3c2h2",
+              "nome": "Código de Ética e Conduta dos Servidores da ALECE - Resolução nº 783/2026",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq6z10tk3qasa",
+      "nome": "CONHECIMENTOS ESPECÍFICOS",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Administração Pública e Direito Administrativo",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Organização governamental brasileira",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Princípios constitucionais e administrativos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Administração direta e indireta",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Atos administrativos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Poderes administrativos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Serviços públicos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Agentes públicos",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Processo administrativo",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Controle da Administração Pública",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Improbidade administrativa",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Paradigmas da Administração Pública",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Administração burocrática",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Estado de bem-estar social",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Nova gestão pública (New Public Management)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Governança, Controle e Accountability",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Governança pública e Governabilidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Accountability e Transparência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Integridade e Ética",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Gestão de riscos e Controles internos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Controle social, participação e prestação de contas",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Políticas Públicas",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Formulação de políticas públicas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Implementação de políticas públicas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Monitoramento e avaliação de políticas públicas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Planejamento e Gestão Estratégica",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Planejamento público: estratégico, tático e operacional",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Planos e programas de governo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Gestão por resultados",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Avaliação de programas e projetos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Melhoria de procedimentos administrativos e legislativos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Informações Gerenciais, Indicadores e Tecnologia Aplicada",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Indicadores de desempenho: eficiência, eficácia, efetividade e economicidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Relatórios gerenciais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Monitoramento da gestão fiscal e administrativa",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Painéis de acompanhamento e dashboards: ferramentas tecnológicas aplicadas ao monitoramento",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Excel avançado",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Business Intelligence (BI) e Power BI",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Sistemas informatizados de gestão pública",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão de Processos e Projetos",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Gestão de processos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Gestão de projetos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Melhoria contínua, qualidade e inovação no setor público",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Orçamento Público",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Plano Plurianual (PPA)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Lei de Diretrizes Orçamentárias (LDO)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Lei Orçamentária Anual (LOA)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Modelos de Parceria e Organização do Estado",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Parcerias e consórcios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Terceirização e redes no setor público",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Organizações da sociedade civil",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Licitações, Contratos e Normas Especiais",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Licitações e contratos administrativos (Lei nº 14.133/2021)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Fiscalização contratual",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Lei de Acesso à Informação (LAI)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq6z10tk3qasa",
+              "nome": "Noções de proteção de dados pessoais (LGPD)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mq6z0zsa6p8ps\"},{\"nome\":\"NOÇÕES DE INFORMÁTICA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mq6z1057fjsy7\"},{\"nome\":\"LEGISLAÇÃO E ÉTICA NO SERVIÇO PÚBLICO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mq6z10ks3c2h2\"},{\"nome\":\"CON. ESPECÍFICOS\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mq6z10tk3qasa\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_gerais\",\"name\":\"Conhecimentos Gerais\",\"items\":[{\"id\":\"mq6z0zsa6p8ps\",\"q\":10,\"w\":1,\"minPts\":1},{\"id\":\"mq6z1057fjsy7\",\"q\":5,\"w\":1,\"minPts\":1},{\"id\":\"mq6z10ks3c2h2\",\"q\":5,\"w\":1,\"minPts\":1}],\"q\":20,\"w\":1,\"minPts\":10},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"items\":[{\"id\":\"mq6z10tk3qasa\",\"q\":50,\"w\":2,\"minPts\":2}],\"q\":50,\"w\":2,\"minPts\":50},{\"id\":\"g_discursiva\",\"name\":\"Prova Discursiva\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":40,\"redType\":\"Questões Discursivas\",\"isClassificatoriaOnly\":false,\"minPts\":24}]}"
+  }
+}
