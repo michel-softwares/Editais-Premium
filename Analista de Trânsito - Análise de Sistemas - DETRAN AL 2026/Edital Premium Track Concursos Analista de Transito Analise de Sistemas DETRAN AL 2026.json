@@ -1,0 +1,1574 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "DETRAN/AL",
+    "cargo": "Analista de Trânsito - Análise de Sistemas",
+    "salario": "R$ 7.800,00",
+    "banca": "Cebraspe",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-08-02",
+    "localProva": "",
+    "linkEdital": "https://cdn.cebraspe.org.br/concursos/detran_al_26/arquivos/AA805F83FE0A33AE3563F564A6AABB3A62CB73987FDD5AEAEC80DE67089ACD9B.pdf",
+    "preEdital": false,
+    "pontuacaoMax": 120,
+    "vagas": "10 Imediatas + 10 CR (Total 20 vagas)",
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;  para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mq7873jjkv5s0",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e interpretação de textos de gêneros variados",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Reconhecimento de tipos e gêneros textuais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Domínio da ortografia oficial",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Domínio dos mecanismos de coesão textual",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Domínio da estrutura morfossintática do período",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Emprego das classes de palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Relações de coordenação entre orações e entre termos da oração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Relações de subordinação entre orações e entre termos da oração",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Concordância verbal e nominal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Regência verbal e nominal",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Colocação dos pronomes átonos",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Reescrita de frases e parágrafos do texto",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Significação das palavras",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Substituição de palavras ou de trechos de texto",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Reorganização da estrutura de orações e de períodos do texto",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873jjkv5s0",
+              "nome": "Reescrita de textos de diferentes gêneros e níveis de formalidade",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq7873txe5fx3",
+      "nome": "RACIOCÍNIO LÓGICO E ANALÍTICO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lógica sentencial (ou proposicional)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Proposições simples e compostas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Tabelas verdade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Equivalências",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estrutura lógica de relações arbitrárias",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Dedução de novas informações das relações fornecidas e avaliação das condições usadas para estabelecer a estrutura daquelas relações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Compreensão e análise da lógica de uma situação",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Utilização de funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio sequencial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Reconhecimento de padrões, orientação espacial e temporal, formação de conceitos, discriminação de elementos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Compreensão de dados apresentados em gráficos e tabelas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Problemas de lógica e raciocínio",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Problemas de contagem e noções de probabilidade",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Falácias",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Noções de estatísticas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Média, moda, mediana",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7873txe5fx3",
+              "nome": "Desvio-padrão",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq78742raahag",
+      "nome": "TECNOLOGIA DA INFORMAÇÃO",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Noções de sistema operacional (ambiente Windows)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Edição de textos, planilhas e apresentações (ambiente Microsoft Office)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Redes de computadores",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Conceitos básicos, ferramentas, aplicativos e procedimentos de Internet e intranet",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Programas de navegação (Microsoft Edge, Mozilla Firefox, Google Chrome e similares)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Programas de correio eletrônico (Microsoft Outlook)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Sítios de busca e pesquisa na Internet",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Grupos de discussão",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Redes sociais",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Computação na nuvem (cloud computing)",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de organização e gerenciamento de informações, arquivos, pastas e programas",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Segurança da informação",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Procedimentos de segurança",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Noções de malware, vírus, worms e pragas virtuais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Aplicativos para segurança: antivírus, firewall, anti-spyware etc.",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Procedimentos de backup",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq78742raahag",
+              "nome": "Armazenamento de dados na nuvem (cloud storage)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq7874batqwc5",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios fundamentais da República Federativa do Brasil",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Direitos e garantias fundamentais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Controle de constitucionalidade no ordenamento brasileiro",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Modalidades de controle",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Efeitos subjetivos e temporais da declaração de constitucionalidade e inconstitucionalidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Ações do controle concentrado",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Súmula vinculante",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Repercussão geral",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização do Estado",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Organização político-administrativa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "União, Estados federados, municípios, Distrito Federal e territórios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Administração pública (disposições gerais; servidores públicos)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização dos poderes",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Poder Legislativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Poder Executivo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Poder Judiciário (disposições gerais; Supremo Tribunal Federal; Superior Tribunal de Justiça; tribunais regionais federais e juízes federais; tribunais e juízes eleitorais; tribunais e juízes dos estados)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Funções essenciais à justiça",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Finanças públicas",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Normas gerais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Orçamentos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ordem econômica e financeira",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874batqwc5",
+              "nome": "Princípios gerais da atividade econômica",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Jurisprudência do Supremo Tribunal Federal",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq7874mgrjcc6",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Administração pública: princípios básicos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Poderes administrativos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Poder hierárquico, poder disciplinar, poder regulamentar, poder de polícia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Uso e abuso do poder",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços públicos: conceito, regime jurídico, princípios, titularidade e competência",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Delegação: concessão, permissão e autorização",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ato administrativo",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Conceito, requisitos e atributos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Anulação, revogação e convalidação; discricionariedade e vinculação",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização administrativa",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Administração direta e indireta; centralizada e descentralizada",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Autarquias, fundações, empresas públicas, sociedades de economia mista, consórcios públicos (Lei nº 11.107/2005)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Órgãos públicos: conceito, natureza e classificação",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Servidores públicos: cargo, emprego e função públicos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "CLT",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Empregado e empregador, anotações na CTPS, duração do trabalho, períodos de descanso, trabalho noturno, teletrabalho",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Férias anuais, dano extrapatrimonial, contrato individual do trabalho, remuneração e rescisão",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Processo administrativo (Lei estadual nº 10.177/1998): artigos 1º ao 36",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Controle e responsabilização da administração",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Controle administrativo; controle judicial; controle legislativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Responsabilidade civil do Estado",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei nº 8.429/1992 (Lei de Improbidade Administrativa)",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Disposições gerais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Atos de improbidade administrativa",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Licitações e contratos da administração pública",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Lei nº 8.666/1993 e suas alterações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7874mgrjcc6",
+              "nome": "Lei nº 10.520/2002",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq78750184ar4",
+      "nome": "NOÇÕES DE DIREITO CIVIL",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Fontes do direito civil, princípios aplicáveis e normas gerais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Pessoas naturais e pessoas jurídicas",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Domicílio",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Bens",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Atos jurídicos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Negócio jurídico",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Prescrição e decadência",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Prova",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Obrigações",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Contratos",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Responsabilidade civil",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Posse, propriedade e direitos reais",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq787567hwty6",
+      "nome": "CONHECIMENTOS DO ESTADO DE ALAGOAS",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Formação histórica de Alagoas",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Colonização portuguesa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Economia açucareira",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Emancipação política de Pernambuco em 1817",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Elevação a província em 1821",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Quilombo dos Palmares",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Formação no período colonial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Resistência à escravidão",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Liderança de Zumbi dos Palmares",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Aspectos geográficos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Litoral, zona da mata, agreste e sertão",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Rio São Francisco",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização político-administrativa",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Maceió como capital estadual",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Municípios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Poderes Executivo, Legislativo e Judiciário",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Economia estadual",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Agroindústria canavieira",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Turismo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Setor de serviços",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Cultura e patrimônio",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Manifestações culturais populares",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq787567hwty6",
+              "nome": "Patrimônio histórico-cultural alagoano",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Constituição do Estado de Alagoas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq7875ihb7tgs",
+      "nome": "ATUALIDADES (SOMENTE PARA A PROVA DISCURSIVA)",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Tópicos relevantes e atuais de diversas áreas",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875ihb7tgs",
+              "nome": "Segurança, transportes, política, economia, sociedade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ihb7tgs",
+              "nome": "Educação, saúde, cultura, tecnologia, energia",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ihb7tgs",
+              "nome": "Relações internacionais, desenvolvimento sustentável e ecologia",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq7875kuc4sth",
+      "nome": "LEGISLAÇÃO DE TRÂNSITO",
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Código de Trânsito Brasileiro (Lei nº 9.503/1997 e suas alterações)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Resoluções do Conselho Nacional de Trânsito (CONTRAN)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875kuc4sth",
+              "nome": "Resoluções nº 30/1998, nº 32/1998, nº 56/1998, nº 108/1999, nº 110/2000",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875kuc4sth",
+              "nome": "Resoluções nº 300/2008, nº 351/2010, nº 558/2015, nº 623/2016, nº 634/2016",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875kuc4sth",
+              "nome": "Resoluções nº 712/2017, nº 715/2017, nº 723/2018, nº 780/2019, nº 789/2020",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875kuc4sth",
+              "nome": "Resoluções nº 809/2020, nº 849/2021, nº 870/2021, nº 871/2021, nº 886/2021",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875kuc4sth",
+              "nome": "Resoluções nº 897/2022, nº 926/2022, nº 929/2022, nº 932/2022 e nº 941/2022 e suas alterações",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq7875ooy8zqd",
+      "nome": "SEGURANÇA DA INFORMAÇÃO",
+      "ordem": 9,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Conceitos básicos: confidencialidade, integridade, disponibilidade, autenticidade e não repúdio",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Métodos de autenticação e autorização",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Autenticação de múltiplos fatores (MFA)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Protocolos de autenticação — OAuth 2.0, OpenID Connect e JWT (JSON Web Tokens)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ameaças e vulnerabilidades em aplicações",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Injection (SQL, LDAP)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Cross-site scripting (XSS)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Quebra de autenticação e gerenciamento de sessão",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Referência insegura a objetos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Cross-site request forgery",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Armazenamento inseguro de dados criptografados",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança de aplicativos web",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Conceitos de segurança de aplicativos web",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Análise de vulnerabilidades em aplicações web",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Metodologia open web application security project (OWASP)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875ooy8zqd",
+              "nome": "Técnicas de proteção de aplicações web",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Prevenção e combate a ataques a redes de computadores, como DDoS, DoS, DNS, spoofing, eavesdropping, phishing, brute force, port scanning",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Criptografia e proteção de dados em trânsito e em repouso; sistemas criptográficos simétricos e assimétricos e principais protocolos",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Tecnologias de segurança: firewalls, sistemas de detecção e prevenção de intrusões, antivírus, antispam",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Assinatura e certificação digital",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) e suas alterações",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq7875z4r0sjl",
+      "nome": "INFRAESTRUTURA EM TI",
+      "ordem": 10,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Redes de computadores",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Endereçamento e protocolos da família TCP/IP",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gerenciamento de redes TCP/IP",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Arquitetura de gerenciamento, SMI, SNMP e MIB",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redes locais e de longa distância",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "MPLS",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Redes cabeadas, redes sem fio (padrões 802.11, protocolos 802.1x, EAP, WEP, WPA e WPA2)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Noções de routing e switching",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança em redes de computadores",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Prevenção e tratamento de incidentes",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Dispositivos de segurança (firewalls, IDS, IPS, proxies, NAT e VPN)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Tipos de ataques (spoofing, flood, DoS, DDoS, phishing)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Malware (vírus de computador, cavalo de Troia, adware, spyware, backdoors, keylogger, worms, ransomware)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Criptografia",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Conceitos básicos e aplicações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Protocolos criptográficos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Criptografia simétrica e assimétrica",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Principais algoritmos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Assinatura e certificação digital",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas operacionais",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Fundamentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Gestão de processos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Gestão de memória",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Gestão de entrada e saída",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Cloud computing",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Virtualização",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Servidores de aplicação",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Conceitos básicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Noções de administração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Topologia típica de ambientes com alta disponibilidade e escalabilidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Balanceamento de carga, fail-over e replicação de estado",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Técnicas para detecção de problemas e otimização de desempenho",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Tecnologias, arquitetura e gestão de data center e ambientes de missão crítica",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Conceitos básicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Serviços de armazenamento, padrões de disco e de interfaces",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "RAID",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Tecnologias de armazenamento NAS e SAN",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Tecnologias de backup",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7875z4r0sjl",
+              "nome": "Deduplicação",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Conteinerização de aplicações e DevOps",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mq7876hn9efn9",
+      "nome": "SISTEMAS OPERACIONAIS",
+      "ordem": 11,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Sistemas operacionais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Fundamentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Gestão de processos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Gestão de memória",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Gestão de entrada e saída",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Instalação, configuração e administração de sistemas operacionais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Windows Server 2025 e RedHat Enterprise Linux versão 9",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços de diretório",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Active Directory e LDAP",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mq7876hn9efn9",
+              "nome": "Interoperabilidade",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mq7876mlgiw29",
+      "nome": "GOVERNANÇA DE TI",
+      "ordem": 12,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Governança corporativa de TI: COBIT 2019 e ISO/IEC 38500",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gestão de riscos de TI: ISO 31000 e COSO",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gestão de serviços de TI: ITIL v4",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gestão de projetos e metodologias ágeis: PMBOK 7ª edição, SCRUM e Kanban",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Planejamento estratégico de TI: PETI e PDTI",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Contratações de TI no setor público",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gestão de processos: BPMN e melhoria contínua",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Indicadores de desempenho: KPIs e BSC",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Cibersegurança e continuidade de negócios: ISO 27001/22301, 27002, NIST",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mq7873jjkv5s0\"},{\"nome\":\"RACIOCÍNIO LÓGICO E ANALÍTICO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mq7873txe5fx3\"},{\"nome\":\"TECNOLOGIA DA INFORMAÇÃO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mq78742raahag\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mq7874batqwc5\"},{\"nome\":\"NOÇÕES DE DIR. ADM.\",\"cor\":\"#f5c842\",\"materiaId\":\"mq7874mgrjcc6\"},{\"nome\":\"NOÇÕES DE DIR. CIVIL\",\"cor\":\"#f5874a\",\"materiaId\":\"mq78750184ar4\"},{\"nome\":\"CON. DO ESTADO DE ALAGOAS\",\"cor\":\"#00bcd4\",\"materiaId\":\"mq787567hwty6\"},{\"nome\":\"AT. (SOMENTE PARA A PROVA DISCURSIVA)\",\"cor\":\"#e91e8c\",\"materiaId\":\"mq7875ihb7tgs\"},{\"nome\":\"LEGISLAÇÃO DE TRÂNSITO\",\"cor\":\"#8bc34a\",\"materiaId\":\"mq7875kuc4sth\"},{\"nome\":\"SEGURANÇA DA INFORMAÇÃO\",\"cor\":\"#ff9800\",\"materiaId\":\"mq7875ooy8zqd\"},{\"nome\":\"INFRAESTRUTURA EM TI\",\"cor\":\"#9c27b0\",\"materiaId\":\"mq7875z4r0sjl\"},{\"nome\":\"SISTEMAS OPERACIONAIS\",\"cor\":\"#ff5722\",\"materiaId\":\"mq7876hn9efn9\"},{\"nome\":\"GOVERNANÇA DE TI\",\"cor\":\"#009688\",\"materiaId\":\"mq7876mlgiw29\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_basicos\",\"name\":\"Conhecimentos Básicos\",\"useBlockData\":true,\"minPts\":10,\"q\":50,\"w\":1,\"items\":[{\"id\":\"mq7873jjkv5s0\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq7873txe5fx3\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq78742raahag\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq7874batqwc5\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq7874mgrjcc6\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq78750184ar4\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq787567hwty6\",\"q\":\"X\",\"w\":\"1\"}]},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"useBlockData\":true,\"minPts\":21,\"q\":70,\"w\":1,\"items\":[{\"id\":\"mq7875kuc4sth\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq7875ooy8zqd\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq7875z4r0sjl\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq7876hn9efn9\",\"q\":\"X\",\"w\":\"1\"},{\"id\":\"mq7876mlgiw29\",\"q\":\"X\",\"w\":\"1\"}]},{\"id\":\"g_redacao\",\"name\":\"Redação\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":30,\"redType\":\"Dissertativo\",\"isClassificatoriaOnly\":false,\"minPts\":15}]}"
+  }
+}
