@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-06-09T18:39:58.227Z",
+  "atualizadoEm": "2026-06-09T22:52:50.508Z",
   "editais": [
+    {
+      "id": "analista-de-transito-analise-de-sistemas-detran-al-2026",
+      "titulo": "DETRAN/AL",
+      "orgao": "DETRAN/AL",
+      "banca": "CEBRASPE (Cespe)",
+      "cargo": "Analista de Trânsito - Análise de Sistemas",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20Tr%C3%A2nsito%20-%20An%C3%A1lise%20de%20Sistemas%20-%20DETRAN%20AL%202026/card_premium_detran_al_analise_sistemas.png",
+      "arquivo": "Analista%20de%20Tr%C3%A2nsito%20-%20An%C3%A1lise%20de%20Sistemas%20-%20DETRAN%20AL%202026/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Transito%20Analise%20de%20Sistemas%20DETRAN%20AL%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Transito Analise de Sistemas DETRAN AL 2026.json",
+      "atualizadoEm": "2026-06-09T22:50:01.000Z"
+    },
     {
       "id": "analista-legislativo-gestao-e-governanca-alece-2026",
       "titulo": "Assembleia Legislativa do Estado do Ceará (ALECE)",
