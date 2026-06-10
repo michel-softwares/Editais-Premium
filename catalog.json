@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-06-09T22:55:18.971Z",
+  "atualizadoEm": "2026-06-10T12:48:09.127Z",
   "editais": [
+    {
+      "id": "agente-de-tecnologia-banco-do-brasil",
+      "titulo": "Banco do Brasil S.A.",
+      "orgao": "Banco do Brasil S.A.",
+      "banca": "CESGRANRIO (/2023)",
+      "cargo": "Escriturário - Agente de Tecnologia",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20de%20Tecnologia%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
+      "arquivo": "Agente%20de%20Tecnologia%20-%20Banco%20do%20Brasil/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Tecnologia%20Banco%20do%20Brasil%202022.json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Tecnologia Banco do Brasil 2022.json",
+      "atualizadoEm": "2026-06-10T12:47:52.000Z"
+    },
     {
       "id": "analista-de-transito-analise-de-sistemas-detran-al-2026",
       "titulo": "DETRAN/AL",
