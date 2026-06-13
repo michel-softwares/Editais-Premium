@@ -1,0 +1,483 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "IBGE",
+    "cargo": "Agente Censitário de Informática (ACI)",
+    "salario": "R$ 3.320,00 (R$ 2.128,00 + R$ 1.192,00)",
+    "banca": "IBFC",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-09-27",
+    "localProva": "",
+    "linkEdital": "https://servidor-arquivos.ibfc.org.br/arquivos-publicos/edital-01-2026-ibfc-11.06-final-marcadores.pdf",
+    "preEdital": false,
+    "pontuacaoMax": 60,
+    "vagas": "1.089 vagas (Imediatas: 707 AC, 272 PPP, 55 PcD, 33 PI, 22 PQ)",
+    "obs": "Esteja atento às retificações da Banca!\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos; considere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;  para outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com. Bons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mqbi51ngysaip",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e interpretação de texto",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Significação das palavras",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Sinônimos e antônimos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Homônimos e parônimos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Pontuação e estrutura textual",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Pontuação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Estrutura e sequência lógica de frases e parágrafos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ortografia oficial e acentuação",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Ortografia oficial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Acentuação gráfica",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Classes das palavras",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Concordância nominal e verbal",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Concordância nominal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Concordância verbal",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regência nominal e verbal",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Regência nominal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Regência verbal",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Emprego e vozes dos verbos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Emprego dos verbos regulares, irregulares e anômalos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Vozes dos verbos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Emprego dos pronomes",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sintaxe da oração",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Termos essenciais da oração",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Termos integrantes da oração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Termos acessórios da oração",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Coesão e coerência",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Coesão e coerência (referenciação, substituição e repetição)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Coesão e coerência (conectores)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi51ngysaip",
+              "nome": "Coesão e coerência (tempos e modos verbais)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redação e reescrita de comunicados, ofícios e registros operacionais (clareza, objetividade, padrão formal)",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mqbi524q9hn9c",
+      "nome": "RACIOCÍNIO LÓGICO QUANTITATIVO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Avaliação da habilidade do candidato em entender a estrutura lógica de relações entre pessoas, lugares, coisas e/ou eventos, deduzir novas informações e avaliar as condições usadas para estabelecer a estrutura dessas relações",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Áreas de avaliação",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi524q9hn9c",
+              "nome": "Estruturas lógicas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi524q9hn9c",
+              "nome": "Lógica de argumentação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi524q9hn9c",
+              "nome": "Diagramas lógicos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi524q9hn9c",
+              "nome": "Aritmética",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi524q9hn9c",
+              "nome": "Álgebra básica",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi524q9hn9c",
+              "nome": "Geometria básica",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqbi529746i02",
+      "nome": "NOÇÕES DE INFORMÁTICA",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Conceitos Básicos: operação de microcomputadores",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Funções e aspectos de configuração",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Unidade Central de Processamento (CPU)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Monitor e memória",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Dispositivos de armazenamento",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Periféricos (teclado, mouse, impressora)",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Conceitos de diretórios e arquivos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Conceitos de sistemas operacionais",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Sistema Operacional Windows",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Sistema Operacional Android (versão 13 ou superior)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Operações usuais de manuseio de dados",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Segurança de Sistemas Computacionais",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Perfis de acesso, chaves e senhas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Vírus e antivírus",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Procedimentos de backup e recuperação de dados",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Aplicativos Computacionais Básicos",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Funcionamento de editores de texto (Word)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Planilhas eletrônicas (Excel)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Navegadores de internet",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redes e Comunicação",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Noções de redes computacionais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Mecanismos básicos de comunicação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Programas de transferência de arquivos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Correio eletrônico",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização de Intranet e Internet",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sistema Operacional (Windows 10 ou Superior)",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Operação geral",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Gerenciamento de pastas, arquivos e configurações básicas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqbi529746i02",
+              "nome": "Procedimentos de uso e manutenção simples",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mqbi51ngysaip\"},{\"nome\":\"RACIOCÍNIO LÓGICO QUANTITATIVO\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mqbi524q9hn9c\"},{\"nome\":\"NOÇÕES DE INFORMÁTICA\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mqbi529746i02\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_prova_objetiva\",\"name\":\"Prova Objetiva\",\"useBlockData\":false,\"minPts\":18,\"q\":60,\"w\":1,\"items\":[{\"id\":\"mqbi51ngysaip\",\"q\":15,\"w\":1,\"minPts\":1},{\"id\":\"mqbi524q9hn9c\",\"q\":10,\"w\":1,\"minPts\":1},{\"id\":\"mqbi529746i02\",\"q\":35,\"w\":1,\"minPts\":1}]}]}"
+  }
+}
