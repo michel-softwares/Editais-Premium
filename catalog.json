@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-06-10T13:02:18.189Z",
+  "atualizadoEm": "2026-06-13T10:44:45.015Z",
   "editais": [
+    {
+      "id": "agente-censitario-administrativo-aca-ibge-2026",
+      "titulo": "Instituto Brasileiro de Geografia e",
+      "orgao": "Instituto Brasileiro de Geografia e",
+      "banca": "IBFC",
+      "cargo": "Agente Censitário Administrativo (ACA)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Censit%C3%A1rio%20Administrativo%20-%20ACA%20-%20IBGE%202026/card_premium_aca.png",
+      "arquivo": "Agente%20Censit%C3%A1rio%20Administrativo%20-%20ACA%20-%20IBGE%202026/Edital%20Premium%20Track%20Concursos%20ACA%20IBGE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos ACA IBGE 2026.json",
+      "atualizadoEm": "2026-06-13T10:44:27.000Z"
+    },
+    {
+      "id": "agente-censitario-regional-acr-ibge-2026",
+      "titulo": "Instituto Brasileiro de Geografia e",
+      "orgao": "Instituto Brasileiro de Geografia e",
+      "banca": "IBFC",
+      "cargo": "Agente Censitário Regional (ACR)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Censit%C3%A1rio%20Regional%20-%20ACR%20-%20IBGE%202026/card_premium_acr.png",
+      "arquivo": "Agente%20Censit%C3%A1rio%20Regional%20-%20ACR%20-%20IBGE%202026/Edital%20Premium%20Track%20Concursos%20ACR%20IBGE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos ACR IBGE 2026.json",
+      "atualizadoEm": "2026-06-13T10:44:27.000Z"
+    },
+    {
+      "id": "agente-censitario-supervisor-acs-ibge-2026",
+      "titulo": "Instituto Brasileiro de Geografia e",
+      "orgao": "Instituto Brasileiro de Geografia e",
+      "banca": "IBFC",
+      "cargo": "Agente Censitário Supervisor (ACS)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Censit%C3%A1rio%20Supervisor%20-%20ACS%20-%20IBGE%202026/card_premium_acs.png",
+      "arquivo": "Agente%20Censit%C3%A1rio%20Supervisor%20-%20ACS%20-%20IBGE%202026/Edital%20Premium%20Track%20Concursos%20ACS%20IBGE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos ACS IBGE 2026.json",
+      "atualizadoEm": "2026-06-13T10:44:27.000Z"
+    },
+    {
+      "id": "agente-censitario-de-informatica-aci-ibge-2026",
+      "titulo": "Instituto Brasileiro de Geografia e",
+      "orgao": "Instituto Brasileiro de Geografia e",
+      "banca": "IBFC",
+      "cargo": "Agente Censitário de Informática (ACI)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Censit%C3%A1rio%20de%20Inform%C3%A1tica%20-%20ACI%20-%20IBGE%202026/card_premium_ibge_aci.png",
+      "arquivo": "Agente%20Censit%C3%A1rio%20de%20Inform%C3%A1tica%20-%20ACI%20-%20IBGE%202026/Edital%20Premium%20Track%20Concursos%20ACI%20IBGE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos ACI IBGE 2026.json",
+      "atualizadoEm": "2026-06-13T10:44:27.000Z"
+    },
+    {
+      "id": "agente-operacional-regional-aor-ibge-2026",
+      "titulo": "Instituto Brasileiro de Geografia e",
+      "orgao": "Instituto Brasileiro de Geografia e",
+      "banca": "IBFC",
+      "cargo": "Agente Operacional Regional (AOR)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Operacional%20Regional%20-%20AOR%20-%20IBGE%202026/card_premium_aor.png",
+      "arquivo": "Agente%20Operacional%20Regional%20-%20AOR%20-%20IBGE%202026/Edital%20Premium%20Track%20Concursos%20AOR%20IBGE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos AOR IBGE 2026.json",
+      "atualizadoEm": "2026-06-13T10:44:27.000Z"
+    },
     {
       "id": "agente-de-tecnologia-banco-do-brasil",
       "titulo": "Banco do Brasil S.A.",
@@ -16,7 +96,7 @@
       "imagem": "Agente%20de%20Tecnologia%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
       "arquivo": "Agente%20de%20Tecnologia%20-%20Banco%20do%20Brasil/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Tecnologia%20Banco%20do%20Brasil%202022.json",
       "arquivoNome": "Edital Premium Track Concursos Agente de Tecnologia Banco do Brasil 2022.json",
-      "atualizadoEm": "2026-06-10T12:57:27.000Z"
+      "atualizadoEm": "2026-06-13T10:44:27.000Z"
     },
     {
       "id": "escriturario-banco-do-brasil",
@@ -33,7 +113,7 @@
       "imagem": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/card_premium_banco_do_brasil.png",
       "arquivo": "Escritur%C3%A1rio%20-%20Banco%20do%20Brasil/Edital_Premium_Banco%20do%20Brasil%20com%20cadernos%20quest%C3%B5es%20Qconcursos%20linkados.JSON",
       "arquivoNome": "Edital_Premium_Banco do Brasil com cadernos questões Qconcursos linkados.JSON",
-      "atualizadoEm": "2026-06-10T12:56:25.000Z"
+      "atualizadoEm": "2026-06-13T10:44:27.000Z"
     },
     {
       "id": "analista-de-transito-analise-de-sistemas-detran-al-2026",
