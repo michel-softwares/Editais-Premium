@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-06-13T10:44:45.015Z",
+  "atualizadoEm": "2026-06-15T13:39:54.929Z",
   "editais": [
+    {
+      "id": "auditor-fiscal-da-receita-federal-do-brasil",
+      "titulo": "Receita Federal do Brasil (RFB)",
+      "orgao": "Receita Federal do Brasil (RFB)",
+      "banca": "FGV",
+      "cargo": "Auditor-Fiscal da Receita Federal do Brasil",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor-Fiscal%20da%20Receita%20Federal%20do%20Brasil/card_premium_receita_auditor.png",
+      "arquivo": "Auditor-Fiscal%20da%20Receita%20Federal%20do%20Brasil/Edital%20Premium%20Track%20Concursos%20Auditor-Fiscal%20da%20Receita%20Federal%20do%20Brasil%20(AFRFB).json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor-Fiscal da Receita Federal do Brasil (AFRFB).json",
+      "atualizadoEm": "2026-06-15T13:39:32.000Z"
+    },
     {
       "id": "agente-censitario-administrativo-aca-ibge-2026",
       "titulo": "Instituto Brasileiro de Geografia e",
