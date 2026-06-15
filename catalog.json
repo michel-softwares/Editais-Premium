@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-06-15T13:39:54.929Z",
+  "atualizadoEm": "2026-06-15T19:01:12.781Z",
   "editais": [
+    {
+      "id": "agente-censitario-de-qualidade-acq",
+      "titulo": "Instituto Brasileiro de Geografia e Estatística (IBGE)",
+      "orgao": "Instituto Brasileiro de Geografia e Estatística (IBGE)",
+      "banca": "Instituto Avalia",
+      "cargo": "Agente Censitário de Qualidade (ACQ)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Censit%C3%A1rio%20de%20Qualidade%20(ACQ)/card_premium_acq.png",
+      "arquivo": "Agente%20Censit%C3%A1rio%20de%20Qualidade%20(ACQ)/Edital%20Premium%20Track%20Concursos%20Agente%20Censit%C3%A1rio%20de%20Qualidade%20(ACQ)%20IBGE%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Agente Censitário de Qualidade (ACQ) IBGE 2026.json",
+      "atualizadoEm": "2026-06-15T18:58:50.000Z"
+    },
     {
       "id": "auditor-fiscal-da-receita-federal-do-brasil",
       "titulo": "Receita Federal do Brasil (RFB)",
