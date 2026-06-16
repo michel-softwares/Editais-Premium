@@ -57,8 +57,20 @@ function getFolderUpdatedAt(folderName) {
 function buildTags(text, folderName) {
   const tags = new Set(['edital pronto']);
   const source = normalizeSearch(`${text} ${folderName}`);
+  const catalogTagSource = normalizeSearch(
+    text
+      .split(/\r?\n/)
+      .filter((line) => {
+        const normalized = normalizeSearch(line);
+        return normalized.includes('catalog_tags') || normalized.includes('tags catalogo') || normalized.includes('tags do catalogo');
+      })
+      .join(' '),
+  );
   if (source.includes('pre-edital')) tags.add('pre-edital');
   if (source.includes('nivel medio')) tags.add('nivel medio');
+  if (catalogTagSource.includes('nivel fundamental')) tags.add('nivel fundamental');
+  if (catalogTagSource.includes('nivel medio')) tags.add('nivel medio');
+  if (catalogTagSource.includes('nivel superior')) tags.add('nivel superior');
   if (source.includes('cebraspe')) tags.add('cebraspe');
   if (source.includes('fgv')) tags.add('fgv');
   if (source.includes('inss')) tags.add('inss');
