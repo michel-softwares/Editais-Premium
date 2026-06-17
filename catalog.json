@@ -1,11 +1,11 @@
 {
-  "atualizadoEm": "2026-06-17T13:41:42.039Z",
+  "atualizadoEm": "2026-06-17T13:49:08.373Z",
   "editais": [
     {
       "id": "analista-judiciario-area-judiciaria-trf3",
       "titulo": "Tribunal Regional Federal da 3ª Região",
       "orgao": "Tribunal Regional Federal da 3ª Região",
-      "banca": "Fundação Carlos Chagas (FCC)",
+      "banca": "FCC",
       "cargo": "Analista Judiciário - Área Judiciária",
       "ano": 2026,
       "tags": [
@@ -15,13 +15,13 @@
       "imagem": "Analista%20Judici%C3%A1rio%20-%20%C3%81rea%20Judici%C3%A1ria%20(TRF3)/card_premium_trf3_analista.png",
       "arquivo": "Analista%20Judici%C3%A1rio%20-%20%C3%81rea%20Judici%C3%A1ria%20(TRF3)/Edital%20Premium%20Track%20Concursos%20Analista%20Judici%C3%A1rio%20-%20%C3%81rea%20Judici%C3%A1ria%20(TRF3).json",
       "arquivoNome": "Edital Premium Track Concursos Analista Judiciário - Área Judiciária (TRF3).json",
-      "atualizadoEm": "2026-06-17T13:41:26.000Z"
+      "atualizadoEm": "2026-06-17T13:48:47.000Z"
     },
     {
       "id": "tecnico-judiciario-area-administrativa-trf3",
       "titulo": "Tribunal Regional Federal da 3ª Região",
       "orgao": "Tribunal Regional Federal da 3ª Região",
-      "banca": "Fundação Carlos Chagas (FCC)",
+      "banca": "FCC",
       "cargo": "Técnico Judiciário - Área Administrativa",
       "ano": 2026,
       "tags": [
@@ -31,7 +31,7 @@
       "imagem": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20%C3%81rea%20Administrativa%20(TRF3)/card_premium_trf3_tecnico.png",
       "arquivo": "T%C3%A9cnico%20Judici%C3%A1rio%20-%20%C3%81rea%20Administrativa%20(TRF3)/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20Judici%C3%A1rio%20-%20%C3%81rea%20Administrativa%20(TRF3).json",
       "arquivoNome": "Edital Premium Track Concursos Técnico Judiciário - Área Administrativa (TRF3).json",
-      "atualizadoEm": "2026-06-17T13:41:26.000Z"
+      "atualizadoEm": "2026-06-17T13:48:47.000Z"
     },
     {
       "id": "analista-administrativo-de-controle-externo-tcdf",
