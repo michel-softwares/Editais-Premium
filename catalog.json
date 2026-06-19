@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-06-17T13:49:08.373Z",
+  "atualizadoEm": "2026-06-19T13:29:30.171Z",
   "editais": [
+    {
+      "id": "advogado-47-exame-de-ordem-oab",
+      "titulo": "Conselho Federal da OAB (CFOAB)",
+      "orgao": "Conselho Federal da OAB (CFOAB)",
+      "banca": "FGV",
+      "cargo": "Advogado",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Advogado%20(47%C2%BA%20Exame%20de%20Ordem%20-%20OAB)/card_premium_oab_47.png",
+      "arquivo": "Advogado%20(47%C2%BA%20Exame%20de%20Ordem%20-%20OAB)/Edital%20Premium%20Track%20Concursos%20Advogado%20(OAB).json",
+      "arquivoNome": "Edital Premium Track Concursos Advogado (OAB).json",
+      "atualizadoEm": "2026-06-19T13:29:17.000Z"
+    },
     {
       "id": "analista-judiciario-area-judiciaria-trf3",
       "titulo": "Tribunal Regional Federal da 3ª Região",
