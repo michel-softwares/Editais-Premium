@@ -16,7 +16,7 @@
   },
   "concurso": {
     "nome": "OAB",
-    "cargo": "Advogado",
+    "cargo": "Advogado (Habilitação Profissional)",
     "salario": "",
     "banca": "FGV",
     "logoEmoji": null,
@@ -31,7 +31,7 @@
   },
   "materias": [
     {
-      "id": "mqkyewl5ilo5g",
+      "id": "mqkz5mmt4iwqa",
       "nome": "ÉTICA PROFISSIONAL",
       "ordem": 0,
       "cadernos": [],
@@ -42,61 +42,61 @@
           "cadernos": [],
           "subtopicos": [
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Direitos do Advogado (Arts. 6º a 7º-B)",
               "ordem": 0,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Inscrição na OAB (Arts. 8º a 14)",
               "ordem": 1,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Sociedade de Advogados (Arts. 15 a 17)",
               "ordem": 2,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Advogado Associado e Empregado (Arts. 18 a 21)",
               "ordem": 3,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Honorários Advocatícios (Arts. 22 a 26)",
               "ordem": 4,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Incompatibilidades e Impedimentos (Arts. 27 a 30)",
               "ordem": 5,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Ética do Advogado e Deveres (Arts. 31 a 33)",
               "ordem": 6,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Infrações e Sanções Disciplinares (Arts. 34 a 43)",
               "ordem": 7,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Órgãos da OAB (Arts. 44 a 67)",
               "ordem": 8,
               "cadernos": []
             },
             {
-              "materiaId": "mqkyewl5ilo5g",
+              "materiaId": "mqkz5mmt4iwqa",
               "nome": "Processo na OAB (Arts. 68 a 81)",
               "ordem": 9,
               "cadernos": []
@@ -118,7 +118,7 @@
       ]
     },
     {
-      "id": "mqkyewxk1bt22",
+      "id": "mqkz5n00llh9s",
       "nome": "DIREITO CONSTITUCIONAL",
       "ordem": 1,
       "cadernos": [],
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "id": "mqkyex2x05g5u",
+      "id": "mqkz5n5qwtvvx",
       "nome": "DIREITO ADMINISTRATIVO",
       "ordem": 2,
       "cadernos": [],
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "id": "mqkyex95eamxo",
+      "id": "mqkz5nccj7702",
       "nome": "DIREITO CIVIL",
       "ordem": 3,
       "cadernos": [],
@@ -238,7 +238,7 @@
       ]
     },
     {
-      "id": "mqkyexekz8to9",
+      "id": "mqkz5ni6h7idx",
       "nome": "DIREITO PROCESSUAL CIVIL",
       "ordem": 4,
       "cadernos": [],
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "id": "mqkyexju1ryss",
+      "id": "mqkz5nnxurkcu",
       "nome": "DIREITO PENAL",
       "ordem": 5,
       "cadernos": [],
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "id": "mqkyexpa2kiz2",
+      "id": "mqkz5ntxjtans",
       "nome": "DIREITO PROCESSUAL PENAL",
       "ordem": 6,
       "cadernos": [],
@@ -358,7 +358,7 @@
       ]
     },
     {
-      "id": "mqkyexwysup05",
+      "id": "mqkz5o0gfu2z1",
       "nome": "DIREITO DO TRABALHO",
       "ordem": 7,
       "cadernos": [],
@@ -402,7 +402,7 @@
       ]
     },
     {
-      "id": "mqkyey410cczv",
+      "id": "mqkz5o7nej885",
       "nome": "DIREITO PROCESSUAL DO TRABALHO",
       "ordem": 8,
       "cadernos": [],
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "id": "mqkyeyawoyjs2",
+      "id": "mqkz5oez5a51b",
       "nome": "DIREITO TRIBUTÁRIO",
       "ordem": 9,
       "cadernos": [],
@@ -478,7 +478,7 @@
       ]
     },
     {
-      "id": "mqkyeyfeoab0a",
+      "id": "mqkz5ojruiyxd",
       "nome": "DIREITO EMPRESARIAL",
       "ordem": 10,
       "cadernos": [],
@@ -522,7 +522,7 @@
       ]
     },
     {
-      "id": "mqkyeymhj5jpr",
+      "id": "mqkz5oqca2nvw",
       "nome": "DIREITOS HUMANOS",
       "ordem": 11,
       "cadernos": [],
@@ -548,7 +548,7 @@
       ]
     },
     {
-      "id": "mqkyeyqclerny",
+      "id": "mqkz5ou6e7etm",
       "nome": "DIREITO AMBIENTAL",
       "ordem": 12,
       "cadernos": [],
@@ -574,7 +574,7 @@
       ]
     },
     {
-      "id": "mqkyeyu7ev67p",
+      "id": "mqkz5oy2m0coh",
       "nome": "DIREITO INTERNACIONAL",
       "ordem": 13,
       "cadernos": [],
@@ -594,7 +594,7 @@
       ]
     },
     {
-      "id": "mqkyeyww0m7aa",
+      "id": "mqkz5p0ys45tk",
       "nome": "FILOSOFIA DO DIREITO",
       "ordem": 14,
       "cadernos": [],
@@ -620,7 +620,7 @@
       ]
     },
     {
-      "id": "mqkyez0mk613g",
+      "id": "mqkz5p4ofuun7",
       "nome": "ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA)",
       "ordem": 15,
       "cadernos": [],
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "id": "mqkyez3bibw0q",
+      "id": "mqkz5p7h34e4o",
       "nome": "CÓDIGO DE DEFESA DO CONSUMIDOR (CDC)",
       "ordem": 16,
       "cadernos": [],
@@ -660,7 +660,7 @@
       ]
     },
     {
-      "id": "mqkyez604i1n2",
+      "id": "mqkz5pabnz2uc",
       "nome": "DIREITO ELEITORAL",
       "ordem": 17,
       "cadernos": [],
@@ -686,7 +686,7 @@
       ]
     },
     {
-      "id": "mqkyez9lhaqap",
+      "id": "mqkz5pe5cf4n5",
       "nome": "DIREITO FINANCEIRO",
       "ordem": 18,
       "cadernos": [],
@@ -712,7 +712,7 @@
       ]
     },
     {
-      "id": "mqkyezd0nkphw",
+      "id": "mqkz5pht41sz0",
       "nome": "DIREITO PREVIDENCIÁRIO",
       "ordem": 19,
       "cadernos": [],
@@ -741,9 +741,9 @@
   "simulados": [],
   "estrutura": {
     "cronoWeekly": null,
-    "cronoMats": "[{\"nome\":\"ÉTICA PROFISSIONAL\",\"cor\":\"#f55a5a\",\"materiaId\":\"mqkyewl5ilo5g\"},{\"nome\":\"DIR. CONSTITUCIONAL\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mqkyewxk1bt22\"},{\"nome\":\"DIR. ADM.\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mqkyex2x05g5u\"},{\"nome\":\"DIR. CIVIL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mqkyex95eamxo\"},{\"nome\":\"DIR. PROCESSUAL CIVIL\",\"cor\":\"#f5c842\",\"materiaId\":\"mqkyexekz8to9\"},{\"nome\":\"DIR. PENAL\",\"cor\":\"#f5874a\",\"materiaId\":\"mqkyexju1ryss\"},{\"nome\":\"DIR. PROCESSUAL PENAL\",\"cor\":\"#00bcd4\",\"materiaId\":\"mqkyexpa2kiz2\"},{\"nome\":\"DIR. DO TRABALHO\",\"cor\":\"#e91e8c\",\"materiaId\":\"mqkyexwysup05\"},{\"nome\":\"DIR. PROCESSUAL DO TRABALHO\",\"cor\":\"#8bc34a\",\"materiaId\":\"mqkyey410cczv\"},{\"nome\":\"DIR. TRIBUTÁRIO\",\"cor\":\"#ff9800\",\"materiaId\":\"mqkyeyawoyjs2\"},{\"nome\":\"DIR. EMPRESARIAL\",\"cor\":\"#9c27b0\",\"materiaId\":\"mqkyeyfeoab0a\"},{\"nome\":\"DIREITOS HUMANOS\",\"cor\":\"#ff5722\",\"materiaId\":\"mqkyeymhj5jpr\"},{\"nome\":\"DIR. AMBIENTAL\",\"cor\":\"#009688\",\"materiaId\":\"mqkyeyqclerny\"},{\"nome\":\"DIR. INTERNACIONAL\",\"cor\":\"#795548\",\"materiaId\":\"mqkyeyu7ev67p\"},{\"nome\":\"FILOSOFIA DO DIR.\",\"cor\":\"#3f51b5\",\"materiaId\":\"mqkyeyww0m7aa\"},{\"nome\":\"ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA)\",\"cor\":\"#cddc39\",\"materiaId\":\"mqkyez0mk613g\"},{\"nome\":\"CÓDIGO DE DEFESA DO CONSUMIDOR (CDC)\",\"cor\":\"#03a9f4\",\"materiaId\":\"mqkyez3bibw0q\"},{\"nome\":\"DIR. ELEITORAL\",\"cor\":\"#e91e63\",\"materiaId\":\"mqkyez604i1n2\"},{\"nome\":\"DIR. FINANCEIRO\",\"cor\":\"#4caf50\",\"materiaId\":\"mqkyez9lhaqap\"},{\"nome\":\"DIR. PREVIDENCIÁRIO\",\"cor\":\"#8de147\",\"materiaId\":\"mqkyezd0nkphw\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMats": "[{\"nome\":\"ÉTICA PROFISSIONAL\",\"cor\":\"#f55a5a\",\"materiaId\":\"mqkz5mmt4iwqa\"},{\"nome\":\"DIR. CONSTITUCIONAL\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mqkz5n00llh9s\"},{\"nome\":\"DIR. ADM.\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mqkz5n5qwtvvx\"},{\"nome\":\"DIR. CIVIL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mqkz5nccj7702\"},{\"nome\":\"DIR. PROCESSUAL CIVIL\",\"cor\":\"#f5c842\",\"materiaId\":\"mqkz5ni6h7idx\"},{\"nome\":\"DIR. PENAL\",\"cor\":\"#f5874a\",\"materiaId\":\"mqkz5nnxurkcu\"},{\"nome\":\"DIR. PROCESSUAL PENAL\",\"cor\":\"#00bcd4\",\"materiaId\":\"mqkz5ntxjtans\"},{\"nome\":\"DIR. DO TRABALHO\",\"cor\":\"#e91e8c\",\"materiaId\":\"mqkz5o0gfu2z1\"},{\"nome\":\"DIR. PROCESSUAL DO TRABALHO\",\"cor\":\"#8bc34a\",\"materiaId\":\"mqkz5o7nej885\"},{\"nome\":\"DIR. TRIBUTÁRIO\",\"cor\":\"#ff9800\",\"materiaId\":\"mqkz5oez5a51b\"},{\"nome\":\"DIR. EMPRESARIAL\",\"cor\":\"#9c27b0\",\"materiaId\":\"mqkz5ojruiyxd\"},{\"nome\":\"DIREITOS HUMANOS\",\"cor\":\"#ff5722\",\"materiaId\":\"mqkz5oqca2nvw\"},{\"nome\":\"DIR. AMBIENTAL\",\"cor\":\"#009688\",\"materiaId\":\"mqkz5ou6e7etm\"},{\"nome\":\"DIR. INTERNACIONAL\",\"cor\":\"#795548\",\"materiaId\":\"mqkz5oy2m0coh\"},{\"nome\":\"FILOSOFIA DO DIR.\",\"cor\":\"#3f51b5\",\"materiaId\":\"mqkz5p0ys45tk\"},{\"nome\":\"ESTATUTO DA CRIANÇA E DO ADOLESCENTE (ECA)\",\"cor\":\"#cddc39\",\"materiaId\":\"mqkz5p4ofuun7\"},{\"nome\":\"CÓDIGO DE DEFESA DO CONSUMIDOR (CDC)\",\"cor\":\"#03a9f4\",\"materiaId\":\"mqkz5p7h34e4o\"},{\"nome\":\"DIR. ELEITORAL\",\"cor\":\"#e91e63\",\"materiaId\":\"mqkz5pabnz2uc\"},{\"nome\":\"DIR. FINANCEIRO\",\"cor\":\"#4caf50\",\"materiaId\":\"mqkz5pe5cf4n5\"},{\"nome\":\"DIR. PREVIDENCIÁRIO\",\"cor\":\"#8de147\",\"materiaId\":\"mqkz5pht41sz0\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
     "cronoMode": null,
     "ciclo": null,
-    "configProva": "{\"groups\":[{\"id\":\"g_1a_fase\",\"name\":\"1ª Fase - Prova Objetiva\",\"useBlockData\":false,\"items\":[{\"id\":\"mqkyewl5ilo5g\",\"q\":8,\"w\":1},{\"id\":\"mqkyewxk1bt22\",\"q\":6,\"w\":1},{\"id\":\"mqkyex2x05g5u\",\"q\":6,\"w\":1},{\"id\":\"mqkyex95eamxo\",\"q\":6,\"w\":1},{\"id\":\"mqkyexekz8to9\",\"q\":6,\"w\":1},{\"id\":\"mqkyexju1ryss\",\"q\":6,\"w\":1},{\"id\":\"mqkyexpa2kiz2\",\"q\":5,\"w\":1},{\"id\":\"mqkyexwysup05\",\"q\":5,\"w\":1},{\"id\":\"mqkyey410cczv\",\"q\":5,\"w\":1},{\"id\":\"mqkyeyawoyjs2\",\"q\":5,\"w\":1},{\"id\":\"mqkyeyfeoab0a\",\"q\":4,\"w\":1},{\"id\":\"mqkyeymhj5jpr\",\"q\":2,\"w\":1},{\"id\":\"mqkyeyqclerny\",\"q\":2,\"w\":1},{\"id\":\"mqkyeyu7ev67p\",\"q\":2,\"w\":1},{\"id\":\"mqkyeyww0m7aa\",\"q\":2,\"w\":1},{\"id\":\"mqkyez0mk613g\",\"q\":2,\"w\":1},{\"id\":\"mqkyez3bibw0q\",\"q\":2,\"w\":1},{\"id\":\"mqkyez604i1n2\",\"q\":2,\"w\":1},{\"id\":\"mqkyez9lhaqap\",\"q\":2,\"w\":1},{\"id\":\"mqkyezd0nkphw\",\"q\":2,\"w\":1}],\"q\":80,\"w\":1,\"minPts\":40},{\"id\":\"g_2a_fase\",\"name\":\"2ª Fase - Prova Prático-Profissional\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":10,\"redType\":\"Peça Profissional + 4 Questões Discursivas\",\"isClassificatoriaOnly\":false,\"minPts\":6}]}"
+    "configProva": "{\"groups\":[{\"id\":\"g_1a_fase\",\"name\":\"1ª Fase - Prova Objetiva\",\"useBlockData\":false,\"items\":[{\"id\":\"mqkz5mmt4iwqa\",\"q\":8,\"w\":1},{\"id\":\"mqkz5n00llh9s\",\"q\":6,\"w\":1},{\"id\":\"mqkz5n5qwtvvx\",\"q\":6,\"w\":1},{\"id\":\"mqkz5nccj7702\",\"q\":6,\"w\":1},{\"id\":\"mqkz5ni6h7idx\",\"q\":6,\"w\":1},{\"id\":\"mqkz5nnxurkcu\",\"q\":6,\"w\":1},{\"id\":\"mqkz5ntxjtans\",\"q\":5,\"w\":1},{\"id\":\"mqkz5o0gfu2z1\",\"q\":5,\"w\":1},{\"id\":\"mqkz5o7nej885\",\"q\":5,\"w\":1},{\"id\":\"mqkz5oez5a51b\",\"q\":5,\"w\":1},{\"id\":\"mqkz5ojruiyxd\",\"q\":4,\"w\":1},{\"id\":\"mqkz5oqca2nvw\",\"q\":2,\"w\":1},{\"id\":\"mqkz5ou6e7etm\",\"q\":2,\"w\":1},{\"id\":\"mqkz5oy2m0coh\",\"q\":2,\"w\":1},{\"id\":\"mqkz5p0ys45tk\",\"q\":2,\"w\":1},{\"id\":\"mqkz5p4ofuun7\",\"q\":2,\"w\":1},{\"id\":\"mqkz5p7h34e4o\",\"q\":2,\"w\":1},{\"id\":\"mqkz5pabnz2uc\",\"q\":2,\"w\":1},{\"id\":\"mqkz5pe5cf4n5\",\"q\":2,\"w\":1},{\"id\":\"mqkz5pht41sz0\",\"q\":2,\"w\":1}],\"q\":80,\"w\":1,\"minPts\":40},{\"id\":\"g_2a_fase\",\"name\":\"2ª Fase - Prova Prático-Profissional\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":10,\"redType\":\"Peça Profissional + 4 Questões Discursivas\",\"isClassificatoriaOnly\":false,\"minPts\":6}]}"
   }
 }
