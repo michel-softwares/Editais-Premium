@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-06-22T12:34:45.461Z",
+  "atualizadoEm": "2026-06-23T19:17:56.296Z",
   "editais": [
+    {
+      "id": "cadete-pmmg-cfo",
+      "titulo": "Polícia Militar de Minas Gerais (PMMG)",
+      "orgao": "Polícia Militar de Minas Gerais (PMMG)",
+      "banca": "CRS/PMMG (Centro de Recrutamento e Seleção)",
+      "cargo": "Cadete (CFO)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Cadete%20(PMMG%20-%20CFO)/card_premium_pmmg_cfo.png",
+      "arquivo": "Cadete%20(PMMG%20-%20CFO)/Edital%20Premium%20Track%20Concursos%20Cadete%20(PMMG%20-%20CFO).json",
+      "arquivoNome": "Edital Premium Track Concursos Cadete (PMMG - CFO).json",
+      "atualizadoEm": "2026-06-23T19:17:39.000Z"
+    },
     {
       "id": "soldado-pmpe",
       "titulo": "Polícia Militar de Pernambuco (PMPE)",
