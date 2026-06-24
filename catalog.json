@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-06-24T15:01:24.171Z",
+  "atualizadoEm": "2026-06-24T17:18:44.826Z",
   "editais": [
+    {
+      "id": "soldado-pm-pmpi",
+      "titulo": "Polícia Militar do Estado do Piauí (PMPI)",
+      "orgao": "Polícia Militar do Estado do Piauí (PMPI)",
+      "banca": "A definir",
+      "cargo": "Soldado PM (PMPI)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Soldado%20PM%20(PMPI)/card_premium_soldado_pm.png",
+      "arquivo": "Soldado%20PM%20(PMPI)/Edital%20Premium%20Track%20Concursos%20Soldado%20PM%20(PMPI).json",
+      "arquivoNome": "Edital Premium Track Concursos Soldado PM (PMPI).json",
+      "atualizadoEm": "2026-06-24T17:18:29.000Z"
+    },
     {
       "id": "policial-penal-sead-rn",
       "titulo": "SEAD/RN - Secretaria de Estado da Administração Penitenciária",
