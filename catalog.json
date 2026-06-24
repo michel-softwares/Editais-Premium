@@ -1,10 +1,10 @@
 {
-  "atualizadoEm": "2026-06-24T14:59:02.038Z",
+  "atualizadoEm": "2026-06-24T15:01:24.171Z",
   "editais": [
     {
       "id": "policial-penal-sead-rn",
-      "titulo": "SEAD/RN - Secretaria de Estado da",
-      "orgao": "SEAD/RN - Secretaria de Estado da",
+      "titulo": "SEAD/RN - Secretaria de Estado da Administração Penitenciária",
+      "orgao": "SEAD/RN - Secretaria de Estado da Administração Penitenciária",
       "banca": "Instituto Avalia",
       "cargo": "Policial Penal (Cód. 401)",
       "ano": 2026,
@@ -15,7 +15,7 @@
       "imagem": "Policial%20Penal%20(SEAD-RN)/card_premium_policial_penal.png",
       "arquivo": "Policial%20Penal%20(SEAD-RN)/Edital%20Premium%20Track%20Concursos%20Policial%20Penal%20(SEAD-RN).json",
       "arquivoNome": "Edital Premium Track Concursos Policial Penal (SEAD-RN).json",
-      "atualizadoEm": "2026-06-24T14:58:47.000Z"
+      "atualizadoEm": "2026-06-24T15:01:05.000Z"
     },
     {
       "id": "cadete-pmmg-cfo",
