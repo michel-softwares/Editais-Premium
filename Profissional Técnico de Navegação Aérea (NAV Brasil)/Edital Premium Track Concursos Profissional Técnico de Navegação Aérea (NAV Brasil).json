@@ -1,0 +1,1570 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "NAV Brasil",
+    "cargo": "Profissional Técnico de Navegação Aérea – Operador de Torre de Controle",
+    "salario": "R$ 5.944,03",
+    "banca": "FGV",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-08-02",
+    "localProva": "",
+    "linkEdital": "https://conhecimento.fgv.br/sites/default/files/concursos/edital-01-2026-nav-brasil_retificado_08_05.pdf",
+    "preEdital": false,
+    "pontuacaoMax": null,
+    "vagas": "51 Imediatas + 300 CR",
+    "obs": "------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos;\nConsidere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;\nPara outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com\n\nApoie o projeto financeiramente através do PIX: michelaraujo100@gmail.com\nBons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mqsirmea2fnyt",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "ELEMENTOS DE CONSTRUÇÃO DO TEXTO E SEU SENTIDO",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "gênero do texto (literário e não literário, narrativo, descritivo e argumentativo)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "interpretação e organização interna",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "Semântica: sentido e emprego dos vocábulos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "campos semânticos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "emprego de tempos e modos dos verbos na Língua Portuguesa",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "MORFOLOGIA",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "reconhecimento, emprego e sentido das classes gramaticais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "processos de formação de palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "mecanismos de flexão dos nomes e verbos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "SINTAXE",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "frase, oração e período",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "termos da oração",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "processos de coordenação e subordinação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "concordância nominal e verbal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "transitividade e regência de nomes e verbos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "padrões gerais de colocação pronominal na Língua Portuguesa",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "mecanismos de coesão textual",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "Ortografia",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "Acentuação gráfica",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "PONTUAÇÃO",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "ESTILÍSTICA",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "figuras de linguagem",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "REESCRITURA DE FRASES",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "substituição, deslocamento, paralelismo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirmea2fnyt",
+              "nome": "variação linguística: norma padrão",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqsirn90nfl17",
+      "nome": "LEGISLAÇÃO E NOÇÕES DE ÉTICA",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "INTRODUÇÃO AO REGIME JURÍDICO DA ADMINISTRAÇÃO PÚBLICA E EMPRESAS PÚBLICAS",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Princípios Constitucionais da Administração Pública: Legalidade, Impessoalidade, Moralidade, Publicidade e Eficiência (Princípios do art. 37 da CF/88)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Competências constitucionais da União no setor de navegação aérea",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Conceito e Natureza Jurídica da NAV Brasil: Forma jurídica: empresa pública sob a forma de sociedade por ações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Regulamentação pela Lei nº 13.903/2019 e demais dispositivos aplicáveis",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Relação com o Ministério da Defesa e o Comando da Aeronáutica",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "LEGISLAÇÃO ESPECÍFICA APLICÁVEL À NAV BRASIL",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Lei nº 13.903/2019: Criação, objetivos, natureza jurídica e finalidade da NAV Brasil",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Disposições sobre a organização e serviços de Navegação aérea",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Lei nº 13.303/2016 (Estatuto Jurídico das Empresas Públicas): Direitos e obrigações da empresa pública",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Regras sobre governança, transparência e controles internos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Lei nº 6.404/1976 (Sociedades por Ações): Aplicação subsidiária às empresas públicas de capital aberto sob forma de S/A",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Regras sobre administração societária",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Decreto nº 8.945/2016 e Decreto nº 10.589/2020: Regulamentação das empresas públicas e aplicação específica à NAV Brasil",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ÉTICA, CONDUTA E INTEGRIDADE NO SERVIÇO PÚBLICO",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Código de Ética, Conduta e Integridade da NAV Brasil: Conceitos e finalidades do Código de Ética",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Código de Ética, Conduta e Integridade da NAV Brasil: Valores institucionais: integridade, transparência, respeito e responsabilidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Código de Ética, Conduta e Integridade da NAV Brasil: Padrões de conduta no ambiente de trabalho",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Código de Ética, Conduta e Integridade da NAV Brasil: Obrigações éticas dos empregados e colaboradores",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Comportamento Ético e Cidadania Corporativa: Respeito à diversidade, à igualdade e aos direitos humanos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Comportamento Ético e Cidadania Corporativa: Relação com usuários, clientes e sociedade",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Conflito de Interesses e Transparência: Identificação e prevenção de conflitos de interesses",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Conflito de Interesses e Transparência: Procedimentos para comunicação de situações de conflito",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Conflito de Interesses e Transparência: Transparência e canais de denúncia",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Responsabilidade e Prestação de Contas: Accountability e dever de prestação de contas",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Responsabilidade e Prestação de Contas: Consequências de atos antiéticos",
+              "ordem": 10,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "REGIME DE PESSOAL E NORMAS TRABALHISTAS APLICÁVEIS",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Consolidação das Leis do Trabalho (CLT): Relação de emprego sob regime celetista",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Consolidação das Leis do Trabalho (CLT): Direitos e deveres dos trabalhadores da NAV Brasil",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Consolidação das Leis do Trabalho (CLT): Diferenças entre regime estatutário e celetista",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "TRANSPARÊNCIA, CONTROLE E GOVERNANÇA",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Transparência Pública: Acesso à informação e transparência ativa e passiva",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Transparência Pública: Regras sobre divulgação de dados institucionais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Governança Corporativa: Princípios de governança aplicáveis às empresas públicas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Governança Corporativa: Estrutura de administração e órgãos de controle interno",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Controle Externo e Interno: Controle social e responsabilidade pública",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Controle Externo e Interno: Papel dos órgãos de auditoria interna e fiscal externa",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "LEGISLAÇÃO ANTICORRUPÇÃO E NORMAS RELACIONADAS",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Noções de Lei nº 12.846/2013 (Lei Anticorrupção): Conceito de corrupção no setor público e privado",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Noções de Lei nº 12.846/2013 (Lei Anticorrupção): Responsabilidade administrativa e sanções",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Lei de Improbidade Administrativa (Lei nº 8.429/1992): Atos de improbidade e suas consequências",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Lei de Improbidade Administrativa (Lei nº 8.429/1992): Sanções aplicáveis a agentes públicos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Aplicação de Normas de Integridade e Compliance: Conceitos de risco, gestão de integridade e controles preventivos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ÉTICA E RELAÇÕES INTERPESSOAIS NO AMBIENTE DE TRABALHO",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Comunicação e Relacionamento Profissional: Princípios de comunicação clara, respeitosa e eficiente",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Comunicação e Relacionamento Profissional: Postura profissional, assiduidade e disciplina",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Responsabilidade Civil e Profissional: Consequências de atitudes contrárias à ética profissional",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "NOÇÕES DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Proteção de Dados Pessoais – LGPD: Conceitos básicos da Lei Geral de Proteção de Dados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirn90nfl17",
+              "nome": "Proteção de Dados Pessoais – LGPD: Aplicação na NAV Brasil e tratamento de dados de usuários",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqsirors041s7",
+      "nome": "RACIOCÍNIO LÓGICO MATEMÁTICO (RLM)",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "LÓGICA",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Proposições",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Conectivos lógicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Equivalências lógicas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Quantificadores e predicados",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "CONJUNTOS",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Conceito de conjuntos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Operações com conjuntos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Representação por diagramas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "CONJUNTOS NUMÉRICOS",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Números inteiros",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Números racionais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Números reais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Operações com números",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "RAZÕES, PROPORÇÕES E PORCENTAGENS",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Porcentagem",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Juros",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Proporcionalidade direta",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Proporcionalidade inversa",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "MEDIDAS",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Medidas de comprimento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Medidas de área",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Medidas de volume",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Medidas de massa",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Medidas de tempo",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ESTRUTURAS LÓGICAS",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Dedução de novas informações a partir das relações fornecidas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Avaliação das condições utilizadas para estabelecer tais relações",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "FUNÇÕES INTELECTUAIS APLICADAS AO RACIOCÍNIO LÓGICO",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Raciocínio verbal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Raciocínio matemático",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Raciocínio sequencial",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Orientação espacial",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Orientação temporal",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Formação de conceitos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Discriminação de elementos",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ANÁLISE DE DADOS",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Compreensão de dados apresentados em gráficos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Compreensão de dados apresentados em tabelas",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "RACIOCÍNIO LÓGICO APLICADO",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Problemas aritméticos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Problemas geométricos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Problemas matriciais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ANÁLISE COMBINATÓRIA E PROBABILIDADE",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Problemas de contagem",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Noções de probabilidade",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "GEOMETRIA BÁSICA",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Ângulos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Triângulos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Polígonos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Distâncias",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Proporcionalidade",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Perímetro",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Área",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "PLANO CARTESIANO",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Sistema de coordenadas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirors041s7",
+              "nome": "Distância entre pontos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "PROBLEMAS DE LÓGICA E RACIOCÍNIO",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mqsirqgqevzoz",
+      "nome": "INFORMÁTICA",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "ARQUITETURA BÁSICA DE COMPUTADORES",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceitos de hardware",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Componentes físicos e suas funções",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Unidade Central de Processamento (CPU)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Memória RAM",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Memória cache",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Tipos de armazenamento (HD, SSD etc.)",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "DISPOSITIVOS DE ENTRADA, SAÍDA E ARMAZENAMENTO DE DADOS",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Teclado",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Mouse",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Monitor",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Impressoras",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Scanner",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Discos rígidos (HD)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Unidades de estado sólido (SSD)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Pendrives",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Armazenamento em nuvem (conceito básico)",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "CONECTORES E PORTAS DE COMUNICAÇÃO",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Tipos de conectores",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Portas de comunicação e suas funções",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "SISTEMAS OPERACIONAIS E SOFTWARE",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceitos básicos de software",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceitos de sistema operacional",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Ambiente gráfico",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Área de trabalho",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Janelas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Ícones",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Atalhos de teclado",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Pastas e organização de arquivos",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Tipos de arquivos",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Criação de arquivos",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Cópia de arquivos",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Exclusão de arquivos",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ambiente Windows 10 e Windows 11: Restauração de arquivos (Lixeira)",
+              "ordem": 12,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "MICROSOFT 365",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceitos e características gerais: Conceitos básicos do Microsoft 365",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceitos e características gerais: Noções de utilização em nuvem e colaboração em tempo real",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceitos e características gerais: Integração básica entre aplicativos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Word: Criação e edição simples de documentos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Word: Formatação básica de textos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Word: Inserção simples de tabelas e elementos visuais",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Word: Noções de edição colaborativa via Word 365",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Excel: Criação e edição simples de planilhas",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Excel: Fórmulas básicas",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Excel: Inserção de gráficos simples",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Excel: Noções de colaboração na nuvem",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft PowerPoint: Criação e edição de apresentações",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft PowerPoint: Inserção de imagens e formas",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft PowerPoint: Noções de edição colaborativa online",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft OneDrive/SharePoint: Armazenamento e sincronização de arquivos na nuvem",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft OneDrive/SharePoint: Compartilhamento simples de arquivos e pastas",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft OneDrive/SharePoint: Acesso e edição básica de documentos online",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Teams: Comunicação por chat e reuniões",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Teams: Compartilhamento básico de arquivos",
+              "ordem": 18,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Teams: Trabalho simples em documentos dentro do Teams",
+              "ordem": 19,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Outlook: Envio e recebimento de e-mails",
+              "ordem": 20,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Outlook: Organização de e-mails e pastas",
+              "ordem": 21,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Outlook: Uso básico do calendário",
+              "ordem": 22,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Outlook: Noções de segurança e boas práticas corporativas",
+              "ordem": 23,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Copilot: Noções básicas de uso da IA generativa no Microsoft 365",
+              "ordem": 24,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Copilot: Auxílio simples em textos, e-mails, planilhas e apresentações",
+              "ordem": 25,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Microsoft Copilot: Boas práticas e noções de limitações",
+              "ordem": 26,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "INTERNET",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceitos e características gerais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Navegação com Microsoft Edge: Interface e recursos básicos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Navegação com Microsoft Edge: Perfis corporativos e login com conta Microsoft",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Navegação com Microsoft Edge: Favoritos e coleções",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Noções gerais de outros navegadores",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Mecanismos de busca",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Figuras e imagens: formatos e uso adequado",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Downloads e uploads",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "SEGURANÇA DIGITAL",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Noções de antivírus",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Autenticação: Autenticação multifator (MFA)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Autenticação: Senhas seguras",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Golpes virtuais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Phishing",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "NOÇÕES DE INTELIGÊNCIA ARTIFICIAL (IA)",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Conceito básico de Inteligência Artificial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Diferença entre IA, automação e algoritmos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Exemplos de uso cotidiano de IA",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Assistentes virtuais e sistemas de recomendação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Noções simples de aprendizado de máquina",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Noções do uso de IA em atividades de trabalho",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Noções de IA aplicada a análises e apoio à decisão",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Benefícios, limitações e riscos básicos",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Ética, privacidade e uso responsável",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirqgqevzoz",
+              "nome": "Impactos da IA no trabalho",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mqsirt167uh17",
+      "nome": "LÍNGUA INGLESA",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "COMPREENSÃO E INTERPRETAÇÃO DE TEXTOS EM LÍNGUA INGLESA",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Compreensão geral e específica de textos técnicos e institucionais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Identificação de ideias principais e secundárias",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ESTRATÉGIAS DE LEITURA",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "skimming (leitura global)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "scanning (busca de informações específicas)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Inferência de informações implícitas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Identificação de palavras-chave e uso do contexto para dedução de significado",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Conhecimento de terminologia básica de comércio internacional",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Uso de vocabulário relacionado a exportação, importação e logística internacional",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Sinonímia e antonímia",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "COERÊNCIA E COESÃO",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "concordância nominal e verbal",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "uso de conectores e marcadores discursivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Conhecimento de expressões idiomáticas, de preposições, de tempos e modos verbais mais frequentes em textos técnicos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "uso da voz passiva e função de verbos modais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Formação de palavras (prefixos e sufixos)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mqsirt167uh17",
+              "nome": "Cognatos e falsos cognatos",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mqsirmea2fnyt\"},{\"nome\":\"LEGISLAÇÃO E NOÇÕES DE ÉTICA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mqsirn90nfl17\"},{\"nome\":\"RACIOCÍNIO LÓGICO MATEMÁTICO (RLM)\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mqsirors041s7\"},{\"nome\":\"INFORMÁTICA\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mqsirqgqevzoz\"},{\"nome\":\"LÍNGUA INGLESA\",\"cor\":\"#f5c842\",\"materiaId\":\"mqsirt167uh17\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_objetiva\",\"name\":\"1ª Fase - Prova Objetiva\",\"useBlockData\":false,\"items\":[{\"id\":\"mqsirmea2fnyt\",\"q\":10,\"w\":1},{\"id\":\"mqsirn90nfl17\",\"q\":10,\"w\":1},{\"id\":\"mqsirors041s7\",\"q\":15,\"w\":1},{\"id\":\"mqsirqgqevzoz\",\"q\":5,\"w\":1},{\"id\":\"mqsirt167uh17\",\"q\":20,\"w\":1}],\"q\":60,\"w\":1,\"minPts\":30}]}"
+  }
+}
