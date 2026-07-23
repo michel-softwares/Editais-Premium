@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-06-24T22:58:15.083Z",
+  "atualizadoEm": "2026-07-23T14:52:49.907Z",
   "editais": [
+    {
+      "id": "analista-censitario-tecnologia-da-informacao-ibge",
+      "titulo": "IBGE (Fundação Instituto Brasileiro de Geografia e Estatística)",
+      "orgao": "IBGE (Fundação Instituto Brasileiro de Geografia e Estatística)",
+      "banca": "Instituto Avalia",
+      "cargo": "Analista Censitário - Tecnologia da Informação",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20Censit%C3%A1rio%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(IBGE)/card_premium_analista_censitario_ti.png",
+      "arquivo": "Analista%20Censit%C3%A1rio%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(IBGE)/Edital%20Premium%20Track%20Concursos%20Analista%20Censit%C3%A1rio%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(IBGE).json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Censitário - Tecnologia da Informação (IBGE).json",
+      "atualizadoEm": "2026-07-23T14:52:32.000Z"
+    },
     {
       "id": "profissional-tecnico-de-navegacao-aerea-nav-brasil",
       "titulo": "NAV Brasil (Serviços de Navegação Aérea S.A.)",
