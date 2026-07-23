@@ -1,6 +1,40 @@
 {
-  "atualizadoEm": "2026-07-23T14:52:49.907Z",
+  "atualizadoEm": "2026-07-23T20:00:38.645Z",
   "editais": [
+    {
+      "id": "analista-de-ti-desenvolvimento-de-software-dataprev",
+      "titulo": "DATAPREV (Empresa de Tecnologia e Informações da Previdência)",
+      "orgao": "DATAPREV (Empresa de Tecnologia e Informações da Previdência)",
+      "banca": "FGV",
+      "cargo": "Analista de TI - Desenvolvimento de Software",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20TI%20-%20Desenvolvimento%20de%20Software%20(DATAPREV)/card_premium_desenvolvimento_software.png",
+      "arquivo": "Analista%20de%20TI%20-%20Desenvolvimento%20de%20Software%20(DATAPREV)/Edital%20Premium%20Track%20Concursos%20Analista%20de%20TI%20-%20Desenvolvimento%20de%20Software%20(DATAPREV).json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de TI - Desenvolvimento de Software (DATAPREV).json",
+      "atualizadoEm": "2026-07-23T19:58:20.000Z"
+    },
+    {
+      "id": "analista-de-ti-inteligencia-da-informacao-dataprev",
+      "titulo": "DATAPREV (Empresa de Tecnologia e Informações da Previdência)",
+      "orgao": "DATAPREV (Empresa de Tecnologia e Informações da Previdência)",
+      "banca": "FGV",
+      "cargo": "Analista de TI - Inteligência da Informação",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20de%20TI%20-%20Intelig%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%20(DATAPREV)/card_premium_inteligencia_informacao.png",
+      "arquivo": "Analista%20de%20TI%20-%20Intelig%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%20(DATAPREV)/Edital%20Premium%20Track%20Concursos%20Analista%20de%20TI%20-%20Intelig%C3%AAncia%20da%20Informa%C3%A7%C3%A3o%20(DATAPREV).json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de TI - Inteligência da Informação (DATAPREV).json",
+      "atualizadoEm": "2026-07-23T19:58:20.000Z"
+    },
     {
       "id": "analista-censitario-tecnologia-da-informacao-ibge",
       "titulo": "IBGE (Fundação Instituto Brasileiro de Geografia e Estatística)",
