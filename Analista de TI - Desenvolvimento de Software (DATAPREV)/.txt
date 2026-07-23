@@ -1,0 +1,31 @@
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS     
+============================================================
+
+🏢 ÓRGÃO: DATAPREV (Empresa de Tecnologia e Informações da Previdência)
+🪪 CARGO: Analista de TI - Desenvolvimento de Software
+🧾 BANCA: FGV
+
+📝 PAINEL DE PROVAS:
+• Prova Objetiva (Sem Consulta):
+  - Total de 70 questões de múltipla escolha (A, B, C, D, E).
+  - Pontuação Máxima: 115,00 pontos.
+  - Módulo I - Conhecimentos Gerais (40 Qs, Peso 1,0 = 40 pts):
+    * Língua Portuguesa: 12 Qs
+    * Língua Inglesa: 12 Qs
+    * Raciocínio Lógico Matemático: 5 Qs
+    * Atualidades e Inteligência Artificial: 6 Qs
+    * Legislação de Seg. Informação e Proteção de Dados: 5 Qs
+  - Módulo II - Conhecimentos Específicos (30 Qs, Peso 2,5 = 75 pts):
+    * Conhecimentos Específicos: 30 Qs
+  - Habilitação na Objetiva:
+    * Mínimo de 57,50 pontos (50% do total de pontos).
+    * Não zerar nenhuma disciplina.
+
+🎓 ESCOLARIDADE: Ensino Superior Completo
+👥 VAGAS: Vagas Imediatas + Cadastro Reserva (Abrangência Nacional)
+📅 DATA DA PROVA: 11/10/2026 (das 13h às 17h)
+💵 REMUNERAÇÃO: R$ 9.173,62 (+ Vale Alimentação/Refeição R$ 1.252,00)
+💵 TAXA DE INSCRIÇÃO: R$ 110,00
+  - Período de Inscrição: 06/07/2026 a 05/08/2026
+  - Vencimento do Boleto: 06/08/2026

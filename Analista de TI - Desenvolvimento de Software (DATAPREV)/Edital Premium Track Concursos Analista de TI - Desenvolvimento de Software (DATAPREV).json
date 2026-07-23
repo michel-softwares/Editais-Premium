@@ -1,0 +1,1160 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "DATAPREV",
+    "cargo": "Analista de TI - Desenvolvimento de Software",
+    "salario": "R$ 9.173,62 (+ Vale Alimentação R$ 1.252,00)",
+    "banca": "FGV",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-10-11",
+    "localProva": "",
+    "linkEdital": "https://conhecimento.fgv.br/sites/default/files/concursos/edital-dataprev_supe-versaofinal.pdf",
+    "preEdital": false,
+    "pontuacaoMax": null,
+    "vagas": "Vagas Imediatas + CR",
+    "obs": ""
+  },
+  "materias": [
+    {
+      "id": "mrxxdzqjc08fo",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "COMPREENSÃO E INTERPRETAÇÃO DE TEXTOS",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Compreensão e interpretação de textos de gêneros variados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Reconhecimento de tipos e gêneros textuais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ORTOGRAFIA E COESÃO TEXTUAL",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Domínio da ortografia oficial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Domínio dos mecanismos de coesão textual",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Emprego de elementos de referenciação, substituição e repetição",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Emprego de conectores e de outros elementos de sequenciação textual",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Emprego de tempos e modos verbais",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ESTRUTURA MORFOSSINTÁTICA DO PERÍODO",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Domínio da estrutura morfossintática do período",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Emprego das classes de palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Relações de coordenação entre orações e entre termos da oração",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Relações de subordinação entre orações e entre termos da oração",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Emprego dos sinais de pontuação",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Concordância verbal e nominal",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Regência verbal e nominal",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Emprego do sinal indicativo de crase",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Colocação dos pronomes átonos",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "REESCRITA DE FRASES E PARÁGRAFOS",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Reescrita de frases e parágrafos do texto",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Significação das palavras",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Substituição de palavras ou de trechos de texto",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Reorganização da estrutura de orações e de períodos do texto",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzqjc08fo",
+              "nome": "Reescrita de textos de diferentes gêneros e níveis de formalidade",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxdzsy4lcdi",
+      "nome": "LÍNGUA INGLESA",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "COMPREENSÃO E GRAMÁTICA EM LÍNGUA INGLESA",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzsy4lcdi",
+              "nome": "Compreensão de textos em língua inglesa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzsy4lcdi",
+              "nome": "Itens gramaticais relevantes para o entendimento dos sentidos dos textos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxdztaidstj",
+      "nome": "RACIOCÍNIO LÓGICO",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "ESTRUTURAS E LÓGICA DE ARGUMENTAÇÃO",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Estruturas lógicas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Lógica de argumentação: analogias, inferências, deduções e conclusões",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "LÓGICA SENTENCIAL E DE PRIMEIRA ORDEM",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Lógica sentencial (ou proposicional)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Proposições simples e compostas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Tabelas-verdade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Equivalências lógicas",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Diagramas lógicos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Lógica de primeira ordem",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "RACIOCÍNIO LÓGICO APLICADO",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Raciocínio lógico envolvendo problemas aritméticos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Raciocínio lógico envolvendo problemas geométricos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdztaidstj",
+              "nome": "Raciocínio lógico envolvendo problemas matriciais",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxdzum77lvc",
+      "nome": "ATUALIDADES E INTELIGÊNCIA ARTIFICIAL",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "ATUALIDADES GERAIS",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Tópicos relevantes e atuais de segurança e transportes",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Tópicos relevantes e atuais de política e economia",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Tópicos relevantes e atuais de sociedade, educação e saúde",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Tópicos relevantes e atuais de cultura, tecnologia e energia",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Tópicos relevantes e atuais de relações internacionais",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Tópicos relevantes e atuais de desenvolvimento sustentável e ecologia",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "INTELIGÊNCIA ARTIFICIAL: FUNDAMENTOS E APLICAÇÕES",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Conceitos de inteligência artificial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Aprendizado de máquina (Machine Learning)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Introdução aos modelos generativos e modelos de linguagem (LLMs)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzum77lvc",
+              "nome": "Ética, governança e privacidade em IA",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxdzvtl9wbi",
+      "nome": "LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "LEI DE ACESSO À INFORMAÇÃO (LAI)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzvtl9wbi",
+              "nome": "Lei nº 12.527/2011 (Lei de Acesso à Informação): Capítulos I, II, III, IV e V",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzvtl9wbi",
+              "nome": "Decreto nº 7.724/2012 e Decreto nº 7.845/2012",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "CRIMES CIBERNÉTICOS E MARCO CIVIL DA INTERNET",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzvtl9wbi",
+              "nome": "Lei nº 12.737/2012 (Lei de Delitos Informáticos - Lei Carolina Dieckmann): art. 2º",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzvtl9wbi",
+              "nome": "Lei nº 12.965/2014 (Marco Civil da Internet): Capítulo II (Seção I) e Capítulo III (Seções I e II)",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "LEI GERAL DE PROTEÇÃO DE DADOS (LGPD)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzvtl9wbi",
+              "nome": "Lei nº 13.709/2018 (LGPD): Capítulos I, II, III, IV, VII, VIII e IX",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxdzwnuck4n",
+      "nome": "DESENVOLVIMENTO DE SISTEMAS E LINGUAGENS",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "LINGUAGENS E FRAMEWORKS DE DESENVOLVIMENTO",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Desenvolvimento em linguagem Java (versão 6 ou superior)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Desenvolvimento JavaEE (versão 6 ou superior) e JakartaEE",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "JPA (Java Persistence API - versão 2 ou superior)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Desenvolvimento em Javascript e TypeScript",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Framework JUnit para testes",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Framework Hibernate",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Frameworks JSF e Primefaces",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Frameworks Spring, SpringCloud e SpringBoot",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Desenvolvimento para dispositivos móveis (Android e iOS)",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Desenvolvimento em ferramentas low-code e no-code",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "QUALIDADE E ANÁLISE DE CÓDIGO",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Análise estática de código-fonte",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Práticas de Clean Code",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Uso da ferramenta SonarQube",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "ARQUITETURA E INTEROPERABILIDADE DE SOFTWARE",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Arquitetura de software",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Interoperabilidade de sistemas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Arquitetura e linguagem orientada a serviços (SOA)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Web Services e Mensageria",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Desenvolvimento e documentação de APIs com Swagger",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Arquitetura e linguagem orientada a objetos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Arquitetura de aplicações para ambiente web",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Servidores de aplicações e servidores web",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Ambientes Internet, extranet, intranet e portal: finalidades e serviços",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Padrões XML, XSLT, UDDI, REST e JSON",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "DEVOPS E GESTÃO DE CONFIGURAÇÃO",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Conceitos e práticas de DevOps",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Ferramenta de gestão de configuração Git",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "TESTES DE SOFTWARE",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Conceitos básicos de testes de aplicações",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Testes unitários",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Testes de integração",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Testes ágeis",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Teste de usabilidade de software",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Testes automatizados",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Tipos de testes",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Test-driven development (TDD)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Gestão do ciclo de vida de testes",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "RPA (Robotic Process Automation)",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "METODOLOGIAS ÁGEIS E ENGENHARIA DE REQUISITOS",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Metodologias Ágeis de Desenvolvimento: Scrum",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Metodologias Ágeis de Desenvolvimento: Kanban",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Metodologias Ágeis de Desenvolvimento: eXtreme Programming (XP)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Padrões de desenvolvimento e reuso",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Codificação de software (transacionais, analíticos, mobile e API)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Metodologia de Ponto de Função e Story Points",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Engenharia de Requisitos: Classificação de Requisitos",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Processo de Engenharia de Requisitos",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Técnicas de Elicitação de Requisitos",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "PRÁTICAS FRONTEND, ARQUITETURA E UX",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Frameworks frontend: VueJS, Angular e React",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Padrões de frontend: SPA (Single Page Application) e PWA (Progressive Web App)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Protocolos HTTPS e SSL/TLS",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Conceitos de Blockchain",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Design de software",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Arquitetura Hexagonal (Ports & Adapters)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Microsserviços: orquestração de serviços e API Gateway",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Contêineres e Orquestração",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Transações distribuídas",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "User Experience (UX): Conceitos básicos e arquitetura de informação em CMS",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Portais corporativos, Workflow e Acessibilidade",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Desenho e planejamento de interação em aplicações web",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxdzwnuck4n",
+              "nome": "Conceitos de Inteligência Artificial, Análise de Dados e Big Data",
+              "ordem": 13,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxe02pi6gaa",
+      "nome": "INTELIGÊNCIA DE NEGÓCIOS (BUSINESS INTELLIGENCE)",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "FUNDAMENTOS E ARQUITETURA DE BI",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxe02pi6gaa",
+              "nome": "Conceitos, fundamentos, características e técnicas de Business Intelligence (BI)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe02pi6gaa",
+              "nome": "Sistemas de suporte à decisão e gestão de conteúdo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe02pi6gaa",
+              "nome": "Arquitetura e aplicações de Data Warehouse com ETL e OLAP",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe02pi6gaa",
+              "nome": "Definições e conceitos de Data Warehouse e Data Mining",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe02pi6gaa",
+              "nome": "Visualização de dados: bancos de dados individuais e cubos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe02pi6gaa",
+              "nome": "Mapeamento das fontes de dados e técnicas para coleta de dados",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe02pi6gaa",
+              "nome": "Arquitetura corporativa de Business Intelligence",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxe03iba8jo",
+      "nome": "SEGURANÇA DA INFORMAÇÃO",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "NORMATIVAS E SEGURANÇA NO DESENVOLVIMENTO",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Políticas de segurança da informação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Procedimentos de segurança e conceitos gerais de gerenciamento",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Normas ABNT NBR ISO/IEC 27001:2022 e ABNT NBR ISO/IEC 27002:2022",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Confiabilidade, integridade e disponibilidade (CID)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Mecanismos de segurança e controle de acesso",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Protocolo OAuth2 e Single Sign-On (SSO)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Gerência de riscos: ameaça, vulnerabilidade e impacto",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Ciclo de Vida de Desenvolvimento Seguro (SDL - Security Development Lifecycle)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "OWASP Top 10 vulnerabilidades web",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe03iba8jo",
+              "nome": "Análise estática e dinâmica de código (SAST e DAST)",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxe04o0m11q",
+      "nome": "BANCO DE DADOS",
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "MODELAGEM E ARMAZENAMENTO DE DADOS",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Modelagem de dados (conceitual, lógica e física)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Abordagem relacional e multidimensional",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Normalização das estruturas de dados",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Integridade referencial",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Metadados e modelagem dimensional",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Linguagem de consulta estruturada (SQL)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Linguagem de definição de dados (DDL)",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Linguagem de manipulação de dados (DML)",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "SGBD e propriedades de banco de dados (ACID)",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Banco de dados NoSQL e Banco de dados em memória",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Data Lakes e soluções para Big Data",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Dados estruturados e não estruturados",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Avaliação de modelos de dados",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe04o0m11q",
+              "nome": "Técnicas de Integração e Ingestão de Dados (ETL/ELT)",
+              "ordem": 13,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mrxxe067s0nud",
+      "nome": "GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO",
+      "ordem": 9,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "FRAMEWORKS E GESTÃO DE TI",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mrxxe067s0nud",
+              "nome": "Gerenciamento de projetos: conceitos, programas e portfólio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe067s0nud",
+              "nome": "Abordagens de projetos: tradicional, híbrida e ágil (Scrum, Lean, Kanban)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe067s0nud",
+              "nome": "Guia Scrum de prática ágil",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe067s0nud",
+              "nome": "Gestão de riscos em TI",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe067s0nud",
+              "nome": "Gerenciamento de serviços com ITIL v4",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe067s0nud",
+              "nome": "Governança de TI com COBIT 2019",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "mrxxe067s0nud",
+              "nome": "Gestão e modelagem de processos de negócio com BPMN",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mrxxdzqjc08fo\"},{\"nome\":\"LÍNGUA INGLESA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mrxxdzsy4lcdi\"},{\"nome\":\"RACIOCÍNIO LÓGICO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mrxxdztaidstj\"},{\"nome\":\"AT. E INTELIGÊNCIA ARTIFICIAL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mrxxdzum77lvc\"},{\"nome\":\"LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS\",\"cor\":\"#f5c842\",\"materiaId\":\"mrxxdzvtl9wbi\"},{\"nome\":\"DESENVOLVIMENTO DE SISTEMAS E LINGUAGENS\",\"cor\":\"#f5874a\",\"materiaId\":\"mrxxdzwnuck4n\"},{\"nome\":\"INTELIGÊNCIA DE NEGÓCIOS (BUSINESS INTELLIGENCE)\",\"cor\":\"#00bcd4\",\"materiaId\":\"mrxxe02pi6gaa\"},{\"nome\":\"SEGURANÇA DA INFORMAÇÃO\",\"cor\":\"#e91e8c\",\"materiaId\":\"mrxxe03iba8jo\"},{\"nome\":\"BANCO DE DADOS\",\"cor\":\"#8bc34a\",\"materiaId\":\"mrxxe04o0m11q\"},{\"nome\":\"GESTÃO E GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO\",\"cor\":\"#ff9800\",\"materiaId\":\"mrxxe067s0nud\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_objetiva\",\"name\":\"1ª Fase - Prova Objetiva\",\"useBlockData\":false,\"items\":[{\"id\":\"mrxxdzqjc08fo\",\"q\":12,\"w\":1},{\"id\":\"mrxxdzsy4lcdi\",\"q\":12,\"w\":1},{\"id\":\"mrxxdztaidstj\",\"q\":5,\"w\":1},{\"id\":\"mrxxdzum77lvc\",\"q\":6,\"w\":1},{\"id\":\"mrxxdzvtl9wbi\",\"q\":5,\"w\":1}],\"q\":70,\"w\":1,\"minPts\":57.5},{\"id\":\"g_1784836354291\",\"name\":\"Conhecimentos específicos\",\"type\":\"standard\",\"items\":[{\"id\":\"mrxxe067s0nud\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mrxxdzwnuck4n\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mrxxe02pi6gaa\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mrxxe03iba8jo\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mrxxe04o0m11q\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":30,\"w\":2.5,\"pts\":0,\"redType\":\"\",\"useBlockData\":true}],\"scoringMode\":\"tradicional\",\"errorPenalty\":1}"
+  }
+}
