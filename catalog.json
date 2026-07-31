@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-07-23T20:00:38.645Z",
+  "atualizadoEm": "2026-07-31T03:09:32.622Z",
   "editais": [
+    {
+      "id": "investigador-de-policia-civil-pcba",
+      "titulo": "Polícia Civil do Estado da Bahia (PCBA)",
+      "orgao": "Polícia Civil do Estado da Bahia (PCBA)",
+      "banca": "Instituto AOCP",
+      "cargo": "Investigador de Polícia Civil",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Investigador%20de%20Pol%C3%ADcia%20Civil%20(PCBA)/card_premium_investigador_pcba.png",
+      "arquivo": "Investigador%20de%20Pol%C3%ADcia%20Civil%20(PCBA)/Edital%20Premium%20Track%20Concursos%20Investigador%20de%20Pol%C3%ADcia%20Civil%20(PCBA).json",
+      "arquivoNome": "Edital Premium Track Concursos Investigador de Polícia Civil (PCBA).json",
+      "atualizadoEm": "2026-07-31T03:09:18.000Z"
+    },
     {
       "id": "analista-de-ti-desenvolvimento-de-software-dataprev",
       "titulo": "DATAPREV (Empresa de Tecnologia e Informações da Previdência)",
