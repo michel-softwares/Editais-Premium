@@ -1,0 +1,1833 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "PM DF",
+    "cargo": "SOLDADO",
+    "salario": "R$ 5.300",
+    "banca": "AOCP",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAQAElEQVR4AexdB3xTVRf/v5e0adJN6YAyy55lyRaQKQi4mCoonyBDlKGCgspGAUEZsgTZynAAsvfee++9SvdK0zTjO+emSZM0RRCwhfp+765zz93n3jPuayqb/3ty9QzIyM2P9gSN3kwu9765mwCS9gAmXe5dfRp5riYAs/42zMYEmobc++ZqAkgyRiFVH5F7V59GnqsJQG+ORKwuiqYh9765mgBgisBt7X8EkDvJ32wEzPdxIyU2V47fOujcewKYkgEpBjeS/yMA5MrHcBeQtLiljURufnLvCWC4BMhm3PhPBsil9G+8AkjAtRSyA5j1yK1P7j0BzJfFmt9KNcCoz71sIPcSAK4LAogxKhCrpdNApHKfl3sJwGQhAL1ZwsX4q7lv5dNHnDsJwJwKmDJ2/fGEe+nT8fwHziPMnQSgp92vIOEvfTZOJ95Pj+W+IHcSQNpxQJHxHcClxP9OgNxF+sYjDuO9mBwPGHKnRTB3ngAm/hIogwZuppEmkHQ6A5CLYrmQAPjov+iwxHqzjCPRZxxguSWR+wjAEEdre4uc47sz+qYjIJekch8B6PaTAJiSaXmPxt3OBMsNgNxHAIbNgIRMz+nEKMCYmAn+vACyGkfuIwDzPpdzcV2vwP3Y3S7znmdg7iIAswGQLsDVY6BjYdUdR/XQFd7zBstdBKAjA5CU9c3fxqjMwuHztuDO48llBLAM/BGI8yRY00fi7tAdQWYB0Zr/PIbPJwHwBx6680Dkz8D1vhCO46Z1D1zDK6kS7l0fRfgfApc7Ajc/BeKpjCH6geWe5cznjADIyJO0FzgeBpyqZFnIyBkAu+u0qHC0AAKEb7d6LAcsuvQ74RPhxC4HIn4ELr4OHCsIXPsAMGntsJ+P6PNDAGYjLVJv4FxDwNWO5csfN8cFd7WEK5JCXICpXNQC4EggkEbqoguMZxX0/BBA5Ewgam7W6+BvAAn6+LvnuN4bBrOUBZoJOFGcToLkLPJzHvjvevSMEwDtTAPd5fPRHNQTqEzXuuqKrsfsRYtnn0NFmQNIFLKzZiWYlPgjKdiadAz9iR1UvgvIGjoJIogQnn2B8dklgPj1dCTnJf5chEI6mo+GWAS2cmToKTjOceH4+HenlWYoB0QLKZMCIDUIxZWvz6DsXR3cjJzBCMDEOKrTEk33aZpKrgDC5gNX3gIO+wPHi1K71D7LGqZnlxBoZOljfJaCNNqFl9+mHchCGS8craiR7vSvvEtC22tAcG8g73sZI7I7/s0GCfGvFoJcQA/315vgSNlAtDwVjx+XZNgAThEb0Juk9PIUFp0NqCtDCINxpBXwJ2V8fIDaZW3j9tfpuM9e8GwQgJn4d/QvEAIe8/kkutDhP+3KNN9EDPEbLERQhCR4Be1UxvGhheKQHa2n6Z4SaYc6wb1xczRq1B4DdWHQ6EmI5HxyzAZ+SiTJn+LwfAHwexk4WRYwxjEks4ucQ8Soo9OhM3CecJOpf5mxciQk5xMAq2MnSwNXuwJJpOJJKkB/48GTyewhYRtQjCT34JaAkgjDroR760SoXpuDtA0bsHv9YjSpFImrAVSvHc7keGqz4HigKAmX55rQAifZ5TpFWQYRxEHUlbgdONcIONsALrURp6LZnZSzuwMPbP/2MOAK7So9X9WmLyLzW9kj62LuxL+JV5voyN50LAgpij2wl/4lIgbN51FIXeUP/cEjKH1Ph4KxaRjSkmQIZDyX9TKWHbqPewlBREgLgaBelEkLTH7ml6ZRUgB8UnEmq6R8CpyuCuguMSTHOup5Du0b6933vqNJTXPsoO4coCrmCOOUWwGg+FIkFNmHT6ekomidr/HlsIFwV5O8wPk2p8T12MHoL/dCyzwv4b0ir6BQvrfQMKSSDYMjrAp+eWcfitbsg1ptF2Lp8bZARVrMkL6U7TRtbiEAsxuWTSjX9qZFQBiS2DJpA+asiNNIckjn+Di9NZgWn3i/c5cSdwEaUvUkd0sOh/mHIClsP/pPjEPhGv3x/U9rcOtuNCZ9fhAK2vEWRIt/N34g6rSLxtw/zuLgyevYe+QKpk3YioCV/gjy8LUgpfs3vDxQonA0Dhy7jI69JqFSy0lYc74dUO4g4Em7Ox0P/q0AE7GIlLNWSEaYSkRzc1BG+l+KPWwzOZMA7k0h/pnFrZ2WbvRSyM4fQLZ6VVGYS23CipONUa7R15g4ay0SkiwqWcFALSpXick0D4dP50HFMgUx+vMONjdiQDucO30bVfzDHPB1kOHVnoS7dOjJszfQuss4vNZ7LeLyrwZChwOSGxDQiczHJAgy4cLFE/sbAe0EUUrllDdnEkDcygfMD03kjf5A/sFILrwZPUccxxtdJ9COd1zsecP2w82dcJ1qalprB8wmAwaO+sXmRk36E43blcfOyMwfhh7x8UaR/BmWP7MZ+GvDYZSqNwCbLr0MlNoIuOcHIiY5tWSXTCNjFWsudqCcEs2ZBFBoLFBmF1CaJGoS6BDYDVD4ZcyZJhwRcWq8/O4M/PTLFnhpVGjVNONILhKkRd26xH8zSthi7liBNdM2Y+vc4pgyKByThlVF/yll8VvgBiQbUm141kiqJKNw93hrUoTtW9dCVEwimr/9Lb7/JZpkP8d8KLyBPG0ANkiFLQSK/gzInqJsTvNyHgGw4JR6k6x6pM8n7aaJ0wChXwEVTgNBPYCAd3BNMRzN3h6HPYcuQOXuhrFfvo0547ujdPH8kMiu+9t3uxx5v14CopUwnfKAcZcnpKMHUSfpe/QoMxw9CwzBoJiROJ13OY5jH2b6ncKbXvfgJ2cInzvV/qhYOk6s3eCPX8Oc73uiXs0yMNFx8OmIhfhy0jEYi60C3AsCwX1IRjgK5PscUHgCbChi4ZAvqFg7ELXkHC9nEYDQ+SsAfPV6h/jrLRKeLtFOOlESuDmAJvUz3PUcg5bvTcDJc0QkNI+p+jSs2nQEPb+YjXOX7qBexShUrhoNYahLlmE6ooZuSgASuuVDyjw/GE56IHmmH9KOeSB1pwbJk/2BewqYf/RB6Ugd2v+gw9zF13Elfi8m5jmLEm7JMECC9J4eCtmMnQfO490+U3EqvX3qAr6dsgKjZ52HudwRwKs2hOR/+gXgWi/gzgiAx3GhBXCuAYSwyIVyiMs5BMCq0rXuNEEuvsw16QDtUSRpJZLGp+DsxduQZck2hWu2HMOyVfuhVhmxfMoOQCeJhU/+OghxXfIjZakPVK2SYE6UKe4NtxdSoJ3nCxjpvaOEbp0XlGX1SP7RH6omyWBbgXmEPzp/ocPx24cwJs95XFRo0KB5BHbsO0tt7UNMXJKtfe7L0PG/Yf7vh6n/WiDlDOWZyTm9yYeAyyQwOoGzM5lzCIAnLaufbZU1MBWagS/GrcOegxcQEuiLft1awNszwyAkET2M7XkcPmYTDLu8kHZYjbT9asgBRnj1j0bKIl/od6uh6RaHlAW0+GlUIH3mDadUMEUo4FZdh+RJeSD7GaF+Lw6mGAUMWzToH3cTVz12IbGZGUF5iRjTy8nUaIC/N1o1qQqNWoVuA37CwZsvAEHvp2O4CMQPVLuAZxMo5xAAG1NI7XI5D/kG4s8dRkybvxHMd/t0bY7BfV4XPN+KX6NUNHo1uwrm9cqCadBv18B7VCR8J0QgZYkPTHTMq9slInWDJ0yRSmsxW6j7ywvutbWQaPF1a70gKQC/HyPgViEVCQODIH8cgO03j2PEoFNQuZlEOe7L2C/fwryJvVAyLARGowlvfzQFSf5DAJWjSikKsCc7mpwZ9CTdo9aVAwiAjsrIWYAyEHAj5zwCjxKIU3dF/2ELQDIXOTMdwfvRtMMonCGez+iBPqlY9xWZfHUyJ0EsG95fRkEinp00JgDqNonwmXAf7g2SAboNVBRIgxxogORhhuxvhBxsgLJIGowX3eE7PgLeI6JgJsFRu8Qb4GtkowSWKZLGBeDtY3H4qt1ZyCRsgp6lf+1F2w9+sKmhl69FYOj3q4GCYyiXypHv8Pq3gbhUIpbmAM+mRPqMZVPr3CxfpV7/CNCdBfKT0AenLhUYjZGT1tgmmIscOXkVh05cRXKyDmp3I1Z/vQfeGgNnZTiqRvI3wXjbDYkj8sIcq0DS2ABIGhPxeS0078VDGa6DumMC1O0ToKyqQ9pxD+hWe0FLQmIKsQn9Vk+Y4mXwyWCtOGU+sR+v22hZ7Z4Ard92Aht3nBBqoQCQN2XuRlyOq0YCYS1K2b18yoXSGO9NBs6+COgu2mVmT5SmKXsaFq2yWffueBHF2ZdIxXubzt3WlJbI0asujzu66pixcDMlQCqfUoRWj6Xy0W+dQZWQBCvIIZTczPCdeo+OcR0MV5UwXnYnOUAD7Rxf8G5OIxkheaq/4Pu6ZT4wXHAnFuFFckKsrR7dbz5g1iGp6aRKh2pn+GNJq6MoXyhzu+7uSqSlGTB0wu9AgeHpJSggOQbFlwKs5t79hk4UI8CXRWYDZWbfm30EYE4DLrxCI0+fWLalX6DFLzYXYDMvnwT5v8C3P65Bik6PAiF58O2gtxDg70VlAIlopEuj6/hAdRdxvYNhTiUAMj9MBN7Do6Df5pk50wXETJqCngRImdiCyDYBCZ8HEQuhHW/XRNKwvNgzeAfyB+gEmooWPrxsIfTrahFOF6/Yg9tJpQF1OUDhC5RaD3gUB86SKsj8hEvxHNwloxfHs8llHwGwgcSsdxx2EvHx4zRJBUYCJf+C0bMh/lx7UPD9ksXy4f2ODcjAI0OiUp2aXMf0HkfhVprqMEmI+yAf+AMdynL5+oy6D8mTVtNlriMwbZeaWEScDWgmtTLtsAcUoem7VQbc62mhVpgwaORp+Hvrkao3oH3r2niteTVoiWBNJjPGTl1lsQJWvAQoA4CTRAxpREi2milydzRgptOAotnxytnRqGgzcp4IMnmGKOA4SdCJ27Bs3RncibAcx4dPXoF/2a5I0xvRockN/Dx0P5K+DUDCoEB49oqB97D7SCBen6m+dIDkZYbvxAhILNSlw7IKjHeVUOR3XBTtz/7w+eY+VE2T4T/nDkBGpjgyLr2TFIGqX99HXt9UOq1WoFG7UTYbBRuozKrSpPt3tCy+wTIWh3Z58c1aB9C/mcg+Akje9+Bxer+EpSszcOITUoSa1fuNg5g/YQ9MJzyQdlANc4pMhJAXiYOC4NWLJvgBm5xtAj4k5YNkgwc2TlJ/6g415CDLjlcU08N7eCSgMpEwKSP2f/mhP6CmnUvvHB+EeKfCf1AS/LyjoU1JRVqaUVR//VYUjp65DZhI+7Ae+yLHyTPpnAD/XlL+95pyasmkdwLYJ2WYPUrh2OlrNiDr3otH7sGQT05AJhUtdZMLnq4AYjqEIv7TIJp0W1GHiKKAAT6jaDGzIgKaESnAQCcF4DM2Er6TIqAsngbWIOK75oeyEi2WZX1FvYazKvTT3cBFiYTLPgaEV44TcPbMZjOWrNwL5GnHyQc4ZmoPyH6IrH+KQsP9p0Ufs5ymQkYFPo2B1S5zJQAAEABJREFUkuuA8MtApVsUXsWtKDfcuhMjcIrlS8LBX9aj7evXwbq9OV4BPaloIjPdY6EtdT0RBVn4jCTtCyKwW6h0NBEoS+jhN+MuVA20xDqi4DvtLnwp7TvxHrwGR8GjoRaGc+4wJ0mI7xsMrtecIMNEzr0WEQARmqiIPTNQ+mIairlpcV9yx/kObmj0zl2SUyiD8g8evwIEdADK0mlWdj9Q7FfAj4VfyrS+stoa+9fD7COAoA8grGUVTgEllgOSG3BrCHDxVSBiMvYdvkzCnxGfdjyPw3+uQ7lycYQD8ZjIYGOKVoi41XMjPV5nRxTGq+5InuZvzc4UymQjkMgmkDQ6AAl9QhDfi1y/ECSRHJFCKmHaSRV1iRbRiaWY7isyCZNppE5WUiWINrRkQtxS0Q8VyBBVslASrt64DzMf8Vf/R+MbCHE7WOQnIvQbQAjdHCp8QBYpZNeTfQSgqQqUPwpxcXKqHHC+CRC9kISrw4DSD2bdURz4ZQO+GXQU3j5pGfNDu9p4g4glAyJibhVTYY5SiLjNo5NVu4gmmMrYYPYRGaTjJwirH4jvO2gRlDYlONVHZfUHPCD7OFZoOOuOF9wsBEAoMNL+P+bjjbs9aeO3OAcDWR+RSqdbwjbg9lAScouSYNiJDF8jgHIHACIaZNNDU5BNLfOgI2bQRJCEnHqdOmG31Uwz0K5pP1QOj4GsoF1IubaXJtNEUrotzREahcx6uxOqTLxcT1e+SRPzwGFxuUy6c6+bAs/eMekpu4DqYisgraUdEDAQz5dDjA4ws1ZGGV1mST5eocTaEl6ou6k3dmnJFmAtZU4F+PPxk8UBZbAVmi2hnC2tcqMsGd+iI9GcPplktwctGIrR5HiTiVSmkPGcnUmCicy6DmClmY5rB4hISJ5mWngJTATJM/woLsCZPFUjrYP1z4aQQkeILWGJ8EWSHGx3IjGYmgnV6Z1phXOE7H8gyYgGN6ug/q0a2KgNEDCRyZ+KsfFLJLLHyz4CEHZwmjk17fx8NKFhtOB5DXD+I45M00JF+M7ee0QkrM5nSBQkb5MtbYW7106B1yfRAu7+YgrMJCBmqi8d4NE8Wej51rIcKsvpweofx63Oq38M1K2TYE1bQ59g6n96Xa4CI5HHjpQ8aHa7Oiper4tvY8IQZ1IC/NVTNpqDZVedfXowWmw9XdkmTgVS+wFFadIK6QEfI5CZ3WbZDf0eNbTT/W0ueRbJDMmSLW3NSyPerKVLHWs64ZNgpCzzRsYWtGtCApRkVTTHyrZ6jFfcoKWTw1pehPN9oN+tgYjb9UEXTYtpV11WUaJf8N8efhFdCkGXG6PJ7WqYeuwb3I7cSAbBxKyKPTW4/NRq5opNKYD2IJBACx7XhYQ8EvaSywCm3oC8HeA5oyMdj+IkqpjoyHhbSTd96e4GVUSygQOM8vlvAPnItoen/OqLlN+JCKgaVy+fGm7VyehE5XljGuk20UhxqzOTWdhwPb1dO3icpISPnAbfR3Aa2YCDOh8MunAA4Vsmov7qjvhsZw+sPDcOEZErAHFKuuplBuxxY/LjVvDA8mY9klLuYc3tGHx2PA21dxZAic0NUGJjUzvXhOIP7+rsrgcEEQXYN2yUYErKPBQzXeVKZL2zR+Xdz18H6eja1wFuTSgAzTvxUL2cROqeGYxvzeJQGZYG0x03jmY4Mi/XLhaJuMar/7GLarwGO2qvwbiSi9Hafy2CpWMA3xswFWa09MRjmWftSTah8IVXQCu0KPMlxtVfgK3NZ2NmtXfxcr5wyKT3X0rT4FKa5yO5Azo/RAVl7raBbAPOJl4jLRR/+OFqSNrZfkg76OEqC6DqPbvGQZFuCrZHUoanwuRkg1CGpkHKQ2yMCAGP6tgiKeUDFKQWqpYAeYlFBm+hcAjg/SJAJwue4kNDfYq1O1QtQaUqhJeKdMTkOmNwrn47HCq4B719ryOMrGgOqA9IGCBhs68fxETb4aXtVoONQXYgGIiHK0vQ4pCAqCiuh1utFNrZyfB4PRHq9gmQ/ExZC4YKQM5jArMD+zrdyqbCTBdBDjAyQsGDTgt74IPijJoiAxHEui6rAN+zgB9djnm3BRRZG68eVOU/zaNe/NOij1dOStiAqh7xmBx0BpcKb8fG0ANorrkPT4l20t9U/RcC4Rauc8AyXHUn6TzRAiO1UEkXOKrGtNitE+H1WbQw+8p0HWwkvp1GV7upWzQwkkEp8atAEurUlnLOPtXjPSAayvIkrHIepY1kgzDTXQQnrY4/JoXKiS1ZM+1D1kJiiLKuqIAb7kAcEQCxLxiT7LH+1bj8r7Zm35j+ni0lSUBjTTTWhB5GRNhmDPK/jMJuqbTXbSgOke06f5iapzjAzKQFyCEGqNskiMseFV3bGujG0EzWPL421s7yQypdIBnIxMsLb7qvpJtEiWwKMpImBEBPROFQoTVB6+VDN4E+o+9D/Xa8+GTMXi6Q6ehXVKK+ZDWTZhoc73YSJsELH0nyAwms1upFaNaJIDu8rLr99PuiKuCyDU/ZiFF5L+FqvZaYEFIKwWRgke1nnEpFG90xKzQYkj+dFjQCRZgeXqSfm0gVkzRm8RUv3wMY+BOvnWrI+QxU6gEvbd7kMQFIO0070xUarSGriOqWSdAQEaheSYKU/qsjHsxKAjPXb6KdfetmXsD4A3ArD5BElOSqboaRrMRBdjiavuxoltr0J35HQaaXvwwuthhSwFvoUO4zJI3yQ53diZkIYaq2EFR9Y2nho+HRKgnJpJMnDAqEqnES7I8O3Z8+UDVLxt89ZjqeE4flFd8FusQlImC1NfGbvDDeVNItYiRUzZOEg4qZuqUUL/yZM35o0+NFfDxhAODbjW46/wI8SlgQMvlUseyVCfpvAeR/q6FM7XjXzQSCqihQ/gRNVhhwqhJCPK+iXs3y2L0iCDFDvdFgTwLy6NPE+l4hDWJU/kLQb9cgmWz95kQaCi0iEwKrcNbKzWTOVZIAKBH/t8KyDKl84pBAMHvICsd3UoRQAxP6BUPFf0VUmAxZhGw2Sbh21Quvda2PCm2aY+WeUHRp1xC40Qe4/yPEdXAASfqE6/DyVfg/+FsBhzoeI0Gz9hilH6eowod2R9OMGmRPmqRd4D8Bw5laEDpw5Gz0794SkiTBSBO8bXkwdMM1qHcqHh4mI8bHFUVUVx3sNQL9Xg3U7UjCZxNzeu26Fd4Zglw6LKvAnAaYomUYSdhzhSORIOg3/R48Xk2EsgZdAJEaFxulQrfPaqJkq5ZYvZ9UOioYXrYwWjagePRiIOY34Gx9oMgUOHwcwhdiYXMIO/ve7CMAHnPxPwDr7/2U+JNm3ghcJNbAq8D5UXPRuLonalXNOD51egV2zg+G7xglqsfHo2HyC9CMiAIkWB46jeN7hsBn7H2wPs9A/Q4iivakIdBi8V2DREe2pDFBIp1dhKzCUZzxlWX0SDvmgYT+wZnUPa5LOIUZGrpBNHiZMPWnUijQ6FXMWVtEECnSnwG9WkPi3yi2jiXlFMBfQReZTv1SE5YE8QMTygCKZ9+bvQTAO6DSPUAZBHjVpAlqSUSQbDcbZuDut5g4/F07GCBJEhK1Xtg9Mh+8Zst4TV0B3qNowWF5zDoZ2rl+8OweC9A8ywFGmGMl+M+/A7+Zd4Va6EHCm6JoGh3jWqi7xJHmcB/+i2/Dm9Q+3v1mUvX4c3O4etxNuBKvRljDV/HR91XIVqN2wKpZpQTaNQsF7pEAaJ/DfweRfAAoRgaffJ8CIf3tc7MlLmdLq/aNMv8LvwKwyZN/AMo+j+NRC1Cl6F18+J6FXfj6qNGjc2P8OvVjVChdEKdP+2LHp6EYGh9Guz6CSwiXxmod7Wr/RXegakFC4tQ8MF53Q8JnwUgcmRcpc/xgOO8O3QovaKf5C7iOLoqSSJg0RSnEzaDv5AjEdQ8B/zmZqJQ8M+3+nlMroXS7FrgTo0HLxlUw9/ueeKFSMcoFFAoZU0a9B+n2YBqTXsAcvJufE+trYtn9DhnZk8h+AuBxSwog5bTrCWMV8GpXjBnUHkUKBoK/DlbSJBcKDcCZi7e5NFL1MsaMLYPWS6rBd95dSH5G+Ey8B8Npd6Qs9gb/DaApRoHEUXmh6Wk5FURBO09BhiNFAQPS6KaRTwBmE4kDguDZO5Z0f5JPTMCtaA8UfK8FZq4uJo57/uiTXZN6FcBfAHN1Q/q3QeXQ40DM75zM7PgvgzJDsw2SMwiAh+9RknwiBPIzvalXob4/AH/N+wy8w+Ys2Y46rw4B/zWuFddM3GL94RCEftwMsd/Fw3TTDalbvaBb6Y20Qx7wHhIJ0LGuJ62BBThrOQ4l4uXqtxKQNM0PyrKp8Po0Rvy9AROC9ic/uDdPxsS1xVCiRzPcjfHgIja3fd9Z5KvUE3HxyWjdrCoGdqsEXO9N+WZyLl6Ftwtg9oFyDgGwVuDTIOuZiF6IsiFX8ces/kjW6qBLJXHdDrtkGEnclI6MV6Fs9yb4IikM52ckQ/NBLIyX3MWPP3h9FUUSvgIynRDuNVIIm16iOb74SZnnCw0RgVslHZKIRbBxyWdCBDxm3sPL39RG/1kVoTfIVADwULmLkL2kZB34V0rKlgzFnAk9obw3klhGNGdldnQBhiLTMsOzEWIZUTZ2wKHpEqQV8Bez6rIAq4UKP8D7JYB/ZKnCGbCK2LLqLSya8pGtGJ8IAz9sjU2LB+OdN18U8DSjjB+ml0TvnyuiepnK+H6sJ3RfJQizL6uIioIGuDdMFh+AaN6PE+KHZ78YSD5GKEvp4Tv3Nnxm3UFUWSMqvN8Um4+RkEo1K5UK8XtECyd/iDIlSMgjGL9MfKvnD4CfbgFQeDJQ7hAJeJ8RpZRIH0cewP8NoMxuwKs2F/nH7kkXzFkEILkDed8Byu4H+Hf5K10HwuYCxjjgQkuABair76N9vXgsnd4HsiwJNrBpx0kcOXUNf6yhcnYzdGxPHuh/8sDk2MIomFoPZQpUx8DiraFtPQ7ub46DstF4uL8+DqouY6Bs0B+qzglweyMecgUdzlz3QZUOzXD5jpetRoPBCD8fjfgxiEvX7gl4tfAwbFv2BUKS+gE3+gGnqwAJdJ3LUn55kgUq3wF4HMUWApoKokxO8nIWAVhn5kJz4EQp4DhJ1idoF93oD/H5OAuEJjL13h2NN1+pjt0rhsPf1xNnL93GG13Hw2AkSS29DkmS4O6uxMUz3vCdpkA+fSqukvXww3Ld4BM1Fbj/HcA/RRtBYcR4IPEW4DMc/Gnauo2hqPVuE0TEeaBG5eLpNVqCgaN+wQstBoPlj05tXsTGXwch2LwYiCHVjvuXeg3gH7Q6XgQ4SQvOBqAzNam9GZYKcpgv57D+WLqjLg+In1YjA49Zb4FZfeajBceC/yNY9bw/49z27/Byg3DwX+Pq9ZZLGY3GHTPHdgWrZ0F5fXDjhgbSVHcU1umRx3gDko7u31PpdLE5WjT+y2QpP1avKYA2A+ogOdUNnWmBf5vZD93earD61NEAABAASURBVGhtHbEk7Mmkhcwc9wFmjWwKn1tErP6v0XFf2oYjIqYUiL8F0B4DdBcAn0YCnNO8nEkAwX0BSQWXDxuMNOG0e8eRm4C891/FkomtwAsVEugnimi1evj6eCKPnxeiY+jEIOit2xr4/OKDVFNpmPxeBbzJNGvvAt/Hxq2peGdIfaSQtZHVO5bwN+06Cf4VMqoCdKjQyVMDpzaPRZeXrkB5oS7Ahp24NUBwL0Zx7bi/Ho4niWvEfx8q//tNPkSLqsJAnjauEX1bWNgB717GSN4P+Wx1vB6+Dpd3j8X4IZ0QGpIH7/Seglc6jQH/kBOjdaVdvH9RZwQpT0P2J3mCZQ175xaMRpU1OLTqM7i5KbkIbt2NQZd+0xGfqMUrjSpjy7KvsWT8iyiifQ/gf0NnjBN4iJpH/W0HIbhaIBm+5AEU+IbSErmc9+ZMAuB5KkJ8WlOZY45OQ3o2/7iEPZSP2zuj4XG+HPq2uoBre7/B/Em90KppFWg83AVm+9Y1obrdDfL17sDVbi6dfOMDFMJkIeRJkoSwQsH4pPsr2LtyOFb++BLqBY6BdLYeyQtbqU4zufQ35SRFaIGZcClmeyUFEDoYcHXzaUPK3kjOJQDWCErSPbp3A8cZUpJKlRbpCLOmDHQfQJqCfKIw2r6YhN8nNsLtwxOwev5AFC+SD5KCJXpaKGTtZPf8GNLvTRzb8C1Ore+HsYPbo6y5G8ALH7OYWjKSc3rNJHuwcKrwzcjgOKuEIZ9mwHJgLOcSAE+WMgAoRfyVJ1JdliC0o4wxgNKP4g94efK9SfK+8Aq8LxbHywVHoFCQAVLYz0DpTUB5EswqngcqXiRHAhrbGPjPt0ushCL/R3iz8nqUN7WF8gy1ySbq4B4AS/jku3wlJSCpCYWMU275gLydgLJ7KOyCJ/U8rXrkp1Xxk6uXdmtgV6DcYaDCCUBFqqFgDQR31QifEGXJ4MK/PmaIBkxaIG412RISgdsjgHMkjZ8iNsL/BOpUReBUBXLlAVbVLrYiif0KEEMGKe1xgK9yL7UHfF8B8g2k1rJo07MqBFEWJ1WQCavITOpnGOHn/FfO+V2066GKJtW9IIRBJeAtuwyO0lD4P3yVp92dfATI9OtbdHS7W79DJP4tjm0iDpOOFpryeIcz21EVpTTtZK6SnZ7UxSsk9IV+DRSagEyfbbPFsuAYwpQAt/wAq6l4dh752emqfU9psouQYaXwFNqdTSE0hhIriF1sAKJpF14iiRwZRiFRkm/h/FuLaJaeeyggqy02CHukWLrZI3YizLnhxDb49/98uF1qp+wuwLO6PfYzFX9GCYDmmCVs0t3BCx9GNnj+skj8rPxnlEk7nHyHlxeRVUj+6NQhwy7hS0adVFpg1irswCKasA04TtY9PlmC+wIlieDCSP3zKC2yn1Xv2SUA5xlnPiy7O0Mz0pGzAdYSAntmwOxjChIs8xHx3KeTxR7uECfCYg2Eic8B/uwmnh8C4KO7wjnAuyGthkTO6TUTn2chMD8Jc35kTBKqYDoOl+V/EJl6A4ianw50CmQNxL+A4f9Iyh8POmU/q8nnhwB4BVgdK0USf/g1i2zA3xiwSZmFOxbWyGoI3RWgOPH0Yr8Q734B8H8dQi30Iw0g7SbAgiYvNrMUDt1I6Mz3BVCFbA/BvakVF8RF0Gf1fb4IwLoKbkEQskHlCKAqmWurxgNV6GKJ7+k90m3yfIFTZgfAhOBeyFLS/02gwmnCJfWxSqwlDCc7AWsA2bTrLR17ev7zSQBPb76eu5r/I4DnbkkfbUD/EcCjzddzh/0fATx3S/poA/qPAB5tvp477P8I4Llb0kcbUI4kgJNnz6FL7/7o88UQJGtTHm1E/2E/0gzkOAIwGAzo8mF/rN+6HV3eagdPDV3OPNKQng/kf2sUj0QA67dsw9xfl2HanPn4edESHDh8FPzxpHNnb9y+QzgLMHzcD4S/FHHxCQ4o+6nc0hWrcOjYCQc4J27cuoMWTRti6ID+CC9flkE2d+nKVUyfswDDxn6PH6bPovLHRfur1m8C13eT2rUhU2TfoSMCznm3794jiOs3ITHJhrdu8zYHpFNnzom8ZdTfqOgYkXfm/AUB27Zrr0hfunJNpLfs3C3S9p617j9WrRWfkq9ct1Hgcp+c3cEjdJWdXthgNILLMM5fVCYdLAKe8517D2DRsj/FfMyYtwhrN20Fbx6B8Aie/LC43Ogb736AHp98jn6Dh6HXZ4NQr1Ub1GvZBvejokU1RpNJLHr4i00IZyhGfz+Z8L9Ayer1MH/J7wKHvelzF6Bzzz6YMmsOJx3c+cuXMXbSNIwcPxEmqo8zY+Pi8U6PjxFevxn6Dh6Kb36Ygs+HfyNYBPfrkyEjRH079u5ndJvr3v9zAee2Ro6fZIM7R27cum3D69yrD1L1eoHC4+n8YV+R14n6u/fQYQFfu2mbgH31zThBgJu27xTpwaPGinx7j4mG2//fR5/AYDRg4NCRApdhzu6nBb/aiu45cAhvd/9I4Hbo9iGuXr9hyzMYjGj3fg+83+dTMR99vvgar3fuitDy1bB11x4b3sNEHpoA7Cv7fe5M/DHvJxQtXAgHjx7Dd1Omi+wZcxaKxZEkCd989TnWLJmPdzu0RUJiIj4a+CVO0m4SiFaPLtes0azCNGIJb/f4CL+tXI0Af3989UkfLJ09DdPHf4sP3n1bFHNlnTdQueu3biF/SDBU7u749fflSEpOFvjOnhXuplRSX5OwjnYT48TGxuHM+Yvw9vLiJO7cjRDhP/UkSUK/nh9g2MBPMPDjXrZqvvq0r4C92ryZDbZw2R+CuIoUKkAnhxHOJ5MVcdq40dj4x6/o8EZrxCckot3/evKnLdbsvw3/EQHUqfECWjRpiD4f/E80sH3PPvCE847mHfl5n1400G5o+GIdTPtuNGpWqyJ21SdfDRf4Vu8h1h98vG+lo1VDssDKRT9j8Ccfo3XzpnivY1tBXFyXq3rWEbvS6VLR9tWWCM0XAl1qKs5euMTomZyVAEoUKyryZhN748iu/QchSRI6vN6ak7gT8XgEwJUw0Q6k+fk4fe4Y9umH3cGwV4j1cZrncPe+g5BlGT26dGYQ1jqxJgEkr1KFcnixZnWMHDSAUkAqjZMoR8QfxvtHBGAmGuMJtR43RQsVxEXig9du3IRME/baKy/b2uZBdH/vHZG+dPWaCK2eq51rzbOGfxF/N9MKv1SnFniwVrh96KqeMROnCpT2tHhMsJxYvWEzB5lcYpLlZChbqiQ8PFREKBdpDs2Y9vN8MOFVrVRBlLlz774In7bHc8lsqTIt7jtt34CHSoUdtMmiY2IzNX3nXgTOX7qCsZOnibzqVSoLohWJh/D+EQHUJ75folpdrFi7QXTuE6LgyKgo8B9huLm5ISCPv0PTgQEBIq1Ps/vWTkD+3mMeylgF8ufn4KEdsxtJksBHaK/33xWTMnvRYrjqAx+dXHFwUF7aTTVwN+I+8dyb2E18uFSxMPj6+HA27t7LWpAUCE/Im/frUjDre7NVC+Tx80WV8AriBGPNyLmJNl26o1L9pphJgmDlCuWxavFcZ5QHpv8RARhNRgQHBuKNls2xfdVveKFyOIIoLUmS6LgzpVqlc43aw6EztLEd0q4Sfr6Wyb9286arbJcw3kFWQa5m09Zo/35PgRdJwur5S5dF3N6Li48XSR8vb8EymJ3N+WWJYGsfdetCBOAt8u9GRIrwaXsbSAXmNljTKVPrJZKdznISqzdsEaG997+326MdsTmGnT53nuwmWo4+tPtHBLB7zXIc2rIGv8ycgvByFlWteNEixGvzgSX3hUv/sHWA+fDshb+KdNXwiiK0eq6ObmueNWxQp6aIbtq2E7uJJ4uEk+dMSEPHjBdHeIH8+WjxfIRTe1iIb+PWHU6lgZjYOAFjYY/lFU5MnPkzNGo12rR+Bf60Cxl2Pzpa1Mvxp+X4NLpA6i6zzsC8eeHj7Y2QoCDR3OYdO4nHWzQUASCv6zsdMW/qD6hepZI43QYOHU3Qh3//EQG4ql6pVODjbu+Jo3YcaQUjvvsBrBe/+2Ff0tdP0EC8MH7E1w5FDxw9jgFDRtrcuYuZhbT3OrZDxbKlwSpZ0zZvC9WPNQK2B8yyU5usFRtJf16Vzut/JQI9uGkV2L315msCZRFpA0ykIpHuxZKayVFfHy8ULhgKXzp19KQKcpxZmp+PL2dDq9U+kABu3LxlGwuPa8mff4lyj+ItXf6XWOTSJYqJfnPfd675AyqVu7CnbN2122V1Az6ynHLL16xzmZ8V8IkRADfwcff30b/XB1DTUT9qwmS0aN8ZbPgoGJofyxfMFioZ41ndlWvXMemnOTZ35doNa5Yt5J2wdtlC1CVJVyHLmDFvIdgmwPaAP1avFXgSJBGyF0nGGpaEGVKqRHEGCcdyANd15twFXLtxS8CsXkxcnIgyr2eVscPrrYQwyCosZ3h7e3EAnU4HlnNEwoUXTSeJ/XjYcOYC7YGguYuXiXw+ebi/nPAjGYQlfY4vW7Gag0zuBToBGJiSokPaI8haD00AkiTh9O7NOLt3K+nFntyWSzdq8ADcPX0EqxfPx/ypP+DotnW4cGAHalevZsOfMGKIgDHc3jV8sTaa1K8n8vasXQ6FQiHKsP6/iXTdO2cOYx0Rwy8zpgjZg20RPElbVywVZVo1a0JCk5+Inz+4E15eGf0sW6qEBb5/Ox2pgaJeqzdlzAiR16xhfQH6YdQwRF88iT5E0AwI8LfUeXbvNihkVs06Cfwls6dCkiR06tBGpO3HwvGxw74EC6EcP7lrI9jOwPWx8yO2cnbfVjGf7u5uDBJu2c/TRF39enYTaau3iMbM9Ywc9BmUZK/Yv+EvUbZ0yRICJShvAKW34dSezYIVCOBDeA9NAFxXEVL32PhjXRiGuXJ8XDWqVwftXmuF0rQLJYn3YwamPw2+UIFQODsP4tPMShheIDSz1O/l6YkGpA6+0ao5apC6w+oR15ovOEjU5UM7lSeTyxei8o6tAiwTcB6rdlzO6vz9/ER5lgEYJkkSeIySZKlBkiSRz2UlSRL3ExzPHxICfjxJVuC0s8tL2hATKMMLhoYKYmF8dgpZRtFChcDzKUmWdhjOdTK+VWZhGDtfH2/Rh3xk2GJ0xuGyalJbOV+SJKqrILhOT42GQQ/l5IfC+g/puZ2B/wjguV3ahxvYYxMAq2Bsuny45ixYLNFbYn/vc93s/h7zwRgs+T+Jepxb4TrZOcP/Ls1l2P0d3tPOfywCYHNloYrV8dKr7VCtUQuEVamDNRszjBUnTp/Fy20tZmAeCF9vFqtaF606votiVeswCGvo4qV4tbpUtjbyl6sKjper3VAYNGYvXIzSNRugOdVRtHItTJ6ZcXvYon0ncPu37twVZbi+vCUqijjXERsXJ+q/fPW6qOPltp1Qhowqr3fqClbxRKaT98a73cTNZZlaDVCuTkNYDUQduvZCqer1qXwD4S5eviruO1UnAAAGQklEQVRK8nV3Gepfo9c7oHSNBqjRpBUuk2YjMsmbMXchCoXXEGW4zimzLFa6MxcuonB4TbSkeShQoRoGjxoDe2JgYq1Qt7G4WKNqbO/eg4fBlj8b4AlEHosAuKMFSdhiKfzgptXYt2ElBo0cg807domucX4KqU6c0JJ60nfQEBzfsZ5uCRfg7L5tDEaLxi/hPGkJBzevRigJVedJSj+xaxMJWhqw2ZYvYtb9tghHt6/H+GkzoU1JEeVS6KKHJ40FOy5/fMcGcHscZ+dPgh3bBF56tS1W/TIH639bKLSYggXy48vR40Qdzp6OLlKW0E3j6d1bcHLnJvj5+goUhi+bO53KbxHOemmkoz6w2rtl+RKcJun7h9HD0PiNDkhMTBLl2Jzbuf2bogzX+SGZpDmD+1mmZHGhKV05vFeYcWPjLdZIzt+57wAa1K2FBWRQ4zEwjJ2RLLDcJseflHssAuBOsPwqSZKQcFkV6derm8PdP+OwU5GqwxI6nwKcdqc7Aw7ZKWQZClkBSBA3YAo5c7ckymQtQJaseWZYH4Usg6VtTitkmeqy4CxY9gca1quL4mFFIUkSFKRW8lUsf0jBtgK4eGRZEnVZ60P6I1EoSZKoh6K2l0AiznXXeqEK6taojuVr1wsYe1RClJEkipFjmL1jrUeSJChkBawPX0K1Jw2KNRn+eMYKfxqhZaaeYM3FihQG29ydq1TQ5G//63csWb4K5es0wsMaSZaQZeyVDp3RrO3bmPTNcGGgsdQtWYIH+PsPHUXt6lUdMPzIyqei27VYp6+UrEgdu36IKi+9jIavtbOCRNipZ1/wvQK7mLg4ARNeBh2KZJGCBXA/MkrE2Zu35DdbOfsvoI6fPkMs4D1Urt+MTLkThaWU8fl0YJt+hbJlwFfZK+yIifOftHviBHDt+k2wXu6qo3wvz8fx0p+ng/lqVrzYvuzLjRpgypiRqFapIg4dzfhkyh4nq3iRQgXgbF3kI5Qve3zSP/JwLjt78njsWPU7Vi6y8Gtr/vxpP2DPuuXC5SH2YoU7h/wRSmi+fDYwswBruap0q2fNKFW8mBhXhzdexYYt28UpwXn8bcW9+5F4pWNnTJuzAL/+vgJ6/aPfonJdD+OeKAEkk6182pz56EiDyqpxSZLA/I8NPXEJiVmh2eC+dBnCBo9+Pbpi2UrXZlAbslPkf2+1x1y6WuUvkqxZs+hiio1JGo3aCnIINWoPMKvx8tQ4wGXqN59i7Bwy7BIs9B4/dRZNXqpng0qSBC7DTpIyTi02YjGBft73Q9HH1FQ9+JlMpvEF0yZhw2+/ECH+hpLFw7Br/wHOeirusQmApfChYyfgo4FfoeGr7cHXk43q183UWf4w9GWS5oeNmQD+Vo+/GWCZIRNiFoAiZDXjSeLdYUFxOnstQAc/kMyjX/Ttjcavd8SoCZPQ85Mv8Ofqdfh2yBcOeA+TYImfv4dkd+DIUVuRP9asx1C6fXy3V1/0HvglZn4/Bmw6tiLwx5pcht30uQusYFsoSRId/95gjYMFvkPHTqBG1criJlKjVtOVewsspzasBU6fvwCui92DvnO04v9d+FgEEErXrQunT8KLJPh0Jns4f5v2Pl1PSpKF0ksUC8OPY0eJPjDvnTxmBF6gS4tO7d4QFC4y0j02w86a+J3tKGQwf2/wfqeOHKVdJGPZnOlgQZIBP44djeCgQI4K50F8fR3dE4iEncf2/MWzfkR4+XJ4hyTytUsWZLqUsqJPJCmer7WtaWs4duhgsLTPN5PsmBg5r9f7nTHwox6oV6smBnzcC5v+XCwWj/PYtX31FXHMcxl29WvXYjCKFS6MCSOHiDh765YtoAs0NfiiiS/N/MlUznB2/Gl8t05vcRSVaAx8w8l1sWvVrLGAP473WATAlxsv1qoB3vEvVA4nSrbcmlk7xN/0ly9TyppEibCi4G8JuYy9FsAICoWM8HJlOGpzwYF5wZKwFcB808p/+XKHF92aJ8uyuBO3pu3DMBJMWzZthDrVq4lrVfs8+zj3z1PjePRzfkki5JrVqohvGzm0nlysgjaoW5s0jTooV7oknMcUHBhoK8PlmPVxfXxbyvgcZ1eGLnT4HoPns0rF8gyyOb4TqFC2tEh70V0I12N14U6fzQukR/T+DwAA//+MM5gaAAAABklEQVQDADJBEEs21Db6AAAAAElFTkSuQmCC",
+    "dataProva": null,
+    "localProva": "Brasília DF",
+    "linkEdital": "https://dhg1h5j42swfq.cloudfront.net/2023/01/24170017/dodf-010-24-01-2023-edicao-extra-a.pdf",
+    "preEdital": true,
+    "pontuacaoMax": null,
+    "vagas": "2.100 (700 imediatas +1.400 CR)",
+    "obs": "Curso criado de forma pré-edital preparatório para o próximo concurso, baseado na prova realizada no ano de 2023 pela banca AOCP"
+  },
+  "materias": [
+    {
+      "id": "ms9o90t02c0b7",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e Intelecção de Textos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Tipologia Textual",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ortografia",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Acentuação Gráfica",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Emprego do Sinal Indicativo de Crase",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Formação, Classe e Emprego de Palavras",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sintaxe da Oração e do Período",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Pontuação",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Concordância Nominal",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Concordância Verbal",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Colocação Pronominal",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Regência Nominal",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Regência Verbal",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Equivalência e Transformação de Estruturas",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Paralelismo Sintático",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Relações de Sinonímia e Antonímia",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Correspondência Oficial (conforme Manual da Presidência da República e respectivas atualizações)",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o90w1eyj8l",
+      "nome": "LÍNGUA INGLESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão de Textos Escritos em Língua Inglesa",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Itens Gramaticais Relevantes para Compreensão dos Conteúdos Semânticos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Pronomes Pessoais, Oblíquos, Demonstrativos, Possessivos e Reflexivos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Artigos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Substantivos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Adjetivos",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Advérbios",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Verbos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Tempos e Aspectos Verbais (Formas Afirmativas, Negativas e Interrogativas)",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Present Simple",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Present Continuous",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Present Perfect Simple",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Present Perfect Continuous",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Past Simple",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Past Continuous",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Past Perfect Simple",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Past Perfect Continuous",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Future Simple",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Future Continuous",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Future Perfect Simple",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Future Perfect Continuous",
+              "ordem": 11,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Verbos Modais (Formas Afirmativas, Negativas e Interrogativas)",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Can",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Could",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Should",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "May",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Might",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Must",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Have To",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Would",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Need",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Had Better",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Preposições",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Prefixos e Sufixos",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Voz Passiva",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Orações Subordinadas e Conjunções",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Orações Subordinadas Relativas (Relative Clauses)",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Discurso Direto",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Discurso Indireto",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Verbos no Modo Condicional",
+          "ordem": 17,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Zero Conditional",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "First Conditional",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Second Conditional",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Third Conditional",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o90w1eyj8l",
+              "nome": "Mixed Conditionals",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Phrasal Verbs",
+          "ordem": 18,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Verb Patterns (Verb + ing or Infinitive)",
+          "ordem": 19,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Question Tags",
+          "ordem": 20,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o9149j05tc",
+      "nome": "MATEMÁTICA E RACIOCÍNIO LÓGICO",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Estruturas Lógicas",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Proposições Simples e Compostas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Conectivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Equivalências Lógicas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Implicações Lógicas",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Estrutura Lógica de Relações Arbitrárias entre Pessoas, Lugares, Objetos ou Eventos Fictícios",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lógica de Argumentação",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Analogias",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Inferências",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Deduções",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Conclusões",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Compreensão do Processo Lógico que, a partir de um Conjunto de Hipóteses, Conduz, de Forma Válida, a Conclusões Determinadas",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Diagramas Lógicos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Problemas de Contagem",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Princípio Fundamental da Contagem",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Permutação Simples",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Permutação com Elementos Repetidos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Arranjo Simples",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Combinação Simples",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Probabilidades",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Probabilidade da Ocorrência de um Evento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Problemas Envolvendo Probabilidades",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Razão e Proporção e Regra de Três",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Grandezas Diretamente Proporcionais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Grandezas Inversamente Proporcionais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Regra de Três Simples",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Regra de Três Compostas",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Porcentagem",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Resolução de Problemas",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas de Medidas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Medidas de Comprimento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Medidas de Área/Superfície",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o9149j05tc",
+              "nome": "Medidas de Volume/Capacidade",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Áreas",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Volumes",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o91ajq2q9e",
+      "nome": "ATUALIDADES",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Realidade Étnica, Social, Histórica, Geográfica, Cultural, Política e Econômica do Distrito Federal e da Região Integrada de Desenvolvimento do Distrito Federal - RIDE",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sua Conexão com o Brasil",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o91b16suo3",
+      "nome": "LEGISLAÇÃO APLICÁVEL À POLÍCIA MILITAR DO DISTRITO FEDERAL",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Legislação Aplicável à Polícia Militar do Distrito Federal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91b16suo3",
+              "nome": "Lei Orgânica do Distrito Federal (Constitui a Lei Fundamental do Distrito Federal)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91b16suo3",
+              "nome": "Lei nº 6.450/1977 (Dispõe sobre a organização básica da Polícia Militar do Distrito Federal, e dá outras providências)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91b16suo3",
+              "nome": "Lei nº 7.289/1984 (Dispõe sobre o Estatuto dos Policiais Militares da Polícia Militar do Distrito Federal e dá outras providências)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91b16suo3",
+              "nome": "Lei nº 12.086/2009 (Dispõe sobre os militares da Polícia Militar do Distrito Federal e do Corpo de Bombeiros Militar do Distrito Federal; altera as Leis nos 6.450, de 14 de outubro de 1977, 7.289, de 18 de dezembro de 1984, 7.479, de 2 de junho de 1986, 8.255, de 20 de novembro de 1991, e 10.486, de 4 de julho de 2002; revoga as Leis nos 6.302, de 15 de dezembro de 1975, 6.645, de 14 de maio de 1979, 7.491, de 13 de junho de 1986, 7.687, de 13 de dezembro de 1988, 7.851, de 23 de outubro de 1989, 8.204, de 8 de julho de 1991, 8.258, de 6 de dezembro de 1991, 9.054, de 29 de maio de 1995, e 9.237, de 22 de dezembro de 1995; revoga dispositivos das Leis nos 7.457, de 9 de abril de 1986, 9.713, de 25 de novembro de 1998, e 11.134, de 15 de julho de 2005; e dá outras providências)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91b16suo3",
+              "nome": "Decreto nº 88.777/1983 (Aprova o regulamento para as polícias militares e corpos de bombeiros militares)",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91b16suo3",
+              "nome": "Decreto nº 10.443/2020 (Dispõe sobre a organização básica da Polícia Militar do Distrito Federal)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91b16suo3",
+              "nome": "Decreto nº 41.167/2020 (Regulamenta a aplicação do inciso II, do artigo 48, da Lei nº 6.450, de 14 de outubro de 1977, que dispõe sobre a Organização Básica da Polícia Militar do Distrito Federal)",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ms9o91cngt0ya",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL E DE DIREITOS HUMANOS",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Constituição (Conceito, Estrutura, Elementos e Classificação)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Poder Constituinte",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Princípios Fundamentais da República Federativa do Brasil",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Direitos e Garantias Fundamentais",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Direitos e Deveres Individuais e Coletivos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Direitos Sociais",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Nacionalidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Direitos Políticos e Partidos Políticos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Ações e Remédios Constitucionais: Habeas Corpus; Mandado de Segurança; Mandado de Injunção; Habeas Data; Ação Popular",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização do Estado",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Organização Político-Administrativa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "União, Estados, Distrito Federal, Municípios e Territórios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Repartição de Competências",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Intervenção",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Administração Pública: Disposições Gerais; Servidores Públicos e Militares",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização dos Poderes",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Poder Legislativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Poder Executivo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Poder Judiciário",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91cngt0ya",
+              "nome": "Funções Essenciais à Justiça",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Defesa do Estado e das Instituições Democráticas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Teoria Geral dos Direitos Humanos: Conceito; Terminologia; Estrutura Normativa; Fundamento; Classificação; Especificidades",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Evolução Histórica e Gerações de Direitos Humanos",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Direitos e Garantias Processuais dos Direitos Humanos, Interpretação e Aplicação dos Tratados Internacionais de Proteção aos Direitos Humanos",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "A Natureza Jurídica da Incorporação de Normas Internacionais sobre Direitos Humanos ao Direito Interno Brasileiro",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Declaração Universal dos Direitos Humanos (ONU - 1948)",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Convenção contra a Tortura e outros Tratamentos ou Penas Cruéis, Desumanas ou Degradantes (1984)",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Convenção Americana sobre Direitos Humanos (Pacto de São José da Costa Rica e Decreto nº 678/1992)",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Bloco de Constitucionalidade e Controle de Convencionalidade",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Conselho Nacional dos Direitos Humanos - CNDH (Lei nº 12.986/2014)",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei nº 13.060/2014",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei (Resolução da ONU nº 34/169 de 1979)",
+          "ordem": 17,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sistema Interamericano de Direitos Humanos",
+          "ordem": 18,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o91inhjdyo",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Regime Jurídico-Administrativo e Princípios de Direito Administrativo",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Poderes e Deveres da Administração Pública: Poder Regulamentar (Normativo); Poder Hierárquico; Poder Disciplinar; Poder de Polícia; Uso e Abuso de Poder; Discricionariedade e Vinculação",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Organização Administrativa: Princípios; Centralização e Descentralização; Concentração e Desconcentração; Administração Direta e Indireta",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Atos Administrativos: Conceito; Requisitos; Atributos; Classificações; Espécies; Extinção e Convalidação",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Responsabilidade Civil do Estado",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Improbidade Administrativa (Lei nº 8.429/1992)",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Processo Administrativo (Lei nº 9.784/1999)",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Licitações e Contratos Administrativos (Lei nº 14.133/2021)",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Serviços Públicos: Conceito; Princípios; Classificação; Formas de Prestação do Serviço Público; Delegação Contratual de Serviços; Concessão, Permissão e Autorização; Parceria Público-Privada",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Agentes Públicos: Espécies e Classificação; Disposições Constitucionais Aplicáveis aos Agentes Públicos; Cargo, Emprego e Função; Concurso Público; Sistema Remuneratório; Direito de Greve e de Livre Associação Sindical; Acumulação de Cargos Públicos",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Controle da Administração Pública: Controle Administrativo; Controle Judicial; Controle Legislativo",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Bens Públicos",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei de Acesso à Informação (Lei nº 12.527/2011)",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o91l25iqx5",
+      "nome": "NOÇÕES DE DIREITO PENAL",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Princípios Aplicáveis ao Direito Penal",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei Penal: Classificação; Características; Interpretação; Analogia; Vigência e Aplicação",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Lei Penal em Branco",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Lei Penal no Tempo e no Espaço",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Conflito Aparente de Leis Penais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Tempo e Lugar do Crime",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Territorialidade e Extraterritorialidade",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Lei Penal Excepcional e Temporária",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Teoria Geral do Crime: Conceito; Objeto e Sujeitos do Crime",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Classificação dos Crimes",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Fato Típico: Conduta; Resultado; Relação de Causalidade e Tipicidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Teoria do Tipo",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crime Doloso, Culposo e Preterdoloso",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Erro de Tipo, Erro de Proibição, Erro Determinado por Terceiro, Descriminantes Putativas, Crime Putativo e Crimes Aberrantes",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Iter Criminis",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Consumação e Tentativa",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Desistência Voluntária, Arrependimento Eficaz, Arrependimento Posterior e Crime Impossível",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Ilicitude",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Causas Legais e Supralegais de Exclusão da Ilicitude",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Excesso",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Culpabilidade",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Imputabilidade, Potencial Consciência da Ilicitude e Exigibilidade de Conduta Diversa",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Concurso de Pessoas",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crime e Contravenção Penal",
+              "ordem": 14,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Das Penas",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Pena Privativa de Liberdade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Penas Restritivas de Direitos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Pena de Multa",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Aplicação e Limite das Penas",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Concurso de Crimes",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Suspensão Condicional da Pena",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Livramento Condicional",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Efeitos da Condenação",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Reabilitação e Medidas de Segurança",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Extinção da Punibilidade",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Crimes Previstos na Parte Especial do Código Penal",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra a Pessoa",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra o Patrimônio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra a Dignidade Sexual",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra a Incolumidade Pública",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra a Paz Pública",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra a Fé Pública",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra a Administração Pública",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91l25iqx5",
+              "nome": "Crimes contra o Estado Democrático de Direito",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei n. 13.869/2019 (Lei do Abuso de Autoridade)",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 7.716/1989 (Lei dos Crimes resultantes de Preconceito de Raça ou de Cor)",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 8.069/1990 (Estatuto da Criança e do Adolescente: da Prática de Ato Infracional; da Apuração de Ato Infracional Atribuído a Adolescente; da Infiltração de Agentes de Polícia para a Investigação de Crimes contra a Dignidade Sexual de Criança e de Adolescente; dos Crimes em Espécie)",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 8.072/1990 (Lei dos Crimes Hediondos)",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 9.503/1997 (Crimes de Trânsito)",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 9.455/1997 (Lei de Tortura)",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 9.605/1998 (Lei dos Crimes Ambientais)",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 10.826/2003 (Estatuto do Desarmamento)",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 11.343/2006 (Lei de Drogas)",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o91v4z6tdb",
+      "nome": "NOÇÕES DE DIREITO PROCESSUAL PENAL",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Noções Introdutórias: Princípios; Sistemas Processuais; Lei Processual Penal no Tempo, no Espaço e em Relação às Pessoas; Fontes; Interpretação e Integração da Lei Processual",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Investigação Preliminar",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91v4z6tdb",
+              "nome": "Inquérito Policial",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91v4z6tdb",
+              "nome": "Termo Circunstanciado de Ocorrência",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91v4z6tdb",
+              "nome": "Demais Investigações Preliminares",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91v4z6tdb",
+              "nome": "Acordo de Não Persecução Penal",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91v4z6tdb",
+              "nome": "Controle Externo da Atividade Policial",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ação Penal e Ação Civil Ex Delicto",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Jurisdição e Competência Criminal",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Provas",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o91v4z6tdb",
+              "nome": "Teoria Geral das Provas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o91v4z6tdb",
+              "nome": "Meios de Prova e Meios de Obtenção de Prova em Espécie",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Medidas Cautelares de Natureza Pessoal: Aspectos Gerais; Prisões e Medidas Cautelares Diversas da Prisão",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Liberdade Provisória",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Medidas Cautelares de Natureza Real (Medidas Assecuratórias)",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Procedimento Comum: Ordinário, Sumário e Sumaríssimo",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Nulidades",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 7.960/1989 (Lei de Prisão Temporária)",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 9.099/1995 (Lei dos Juizados Especiais Criminais)",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 9.296/1996 (Lei da Interceptação de Comunicações Telefônicas)",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 11.340/2006 (Lei Maria da Penha)",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 12.850/2013 (Lei das Organizações Criminosas)",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei n. 12.037/2009 (Identificação Criminal do Civilmente Identificado)",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o91zk7a6gg",
+      "nome": "NOÇÕES DE DIREITO PENAL MILITAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Aplicação da Lei Penal Militar",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Crime",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Imputabilidade Penal",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Concurso de Agentes",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Penas Principais",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Aplicação da Pena",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Suspensão Condicional da Pena",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Livramento Condicional",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Penas Acessórias",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Efeitos da Condenação",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Medidas de Segurança",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ação Penal",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Extinção da Punibilidade",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Crimes Militares em Tempo de Paz",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Crimes Propriamente Militares",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Crimes Impropriamente Militares",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o922p3lx1x",
+      "nome": "NOÇÕES DE DIREITO PROCESSUAL PENAL MILITAR",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Lei de Processo Penal Militar e sua Aplicação",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Polícia Judiciária Militar",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Inquérito Policial Militar",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ação Penal Militar e seu Exercício",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Processo",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Denúncia",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Jurisdição e Competência",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Questões Prejudiciais e Incidentes",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Medidas Preventivas e Assecuratórias",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Atos Probatórios",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Processo Ordinário",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Processos Especiais",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Nulidades e Recursos",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "ms9o92588dve2",
+      "nome": "CRIMINOLOGIA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Criminologia",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Conceito e Características",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Objeto",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Método e Finalidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Funções",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Classificação",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "História da Criminologia",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Escola Clássica",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Escola Positiva",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Escola de Política Criminal",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "materiaId": "ms9o92588dve2",
+              "nome": "Terza Scuola",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estatística Criminal, Cifra Negra, Cifra Dourada e Prognóstico Criminal",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sociologia Criminal",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Vitimologia",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Prevenção Criminal",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Fatores Sociais de Criminalidade",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Instâncias de Controle",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Crimes do Colarinho Branco",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"ms9o90t02c0b7\"},{\"nome\":\"LÍNGUA INGLESA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"ms9o90w1eyj8l\"},{\"nome\":\"MATEMÁTICA E RACIOCÍNIO LÓGICO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"ms9o9149j05tc\"},{\"nome\":\"ATUALIDADES\",\"cor\":\"#3ecf8e\",\"materiaId\":\"ms9o91ajq2q9e\"},{\"nome\":\"LEGISLAÇÃO APLICÁVEL À POLÍCIA MILITAR DO DISTRITO FEDERAL\",\"cor\":\"#f5c842\",\"materiaId\":\"ms9o91b16suo3\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL E DE DIREITOS HUMANOS\",\"cor\":\"#f5874a\",\"materiaId\":\"ms9o91cngt0ya\"},{\"nome\":\"NOÇÕES DE DIR. ADM.\",\"cor\":\"#00bcd4\",\"materiaId\":\"ms9o91inhjdyo\"},{\"nome\":\"NOÇÕES DE DIR. PENAL\",\"cor\":\"#e91e8c\",\"materiaId\":\"ms9o91l25iqx5\"},{\"nome\":\"NOÇÕES DE DIR. PROCESSUAL PENAL\",\"cor\":\"#8bc34a\",\"materiaId\":\"ms9o91v4z6tdb\"},{\"nome\":\"NOÇÕES DE DIR. PENAL MILITAR\",\"cor\":\"#ff9800\",\"materiaId\":\"ms9o91zk7a6gg\"},{\"nome\":\"NOÇÕES DE DIR. PROCESSUAL PENAL MILITAR\",\"cor\":\"#9c27b0\",\"materiaId\":\"ms9o922p3lx1x\"},{\"nome\":\"CRIMINOLOGIA\",\"cor\":\"#ff5722\",\"materiaId\":\"ms9o92588dve2\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "cycle",
+    "ciclo": "{\"round\":1,\"startedAt\":\"2026-08-01T01:07:38.665Z\",\"currentIndex\":0,\"currentItemId\":\"entry_1785507079633_d18b1_1\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1785507079633_d18b1_1\",\"baseId\":\"base_CRIMINOLOGIA\",\"materiaId\":\"ms9o92588dve2\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_190ec_1\",\"baseId\":\"base_NOCOES DE DIR. PROCESSUAL PENAL MILITAR\",\"materiaId\":\"ms9o922p3lx1x\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_05824_1\",\"baseId\":\"base_NOCOES DE DIR. PENAL MILITAR\",\"materiaId\":\"ms9o91zk7a6gg\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_3a91c_1\",\"baseId\":\"base_NOCOES DE DIR. PROCESSUAL PENAL\",\"materiaId\":\"ms9o91v4z6tdb\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_7235e_1\",\"baseId\":\"base_NOCOES DE DIR. PENAL\",\"materiaId\":\"ms9o91l25iqx5\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_114d8_1\",\"baseId\":\"base_NOCOES DE DIR. ADM.\",\"materiaId\":\"ms9o91inhjdyo\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_7e5c2_1\",\"baseId\":\"base_NOCOES DE DIR. CONSTITUCIONAL E DE DIREITOS HUMANOS\",\"materiaId\":\"ms9o91cngt0ya\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_8a86d_1\",\"baseId\":\"base_LEGISLACAO APLICAVEL A POLICIA MILITAR DO DISTRITO FEDERAL\",\"materiaId\":\"ms9o91b16suo3\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_d7af5_1\",\"baseId\":\"base_ATUALIDADES\",\"materiaId\":\"ms9o91ajq2q9e\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_ab5b1_1\",\"baseId\":\"base_MATEMATICA E RACIOCINIO LOGICO\",\"materiaId\":\"ms9o9149j05tc\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_f4755_1\",\"baseId\":\"base_LINGUA INGLESA\",\"materiaId\":\"ms9o90w1eyj8l\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"},{\"id\":\"entry_1785507079633_8a75c_1\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"ms9o90t02c0b7\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_comp\",\"name\":\"Conhecimentos Gerais\",\"items\":[{\"id\":\"ms9o90t02c0b7\",\"q\":10,\"w\":1},{\"id\":\"ms9o90w1eyj8l\",\"q\":4,\"w\":1},{\"id\":\"ms9o9149j05tc\",\"q\":9,\"w\":1},{\"id\":\"ms9o91ajq2q9e\",\"q\":7,\"w\":1},{\"id\":\"ms9o91b16suo3\",\"q\":10,\"w\":1}],\"q\":0,\"w\":1},{\"id\":\"g_espec\",\"name\":\"Conhecimentos Especificos\",\"items\":[{\"id\":\"ms9o91cngt0ya\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"ms9o91inhjdyo\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"ms9o91l25iqx5\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"ms9o91v4z6tdb\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"ms9o91zk7a6gg\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"ms9o922p3lx1x\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"ms9o92588dve2\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":40,\"w\":1,\"useBlockData\":true},{\"id\":\"g_1785546774249\",\"name\":\"Redação\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":10,\"redType\":\"Dissertação\"}],\"scoringMode\":\"tradicional\",\"errorPenalty\":1}"
+  }
+}
