@@ -1,6 +1,40 @@
 {
-  "atualizadoEm": "2026-08-01T12:48:55.836Z",
+  "atualizadoEm": "2026-08-02T13:31:00.822Z",
   "editais": [
+    {
+      "id": "auditor-federal-de-controle-externo-tcu",
+      "titulo": "Tribunal de Contas da União (TCU)",
+      "orgao": "Tribunal de Contas da União (TCU)",
+      "banca": "Cebraspe",
+      "cargo": "Auditor Federal de Controle Externo (AUFC)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Federal%20de%20Controle%20Externo%20(TCU)/card_premium_aufc_tcu.png",
+      "arquivo": "Auditor%20Federal%20de%20Controle%20Externo%20(TCU)/Edital%20Premium%20Track%20Concursos%20Auditor%20Federal%20de%20Controle%20Externo%20(TCU).json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Federal de Controle Externo (TCU).json",
+      "atualizadoEm": "2026-08-02T13:30:41.000Z"
+    },
+    {
+      "id": "auditor-federal-de-financas-e-controle-cgu",
+      "titulo": "Controladoria-Geral da União (CGU)",
+      "orgao": "Controladoria-Geral da União (CGU)",
+      "banca": "FGV (Fundação Getulio Vargas)",
+      "cargo": "Auditor Federal de Finanças e Controle (AFFC)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Federal%20de%20Finan%C3%A7as%20e%20Controle%20(CGU)/card_premium_affc_cgu.png",
+      "arquivo": "Auditor%20Federal%20de%20Finan%C3%A7as%20e%20Controle%20(CGU)/Edital%20Premium%20Track%20Concursos%20Auditor%20Federal%20de%20Finan%C3%A7as%20e%20Controle%20(CGU).json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Federal de Finanças e Controle (CGU).json",
+      "atualizadoEm": "2026-08-02T13:30:41.000Z"
+    },
     {
       "id": "soldado-pmdf",
       "titulo": "Polícia Militar do DF",
