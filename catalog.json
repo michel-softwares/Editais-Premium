@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-02T13:31:00.822Z",
+  "atualizadoEm": "2026-08-05T14:36:30.380Z",
   "editais": [
+    {
+      "id": "policial-rodoviario-federal-prf-2021",
+      "titulo": "Polícia Rodoviária Federal (PRF)",
+      "orgao": "Polícia Rodoviária Federal (PRF)",
+      "banca": "CEBRASPE",
+      "cargo": "Policial Rodoviário Federal / Nível Superior",
+      "ano": 2021,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/card_premium_prf.png",
+      "arquivo": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/Edital%20Premium%20Track%20Concursos%20Policial%20Rodovi%C3%A1rio%20Federal%20PRF.json",
+      "arquivoNome": "Edital Premium Track Concursos Policial Rodoviário Federal PRF.json",
+      "atualizadoEm": "2026-08-05T14:36:10.000Z"
+    },
     {
       "id": "auditor-federal-de-controle-externo-tcu",
       "titulo": "Tribunal de Contas da União (TCU)",
@@ -995,23 +1012,6 @@
       "arquivo": "EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20-%20Sedes%20DF%202026/Edital%20Premium%20Track%20Concursos%20EDAS%20Direito%20e%20Legisla%C3%A7%C3%A3o%20Sedes%20DF%202026.json",
       "arquivoNome": "Edital Premium Track Concursos EDAS Direito e Legislação Sedes DF 2026.json",
       "atualizadoEm": "2026-05-27T19:42:57.000Z"
-    },
-    {
-      "id": "policial-rodoviario-federal-prf-2021",
-      "titulo": "Polícia Rodoviária Federal (PRF)",
-      "orgao": "Polícia Rodoviária Federal (PRF)",
-      "banca": "CEBRASPE",
-      "cargo": "Policial Rodoviário Federal / Nível Superior",
-      "ano": 2021,
-      "tags": [
-        "edital pronto",
-        "cebraspe"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/card_premium_prf.png",
-      "arquivo": "Policial%20Rodovi%C3%A1rio%20Federal%20-%20PRF%202021/Edital%20Premium%20Track%20Concursos%20Policial%20Rodovi%C3%A1rio%20Federal%20PRF.json",
-      "arquivoNome": "Edital Premium Track Concursos Policial Rodoviário Federal PRF.json",
-      "atualizadoEm": "2026-05-27T19:36:48.000Z"
     },
     {
       "id": "auditor-fiscal-sefaz-ce",
