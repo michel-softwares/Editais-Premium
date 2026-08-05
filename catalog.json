@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-08-05T14:36:30.380Z",
+  "atualizadoEm": "2026-08-05T18:59:06.844Z",
   "editais": [
+    {
+      "id": "guarda-municipal-maxaranguape-rn",
+      "titulo": "Prefeitura Municipal de Maxaranguape (RN)",
+      "orgao": "Prefeitura Municipal de Maxaranguape (RN)",
+      "banca": "IDIB (Instituto de Desenvolvimento Institucional Brasileiro)",
+      "cargo": "Guarda Municipal",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Guarda%20Municipal%20(Maxaranguape%20-%20RN)/card_premium_gcm_maxaranguape.png",
+      "arquivo": "Guarda%20Municipal%20(Maxaranguape%20-%20RN)/Edital%20Premium%20Track%20Concursos%20Guarda%20Municipal%20(Maxaranguape%20-%20RN).json",
+      "arquivoNome": "Edital Premium Track Concursos Guarda Municipal (Maxaranguape - RN).json",
+      "atualizadoEm": "2026-08-05T18:58:48.000Z"
+    },
     {
       "id": "policial-rodoviario-federal-prf-2021",
       "titulo": "Polícia Rodoviária Federal (PRF)",
