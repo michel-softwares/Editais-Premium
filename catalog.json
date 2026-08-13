@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-08-10T19:09:26.609Z",
+  "atualizadoEm": "2026-08-13T05:51:05.142Z",
   "editais": [
+    {
+      "id": "engenheiro-civil-transpetro",
+      "titulo": "Engenheiro Civil - Transpetro",
+      "orgao": "Engenheiro Civil - Transpetro",
+      "banca": "A definir",
+      "cargo": "Engenheiro Civil - Transpetro",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Engenheiro%20Civil%20-%20Transpetro/card_premium_engenheiro_civil_transpetro.png",
+      "arquivo": "Engenheiro%20Civil%20-%20Transpetro/Edital%20Premium%20Track%20Concursos%20Engenheiro%20Civil%20Transpetro.json",
+      "arquivoNome": "Edital Premium Track Concursos Engenheiro Civil Transpetro.json",
+      "atualizadoEm": "2026-08-13T05:50:41.000Z"
+    },
     {
       "id": "praca-combatente-bombeiro-militar-qpbm-0-cbm-ma-2026",
       "titulo": "Secretaria de Estado da Administração do Maranhão (SEAD/MA) / Corpo de Bombeiros Militar do Estado do Maranhão (CBM/MA)",
