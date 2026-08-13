@@ -1,0 +1,788 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "Transpetro",
+    "cargo": "Engenheiro Civil",
+    "salario": "R$ 14.973,62",
+    "banca": "Fundação Cesgranrio",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-11-29",
+    "localProva": "",
+    "linkEdital": "https://concursos.cesgranrio.org.br/portal/avaliacoes/22",
+    "preEdital": false,
+    "pontuacaoMax": 70,
+    "vagas": "3 vagas imediatas + 33 vagas e cadastro de reserva (RJ, São Paulo e Sul)",
+    "obs": ""
+  },
+  "materias": [
+    {
+      "id": "msr2oxlsiysb6",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão de textos",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Compreensão de textos - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403701&banca=26&nivel=1",
+              "id": "matlink_msr36kxn_3yk1ld"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ortografia oficial",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Ortografia oficial - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=419321&banca=26&nivel=1",
+              "id": "matlink_msr37ixc_zfgzr6"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Mecanismos de coesão textual",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Mecanismos de coesão textual - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409551&banca=26&nivel=1",
+              "id": "matlink_msr38exa_sumqoj"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Significação das palavras",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Significação das palavras - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409314&banca=26&nivel=1",
+              "id": "matlink_msr38qcg_lref93"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Emprego de tempos e modos verbais",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Emprego de tempos e modos verbais - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=419374%2C419381&banca=26&nivel=1",
+              "id": "matlink_msr397eb_liptbw"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Emprego das classes de palavras",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Classes de palavras - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=419336&banca=26&nivel=1",
+              "id": "matlink_msr39k1p_iq43ns"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Coordenação e de subordinação",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Coordenação e subordinação - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409403%2C409410&banca=26&nivel=1",
+              "id": "matlink_msr39zls_c1h44w"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Emprego dos sinais de pontuação",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Emprego dos sinais de pontuação - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409442&banca=26&nivel=1",
+              "id": "matlink_msr3aolg_hlneuo"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Concordância verbal e nominal",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Concordância verbal e nominal - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409455&banca=26&nivel=1",
+              "id": "matlink_msr3bhip_ks5bqx"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Regência verbal e nominal",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Regência verbal e nominal - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409479&banca=26&nivel=1",
+              "id": "matlink_msr3bp56_qabklh"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Emprego do sinal indicativo de crase",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Emprego do sinal indicativo de crase - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403682&banca=26&nivel=1",
+              "id": "matlink_msr3bxwz_bosqo3"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Colocação dos pronomes átonos",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Colocação dos pronomes átonos - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409184&banca=26&nivel=1",
+              "id": "matlink_msr3c4cl_8ye6lk"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "msr2oxpaftdhr",
+      "nome": "LÍNGUA INGLESA",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão de texto escrito em língua inglesa",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Compreensão de texto escrito em língua inglesa - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=4567&banca=26&nivel=1",
+              "id": "matlink_msr3egj7_3dr23w"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Itens gramaticais relevantes para a compreensão dos conteúdos semânticos",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Itens gramaticais relevantes - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=4568&banca=26&nivel=1",
+              "id": "matlink_msr3elyk_tbk96v"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "msr2oxq3493sy",
+      "nome": "CONHECIMENTOS ESPECÍFICOS - ENGENHARIA CIVIL",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Topografia",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Topografia - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399412&banca=26&nivel=1",
+              "id": "matlink_msr3jwdp_yz8kyg"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Mecânica dos solos",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Mecânica dos solos - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399411&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Obras de terra",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Terraplenagem - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416448&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Obras de contenção",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Escavações e contenções - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416440&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Materiais de construção",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Materiais de construção civil - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399410&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Controle tecnológico",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Controle tecnológico de obras - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399400&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Instalações provisórias e canteiros de obras",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Organização de canteiro de obras - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=400676&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Tecnologia das construções",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Edificação e tecnologia das construções - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416459&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Recebimento, controle e armazenamento de m ateriais",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Materiais de construção civil - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399410&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sistemas construtivos prediais e industriais",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Projeto e execução de edificações - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399404&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Projetos e especificações de obras civis prediais, industriais, de estruturas e de instalações",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Projeto e execução de edificações - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399404&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Instalações prediais de: água, eletricidade, esgoto, gás e águas pluviais",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Instalações prediais - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=400674%2C400675%2C406220%2C416470%2C429833&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Desempenho das construções",
+          "ordem": 12,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Desempenho das construções - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=429853&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Orçamento de obras e serviços",
+          "ordem": 13,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Orçamento de obras - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=400650&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Planejamento, gerenciamento e gestão de obras civis",
+          "ordem": 14,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Planejamento de projetos e obras - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399400&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Cronogramas, Pert, curvas, gráficos e fluxo de caixa",
+          "ordem": 15,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Cronogramas, caminho crítico e Curva ABC - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399401%2C399402%2C399403&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Acompanhamento e controle físico e financeiro de obras e serviços",
+          "ordem": 16,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Programação e controle de obras - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399400&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Licitações, contratações, medições, reajustamentos e fiscalização de obras e serviços",
+          "ordem": 17,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Licitações, contratos e fiscalização - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399418%2C400677&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sustentabilidade na construção civil",
+          "ordem": 18,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Engenharia sustentável - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=400697&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Inspeção e manutenção de obras civis",
+          "ordem": 19,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Inspeção e manutenção de obras civis - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416482%2C430380&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Patologia nas construções",
+          "ordem": 20,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Patologia nas construções - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399419&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Conforto ambiental, térmico, acústico e visual",
+          "ordem": 21,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Conforto ambiental - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416456&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Resistência dos materiais",
+          "ordem": 22,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Resistência dos materiais e análise estrutural - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399413&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Mecânica das estruturas",
+          "ordem": 23,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Estruturas - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416429&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Análise de estruturas",
+          "ordem": 24,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Análise estrutural - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416438&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Fundações: projeto, detalhamento, execução, controle tecnológico e verificação",
+          "ordem": 25,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Fundações - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399442&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Estruturas de concreto armado: projeto, detalhamento, execução, controle tecnológico e verificação",
+          "ordem": 26,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Concreto armado - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399414&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Estruturas metálicas: projeto, detalhamento, execução, controle tecnológico e verificação",
+          "ordem": 27,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Estruturas metálicas - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416436&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Estruturas mistas: projeto, detalhamento, execução, controle tecnológico e verificação",
+          "ordem": 28,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Estruturas mistas de aço e concreto - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=429835&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Obras de arte especiais na engenharia civil",
+          "ordem": 29,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Pontes - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416489&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Hidrologia",
+          "ordem": 30,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Hidráulica e Hidrologia - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399409&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Hidráulica",
+          "ordem": 31,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Hidráulica e Hidrologia - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399409&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Saneamento básico",
+          "ordem": 32,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Saneamento geral - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416472&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Drenagem",
+          "ordem": 33,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Drenagem - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=399408&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Resíduos da construção",
+          "ordem": 34,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Engenharia sustentável - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=400697&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "69 Segurança do trabalho e ergonomia",
+          "ordem": 35,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Segurança e higiene do trabalho - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416458&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Qualidade ambiental e na construção civil",
+          "ordem": 36,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Engenharia sustentável - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=400697&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Unidades do Sistema Internacional (SI) de medidas utilizadas na Engenharia Civil",
+          "ordem": 37,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Normas Brasileiras da ABNT aplicáveis à Engenharia Civil",
+          "ordem": 38,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Normas ABNT de Engenharia Civil - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=429824&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Normas Regulamentadoras do Ministério do Trabalho aplicáveis à Engenharia Civil",
+          "ordem": 39,
+          "cadernos": [
+            {
+              "rotulo": "QUEST",
+              "nome": "Gran - Segurança e higiene do trabalho - Cesgranrio - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=416458&banca=26&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Legislação ambiental",
+          "ordem": 40,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gestão, monitoramento, licenciamento e fiscalização ambiental. Ê",
+          "ordem": 41,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"msr2oxlsiysb6\"},{\"nome\":\"LÍNGUA INGLESA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"msr2oxpaftdhr\"},{\"nome\":\"CON. ESPECÍFICOS - ENGENHARIA CIVIL\",\"cor\":\"#7c5cfc\",\"materiaId\":\"msr2oxq3493sy\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": "{\"round\":1,\"startedAt\":\"2026-08-13T05:24:04.569Z\",\"currentIndex\":0,\"currentItemId\":\"entry_1786598644569_92641_1\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1786598644569_92641_1\",\"baseId\":\"base_CON. ESPECIFICOS - ENGENHARIA CIVIL\",\"materiaId\":\"msr2oxq3493sy\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"},{\"id\":\"entry_1786598644569_ec51e_2\",\"baseId\":\"base_CON. ESPECIFICOS - ENGENHARIA CIVIL\",\"materiaId\":\"msr2oxq3493sy\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"},{\"id\":\"entry_1786598644569_1cfd1_1\",\"baseId\":\"base_LINGUA INGLESA\",\"materiaId\":\"msr2oxpaftdhr\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"},{\"id\":\"entry_1786598644569_e373f_3\",\"baseId\":\"base_CON. ESPECIFICOS - ENGENHARIA CIVIL\",\"materiaId\":\"msr2oxq3493sy\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"},{\"id\":\"entry_1786598644569_b365f_4\",\"baseId\":\"base_CON. ESPECIFICOS - ENGENHARIA CIVIL\",\"materiaId\":\"msr2oxq3493sy\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"},{\"id\":\"entry_1786598644569_a473e_5\",\"baseId\":\"base_CON. ESPECIFICOS - ENGENHARIA CIVIL\",\"materiaId\":\"msr2oxq3493sy\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"},{\"id\":\"entry_1786598644569_4ffe8_6\",\"baseId\":\"base_CON. ESPECIFICOS - ENGENHARIA CIVIL\",\"materiaId\":\"msr2oxq3493sy\",\"targetSeconds\":1800,\"remainingSeconds\":1800,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"},{\"id\":\"entry_1786598644569_34bd5_1\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"msr2oxlsiysb6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-13T05:24:04.569Z\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_gerais\",\"name\":\"Conhecimentos Gerais\",\"useBlockData\":false,\"items\":[{\"id\":\"msr2oxlsiysb6\",\"q\":10,\"w\":1},{\"id\":\"msr2oxpaftdhr\",\"q\":10,\"w\":1}],\"q\":\"\",\"w\":\"\",\"minPts\":10},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"Conhecimentos Específicos\",\"useBlockData\":false,\"items\":[{\"id\":\"msr2oxq3493sy\",\"q\":50,\"w\":1,\"minPts\":25}],\"q\":\"\",\"w\":\"\",\"minPts\":\"\"}],\"scoringMode\":\"tradicional\",\"errorPenalty\":1}"
+  }
+}
