@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-05T18:59:06.844Z",
+  "atualizadoEm": "2026-08-10T19:09:26.609Z",
   "editais": [
+    {
+      "id": "praca-combatente-bombeiro-militar-qpbm-0-cbm-ma-2026",
+      "titulo": "Secretaria de Estado da Administração do Maranhão (SEAD/MA) / Corpo de Bombeiros Militar do Estado do Maranhão (CBM/MA)",
+      "orgao": "Secretaria de Estado da Administração do Maranhão (SEAD/MA) / Corpo de Bombeiros Militar do Estado do Maranhão (CBM/MA)",
+      "banca": "Cebraspe",
+      "cargo": "Praça Combatente Bombeiro Militar (QPBM-0)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Pra%C3%A7a%20Combatente%20Bombeiro%20Militar%20(QPBM-0)%20-%20CBM%20MA%202026/card_premium_praca_combatente_bombeiro_militar_qpbm_0.png",
+      "arquivo": "Pra%C3%A7a%20Combatente%20Bombeiro%20Militar%20(QPBM-0)%20-%20CBM%20MA%202026/Edital%20Premium%20Track%20Concursos%20Pra%C3%A7a%20Combatente%20Bombeiro%20Militar%20(QPBM-0)%20CBM%20MA%202026.json",
+      "arquivoNome": "Edital Premium Track Concursos Praça Combatente Bombeiro Militar (QPBM-0) CBM MA 2026.json",
+      "atualizadoEm": "2026-08-10T19:09:06.000Z"
+    },
     {
       "id": "guarda-municipal-maxaranguape-rn",
       "titulo": "Prefeitura Municipal de Maxaranguape (RN)",
