@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-08-20T14:05:54.128Z",
+  "atualizadoEm": "2026-08-20T14:10:29.442Z",
   "editais": [
+    {
+      "id": "enfermeiro-generalista-ghc",
+      "titulo": "Enfermeiro (Generalista) - GHC",
+      "orgao": "Enfermeiro (Generalista) - GHC",
+      "banca": "A definir",
+      "cargo": "Enfermeiro (Generalista) - GHC",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Enfermeiro%20(Generalista)%20-%20GHC/card_premium_grupo_hospitalar_concei_o_ghc.png",
+      "arquivo": "Enfermeiro%20(Generalista)%20-%20GHC/Edital%20Premium%20Track%20Concursos%20Enfermeiro%20(Generalista)%20(GHC)_gran.json",
+      "arquivoNome": "Edital Premium Track Concursos Enfermeiro (Generalista) (GHC)_gran.json",
+      "atualizadoEm": "2026-08-20T14:10:02.000Z"
+    },
     {
       "id": "engenheiro-civil-transpetro",
       "titulo": "Engenheiro Civil - Transpetro",
