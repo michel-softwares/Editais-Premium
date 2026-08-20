@@ -1,0 +1,855 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "Grupo Hospitalar Conceição (GHC)",
+    "cargo": "Enfermeiro (Generalista)",
+    "salario": "R$ 7.641,00 (180 horas mensais)",
+    "banca": "FUNDATEC",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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x/GHcNtD92gYJaecewZfOOxbDA8PYZInNZD3KDR7TBxRaEr7vw08wicOO5jTrj2fJXmTr578E35+/m+58M5r+cLR3+PsWy9nUCvU/YML+eYvjuSrknnrvLv43OHf4v6hhQzHYZanYb597KGcc9n5yD2ceel5fOfYwynkUISrb76eN73+DUyPXcySETebvRF/m/8AXzr025x508UsZDmnXvlHviKZi8MAf9e3/4Ok07X33cz1D/+NLx32Xf6++FGGly6jndr84coL+cYR32d5HOa6Sy+jt6/BEgXhCef+lm8c/j2atFFk45+MC0uYILdjck5C9qchi2irw0jmlmipxTD3LLqbz//iG7z32M/x25vPY49dnqMz0g95/uxn09fM6NF5qACGhFYwyAy0TdGOojzxFosYrFQnUkgznBRAs2SI+xlIN5Nk2FL7aqCh1hGzpuQNkXwGKeKHNItznVRbzSF+fMyRXH7nDdz36Dw23WIL5my+Mfc/Pp8hBcqdj8+jJbnveOfb+d0fz+TepY8wbr3J7P+hD/DNXx6jsIp0qwd/1z7ktyfy5ZMO53cX/pmagu6sC8/mY+/fn/kDC7nurpuod2c8d49dWBiX85a3vYEHJKvVHuC+BfczadP12Pfdb6NtLd780f0478oLSP5niVe++XVcdscNPGbD3DbvXl79utdQt4wiCzo4DTCx1tArX0KzQCfwNj/75Yns/5EDmDfvQQZlowfVz377v5Nr7ruFQ087jncdsB+zZ07jzBsuYr8D3st5N17Bgsce5cHF83lg4cN86N37k3U3eP9+7+WS66/iGgVK/8ypvHO/d/HtI35EmWnArXa1WrXSANEGQZPLopxeBgoFwxAF84vFnHrV7/mIviF88dRvcOuiO9hmo835jg6U79t1X2a2x9PTyihruXwDDbXtLkxvUhqLnB8zNJHV11purQAmssdMqYEHfMspeJSlzdtkmEdJmFAXgvgUAJqVrmSUEQfTI0yd3MN9Kx5jiYJgm5fuwbxFCxjf3cOcqTOYOn4SbefXMlqqp9ay5cywfuZuMJf7ZKStt92GWfQysOBxMh2cQpHoVhB+6E3v4otv/yBv2OOl5G3oqdXYQK94m2+wkWZIZNuZ63PpWefINCUzusex1cYbs3ThY+QJ6lpSp3ZPYHzfOG64Vq9AWl1SijTk6GuvuJoVWl1ays9e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",
+    "dataProva": null,
+    "localProva": "A divulgar no site da FUNDATEC",
+    "linkEdital": "https://www.fundatec.org.br/portal/concursos/pagina_editais.php?concurso=984",
+    "preEdital": true,
+    "pontuacaoMax": 100,
+    "vagas": "CR (Cadastro de Reserva)",
+    "obs": ""
+  },
+  "materias": [
+    {
+      "id": "mt1l66169phnm",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Leitura, interpretação e relação entre as ideias de textos de gêneros textuais diversos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mt1l66169phnm",
+              "nome": "Fato e opinião; intencionalidade discursiva",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Fato e opinião; intencionalidade discursiva - FUNDATEC - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403702%2C409512%2C419177%2C419178%2C419179%2C419180%2C419181%2C419182%2C419183%2C419184%2C409517%2C409519%2C409518%2C409524%2C409525%2C409526%2C409527%2C409528%2C409529%2C409530%2C409531%2C409532%2C409533%2C409534%2C409535%2C409536%2C409537%2C409538%2C409510%2C409539%2C409540%2C409541%2C419186%2C409542%2C409543%2C409544%2C419187%2C419188%2C419189%2C419190%2C419191%2C419192%2C419193%2C419194%2C419195%2C419196%2C419197%2C419198%2C419199%2C409520&nivel=1&banca=281"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66169phnm",
+              "nome": "Análise de implícitos, subentendidos e efeitos de sentido",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Análise de implícitos, subentendidos e efeitos de sentido - FUNDATEC - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409511%2C421058&nivel=1&banca=281"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66169phnm",
+              "nome": "Ideias principais e secundárias",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Ideias principais e secundárias - FUNDATEC - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409587%2C419175%2C419176&nivel=1&banca=281"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66169phnm",
+              "nome": "Recursos de argumentação",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Recursos de argumentação - FUNDATEC - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409526%2C409527%2C409528%2C409529%2C409530%2C409531%2C409532%2C409533%2C409534%2C409535%2C409536%2C409537%2C409538&nivel=1&banca=281"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Linguagem e comunicação (situação comunicativa e variação linguística)",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Linguagem e comunicação (situação comunicativa e variação linguística) - FUNDATEC - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403705%2C409010%2C409011%2C409012%2C419151%2C419152%2C403707%2C408996%2C408997%2C408998%2C408999%2C409000%2C409001&nivel=1&banca=281",
+              "id": "matlink_mt1l6bjm_700jvs"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Gêneros e tipos textuais e intertextualidade (características e estrutura)",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Gêneros e tipos textuais e intertextualidade (características e estrutura) - FUNDATEC - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403703%2C403702%2C409512%2C419177%2C419178%2C419179%2C419180%2C419181%2C419182%2C419183%2C419184%2C409517%2C409519%2C409518%2C409524%2C409525%2C409526%2C409527%2C409528%2C409529%2C409530%2C409531%2C409532%2C409533%2C409534%2C409535%2C409536%2C409537%2C409538%2C409510%2C409539%2C409540%2C409541%2C419186%2C409542%2C409543%2C409544%2C419187%2C419188%2C419189%2C419190%2C419191%2C419192%2C419193%2C419194%2C419195%2C419196%2C419197%2C419198%2C419199%2C409520%2C419200%2C419201%2C419202%2C419203%2C419204%2C419205%2C419207%2C419208%2C419209%2C419210%2C419211%2C419212%2C419213%2C419214%2C419216%2C419218%2C419219%2C436307%2C419220%2C419221%2C419222%2C419224%2C419225%2C419227%2C419228%2C419229%2C419230%2C419231%2C419232%2C419233%2C419234%2C419235%2C419236%2C419237%2C403708%2C409578%2C409579%2C409580%2C409581%2C409582%2C409583%2C409584%2C409585%2C409586&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Coesão e coerência textuais",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Coesão e coerência textuais - FUNDATEC - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403711%2C409551%2C409552%2C419238%2C419239%2C431233%2C409553%2C409554%2C419240%2C409555%2C409556%2C409557%2C409558%2C409559%2C409560%2C409561%2C419241&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Léxico (significação e substituição de palavras; sinônimos, antônimos, parônimos e homônimos)",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Léxico (significação e substituição de palavras; sinônimos, antônimos, parônimos e homônimos) - FUNDATEC - Superi",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409314%2C409315%2C409316%2C409317%2C409318%2C403704%2C419302%2C419303%2C409319%2C409320%2C419304%2C419305%2C419306%2C409321%2C409322%2C403615%2C409323%2C409324%2C409326%2C419307%2C431234%2C431236&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Ortografia (emprego de letras, hífen e acentuação gráfica; Acordo Ortográfico - Decreto 6.583/2012)",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Ortografia (emprego de letras, hífen e acentuação gráfica; Acordo Ortográfico - Decreto 6.583/2012) - FUNDATEC -",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=419321%2C403614%2C409042%2C409043%2C409044%2C409045%2C409046%2C409047%2C409048%2C409049%2C409050%2C409051%2C409052%2C409053%2C409054%2C409055%2C409056%2C409057%2C409058%2C409059%2C425393%2C419322%2C419323%2C409071%2C409097%2C419324%2C419325%2C409070%2C419326%2C419327%2C419328%2C419329%2C419330%2C419331%2C419332%2C403616%2C425389%2C425390%2C425391%2C425392%2C403612%2C409060%2C409061%2C409062%2C409063%2C409064%2C409065%2C409066%2C409067%2C409068%2C409069&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Figuras de linguagem e suas relações de sentido na construção do texto",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Figuras de linguagem e suas relações de sentido na construção do texto - FUNDATEC - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409484%2C409485%2C419275%2C419276%2C419277%2C419278%2C419279%2C419280%2C409486%2C419281%2C419282%2C419283%2C419284%2C419285%2C419286%2C419287%2C409487%2C419288%2C419289%2C419290%2C419291%2C419292%2C419293%2C419294%2C419295%2C419296%2C419297%2C419298%2C419299%2C419300%2C419301&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Fonologia (relações entre fonemas e grafias; relações entre vogais e consoantes)",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Fonologia (relações entre fonemas e grafias; relações entre vogais e consoantes) - FUNDATEC - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403604%2C403605%2C409019%2C409017%2C409018%2C403609%2C419309%2C419310%2C419311%2C419312%2C419313%2C419314%2C403607%2C409027%2C409028%2C419315%2C419316%2C419317%2C409022%2C419318%2C409029%2C403611%2C409032%2C409033%2C409034%2C409036%2C409039%2C409040%2C419319%2C419320%2C409041&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Morfologia (classes de palavras e suas flexões; estrutura e formação de palavras; vozes verbais)",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Morfologia (classes de palavras e suas flexões; estrutura e formação de palavras; vozes verbais) - FUNDATEC - Sup",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403617%2C425383%2C403618%2C409072%2C409073%2C409074%2C409075%2C409076%2C409107%2C419333%2C409106%2C419334%2C409077%2C409078%2C409079%2C409080%2C409081%2C409082%2C409083%2C409084%2C409085%2C409086%2C403619%2C409087%2C409088%2C409089%2C409090%2C409091%2C409092%2C409093%2C409094%2C409096%2C409098%2C409099%2C409100%2C409101%2C409102%2C409103&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Sintaxe (funções sintáticas no período simples e composto)",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mt1l66169phnm",
+              "nome": "Sintaxe de colocação",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Sintaxe de colocação - FUNDATEC - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403650%2C409184%2C409185%2C409186%2C419439%2C409187%2C409188&nivel=1&banca=281"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66169phnm",
+              "nome": "Sintaxe de regência nominal e verbal (inclusive emprego do acento indicativo de crase)",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Sintaxe de regência nominal e verbal (inclusive emprego do acento indicativo de crase) - FUNDATEC - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409479%2C403657%2C409480%2C409481%2C409482%2C409483%2C403682%2C409297%2C409298%2C409299%2C409300%2C409301%2C409302&nivel=1&banca=281"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66169phnm",
+              "nome": "Sintaxe de concordância verbal e nominal",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Sintaxe de concordância verbal e nominal - FUNDATEC - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=409455%2C403658%2C409467%2C409470%2C409478%2C409456%2C409457%2C419438&nivel=1&banca=281"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "Coordenação e subordinação (conjunções, locuções conjuntivas e pronomes relativos)",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Coordenação e subordinação (conjunções, locuções conjuntivas e pronomes relativos) - FUNDATEC - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=419436%2C409403%2C403659%2C409405%2C409406%2C409407%2C409408%2C403661%2C409409%2C409410%2C403662%2C409417%2C409418%2C403664%2C409419%2C409420%2C409421%2C409422%2C409423%2C409424%2C409425%2C409426%2C409427%2C409428%2C419437%2C409416%2C403663%2C409411%2C409412%2C409413%2C409414%2C409415%2C403665%2C419618%2C419619%2C419620&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Pontuação (regras e implicações de sentido)",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Pontuação (regras e implicações de sentido) - FUNDATEC - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=403666%2C409442%2C403668%2C403667%2C403669%2C403670%2C409445%2C403672%2C403673%2C403674%2C403671%2C409447%2C409448%2C419440%2C419441%2C419442&nivel=1&banca=281"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mt1l66awcjm27",
+      "nome": "POLÍTICAS PÚBLICAS DE SAÚDE",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Constituição Federal: artigos 196, 197, 198, 199 e 200",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Constituição Federal: artigos 196, 197, 198, 199 e 200 - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405308&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei nº 8.080/1990 e suas alterações (promoção, proteção e recuperação da saúde; organização e funcionamento dos serviços)",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Lei nº 8.080/1990 e suas alterações (promoção, proteção e recuperação da saúde; organização e funcionamento dos s",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=407294%2C424065%2C424141%2C424066%2C424067%2C424068%2C424069%2C424070%2C424071%2C424072%2C424073%2C424074%2C424075%2C424076%2C424077%2C424078%2C424079%2C424080%2C424081%2C424082%2C424083%2C424084%2C424085%2C424086&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Política Nacional de Humanização (HumanizaSUS)",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Política Nacional de Humanização (HumanizaSUS) - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=398414&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Resolução CNS nº 330/2003 (NOB/RH-SUS como política nacional de gestão do trabalho e da educação em saúde)",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei nº 10.741/2003 e suas alterações (Estatuto da Pessoa Idosa)",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Lei nº 10.741/2003 e suas alterações (Estatuto da Pessoa Idosa) - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=406486%2C410492%2C410493%2C410494%2C410495%2C410496%2C410497%2C410498%2C410499%2C410500%2C410501%2C410502%2C406487%2C410503%2C410504%2C410505%2C410506%2C410507%2C410508%2C410509%2C410510%2C410511%2C410512%2C410513%2C410514%2C410515%2C410516%2C410517%2C410518%2C410519%2C410520%2C410521%2C410522%2C410523%2C410524%2C410525%2C410526%2C410527%2C410528%2C410529%2C410530%2C410531%2C410532%2C410533%2C410534%2C410535%2C410536%2C410537%2C410538%2C410539%2C410540%2C410541%2C410542%2C410543%2C410544%2C410545%2C410546%2C410547%2C410548%2C410549%2C410550%2C410551%2C410552%2C410553%2C410554%2C410556%2C410557%2C410558%2C410559%2C410560%2C410561%2C410562%2C410563%2C410564%2C410565%2C410566%2C410587%2C410588%2C410589%2C410590%2C410591%2C410592%2C410593%2C410567%2C410594%2C410596%2C410598%2C410599%2C410569%2C410600%2C410601%2C410602%2C410603%2C410604%2C410605%2C410607%2C410570%2C410608%2C410609%2C410610%2C410612%2C410613%2C410614%2C410615%2C410616%2C410617%2C410571%2C410572%2C410573%2C410574%2C410575%2C410576%2C410618%2C410619%2C410620%2C410577%2C410578%2C406488%2C410579%2C410581%2C410582%2C410580%2C410585%2C410586%2C410621%2C410622%2C410623%2C410624%2C410625%2C406489%2C410627%2C410628%2C410629%2C410631%2C410633%2C410634%2C410635%2C410636%2C410637%2C410638%2C410639%2C410640%2C410641%2C410642%2C410643%2C410645%2C410649%2C410650%2C410651%2C410653%2C410654%2C410656%2C410658%2C410660%2C410661%2C410663%2C410667%2C410668%2C410669%2C410670%2C410671%2C410672%2C410674%2C410675%2C410676%2C410679%2C410680%2C410681%2C410685%2C410686%2C410689%2C410690%2C410691%2C410692%2C410693%2C410694%2C410695%2C410697%2C410698%2C410700%2C410703%2C410704%2C410705%2C410707%2C410710%2C410711%2C410714%2C406490%2C410715%2C410716%2C410717%2C410718%2C410719%2C410720%2C410723%2C410724%2C410725%2C410726%2C410727%2C410731%2C410732%2C410735%2C410743%2C410744%2C410745%2C410746%2C410748%2C410749%2C410754%2C410755%2C410757%2C410758%2C410759%2C410760%2C410762%2C410763%2C410768%2C410772%2C410773%2C410775%2C406491%2C410783%2C410785%2C410786%2C410787%2C410788%2C410789%2C430522%2C410791%2C410792%2C410793%2C410794%2C410797%2C410799%2C410801%2C410803%2C410804%2C410805%2C410806%2C410807%2C410808%2C410809%2C410810%2C406492%2C410811%2C410815%2C410816%2C410819&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Portaria nº 992/2009 (Política Nacional de Saúde Integral da População Negra)",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Portaria nº 992/2009 (Política Nacional de Saúde Integral da População Negra) - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=398415&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Portaria nº 2.836/2011 (Política Nacional de Saúde Integral LGBT)",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Portaria nº 2.836/2011 (Política Nacional de Saúde Integral LGBT) - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=430104&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Lei nº 13.146/2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência)",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "tipo": "QUEST",
+              "rotulo": "QUEST",
+              "nome": "Gran - Lei nº 13.146/2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência) - Superior",
+              "emoji": "📓",
+              "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=433292%2C433275%2C433276%2C433277%2C433278%2C433279%2C433280%2C433281%2C433282%2C433283%2C433284%2C433285%2C433286%2C433287%2C433288%2C433289%2C433290%2C433291%2C433293%2C433294%2C433295%2C433296%2C433297%2C433298%2C433299%2C433300%2C433301%2C433302%2C433303&nivel=1"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "nome": "Portaria GM/MS nº 230/2023 (Programa Nacional de Equidade de Gênero, Raça e Valorização das Trabalhadoras no SUS)",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "nome": "Portaria GM/MS nº 1.526/2023 (Política Nacional de Atenção Integral à Saúde da Pessoa com Deficiência - PNAISPD)",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mt1l66gdea8r6",
+      "nome": "CONHECIMENTOS ESPECÍFICOS – ENFERMEIRO (GENERALISTA)",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "PARTE 1",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Sistematização da Assistência de Enfermagem",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Sistematização da Assistência de Enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405753%2C413453%2C413454%2C434050%2C413455%2C413456%2C413457%2C413458%2C413459%2C413460%2C447538&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Administração e Gestão dos serviços de saúde",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Administração e Gestão dos serviços de saúde - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428221%2C428222%2C428223%2C428224%2C428225%2C428226%2C428227%2C428228%2C428229%2C428230%2C428231%2C428232%2C428233%2C428234%2C428235%2C428236%2C428237%2C428238%2C428239%2C428240%2C428241%2C428242%2C428243%2C428244%2C428245%2C428246&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Cuidados e procedimentos gerais desenvolvidos pelo profissional de Enfermagem",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Cuidados e procedimentos gerais desenvolvidos pelo profissional de Enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405771%2C405772%2C405773%2C413462%2C413463%2C413464%2C413465%2C428187%2C428188%2C428189%2C428190%2C428191%2C428192%2C428193%2C428194%2C428195%2C428196%2C428197%2C405766%2C405765%2C405764%2C405763%2C405762%2C405760%2C428198%2C428199%2C428200%2C428201%2C435395%2C428202%2C428203%2C428204%2C428205%2C428206%2C428207%2C428208%2C428209%2C428210%2C428211%2C428212%2C428213%2C428214%2C428215%2C428216%2C428217%2C428218%2C428219%2C428220%2C451084&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Cuidados de enfermagem",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Cuidados de enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405771%2C405772%2C405773%2C413462%2C413463%2C413464%2C413465%2C428187%2C428188%2C428189%2C428190%2C428191%2C428192%2C428193%2C428194%2C428195%2C428196%2C428197%2C405766%2C405765%2C405764%2C405763%2C405762%2C405760%2C428198%2C428199%2C428200%2C428201%2C435395%2C428202%2C428203%2C428204%2C428205%2C428206%2C428207%2C428208%2C428209%2C428210%2C428211%2C428212%2C428213%2C428214%2C428215%2C428216%2C428217%2C428218%2C428219%2C428220%2C451084&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Educação Permanente",
+              "ordem": 4,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Educação Permanente - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428392&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Legislação em enfermagem",
+              "ordem": 5,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Legislação em enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405860%2C413248%2C428159%2C446869%2C413249%2C405861%2C431248%2C428160%2C428161%2C434591&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Ética Profissional e código de ética dos profissionais de enfermagem",
+              "ordem": 6,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Ética Profissional e código de ética dos profissionais de enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405862%2C413247%2C435093&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Vigilância em saúde",
+              "ordem": 7,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Vigilância em saúde - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428285%2C428329%2C428330%2C428331%2C428332%2C428333&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Programa Nacional de Segurança do paciente",
+              "ordem": 8,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Programa Nacional de Segurança do paciente - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=413250%2C413251%2C413252%2C413253%2C428162%2C428163%2C428164%2C428165%2C428166&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Política nacional de humanização",
+              "ordem": 9,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Política nacional de humanização - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428342&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Suporte Básico e Avançado de Vida em Pacientes Adultos e Pediátricos",
+              "ordem": 10,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Suporte Básico e Avançado de Vida em Pacientes Adultos e Pediátricos - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405841%2C405845%2C413445%2C413264%2C413263%2C413262%2C413261%2C413260%2C405827%2C413277%2C405774%2C405779%2C413363%2C405767%2C413437%2C405790%2C413376%2C433476%2C436527%2C436528%2C413295%2C405776%2C413356%2C405777%2C405778%2C439202%2C405842%2C413354%2C413353%2C413352%2C432747%2C405846%2C405844%2C405843%2C405775%2C405785%2C413358%2C413385%2C405784%2C405783%2C413371%2C405851%2C428180%2C413375%2C413374%2C413372%2C451686&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Diagnóstico de Enfermagem",
+              "ordem": 11,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Diagnóstico de Enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=413460&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Gerenciamento de enfermagem (desenvolvimento e avaliação de profissionais)",
+              "ordem": 12,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Gerenciamento de enfermagem (desenvolvimento e avaliação de profissionais) - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428221%2C428222%2C428223%2C428224%2C428225%2C428226%2C428227%2C428228%2C428229%2C428230%2C428231%2C428232%2C428233%2C428234%2C428235%2C428236%2C428237%2C428238%2C428239%2C428240%2C428241%2C428242%2C428243%2C428244%2C428245%2C428246&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Liderança em Enfermagem",
+              "ordem": 13,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Liderança em Enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428221%2C428222%2C428223%2C428224%2C428225%2C428226%2C428227%2C428228%2C428229%2C428230%2C428231%2C428232%2C428233%2C428234%2C428235%2C428236%2C428237%2C428238%2C428239%2C428240%2C428241%2C428242%2C428243%2C428244%2C428245%2C428246&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Gestão de conflitos",
+              "ordem": 14,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Gestão de conflitos - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428221%2C428222%2C428223%2C428224%2C428225%2C428226%2C428227%2C428228%2C428229%2C428230%2C428231%2C428232%2C428233%2C428234%2C428235%2C428236%2C428237%2C428238%2C428239%2C428240%2C428241%2C428242%2C428243%2C428244%2C428245%2C428246&nivel=1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "nome": "PARTE 2",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Noções de controle de infecção",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Noções de controle de infecção - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405794%2C413254%2C413255%2C413256%2C413257%2C413258%2C413259%2C428167&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Promoção, proteção e recuperação da saúde (organização e funcionamento dos serviços)",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Promoção, proteção e recuperação da saúde (organização e funcionamento dos serviços) - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=413323%2C413322%2C405825%2C428179&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Cuidados de enfermagem: pacientes clínicos e cirúrgicos",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Cuidados de enfermagem: pacientes clínicos e cirúrgicos - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428389%2C428395%2C428396%2C428397%2C428398%2C428399%2C428400%2C428401%2C428402%2C428403%2C428404%2C428405%2C428406%2C428409%2C428410%2C428411%2C428407%2C428412%2C428413%2C428414%2C428415%2C428408%2C428416%2C428417%2C428418%2C433712%2C428419%2C428421%2C428422%2C428423%2C428424%2C428425%2C428426%2C428420%2C428427%2C428428%2C428429%2C428430%2C428431%2C428432%2C428433%2C428434%2C428435%2C428443%2C428444%2C428445%2C428446%2C428436%2C428447%2C428448%2C428449%2C428450%2C428451%2C428437%2C428452%2C428453%2C428454%2C428455%2C428456%2C428457%2C428458%2C428459%2C428460%2C428438%2C428461%2C428462%2C428463%2C428464%2C428465%2C428466%2C428467%2C428439%2C428468%2C428469%2C428470%2C428471%2C428440%2C428472%2C428473%2C428474%2C428475%2C428476%2C428477%2C428478%2C428479%2C428480%2C428441%2C428442%2C405786%2C405787%2C405788%2C413297%2C405789%2C413301%2C413300%2C413298%2C413299%2C413296%2C428176%2C454602&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Cuidados de enfermagem: pacientes com doenças transmissíveis",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Cuidados de enfermagem: pacientes com doenças transmissíveis - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=413461%2C405833%2C435563%2C435564%2C405852%2C413377%2C405757%2C413470%2C405758%2C405759%2C405756%2C434152%2C405780%2C405782%2C413275%2C405834%2C405832%2C405831%2C405835%2C413469%2C405837%2C405830%2C434659%2C436035%2C413334%2C405839%2C413335%2C413380%2C413381%2C413382%2C405838%2C413383%2C413467%2C413452%2C405803%2C413451%2C413468%2C413347%2C405829%2C413450%2C413449%2C436525%2C458296&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Precaução de Contato",
+              "ordem": 4,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Precaução de Contato - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405794%2C413254%2C413255%2C413256%2C413257%2C413258%2C413259%2C428167&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Avaliação e Cuidados de enfermagem: pacientes críticos em situações de urgência e emergência",
+              "ordem": 5,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Avaliação e Cuidados de enfermagem: pacientes críticos em situações de urgência e emergência - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428339%2C428361%2C428362%2C428363%2C428364%2C428365%2C428366%2C428367%2C428368%2C428369%2C405841%2C405845%2C413445%2C413264%2C413263%2C413262%2C413261%2C413260%2C405827%2C413277%2C405774%2C405779%2C413363%2C405767%2C413437%2C405790%2C413376%2C433476%2C436527%2C436528%2C413295%2C405776%2C413356%2C405777%2C405778%2C439202%2C405842%2C413354%2C413353%2C413352%2C432747%2C405846%2C405844%2C405843%2C405775%2C405785%2C413358%2C413385%2C405784%2C405783%2C413371%2C405851%2C428180%2C413375%2C413374%2C413372%2C451686&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Avaliação e Cuidados de pacientes em cuidados paliativos",
+              "ordem": 6,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Avaliação e Cuidados de pacientes em cuidados paliativos - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=435597&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Processamento de artigos e superfícies em estabelecimentos de saúde",
+              "ordem": 7,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Processamento de artigos e superfícies em estabelecimentos de saúde - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405754%2C428168%2C428169%2C428170%2C428171%2C428172%2C428173%2C428174%2C428175&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Administração de medicamentos",
+              "ordem": 8,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Administração de medicamentos - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=413446&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Cálculos e técnicas para reconstituição e diluição de medicamentos",
+              "ordem": 9,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Cálculos e técnicas para reconstituição e diluição de medicamentos - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405761&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Procedimentos de exclusividade do Enfermeiro",
+              "ordem": 10,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Procedimentos de exclusividade do Enfermeiro - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405861%2C431248&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Procedimentos gerais de enfermagem",
+              "ordem": 11,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Procedimentos gerais de enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405771%2C405772%2C405773%2C413462%2C413463%2C413464%2C413465%2C428187%2C428188%2C428189%2C428190%2C428191%2C428192%2C428193%2C428194%2C428195%2C428196%2C428197%2C405766%2C405765%2C405764%2C405763%2C405762%2C405760%2C428198%2C428199%2C428200%2C428201%2C435395%2C428202%2C428203%2C428204%2C428205%2C428206%2C428207%2C428208%2C428209%2C428210%2C428211%2C428212%2C428213%2C428214%2C428215%2C428216%2C428217%2C428218%2C428219%2C428220%2C451084&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Educação continuada em Enfermagem",
+              "ordem": 12,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Educação continuada em Enfermagem - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=428392&nivel=1"
+                }
+              ]
+            },
+            {
+              "materiaId": "mt1l66gdea8r6",
+              "nome": "Classificação de Risco",
+              "ordem": 13,
+              "cadernos": [
+                {
+                  "tipo": "QUEST",
+                  "rotulo": "QUEST",
+                  "nome": "Gran - Classificação de Risco - Superior",
+                  "emoji": "📓",
+                  "url": "https://questoes.grancursosonline.com.br/aluno/filtro/concursos?desatualizada=0&anulada=0&assunto=405841%2C405845%2C413445%2C413264%2C413263%2C413262%2C413261%2C413260%2C405827%2C413277%2C405774%2C405779%2C413363%2C405767%2C413437%2C405790%2C413376%2C433476%2C436527%2C436528%2C413295%2C405776%2C413356%2C405777%2C405778%2C439202%2C405842%2C413354%2C413353%2C413352%2C432747%2C405846%2C405844%2C405843%2C405775%2C405785%2C413358%2C413385%2C405784%2C405783%2C413371%2C405851%2C428180%2C413375%2C413374%2C413372%2C451686&nivel=1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mt1l66169phnm\"},{\"nome\":\"POLÍTICAS PÚBLICAS DE SAÚDE\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mt1l66awcjm27\"},{\"nome\":\"CONHECIMENTOS ESPECÍFICOS – ENFERMEIRO (GENERALISTA)\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mt1l66gdea8r6\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": "{\"round\":1,\"startedAt\":\"2026-08-20T13:58:48.756Z\",\"currentIndex\":0,\"currentItemId\":\"entry_1787234328756_ea05e_1\",\"sessionHistory\":[],\"entries\":[{\"id\":\"entry_1787234328756_ea05e_1\",\"baseId\":\"base_CON. ESPECIFICOS – ENFERMEIRO (GENERALISTA)\",\"materiaId\":\"mt1l66gdea8r6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_cdc2c_1\",\"baseId\":\"base_POLITICAS PUBLICAS DE SAUDE\",\"materiaId\":\"mt1l66awcjm27\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_420b3_2\",\"baseId\":\"base_CON. ESPECIFICOS – ENFERMEIRO (GENERALISTA)\",\"materiaId\":\"mt1l66gdea8r6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_4a267_1\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mt1l66169phnm\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_eb0ca_3\",\"baseId\":\"base_CON. ESPECIFICOS – ENFERMEIRO (GENERALISTA)\",\"materiaId\":\"mt1l66gdea8r6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_dd0e2_2\",\"baseId\":\"base_POLITICAS PUBLICAS DE SAUDE\",\"materiaId\":\"mt1l66awcjm27\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_bdd48_4\",\"baseId\":\"base_CON. ESPECIFICOS – ENFERMEIRO (GENERALISTA)\",\"materiaId\":\"mt1l66gdea8r6\",\"targetSeconds\":7200,\"remainingSeconds\":7200,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_1f975_2\",\"baseId\":\"base_LINGUA PORTUGUESA\",\"materiaId\":\"mt1l66169phnm\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"},{\"id\":\"entry_1787234328756_4210a_5\",\"baseId\":\"base_CON. ESPECIFICOS – ENFERMEIRO (GENERALISTA)\",\"materiaId\":\"mt1l66gdea8r6\",\"targetSeconds\":3600,\"remainingSeconds\":3600,\"status\":\"pending\",\"skippedSeconds\":0,\"lastPendingSeconds\":0,\"updatedAt\":\"2026-08-20T13:58:48.756Z\"}]}",
+    "configProva": "{\"groups\":[{\"id\":\"g_base\",\"name\":\"Prova Teórico-Objetiva - Prova Base (Língua Portuguesa + Políticas Públicas de Saúde)\",\"useBlockData\":false,\"items\":[{\"id\":\"mt1l66169phnm\",\"q\":10,\"w\":1.86},{\"id\":\"mt1l66awcjm27\",\"q\":10,\"w\":1.86}],\"q\":20,\"w\":1.86,\"minPts\":1.86},{\"id\":\"g_especificos\",\"name\":\"Prova Teórico-Objetiva - Conhecimentos Específicos\",\"useBlockData\":true,\"items\":[{\"id\":\"mt1l66gdea8r6\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":30,\"w\":1.86,\"minPts\":27.9}]}"
+  }
+}
