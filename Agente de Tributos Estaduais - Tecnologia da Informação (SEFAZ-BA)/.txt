@@ -1,0 +1,38 @@
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS     
+============================================================
+
+🏢 ÓRGÃO: Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB
+🪪 CARGO: Agente de Tributos Estaduais - Tecnologia da Informação
+🧾 BANCA: Fundação Getulio Vargas (FGV)
+📜 EDITAL: SAEB Nº 001/2022, de 25/02/2022 (Retificado em 18/05/2022)
+
+📝 PAINEL DE PROVAS:
+• 1ª Etapa: Provas Objetivas (Manhã | 70 questões | Peso P1: 2,00 | Peso P2: 3,00):
+  - Conhecimentos Gerais (35 questões | Peso 2 | Máx: 70,00 pts):
+    * Língua Portuguesa: 07 questões (peso 2).
+    * Direito Constitucional: 05 questões (peso 2).
+    * Direito Administrativo: 05 questões (peso 2).
+    * Direito Tributário: 05 questões (peso 2).
+    * Contabilidade Geral: 05 questões (peso 2).
+    * Estatística: 05 questões (peso 2).
+    * Noções de Igualdade Racial e de Gênero: 03 questões (peso 2).
+  - Conhecimentos Específicos - TI (35 questões | Peso 3 | Máx: 105,00 pts):
+    * Informática: 20 questões (peso 3).
+    * Gestão Organizacional: 08 questões (peso 3).
+    * Raciocínio Lógico-Matemático: 07 questões (peso 3).
+  - Pontuação Máxima das Objetivas: 175,00 pontos.
+  - Habilitação na Objetiva: Mínimo de 105,00 pontos (60%).
+
+• 2ª Etapa: Prova Discursiva (Mesmo dia das Objetivas):
+  - 1 Questão Discursiva de Conhecimentos Específicos da área de TI.
+  - Pontuação Máxima: 25,00 pontos | Mínimo exigido: 13,00 pontos (52%).
+
+• Pontuação Total Máxima do Concurso: 200,00 pontos.
+
+🎓 ESCOLARIDADE: Curso Superior em qualquer graduação (reconhecido pelo MEC)
+👥 VAGAS: 05 Vagas Imediatas (04 Ampla Concorrência + 01 Negros + 0 PcD) + Cadastro Reserva
+📅 DATA DAS PROVAS: 05/06/2022 (Salvador/BA)
+💵 REMUNERAÇÃO INICIAL: R$ 13.111,66 (Vencimento Básico R$ 1.393,67 + GAF até R$ 6.410,89 + CET até R$ 1.560,91 + Prêmio PDF até R$ 3.746,19) - 40h semanais
+💳 TAXA DE INSCRIÇÃO: R$ 150,00
+📆 INSCRIÇÕES: 07/03/2022 a 05/04/2022 (Internet no site da FGV)
