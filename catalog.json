@@ -1,6 +1,25 @@
 {
-  "atualizadoEm": "2026-08-21T19:12:19.540Z",
+  "atualizadoEm": "2026-08-21T20:21:47.959Z",
   "editais": [
+    {
+      "id": "tecnico-do-seguro-social-inss",
+      "titulo": "INSS (INSS)",
+      "orgao": "INSS (INSS)",
+      "banca": "CEBRASPE",
+      "cargo": "Técnico do Seguro Social / Nível Médio",
+      "ano": 2022,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe",
+        "inss"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/card_premium_inss.png",
+      "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
+      "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
+      "atualizadoEm": "2026-08-21T20:21:33.000Z"
+    },
     {
       "id": "agente-de-tributos-estaduais-tecnologia-da-informacao-sefaz-ba",
       "titulo": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
@@ -624,25 +643,6 @@
       "imagem": "Escritur%C3%A1rio%20-%20Banrisul%202022/card_premium_escriturario_banrisul.png",
       "arquivo": "Escritur%C3%A1rio%20-%20Banrisul%202022/Edital%20Premium%20Escritur%C3%A1rio%20-%20Banrisul%202022.json",
       "arquivoNome": "Edital Premium Escriturário - Banrisul 2022.json",
-      "atualizadoEm": "2026-06-04T03:43:42.000Z"
-    },
-    {
-      "id": "tecnico-do-seguro-social-inss",
-      "titulo": "INSS (INSS)",
-      "orgao": "INSS (INSS)",
-      "banca": "CEBRASPE",
-      "cargo": "Técnico do Seguro Social / Nível Médio",
-      "ano": 2022,
-      "tags": [
-        "edital pronto",
-        "nivel medio",
-        "cebraspe",
-        "inss"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/card_premium_inss.png",
-      "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
-      "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
       "atualizadoEm": "2026-06-04T03:43:42.000Z"
     },
     {
