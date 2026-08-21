@@ -1,21 +1,38 @@
 {
-  "atualizadoEm": "2026-08-20T14:10:29.442Z",
+  "atualizadoEm": "2026-08-21T18:21:42.390Z",
   "editais": [
     {
-      "id": "enfermeiro-generalista-ghc",
-      "titulo": "Enfermeiro (Generalista) - GHC",
-      "orgao": "Enfermeiro (Generalista) - GHC",
-      "banca": "A definir",
-      "cargo": "Enfermeiro (Generalista) - GHC",
+      "id": "auditor-fiscal-tecnologia-da-informacao-sefaz-ba",
+      "titulo": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
+      "orgao": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
+      "banca": "Fundação Carlos Chagas (FCC)",
+      "cargo": "Auditor Fiscal da Receita Estadual - Tecnologia da Informação",
       "ano": 2026,
       "tags": [
         "edital pronto"
       ],
       "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Fiscal%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/card_premium_sefaz_ba.png",
+      "arquivo": "Auditor%20Fiscal%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA).json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal - Tecnologia da Informação (SEFAZ-BA).json",
+      "atualizadoEm": "2026-08-21T18:21:12.000Z"
+    },
+    {
+      "id": "enfermeiro-generalista-ghc",
+      "titulo": "Grupo Hospitalar Conceição (GHC)",
+      "orgao": "Grupo Hospitalar Conceição (GHC)",
+      "banca": "FUNDATEC",
+      "cargo": "Enfermeiro (Generalista) / Nível Superior",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "pre-edital"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
       "imagem": "Enfermeiro%20(Generalista)%20-%20GHC/card_premium_grupo_hospitalar_concei_o_ghc.png",
       "arquivo": "Enfermeiro%20(Generalista)%20-%20GHC/Edital%20Premium%20Track%20Concursos%20Enfermeiro%20(Generalista)%20(GHC)_gran.json",
       "arquivoNome": "Edital Premium Track Concursos Enfermeiro (Generalista) (GHC)_gran.json",
-      "atualizadoEm": "2026-08-20T14:10:02.000Z"
+      "atualizadoEm": "2026-08-20T14:12:50.000Z"
     },
     {
       "id": "engenheiro-civil-transpetro",
