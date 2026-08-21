@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-21T18:23:19.729Z",
+  "atualizadoEm": "2026-08-21T19:12:19.540Z",
   "editais": [
+    {
+      "id": "agente-de-tributos-estaduais-tecnologia-da-informacao-sefaz-ba",
+      "titulo": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
+      "orgao": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
+      "banca": "Fundação Getulio Vargas (FGV)",
+      "cargo": "Agente de Tributos Estaduais - Tecnologia da Informação",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/card_premium_sefaz_ba.png",
+      "arquivo": "Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Tributos Estaduais - Tecnologia da Informação (SEFAZ-BA).json",
+      "atualizadoEm": "2026-08-21T19:11:58.000Z"
+    },
     {
       "id": "auditor-fiscal-tecnologia-da-informacao-sefaz-ba",
       "titulo": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
