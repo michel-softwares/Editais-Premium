@@ -1,0 +1,53 @@
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS     
+============================================================
+
+🏦 CONCURSO: EDITAL UNIFICADO DE CARREIRAS BANCÁRIAS
+📌 PAINEL DE PROVA: Configurado para a prova do Banco do Brasil (Cesgranrio)
+🪪 CARGOS COBERTOS:
+  - Banco do Brasil: Agente Comercial / Escriturário
+  - Banco do Nordeste (BNB): Analista Bancário 1
+  - Caixa Econômica Federal (CEF): Técnico Bancário Novo
+🧾 BANCAS DE REFERÊNCIA: Fundação Cesgranrio
+📜 MATRIZ DE CRISTALIZAÇÃO: 3 Editais Oficiais Consolidados
+
+📝 ESTRUTURA DO PAINEL DE PROVAS (PADRÃO BANCO DO BRASIL):
+• 1ª Etapa: Prova Objetiva (70 questões de múltipla escolha | 100,00 pontos):
+  - Conhecimentos Gerais (25 questões | 32,50 pontos):
+    * Língua Portuguesa: 10 questões (peso 1,5 = 15,00 pts)
+    * Língua Inglesa: 05 questões (peso 1,0 = 5,00 pts)
+    * Matemática: 05 questões (peso 1,5 = 7,50 pts)
+    * Atualidades do Mercado Financeiro: 05 questões (peso 1,0 = 5,00 pts)
+  - Conhecimentos Específicos (45 questões | 67,50 pontos):
+    * Conhecimentos Bancários: 10 questões (peso 1,5 = 15,00 pts)
+    * Matemática Financeira: 05 questões (peso 1,5 = 7,50 pts)
+    * Conhecimentos de Informática: 15 questões (peso 1,5 = 22,50 pts)
+    * Vendas e Negociação: 15 questões (peso 1,5 = 22,50 pts)
+
+• 2ª Etapa: Prova de Redação (Caráter Eliminatório):
+  - 1 Redação Dissertativa-Argumentativa (100,00 pontos | Mínimo exigido: 70,00 pontos).
+
+📌 PADRÃO DE IDENTIFICAÇÃO E CRUZAMENTO NAS DISCIPLINAS E TÓPICOS:
+  • [BB] + [BNB] + [Caixa]: Disciplina ou assunto comum presente nos 3 editais.
+  • [BB] + [Caixa]: Disciplina ou assunto presente no Banco do Brasil e na Caixa.
+  • [BB] + [BNB]: Disciplina ou assunto presente no Banco do Brasil e no BNB.
+  • [BNB] + [Caixa]: Disciplina ou assunto presente no BNB e na Caixa.
+  • [BB]: Exclusivo do Banco do Brasil.
+  • [BNB]: Exclusivo do Banco do Nordeste.
+  • [Caixa]: Exclusivo da Caixa Econômica Federal.
+
+📚 MATRIZ DE DISCIPLINAS UNIFICADAS (11 Matérias):
+  1. LÍNGUA PORTUGUESA [BB] + [BNB] + [Caixa]
+  2. LÍNGUA INGLESA [BB] + [Caixa]
+  3. MATEMÁTICA E RACIOCÍNIO LÓGICO [BB] + [BNB]
+  4. MATEMÁTICA FINANCEIRA [BB] + [BNB] + [Caixa]
+  5. NOÇÕES DE PROBABILIDADE E ESTATÍSTICA [BNB] + [Caixa]
+  6. CONHECIMENTOS BANCÁRIOS [BB] + [BNB] + [Caixa]
+  7. ATUALIDADES DO MERCADO FINANCEIRO E INOVAÇÃO [BB] + [BNB] + [Caixa]
+  8. COMPLIANCE, ÉTICA E SEGURANÇA JURÍDICA [BB] + [BNB] + [Caixa]
+  9. CONHECIMENTOS DE INFORMÁTICA E TIC [BB] + [Caixa]
+  10. CONHECIMENTOS E COMPORTAMENTOS DIGITAIS [Caixa]
+  11. ATENDIMENTO BANCÁRIO, VENDAS E NEGOCIAÇÃO [BB] + [BNB] + [Caixa]
+
+🎓 ESCOLARIDADE: Nível Médio Completo
+💵 FAIXA REMUNERATÓRIA: R$ 3.700,00 a R$ 6.000,00 + VA/VR (~R$ 1.900,00) + PLR + Auxílio Creche + Previdência Complementar
