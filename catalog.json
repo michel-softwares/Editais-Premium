@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-21T20:23:52.014Z",
+  "atualizadoEm": "2026-08-22T08:15:31.125Z",
   "editais": [
+    {
+      "id": "edital-unificado-bancario-bb-bnb-caixa",
+      "titulo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
+      "orgao": "Edital Unificado Bancario (BB - BNB - CAIXA)",
+      "banca": "A definir",
+      "cargo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA)/card_premium_edital_unificado_bb_caixa_bnb.png",
+      "arquivo": "Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA)/Edital%20Premium%20Track%20Concursos%20-%20Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA).json",
+      "arquivoNome": "Edital Premium Track Concursos - Edital Unificado Bancario (BB - BNB - CAIXA).json",
+      "atualizadoEm": "2026-08-22T08:15:12.000Z"
+    },
     {
       "id": "tecnico-do-seguro-social-inss",
       "titulo": "INSS (INSS)",
