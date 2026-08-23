@@ -1,6 +1,22 @@
 {
-  "atualizadoEm": "2026-08-23T02:06:48.941Z",
+  "atualizadoEm": "2026-08-23T02:10:31.352Z",
   "editais": [
+    {
+      "id": "tecnico-em-informacoes-geograficas-e-estatisticas-tige-ibge",
+      "titulo": "Técnico em Informações Geográficas e Estatísticas (TIGE - IBGE)",
+      "orgao": "Técnico em Informações Geográficas e Estatísticas (TIGE - IBGE)",
+      "banca": "A definir",
+      "cargo": "Técnico em Informações Geográficas e Estatísticas (TIGE - IBGE)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20em%20Informa%C3%A7%C3%B5es%20Geogr%C3%A1ficas%20e%20Estat%C3%ADsticas%20(TIGE%20-%20IBGE)/card_premium_instituto_brasileiro_de_geografia_e_estat_stica_ibge.png",
+      "arquivo": "T%C3%A9cnico%20em%20Informa%C3%A7%C3%B5es%20Geogr%C3%A1ficas%20e%20Estat%C3%ADsticas%20(TIGE%20-%20IBGE)/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20em%20Informa%C3%A7%C3%B5es%20Geogr%C3%A1ficas%20e%20Estat%C3%ADsticas%20(TIGE%20-%20IBGE)_gran.json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico em Informações Geográficas e Estatísticas (TIGE - IBGE)_gran.json",
+      "atualizadoEm": "2026-08-23T02:10:17.000Z"
+    },
     {
       "id": "edital-unificado-bancario-bb-bnb-caixa",
       "titulo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
