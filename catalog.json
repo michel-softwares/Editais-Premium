@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-23T02:10:31.352Z",
+  "atualizadoEm": "2026-08-27T19:11:07.228Z",
   "editais": [
+    {
+      "id": "agente-de-policia-judiciaria-pcpr",
+      "titulo": "Agente de Polícia Judiciária (PCPR)",
+      "orgao": "Agente de Polícia Judiciária (PCPR)",
+      "banca": "A definir",
+      "cargo": "Agente de Polícia Judiciária (PCPR)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20de%20Pol%C3%ADcia%20Judici%C3%A1ria%20(PCPR)/card_premium_pol_cia_civil_do_estado_do_paran.png",
+      "arquivo": "Agente%20de%20Pol%C3%ADcia%20Judici%C3%A1ria%20(PCPR)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Pol%C3%ADcia%20Judici%C3%A1ria%20(PCPR).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Polícia Judiciária (PCPR).json",
+      "atualizadoEm": "2026-08-27T19:10:50.000Z"
+    },
     {
       "id": "tecnico-em-informacoes-geograficas-e-estatisticas-tige-ibge",
       "titulo": "Técnico em Informações Geográficas e Estatísticas (TIGE - IBGE)",
