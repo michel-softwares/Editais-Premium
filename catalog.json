@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-28T14:13:47.797Z",
+  "atualizadoEm": "2026-08-28T19:26:23.089Z",
   "editais": [
+    {
+      "id": "auditor-fiscal-da-administracao-tributaria-estadual-afte-sefaz-al",
+      "titulo": "Secretaria de Estado da Fazenda de Alagoas (SEFAZ/AL)",
+      "orgao": "Secretaria de Estado da Fazenda de Alagoas (SEFAZ/AL)",
+      "banca": "Cebraspe",
+      "cargo": "Auditor Fiscal da Administração Tributária Estadual (AFTE)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Auditor%20Fiscal%20da%20Administra%C3%A7%C3%A3o%20Tribut%C3%A1ria%20Estadual%20(AFTE)%20-%20SEFAZ-AL/card_premium_sefaz_al.png",
+      "arquivo": "Auditor%20Fiscal%20da%20Administra%C3%A7%C3%A3o%20Tribut%C3%A1ria%20Estadual%20(AFTE)%20-%20SEFAZ-AL/Edital%20Premium%20Track%20Concursos%20Auditor%20Fiscal%20da%20Administra%C3%A7%C3%A3o%20Tribut%C3%A1ria%20Estadual%20(AFTE)%20-%20SEFAZ-AL.json",
+      "arquivoNome": "Edital Premium Track Concursos Auditor Fiscal da Administração Tributária Estadual (AFTE) - SEFAZ-AL.json",
+      "atualizadoEm": "2026-08-28T19:26:04.000Z"
+    },
     {
       "id": "recenseador-ibge-2022",
       "titulo": "Recenseador - IBGE 2022",
