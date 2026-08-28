@@ -48,6 +48,105 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-0SAufakCBDw-047",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=0SAufakCBDw",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 01 (texto e textualidade)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-WN0XXSh1fZ0-048",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=WN0XXSh1fZ0",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 02 (O que é compreensão? O que é interpretação?)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-RwBYc8579UQ-049",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=RwBYc8579UQ",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 03 (Ideia Principal e Ideias Secundárias)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-mqnxi1ymFKc-050",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=mqnxi1ymFKc",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 04 Parte I (Coesão e Coerência)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-cg-baFSo6jM-051",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=cg-baFSo6jM",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 04 - Parte II (Coesão e Coerência)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-vi6R3JJZxdk-052",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=vi6R3JJZxdk",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 05 (Os 3 erros mais comuns - análise de texto)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-O2c8_hjIJks-053",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=O2c8_hjIJks",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 06 (Informações Literais e Inferências Possíveis)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video--MhX3nRo4CE-054",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=-MhX3nRo4CE",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 07 (Ponto de Vista do Autor)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-DeaeMYeYHUU-055",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=DeaeMYeYHUU",
+              "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 08 (Significação Contextual de Palavras e Expressões)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -64,6 +163,28 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-sGduEM_zMk8-056",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=sGduEM_zMk8",
+              "nome": "Prof. Wilson Rochenbach — Tipologia Textual - Aula 01 (Texto Descritivo e Injuntivo ou Instrucional)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-wGwOXh_pXV4-057",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=wGwOXh_pXV4",
+              "nome": "Prof. Wilson Rochenbach — Gêneros Textuais - Aula 01",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -80,6 +201,50 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-0zUqYdge37w-058",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=0zUqYdge37w",
+              "nome": "Prof. Wilson Rochenbach — Ortografia - Aula 01",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-dbYkGIjt9Ps-059",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=dbYkGIjt9Ps",
+              "nome": "Prof. Wilson Rochenbach — Ortografia - Aula 02 (Emprega-se g ou j)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-Jjf0vUeQZuQ-060",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=Jjf0vUeQZuQ",
+              "nome": "Prof. Wilson Rochenbach — Ortografia - Aula 03 (Emprega-se o \"x\" e o \"ch\")",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-TXKI4Ks1744-061",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=TXKI4Ks1744",
+              "nome": "Prof. Wilson Rochenbach — Ortografia - Aula 04 (Macete do \"s\" e do \"ç\")",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -102,6 +267,28 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-mqnxi1ymFKc-062",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=mqnxi1ymFKc",
+                  "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 04 Parte I (Coesão e Coerência)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-cg-baFSo6jM-063",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=cg-baFSo6jM",
+                  "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 04 - Parte II (Coesão e Coerência)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -118,6 +305,171 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video--4ac8U8Q-wA-064",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=-4ac8U8Q-wA",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 01 (Flexões)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-66SvYxI3Gmk-065",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=66SvYxI3Gmk",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 02 (Aspecto Verbal)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-pVy60O8I2zo-066",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=pVy60O8I2zo",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 03 (Estrutura do Verbo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-XYp1jEbWcmQ-067",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=XYp1jEbWcmQ",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 04 (Modo Subjuntivo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-Sci3_zfvQ10-068",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=Sci3_zfvQ10",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 05 (Modo Imperativo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-T1CtlXYoTiQ-069",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=T1CtlXYoTiQ",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 06 (Tempo Composto)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-LiUxPsywmVY-070",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=LiUxPsywmVY",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 07 (Verbos Regulares)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-_7Q1J-RSoDQ-071",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=_7Q1J-RSoDQ",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 08 (Verbos Anômalos e Verbos Auxiliares)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-i7rKVr_iOgs-072",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=i7rKVr_iOgs",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 09 (Verbos Defectivos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-QmIdHjmn3RE-073",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=QmIdHjmn3RE",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 10 (Verbos Abundantes)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-1fs7NFa3ykI-074",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=1fs7NFa3ykI",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 12 - Parte I (Verbos Primitivos e Verbo Derivados)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-9uwV2qBnVO0-075",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=9uwV2qBnVO0",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 12 - Parte II (Verbos Primitivos e Verbo Derivados)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-sAiCjQyy-Z0-076",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=sAiCjQyy-Z0",
+                  "nome": "Prof. Wilson Rochenbach — Português - Aula 13 (Verbo - Infinitivo Impessoal e Pessoal)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-y7p7z4hxgLo-077",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=y7p7z4hxgLo",
+                  "nome": "Prof. Wilson Rochenbach — Verbo (Correlação Verbal) - Aula 14",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-2CPwokTGRao-078",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=2CPwokTGRao",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 15 (LocuçãoVerbal)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             }
@@ -141,6 +493,281 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-o94PtKHsgwI-079",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=o94PtKHsgwI",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 01 (Espécies e Pronomes Pessoais)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-dPVK2CBEyN0-080",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=dPVK2CBEyN0",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 02 (Pessoais - de Tratamento)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-yWzgUMwI-5M-081",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=yWzgUMwI-5M",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 03 (Pronomes Demostrativos - Parte I)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-BlWeLoMtxsM-082",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=BlWeLoMtxsM",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 04 (Pronomes Demonstrativos - Parte II)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-Y_y05_gRLDA-083",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=Y_y05_gRLDA",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 05 (Pronomes Indefinidos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-0Sl3Twl6ahA-084",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=0Sl3Twl6ahA",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 06 (Pronomes Possessivos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-DFkOBKWjBX0-085",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=DFkOBKWjBX0",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 07 (Pronomes Interrogativos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-6gvFzEyjSK0-086",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=6gvFzEyjSK0",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 08 - Parte I (Pronomes Relativos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-GdUjpK5SG9o-087",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=GdUjpK5SG9o",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 08 - Parte II (Pronomes Relativos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-zVnal9rzYBQ-088",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=zVnal9rzYBQ",
+                  "nome": "Prof. Wilson Rochenbach — Pronomes - Aula 08 - Parte III (Pronomes Relativos - Cujo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video--4ac8U8Q-wA-089",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=-4ac8U8Q-wA",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 01 (Flexões)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-66SvYxI3Gmk-090",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=66SvYxI3Gmk",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 02 (Aspecto Verbal)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-pVy60O8I2zo-091",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=pVy60O8I2zo",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 03 (Estrutura do Verbo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-XYp1jEbWcmQ-092",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=XYp1jEbWcmQ",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 04 (Modo Subjuntivo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-Sci3_zfvQ10-093",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=Sci3_zfvQ10",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 05 (Modo Imperativo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-T1CtlXYoTiQ-094",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=T1CtlXYoTiQ",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 06 (Tempo Composto)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-LiUxPsywmVY-095",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=LiUxPsywmVY",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 07 (Verbos Regulares)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-_7Q1J-RSoDQ-096",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=_7Q1J-RSoDQ",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 08 (Verbos Anômalos e Verbos Auxiliares)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-i7rKVr_iOgs-097",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=i7rKVr_iOgs",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 09 (Verbos Defectivos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-QmIdHjmn3RE-098",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=QmIdHjmn3RE",
+                  "nome": "Prof. Wilson Rochenbach — Verbos - Aula 10 (Verbos Abundantes)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-1fs7NFa3ykI-099",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=1fs7NFa3ykI",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 12 - Parte I (Verbos Primitivos e Verbo Derivados)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-9uwV2qBnVO0-100",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=9uwV2qBnVO0",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 12 - Parte II (Verbos Primitivos e Verbo Derivados)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-sAiCjQyy-Z0-101",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=sAiCjQyy-Z0",
+                  "nome": "Prof. Wilson Rochenbach — Português - Aula 13 (Verbo - Infinitivo Impessoal e Pessoal)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-y7p7z4hxgLo-102",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=y7p7z4hxgLo",
+                  "nome": "Prof. Wilson Rochenbach — Verbo (Correlação Verbal) - Aula 14",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-2CPwokTGRao-103",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=2CPwokTGRao",
+                  "nome": "Prof. Wilson Rochenbach — Verbo - Aula 15 (LocuçãoVerbal)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -157,6 +784,28 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-9KOad7ynQAg-104",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=9KOad7ynQAg",
+                  "nome": "Prof. Wilson Rochenbach — Período Composto - Aula 01 (Orações Coordenadas e Período Misto)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-2k1AoZKcJf0-105",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=2k1AoZKcJf0",
+                  "nome": "Prof. Wilson Rochenbach — Período Composto - Aula 02 (Orações Coordenadas)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -173,6 +822,61 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-V_4DelHP1ZQ-106",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=V_4DelHP1ZQ",
+                  "nome": "Prof. Wilson Rochenbach — Período Composto - Aula 03 (Orações Subordinadas Substantivas)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-e0TXuuDtN6w-107",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=e0TXuuDtN6w",
+                  "nome": "Prof. Wilson Rochenbach — Período Composto - Aula 04 (Orações Subordinadas Adjetivas)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-oVOYh6aKyWc-108",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=oVOYh6aKyWc",
+                  "nome": "Prof. Wilson Rochenbach — Período Composto - Aula 05 - Parte I (Orações Subordinadas Adverbiais)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-ZpSLjnQ78TI-109",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=ZpSLjnQ78TI",
+                  "nome": "Prof. Wilson Rochenbach — Período Composto - Aula 05 - Parte II (Diferença entre Causal e Explicativa)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-OTLwgY2dalQ-110",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=OTLwgY2dalQ",
+                  "nome": "Prof. Wilson Rochenbach — Período Composto - Aula 06 (Orações Reduzidas)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -189,6 +893,105 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-r-e65-hCOd4-111",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=r-e65-hCOd4",
+                  "nome": "Prof. Wilson Rochenbach — Vírgula - Aula 01 (Período Simples - Parte I)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-eo7qhukdcIc-112",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=eo7qhukdcIc",
+                  "nome": "Prof. Wilson Rochenbach — Vírgula - Aula 02 (Período Simples - Parte II)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-wOgDmP7eP_o-113",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=wOgDmP7eP_o",
+                  "nome": "Prof. Wilson Rochenbach — Vírgula - Aula 03 (Período Simples - Parte III)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-CPzDVDDHN_Y-114",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=CPzDVDDHN_Y",
+                  "nome": "Prof. Wilson Rochenbach — Vírgula - Aula 04 (Período Composto - Parte I)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-Ou5KsvMP9xM-115",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=Ou5KsvMP9xM",
+                  "nome": "Prof. Wilson Rochenbach — Vírgula - Aula 05 (Período Composto - Parte II)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-ICGVkzv6Q1k-116",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=ICGVkzv6Q1k",
+                  "nome": "Prof. Wilson Rochenbach — Vírgula - Aula 06 (Período Composto - Parte III)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-h9uPnOErlGc-117",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=h9uPnOErlGc",
+                  "nome": "Prof. Wilson Rochenbach — Vírgula - Aula 07 (Período Composto - Parte IV)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-HN7G--rcos8-118",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=HN7G--rcos8",
+                  "nome": "Prof. Wilson Rochenbach — Dois Pontos - Aula 8",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-X-gyXl-e8Ko-119",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=X-gyXl-e8Ko",
+                  "nome": "Prof. Wilson Rochenbach — Ponto e Vírgula - Aula 9",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -205,6 +1008,237 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-VS6dWshg6YI-120",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=VS6dWshg6YI",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 01 (Sujeito Simples - Parte I)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-4HOJZo6GNa8-121",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=4HOJZo6GNa8",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 02 (Sujeito Simples - Parte II)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-EtH-QZeWf-c-122",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=EtH-QZeWf-c",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 03 (Sujeito Simples - Parte III)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-mFtk-jg_Axo-123",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=mFtk-jg_Axo",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 04 (Sujeito Composto - Parte I)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-TcJfYVUadUk-124",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=TcJfYVUadUk",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 05 (Sujeito Composto - Parte II)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-0ao_rv-5qH8-125",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=0ao_rv-5qH8",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 06 (Sujeito Composto - Parte III)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-Sal5qZH7vao-126",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=Sal5qZH7vao",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 07 (Verbos Impessoais)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video--sKLBFlTLyg-127",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=-sKLBFlTLyg",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 08 (Concordância com Verbo Passivo)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-e4xbbW2G_9c-128",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=e4xbbW2G_9c",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 09 (Casos Especiais)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-tXWUWcFHZ6E-129",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=tXWUWcFHZ6E",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 10 (Verbo Ser - Parte I)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-PsnWKSNl3QM-130",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=PsnWKSNl3QM",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 10 - II (Verbo Ser - Parte II)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-XRuoAYEc4fo-131",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=XRuoAYEc4fo",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 11 (Sujeito Oracional)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-8mL9NMMzUmI-132",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=8mL9NMMzUmI",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 12 (Silepse)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-d-UyZqDZvd0-133",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=d-UyZqDZvd0",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Verbal - Aula 13 (Verbos Ter e Vir e Outros Detalhes Importantes)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-mTuC2ny-b00-134",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=mTuC2ny-b00",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Nominal - Aula 01",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-q5uhu6iaA8Q-135",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=q5uhu6iaA8Q",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Nominal - Aula 02",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-fxmDGQaKTxo-136",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=fxmDGQaKTxo",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Nominal - Aula 03",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-3wAxjonjCDg-137",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=3wAxjonjCDg",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Nominal - Aula 04",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-sWWRmaYo4W8-138",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=sWWRmaYo4W8",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Nominal - Aula 05",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-5CBtV2oD5kE-139",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=5CBtV2oD5kE",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Nominal - Aula 06",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-m73cLge_dcA-140",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=m73cLge_dcA",
+                  "nome": "Prof. Wilson Rochenbach — Concordância Nominal - Aula 07",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -221,6 +1255,72 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-7UM2mtsaLzM-141",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=7UM2mtsaLzM",
+                  "nome": "Prof. Wilson Rochenbach — Regência Verbal - Aula 01",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-BSU24_UVE4k-142",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=BSU24_UVE4k",
+                  "nome": "Prof. Wilson Rochenbach — Regência Verbal - Aula 02",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-NiI_84YupLQ-143",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=NiI_84YupLQ",
+                  "nome": "Prof. Wilson Rochenbach — Regência Verbal - Aula 03",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-xO6KPP2oRAI-144",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=xO6KPP2oRAI",
+                  "nome": "Prof. Wilson Rochenbach — Regência Verbal - Aula 04",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-Sv75ta3wAzQ-145",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=Sv75ta3wAzQ",
+                  "nome": "Prof. Wilson Rochenbach — Regência Verbal - Aula 05",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-idlfbOQ35ZE-146",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=idlfbOQ35ZE",
+                  "nome": "Prof. Wilson Rochenbach — Regência Nominal - Aula 06",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -237,6 +1337,72 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-yu5NGBmuv60-147",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=yu5NGBmuv60",
+                  "nome": "Prof. Wilson Rochenbach — Crase - Aula 01",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-kHMUBWa4gwc-148",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=kHMUBWa4gwc",
+                  "nome": "Prof. Wilson Rochenbach — Crase - Aula 02",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-plF60iJYGUQ-149",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=plF60iJYGUQ",
+                  "nome": "Prof. Wilson Rochenbach — Crase - Aula 03",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-18yn3eV-Sdg-150",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=18yn3eV-Sdg",
+                  "nome": "Prof. Wilson Rochenbach — Crase - Aula 04",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-eow6Zj650oE-151",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=eow6Zj650oE",
+                  "nome": "Prof. Wilson Rochenbach — Crase - Aula 05",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-M5C3sFo-3Qs-152",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=M5C3sFo-3Qs",
+                  "nome": "Prof. Wilson Rochenbach — Crase - Aula 06",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -253,6 +1419,50 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-LD2WQNaaDc8-153",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=LD2WQNaaDc8",
+                  "nome": "Prof. Wilson Rochenbach — Próclise - Aula 01 (Prof. Wilson Rochenbach)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-n4jR9F9wtCc-154",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=n4jR9F9wtCc",
+                  "nome": "Prof. Wilson Rochenbach — Próclise - Aula 02 (Prof. Wilson Rochenbach)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-gaTQM_C9XF4-155",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=gaTQM_C9XF4",
+                  "nome": "Prof. Wilson Rochenbach — Mesóclise (Prof. Wilson Rochenbach)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-Ys9Naf5UrgM-156",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=Ys9Naf5UrgM",
+                  "nome": "Prof. Wilson Rochenbach — Ênclise - (Prof. Wilson Rochenbach)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             }
@@ -276,6 +1486,61 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-DeaeMYeYHUU-157",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=DeaeMYeYHUU",
+                  "nome": "Prof. Wilson Rochenbach — Interpretação de Texto - Aula 08 (Significação Contextual de Palavras e Expressões)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-85hDj68SSRw-158",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=85hDj68SSRw",
+                  "nome": "Prof. Wilson Rochenbach — Significação das Palavras - Aula 05 (Mal X Mau)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-OOfFyN7jIhI-159",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=OOfFyN7jIhI",
+                  "nome": "Prof. Wilson Rochenbach — Significação das Palavras - Aula 06 (Onde X Aonde)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-XgFY40jyzV8-160",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=XgFY40jyzV8",
+                  "nome": "Prof. Wilson Rochenbach — Significação das Palavras - Aula 08 (Se não X Senão)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-hHIEkelBy7M-161",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=hHIEkelBy7M",
+                  "nome": "Prof. Wilson Rochenbach — Significação das Palavras - Aula 07 (Emprego dos Porquês)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -292,6 +1557,39 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-sVlXj5A94fw-162",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=sVlXj5A94fw",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de frase - Aula 1",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-DXRR86sQupE-163",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=DXRR86sQupE",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de Frase - Aula 02",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-SiRkF1YRpng-164",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=SiRkF1YRpng",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de Frase - Questões Comentadas - Aula 03",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -308,6 +1606,39 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-sVlXj5A94fw-165",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=sVlXj5A94fw",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de frase - Aula 1",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-DXRR86sQupE-166",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=DXRR86sQupE",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de Frase - Aula 02",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-SiRkF1YRpng-167",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=SiRkF1YRpng",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de Frase - Questões Comentadas - Aula 03",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -324,6 +1655,39 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-sVlXj5A94fw-168",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=sVlXj5A94fw",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de frase - Aula 1",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-DXRR86sQupE-169",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=DXRR86sQupE",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de Frase - Aula 02",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-SiRkF1YRpng-170",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=SiRkF1YRpng",
+                  "nome": "Prof. Wilson Rochenbach — Reescrita de Frase - Questões Comentadas - Aula 03",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             }
@@ -349,6 +1713,116 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-OzYvmaRaY_c-001",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=OzYvmaRaY_c",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 0 - Introdutória - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-BRfpTqANc6c-002",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=BRfpTqANc6c",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 1 - Código de Ética Regras Deontológicas - I a IV -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-RxhcrlMRSFk-003",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=RxhcrlMRSFk",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 2 - Código de Ética Regras Deontológicas -V a VII -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-khZHdXlOgSQ-004",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=khZHdXlOgSQ",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 3 -Código de Ética Regras Deontológicas-VIII a XIII-Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-XsqoJuoCMA4-005",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=XsqoJuoCMA4",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 4 - Código de Ética - Deveres - XIV (parte 1) -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-QsU3fU1dMHI-006",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=QsU3fU1dMHI",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 5 - Código de Ética - Deveres - XIV (parte 2) -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-1Y_JXJec5wc-007",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=1Y_JXJec5wc",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 6 - Código de Ética - Deveres - XIV (parte 3) -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-h_kGPpOnaRI-008",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=h_kGPpOnaRI",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 7- Código de Ética - Vedações - XV - \"a\" a \"h\" -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-d7bz3IdekjQ-009",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=d7bz3IdekjQ",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 8 - Código de Ética - Vedações - XV - \"i\" a \"q\" -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-Cqk_itHvwjc-010",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=Cqk_itHvwjc",
+              "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 9 -Código de Ética - Comissão de Ética - XVI a XIX -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -371,6 +1845,17 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-DRSJzNfjvVU-011",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=DRSJzNfjvVU",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 10- Lei nº 8.112/1990 - art 116 - Prof Eduardo Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -387,6 +1872,17 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-hANoZ5sXhFI-012",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=hANoZ5sXhFI",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 11- Lei nº 8.112/1990 - art 117 - Prof Eduardo Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -403,6 +1899,28 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-wg52F5corzQ-013",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=wg52F5corzQ",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 12- Lei nº 8.112/1990 - art 118 a 120 - Prof Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-zMs6RLBL_KM-014",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=zMs6RLBL_KM",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 13- Lei nº 8.112/1990 - art 121 a 126 - Prof Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -419,6 +1937,17 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-etePdlFkcWY-015",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=etePdlFkcWY",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 14- Lei nº 8.112/1990 - art 127 e 132 - Prof Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -435,6 +1964,17 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-etePdlFkcWY-016",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=etePdlFkcWY",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 14- Lei nº 8.112/1990 - art 127 e 132 - Prof Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -451,6 +1991,17 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-UgcfnTFgtfc-017",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=UgcfnTFgtfc",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 15- Lei nº 8.112/1990 - art 136, 141 e 142 - Prof Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             },
@@ -467,6 +2018,17 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-UgcfnTFgtfc-018",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=UgcfnTFgtfc",
+                  "nome": "Prof. Eduardo Tanaka — Ética no Serviço Público IBGE 2026 - aula 15- Lei nº 8.112/1990 - art 136, 141 e 142 - Prof Tanaka",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             }
@@ -498,6 +2060,72 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-mOZzIQJfHck-171",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=mOZzIQJfHck",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Aula 1 - Operações com números inteiros e fracionários.",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-de3Gh4eN-7o-172",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=de3Gh4eN-7o",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Aula 2 - Operações com números inteiros e fracionários.",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-LMjz5Kwjf3U-173",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=LMjz5Kwjf3U",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Aula 3 - Operações com números inteiros e fracionários.",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-eNLEK_uJaKM-174",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=eNLEK_uJaKM",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Aula 4 - Operações com números inteiros e fracionários.",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-teOqWU29JRI-175",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=teOqWU29JRI",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Aula 5 - Operações com números inteiros e fracionários.",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-xjuR1yqa8Ps-176",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=xjuR1yqa8Ps",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Aula 6 - Operações com números inteiros e fracionários.",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             }
@@ -521,6 +2149,39 @@
                   "rotulo": "QUEST",
                   "estudado": false,
                   "estudadoEm": null
+                },
+                {
+                  "id": "video-niXs_7QRGyc-177",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=niXs_7QRGyc",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Porcentagem - Aula 02",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-cKUSDHxJUIY-178",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=cKUSDHxJUIY",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Porcentagem - Aula 03",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
+                },
+                {
+                  "id": "video-F88XEI5fW8s-179",
+                  "rotulo": "VIDEO",
+                  "url": "https://www.youtube.com/watch?v=F88XEI5fW8s",
+                  "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Porcentagem - Aula 04 (Aumentos e Descontos Sucessivos)",
+                  "emoji": "🎥",
+                  "estudado": false,
+                  "estudadoEm": null,
+                  "assistido": false,
+                  "assistidoEm": null
                 }
               ]
             }
@@ -561,6 +2222,105 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-3cn7ADpfCok-180",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=3cn7ADpfCok",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Grandezas - Aula 01 (Diretamente Proporcionais)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-GbMoUkndanU-181",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=GbMoUkndanU",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Grandezas - Aula 02 (Inversamente Proporcionais)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-D-abKIJMrr4-182",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=D-abKIJMrr4",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Grandezas - Aula 03 (Exercícios)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-YGIJhu-nBBs-183",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=YGIJhu-nBBs",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Grandezas - Aula 04 (Exercícios Parte II)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-zjk0LQEj8l8-184",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=zjk0LQEj8l8",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Grandeza - Aula 05 (Exercícios Parte III)",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-0xwp2-wFZYs-185",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=0xwp2-wFZYs",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Razão e Proporção - Aula 01",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-WTMh_trHawM-186",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=WTMh_trHawM",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Razão e Proporção - Aula 02",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-jSlvWidkj7Q-187",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=jSlvWidkj7Q",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Razão e Proporção - Aula 03",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-mdWZW1gouI8-188",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=mdWZW1gouI8",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Questão 16 - Razão, Proporção e Divisão proporcional",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -577,6 +2337,50 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-_b47ebMnrHI-189",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=_b47ebMnrHI",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Equações do 2º Grau - Aula 01",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-m_ReRMFXXjY-190",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=m_ReRMFXXjY",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Equações do 2º Grau - Aula 02",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-hsz7LYdxR8c-191",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=hsz7LYdxR8c",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Equações do 2º Grau - Aula 03",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-0BaWvEyTMBI-192",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=0BaWvEyTMBI",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Equações do 2º Grau - Aula 04",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -593,6 +2397,61 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-hBIIPsZvLko-193",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=hBIIPsZvLko",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Sistema de medidas Aula 1 Unidade de comprimento",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-KvFProfH9AI-194",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=KvFProfH9AI",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Sistema de Medidas Aula 2 Unidade de área ou superfície",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-2QMKmiSBagE-195",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=2QMKmiSBagE",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Sistema de Medidas Aula 3 Unidade de volume",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-mKlcVt8D21s-196",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=mKlcVt8D21s",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Sistema de medidas Aula 4 Unidade de Capacidade",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-lDe8qCBprhU-197",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=lDe8qCBprhU",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Sistema de Medidas Aula 5 Unidade de massa e tempo",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -609,6 +2468,204 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-6Gfd0T7QZVo-198",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=6Gfd0T7QZVo",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 1 - Triângulo",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-fug3rybPUE4-199",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=fug3rybPUE4",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 2 - Triângulo retângulo",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-sNPk3Hh0syc-200",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=sNPk3Hh0syc",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 3 - Triângulo retângulo",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-pYFBADh8jrc-201",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=pYFBADh8jrc",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 4 - Quadriláteros",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-tkAlogwOPpE-202",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=tkAlogwOPpE",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 5 - Quadriláteros",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video--Z7pS-Xo3mY-203",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=-Z7pS-Xo3mY",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 6 - Quadriláteros",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-ZZmVAMl9hHE-204",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=ZZmVAMl9hHE",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 7 - Quadriláteros",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-896GYmBTBws-205",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=896GYmBTBws",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 8 - Círculo",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-bY-oOh1Ofoc-206",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=bY-oOh1Ofoc",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 9 - Círculo",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-kom8wx1mK9M-207",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=kom8wx1mK9M",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 10 - Volume",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-VFRf9ltxrtA-208",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=VFRf9ltxrtA",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 11 - Exercícios",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-FyNmkkrk2b0-209",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=FyNmkkrk2b0",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 12 - Pirâmide e Cone",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-RsDJa6EIn5g-210",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=RsDJa6EIn5g",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 13 - Esfera",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-byHztADf7IY-211",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=byHztADf7IY",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 14 - Exercícios",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-tk4hbBmvjeg-212",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=tk4hbBmvjeg",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 15 - Exercícios",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-Wtur3UH2IME-213",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=Wtur3UH2IME",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 16 - Exercícios",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-az2FT1zLfwk-214",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=az2FT1zLfwk",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 17 - Exercícios",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-eU3ArZ8zNfc-215",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=eU3ArZ8zNfc",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Problemas geométricos - Aula 18 - Exercícios",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -625,6 +2682,28 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-gDipUiA36Yk-216",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=gDipUiA36Yk",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Mapas - Plantas - Escalas - IBGE 2022",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-x2J_KKebpX4-217",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=x2J_KKebpX4",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Exercícios - Escalas - IBGE 2022",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
@@ -632,7 +2711,41 @@
         {
           "nome": "Localização e movimentação utilizando mapas e plantas baixas",
           "ordem": 8,
-          "cadernos": [],
+          "cadernos": [
+            {
+              "id": "video-ZO5sRNqzP68-218",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=ZO5sRNqzP68",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Movimentação e Localização - IBGE 2022",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-gDipUiA36Yk-219",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=gDipUiA36Yk",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Mapas - Plantas - Escalas - IBGE 2022",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-x2J_KKebpX4-220",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=x2J_KKebpX4",
+              "nome": "MatemáticaLógica - Prof. Sérgio Sarkis — Exercícios - Escalas - IBGE 2022",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            }
+          ],
           "subtopicos": []
         },
         {
@@ -671,6 +2784,314 @@
               "rotulo": "QUEST",
               "estudado": false,
               "estudadoEm": null
+            },
+            {
+              "id": "video-RPhWWv9vp2Q-019",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=RPhWWv9vp2Q",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos | Concurso IBGE 2022 - Aula 0 Introdução- Curso Gratuito- Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-C1qJjyGjpBs-020",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=C1qJjyGjpBs",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - O IBGE - Aula 01 (de 25 aulas) Prof Eduardo Tanaka - Recenseador",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-LwUb8M3hq7s-021",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=LwUb8M3hq7s",
+              "nome": "Prof. Eduardo Tanaka — IBGE 2022 URGENTE - AULA EXTRA - Errata Apostila Conhecimentos Técnicos - Aula 1-A - Prof Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-zDim9PwCZ5s-022",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=zDim9PwCZ5s",
+              "nome": "Prof. Eduardo Tanaka — NOVA AULA 2 ATUALIZADA GRÁTIS! Conhecimentos Técnicos- Concurso IBGE 2022 - O CENSO -Prof Edu Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-mtU02FTllr0-023",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=mtU02FTllr0",
+              "nome": "Prof. Eduardo Tanaka — AULAS GRÁTIS Conhecimentos Técnicos Concurso IBGE 2022 - O RECENSEADOR - Aula 03 - Prof Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-PEf4MHJFNfE-024",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=PEf4MHJFNfE",
+              "nome": "Prof. Eduardo Tanaka — ATUALIZAÇÃO da AULA 04 - Instrumentos de trabalho do Recenseador - Conhecimentos Técnicos IBGE 2022",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-SWHOJEAe02k-025",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=SWHOJEAe02k",
+              "nome": "Prof. Eduardo Tanaka — AULA GRÁTIS - CÁLCULO DA REMUNERAÇÃO DO RECENSEADOR - Aula 05 - Conhecimentos Técnicos IBGE 2022",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-5Uf6qnNc3p0-026",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=5Uf6qnNc3p0",
+              "nome": "Prof. Eduardo Tanaka — CONCURSO IBGE 2022 - Conhecimentos Técnicos - Conduta do Recenseador - Aula 06 -Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-YbNGve2yeQM-027",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=YbNGve2yeQM",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Conduta e Sigilo do Recenseador - Aula 07 - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-l03N4LDjbMI-028",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=l03N4LDjbMI",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022- Estrutura Organizacional - Aula 08 - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-j-83FGPMuqU-029",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=j-83FGPMuqU",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Agente Censitário Supervisor - Aula 09 - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-STSlzqlQ9rk-030",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=STSlzqlQ9rk",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022- Aula 10 - Atualizada - Agente Censitário Municipal - Prof Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-aEG0uT4fPbQ-031",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=aEG0uT4fPbQ",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022-Divisão Político-Administrativa do Brasil -Aula 11 Prof Edu Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-XnFTI15kEeE-032",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=XnFTI15kEeE",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Setor Censitário - Aula 12 - AULA GRÁTIS - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-0CWaym-cAEg-033",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=0CWaym-cAEg",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Situações dos Setores Censitários - Aula 13 - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-l3pYRE68Fzk-034",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=l3pYRE68Fzk",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Setores Censitários de Povos e Comunidades Tradicionais - Aula 14",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-rDAQ1Du9pa4-035",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=rDAQ1Du9pa4",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 Aula 15 - Quadra e Face - Atualizada - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-cUzx0gFm608-036",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=cUzx0gFm608",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Endereço - Aula 16 - Prof Eduardo Tanaka - Aulas Grátis",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-kuc38qEhRnc-037",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=kuc38qEhRnc",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022- Coordenadas Geográficas - Aula 17 - Prof Eduardo Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-HzLqWCW8IE0-038",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=HzLqWCW8IE0",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Aula 18 - Pesquisa Urbanística do Entorno dos Domicílios - Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-ARn1MmKN5oA-039",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=ARn1MmKN5oA",
+              "nome": "Prof. Eduardo Tanaka — ATUALIZAÇÃO da AULA 19 - MORADOR - Conhecimentos Técnicos IBGE 2022 - Prof Edu Tanaka AULA GRATIS",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-EUQvB6tRp2s-040",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=EUQvB6tRp2s",
+              "nome": "Prof. Eduardo Tanaka — AULA ATUALIZADA! Conhecimentos Técnicos IBGE 2022 - Quem deverá ser recenseado? - Aula 20 - Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-7Ixjp38aYx0-041",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=7Ixjp38aYx0",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022- Morador com mais de uma residência - Aula 20-A -Prof Edu Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-VqJD_X3i508-042",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=VqJD_X3i508",
+              "nome": "Prof. Eduardo Tanaka — Atualizada Aula 21 - Espécie de Unidade Visitada - Conhecimentos Técnicos IBGE 2022 - Prof Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-zX6Z8qLklxo-043",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=zX6Z8qLklxo",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Domicílio - Critérios Separação e Independência -Aula 22 - Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-CgS01zE096E-044",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=CgS01zE096E",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022- Classificação e Característica dos Domicílios - Aula 23 -Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-JZj0aQC-lw8-045",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=JZj0aQC-lw8",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022- Características dos Moradores - Etnias e Migração-Aula 24 Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
+            },
+            {
+              "id": "video-ArVaklR-K1o-046",
+              "rotulo": "VIDEO",
+              "url": "https://www.youtube.com/watch?v=ArVaklR-K1o",
+              "nome": "Prof. Eduardo Tanaka — Conhecimentos Técnicos IBGE 2022 - Educação - Trabalho - Concluindo - Aula 25 Prof Tanaka",
+              "emoji": "🎥",
+              "estudado": false,
+              "estudadoEm": null,
+              "assistido": false,
+              "assistidoEm": null
             }
           ],
           "subtopicos": []
