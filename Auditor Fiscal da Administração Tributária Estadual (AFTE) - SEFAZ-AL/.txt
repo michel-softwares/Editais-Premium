@@ -1,0 +1,60 @@
+============================================================
+       FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS
+============================================================
+
+🏢 ÓRGÃO: Secretaria de Estado da Fazenda de Alagoas (SEFAZ/AL)
+🪪 CARGO: Auditor Fiscal da Administração Tributária Estadual (AFTE)
+🧾 BANCA: Cebraspe
+🎓 ESCOLARIDADE: Curso de nível superior em qualquer área de formação
+👥 VAGAS: 40 imediatas + 60 cadastro de reserva
+   - Imediatas: 30 AC, 2 PcD e 8 PPIQ
+   - Cadastro de reserva: 45 AC, 3 PcD e 12 PPIQ
+💵 REMUNERAÇÃO: R$ 25.270,68
+🕒 CARGA HORÁRIA: 40 horas semanais
+💵 TAXA DE INSCRIÇÃO: R$ 300,00
+📅 PERÍODO DE INSCRIÇÃO: 17/09/2026 a 21/10/2026
+📅 ÚLTIMO DIA PARA PAGAMENTO: 23/10/2026
+📅 PROVA OBJETIVA: 20/12/2026
+📅 PROVA DISCURSIVA: 10/01/2027
+📍 LOCAL DAS PROVAS: Maceió/AL, podendo haver outras localidades
+
+📝 PAINEL DE PROVAS:
+
+• P1 - PROVA OBJETIVA - CONHECIMENTOS BÁSICOS
+  - 60 itens no formato CERTO ou ERRADO.
+  - Matemática Financeira: 5 itens
+  - Direito Constitucional: 5 itens
+  - Direito Administrativo: 5 itens
+  - Contabilidade Geral: 5 itens
+  - Direito Tributário: 10 itens
+  - Estatística e Probabilidade: 10 itens
+  - Contabilidade Pública: 10 itens
+  - Economia: 10 itens
+  - Corte-base: 12 pontos, com fórmula dinâmica do edital.
+
+• P2 - PROVA OBJETIVA - CONHECIMENTOS ESPECÍFICOS
+  - 100 itens no formato CERTO ou ERRADO.
+  - Finanças Públicas: 10 itens
+  - Legislação Tributária Estadual: 10 itens
+  - Inteligência Artificial: 10 itens
+  - Desenvolvimento de Sistemas: 10 itens
+  - Infraestrutura de TIC e Segurança da Informação: 10 itens
+  - Reforma Tributária: 15 itens
+  - Auditoria Fiscal: 15 itens
+  - Ciência de Dados: 20 itens
+  - Corte-base: 30 pontos, com fórmula dinâmica do edital.
+
+• P3 - PROVA DISCURSIVA
+  - 4 questões discursivas, valendo 10 pontos cada.
+  - Temas: Ciência de Dados, Auditoria Fiscal, Finanças Públicas e Reforma Tributária.
+  - Até 30 linhas por questão.
+  - Pontuação máxima: 40 pontos.
+  - Habilitação: mínimo de 20 pontos.
+
+⚠️ CORREÇÃO: Cebraspe/Cespe, com um ponto por acerto, um ponto negativo por erro e zero para item em branco ou com marcação dupla, conforme as fórmulas do edital.
+📚 CONTEÚDO: 8 disciplinas de conhecimentos básicos e 8 disciplinas de conhecimentos específicos, verticalizadas no arquivo JSON.
+🔗 EDITAL: http://www.cebraspe.org.br/concursos/sefaz_al_26
+
+============================================================
+      Arquivo gerado para importação no Track Concursos.
+============================================================

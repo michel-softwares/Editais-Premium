@@ -1,0 +1,4041 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Arquivo gerado para importacao no Track Concursos."
+  },
+  "exportOptions": {
+    "includeLinks": false
+  },
+  "concurso": {
+    "nome": "SEFAZ-AL",
+    "cargo": "Auditor Fiscal da Administração Tributária Estadual (AFTE)",
+    "banca": "Cebraspe",
+    "dataProva": "2026-12-20",
+    "dataProvaDiscursiva": "2027-01-10",
+    "preEdital": false,
+    "pontuacaoMax": 200,
+    "vagas": "40 imediatas + 60 cadastro de reserva (30 AC, 2 PcD e 8 PPIQ imediatas; 45 AC, 3 PcD e 12 PPIQ no cadastro de reserva)",
+    "salario": "R$ 25.270,68",
+    "escolaridade": "Curso de nível superior em qualquer área de formação, fornecido por instituição de ensino superior reconhecida pelo MEC",
+    "requisitos": "40 horas semanais. Nacionalidade brasileira ou portuguesa nas condições do edital, direitos políticos, quitação militar e eleitoral, idade mínima de 18 anos, aptidão física e mental, ausência de antecedentes criminais e demais requisitos do item 3.",
+    "taxaInscricao": "R$ 300,00",
+    "periodoInscricao": "17/09/2026 a 21/10/2026",
+    "ultimoPagamento": "23/10/2026",
+    "localProvas": "Maceió/AL, podendo ocorrer em outras localidades se não houver locais suficientes ou adequados",
+    "validade": "Dois anos a partir da homologação do resultado final, podendo ser prorrogado uma vez por igual período",
+    "linkEdital": "http://www.cebraspe.org.br/concursos/sefaz_al_26",
+    "obs": "------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos;\nConsidere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;\nPara outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com\n\nApoie o projeto financeiramente através do PIX: michelaraujo100@gmail.com\nBons estudos!",
+    "observacoes": "------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos;\nConsidere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;\nPara outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com\n\nApoie o projeto financeiramente através do PIX: michelaraujo100@gmail.com\nBons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mat_001",
+      "nome": "MATEMÁTICA FINANCEIRA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001",
+          "nome": "Regra de três simples e composta, proporcionalidades e porcentagens",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002",
+          "nome": "Juros simples e compostos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_003",
+          "nome": "Capitalização e desconto",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004",
+          "nome": "Taxas de juros nominal, efetiva, equivalente, real e aparente",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_005",
+          "nome": "Rendas uniformes e variáveis",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_006",
+          "nome": "Planos de amortização de empréstimos e financiamentos",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001",
+              "materiaId": "mat_001",
+              "nome": "Sistema francês (tabela Price)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002",
+              "materiaId": "mat_001",
+              "nome": "Sistema de amortização constante (SAC)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003",
+              "materiaId": "mat_001",
+              "nome": "Sistema de amortização misto (SAM)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_007",
+          "nome": "Cálculo financeiro",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_004",
+              "materiaId": "mat_001",
+              "nome": "Custo real e efetivo das operações de financiamento, empréstimo e investimento",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_008",
+          "nome": "Avaliação econômica de projetos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009",
+          "nome": "Taxas de retorno e taxas internas de retorno",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_002",
+      "nome": "DIREITO CONSTITUCIONAL",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_010",
+          "nome": "Constituição da República Federativa do Brasil de 1988",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011",
+          "nome": "Aplicabilidade das normas constitucionais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_005",
+              "materiaId": "mat_002",
+              "nome": "Normas de eficácia plena, contida e limitada",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006",
+              "materiaId": "mat_002",
+              "nome": "Normas programáticas",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_012",
+          "nome": "Direitos e garantias fundamentais",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_007",
+              "materiaId": "mat_002",
+              "nome": "Direitos e deveres individuais e coletivos, direitos sociais, direitos de nacionalidade, direitos políticos, partidos políticos",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_013",
+          "nome": "Organização político-administrativa do Estado",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_008",
+              "materiaId": "mat_002",
+              "nome": "Estado federal brasileiro, União, estados, Distrito Federal, municípios e territórios",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_014",
+          "nome": "Administração pública",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_009",
+              "materiaId": "mat_002",
+              "nome": "Disposições gerais, servidores públicos",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_015",
+          "nome": "Poder Executivo",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_010",
+              "materiaId": "mat_002",
+              "nome": "Atribuições e responsabilidades do presidente da República",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_016",
+          "nome": "Poder Legislativo",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_011",
+              "materiaId": "mat_002",
+              "nome": "Estrutura",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_012",
+              "materiaId": "mat_002",
+              "nome": "Funcionamento e atribuições",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_013",
+              "materiaId": "mat_002",
+              "nome": "Processo legislativo",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_014",
+              "materiaId": "mat_002",
+              "nome": "Processo legislativo federal - conceito",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_015",
+              "materiaId": "mat_002",
+              "nome": "Processo legislativo federal - espécies normativas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_016",
+              "materiaId": "mat_002",
+              "nome": "Processo legislativo federal - modalidades",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_017",
+              "materiaId": "mat_002",
+              "nome": "Processo legislativo federal - fases",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_018",
+              "materiaId": "mat_002",
+              "nome": "Processo legislativo estadual, distrital e municipal - normas constitucionais federais aplicáveis",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_019",
+              "materiaId": "mat_002",
+              "nome": "Fiscalização contábil, financeira e orçamentária",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_020",
+              "materiaId": "mat_002",
+              "nome": "Comissões parlamentares de inquérito",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_017",
+          "nome": "Poder Judiciário",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_021",
+              "materiaId": "mat_002",
+              "nome": "Disposições gerais",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_018",
+          "nome": "Funções essenciais à justiça",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_022",
+              "materiaId": "mat_002",
+              "nome": "Ministério Público, advocacia pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_023",
+              "materiaId": "mat_002",
+              "nome": "Advocacia privada e Defensoria Pública",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_019",
+          "nome": "Controle de constitucionalidade",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_024",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_025",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - histórico",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_026",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - sistemas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_027",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - pressupostos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_028",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - modalidades",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_029",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - órgãos competentes",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_030",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - sujeitos legitimados",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_031",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - objetos de controle",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_032",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - tipos de inconstitucionalidade",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_033",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - parâmetros de controle",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "id": "sub_034",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - formalidades",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "id": "sub_035",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - procedimentos",
+              "ordem": 11,
+              "cadernos": []
+            },
+            {
+              "id": "sub_036",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - julgamentos",
+              "ordem": 12,
+              "cadernos": []
+            },
+            {
+              "id": "sub_037",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - decisões",
+              "ordem": 13,
+              "cadernos": []
+            },
+            {
+              "id": "sub_038",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - efeitos das decisões",
+              "ordem": 14,
+              "cadernos": []
+            },
+            {
+              "id": "sub_039",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - técnicas de decisão",
+              "ordem": 15,
+              "cadernos": []
+            },
+            {
+              "id": "sub_040",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - segurança",
+              "ordem": 16,
+              "cadernos": []
+            },
+            {
+              "id": "sub_041",
+              "materiaId": "mat_002",
+              "nome": "Controle judicial de constitucionalidade - estabilidade das decisões",
+              "ordem": 17,
+              "cadernos": []
+            },
+            {
+              "id": "sub_042",
+              "materiaId": "mat_002",
+              "nome": "Súmula vinculante",
+              "ordem": 18,
+              "cadernos": []
+            },
+            {
+              "id": "sub_043",
+              "materiaId": "mat_002",
+              "nome": "Reclamação constitucional",
+              "ordem": 19,
+              "cadernos": []
+            },
+            {
+              "id": "sub_044",
+              "materiaId": "mat_002",
+              "nome": "Controle não judicial de constitucionalidade - órgãos",
+              "ordem": 20,
+              "cadernos": []
+            },
+            {
+              "id": "sub_045",
+              "materiaId": "mat_002",
+              "nome": "Controle não judicial de constitucionalidade - institutos",
+              "ordem": 21,
+              "cadernos": []
+            },
+            {
+              "id": "sub_046",
+              "materiaId": "mat_002",
+              "nome": "Controle não judicial de constitucionalidade - procedimentos",
+              "ordem": 22,
+              "cadernos": []
+            },
+            {
+              "id": "sub_047",
+              "materiaId": "mat_002",
+              "nome": "Controle de constitucionalidade nos estados e no Distrito Federal",
+              "ordem": 23,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_020",
+          "nome": "Ordem econômica e financeira",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_021",
+          "nome": "Finanças públicas",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_003",
+      "nome": "DIREITO ADMINISTRATIVO",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_022",
+          "nome": "Estado, governo e administração pública",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_048",
+              "materiaId": "mat_003",
+              "nome": "Conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_049",
+              "materiaId": "mat_003",
+              "nome": "Elementos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_023",
+          "nome": "Direito administrativo",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_050",
+              "materiaId": "mat_003",
+              "nome": "Conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_051",
+              "materiaId": "mat_003",
+              "nome": "Objeto",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_052",
+              "materiaId": "mat_003",
+              "nome": "Fontes",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_024",
+          "nome": "Ato administrativo",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_053",
+              "materiaId": "mat_003",
+              "nome": "Conceito, requisitos, atributos, classificação e espécies",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_054",
+              "materiaId": "mat_003",
+              "nome": "Extinção do ato administrativo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_055",
+              "materiaId": "mat_003",
+              "nome": "Cassação, anulação, revogação e convalidação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_056",
+              "materiaId": "mat_003",
+              "nome": "Decadência administrativa",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_025",
+          "nome": "Agentes públicos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_057",
+              "materiaId": "mat_003",
+              "nome": "Disposições constitucionais aplicáveis",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_058",
+              "materiaId": "mat_003",
+              "nome": "Disposições doutrinárias",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_059",
+              "materiaId": "mat_003",
+              "nome": "Conceito",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_060",
+              "materiaId": "mat_003",
+              "nome": "Espécies",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_061",
+              "materiaId": "mat_003",
+              "nome": "Cargo, emprego e função pública",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_062",
+              "materiaId": "mat_003",
+              "nome": "Provimento",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_063",
+              "materiaId": "mat_003",
+              "nome": "Vacância",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_064",
+              "materiaId": "mat_003",
+              "nome": "Efetividade, estabilidade e vitaliciedade",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_065",
+              "materiaId": "mat_003",
+              "nome": "Remuneração",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_066",
+              "materiaId": "mat_003",
+              "nome": "Direitos e deveres",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "id": "sub_067",
+              "materiaId": "mat_003",
+              "nome": "Responsabilidade",
+              "ordem": 10,
+              "cadernos": []
+            },
+            {
+              "id": "sub_068",
+              "materiaId": "mat_003",
+              "nome": "Processo administrativo disciplinar",
+              "ordem": 11,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_026",
+          "nome": "Poderes da administração pública",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_069",
+              "materiaId": "mat_003",
+              "nome": "Hierárquico, disciplinar, regulamentar e de polícia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_070",
+              "materiaId": "mat_003",
+              "nome": "Uso e abuso do poder",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_027",
+          "nome": "Regime jurídico administrativo",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_071",
+              "materiaId": "mat_003",
+              "nome": "Conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_072",
+              "materiaId": "mat_003",
+              "nome": "Princípios expressos e implícitos da administração pública",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_028",
+          "nome": "Responsabilidade civil do Estado",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_073",
+              "materiaId": "mat_003",
+              "nome": "Evolução histórica",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_074",
+              "materiaId": "mat_003",
+              "nome": "Responsabilidade civil do Estado no direito brasileiro",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_075",
+              "materiaId": "mat_003",
+              "nome": "Responsabilidade por ato comissivo do Estado",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_076",
+              "materiaId": "mat_003",
+              "nome": "Responsabilidade por omissão do Estado",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_077",
+              "materiaId": "mat_003",
+              "nome": "Requisitos para a demonstração da responsabilidade do Estado",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_078",
+              "materiaId": "mat_003",
+              "nome": "Causas excludentes e atenuantes da responsabilidade do Estado",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_079",
+              "materiaId": "mat_003",
+              "nome": "Reparação do dano",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_080",
+              "materiaId": "mat_003",
+              "nome": "Direito de regresso",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_029",
+          "nome": "Serviços públicos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_081",
+              "materiaId": "mat_003",
+              "nome": "Conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_082",
+              "materiaId": "mat_003",
+              "nome": "Elementos constitutivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_083",
+              "materiaId": "mat_003",
+              "nome": "Formas de prestação e meios de execução",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_084",
+              "materiaId": "mat_003",
+              "nome": "Delegação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_085",
+              "materiaId": "mat_003",
+              "nome": "Concessão, permissão e autorização",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_086",
+              "materiaId": "mat_003",
+              "nome": "Classificação",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_087",
+              "materiaId": "mat_003",
+              "nome": "Princípios",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_030",
+          "nome": "Organização administrativa",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_088",
+              "materiaId": "mat_003",
+              "nome": "Centralização, descentralização, concentração e desconcentração",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_089",
+              "materiaId": "mat_003",
+              "nome": "Administração direta e indireta",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_090",
+              "materiaId": "mat_003",
+              "nome": "Autarquias, fundações, empresas públicas e sociedades de economia mista",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_091",
+              "materiaId": "mat_003",
+              "nome": "Entidades paraestatais e terceiro setor",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_092",
+              "materiaId": "mat_003",
+              "nome": "Serviços sociais autônomos, entidades de apoio, organizações sociais, organizações da sociedade civil de interesse público",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_031",
+          "nome": "Controle da administração pública",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_093",
+              "materiaId": "mat_003",
+              "nome": "Controle exercido pela administração pública",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_094",
+              "materiaId": "mat_003",
+              "nome": "Controle judicial",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_095",
+              "materiaId": "mat_003",
+              "nome": "Controle legislativo",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_096",
+              "materiaId": "mat_003",
+              "nome": "Improbidade administrativa",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_097",
+              "materiaId": "mat_003",
+              "nome": "Lei nº 8.429/1992 e suas alterações",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_032",
+          "nome": "Processo administrativo",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_033",
+          "nome": "Licitações e contratos administrativos",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_098",
+              "materiaId": "mat_003",
+              "nome": "Legislação pertinente",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_099",
+              "materiaId": "mat_003",
+              "nome": "Lei nº 14.133/2021",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_100",
+              "materiaId": "mat_003",
+              "nome": "Decreto nº 11.462/2013 e suas alterações (Sistema de registro de preços)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_101",
+              "materiaId": "mat_003",
+              "nome": "Fundamentos constitucionais",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_102",
+              "materiaId": "mat_003",
+              "nome": "Elaboração e fiscalização de contratos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_103",
+              "materiaId": "mat_003",
+              "nome": "Elaboração de projetos básicos para contratação de bens e serviços",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_104",
+              "materiaId": "mat_003",
+              "nome": "Critérios de remuneração por esforço versus produto",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_105",
+              "materiaId": "mat_003",
+              "nome": "Cláusulas e indicadores de nível de serviço",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_106",
+              "materiaId": "mat_003",
+              "nome": "Papel do fiscalizador do contrato",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_107",
+              "materiaId": "mat_003",
+              "nome": "Acompanhamento da execução contratual",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "id": "sub_108",
+              "materiaId": "mat_003",
+              "nome": "Definição e aplicação de penalidades e sanções administrativas",
+              "ordem": 10,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_034",
+          "nome": "Crimes contra a Administração Pública previstos no Código Penal",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_004",
+      "nome": "CONTABILIDADE GERAL",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_035",
+          "nome": "Conceitos, objetivos e finalidades da contabilidade",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_036",
+          "nome": "Patrimônio",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_109",
+              "materiaId": "mat_004",
+              "nome": "componentes",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_110",
+              "materiaId": "mat_004",
+              "nome": "equação fundamental do patrimônio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_111",
+              "materiaId": "mat_004",
+              "nome": "situação líquida",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_112",
+              "materiaId": "mat_004",
+              "nome": "representação gráfica",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_037",
+          "nome": "Atos e fatos administrativos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_113",
+              "materiaId": "mat_004",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_114",
+              "materiaId": "mat_004",
+              "nome": "fatos permutativos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_115",
+              "materiaId": "mat_004",
+              "nome": "modificativos e mistos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_038",
+          "nome": "Contas",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_116",
+              "materiaId": "mat_004",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_117",
+              "materiaId": "mat_004",
+              "nome": "contas de débitos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_118",
+              "materiaId": "mat_004",
+              "nome": "contas de créditos e saldos",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_039",
+          "nome": "Plano de contas",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_119",
+              "materiaId": "mat_004",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_120",
+              "materiaId": "mat_004",
+              "nome": "elenco de contas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_121",
+              "materiaId": "mat_004",
+              "nome": "função e funcionamento das contas",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_040",
+          "nome": "Escrituração",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_122",
+              "materiaId": "mat_004",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_123",
+              "materiaId": "mat_004",
+              "nome": "lançamentos contábeis",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_124",
+              "materiaId": "mat_004",
+              "nome": "elementos essenciais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_125",
+              "materiaId": "mat_004",
+              "nome": "fórmulas de lançamentos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_126",
+              "materiaId": "mat_004",
+              "nome": "livros de escrituração",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_127",
+              "materiaId": "mat_004",
+              "nome": "métodos e processos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_128",
+              "materiaId": "mat_004",
+              "nome": "regime de competência e regime de caixa",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_041",
+          "nome": "Contabilização de operações contábeis diversas",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_129",
+              "materiaId": "mat_004",
+              "nome": "juros",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_130",
+              "materiaId": "mat_004",
+              "nome": "descontos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_131",
+              "materiaId": "mat_004",
+              "nome": "tributos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_132",
+              "materiaId": "mat_004",
+              "nome": "aluguéis",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_133",
+              "materiaId": "mat_004",
+              "nome": "variação monetária/cambial",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_134",
+              "materiaId": "mat_004",
+              "nome": "folha de pagamento",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_135",
+              "materiaId": "mat_004",
+              "nome": "compras",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_136",
+              "materiaId": "mat_004",
+              "nome": "vendas e provisões",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_137",
+              "materiaId": "mat_004",
+              "nome": "depreciações e baixa de bens",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_042",
+          "nome": "Balancete de verificação",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_138",
+              "materiaId": "mat_004",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_139",
+              "materiaId": "mat_004",
+              "nome": "modelos e técnicas de elaboração",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_043",
+          "nome": "Balanço patrimonial",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_140",
+              "materiaId": "mat_004",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_141",
+              "materiaId": "mat_004",
+              "nome": "objetivo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_142",
+              "materiaId": "mat_004",
+              "nome": "composição",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_044",
+          "nome": "Demonstração de resultado de exercício",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_143",
+              "materiaId": "mat_004",
+              "nome": "conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_144",
+              "materiaId": "mat_004",
+              "nome": "objetivo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_145",
+              "materiaId": "mat_004",
+              "nome": "composição",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_045",
+          "nome": "Normas Brasileiras de Contabilidade",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_005",
+      "nome": "DIREITO TRIBUTÁRIO",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_046",
+          "nome": "Sistema Tributário Nacional. Princípios Gerais. Limitações do Poder de Tributar",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_047",
+          "nome": "Direito tributário. Conceito e princípios",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_048",
+          "nome": "Tributos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_146",
+              "materiaId": "mat_005",
+              "nome": "conceito e espécies",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_147",
+              "materiaId": "mat_005",
+              "nome": "Impostos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_148",
+              "materiaId": "mat_005",
+              "nome": "Taxas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_149",
+              "materiaId": "mat_005",
+              "nome": "Contribuição de Melhoria",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_150",
+              "materiaId": "mat_005",
+              "nome": "Imunidades",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_151",
+              "materiaId": "mat_005",
+              "nome": "Impostos da União",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_152",
+              "materiaId": "mat_005",
+              "nome": "Impostos dos estados e do Distrito Federal",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_153",
+              "materiaId": "mat_005",
+              "nome": "Impostos dos municípios",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_049",
+          "nome": "Repartição das receitas tributárias",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_050",
+          "nome": "Código Tributário Nacional. Competência tributária e suas limitações. Normas gerais de direito tributário. Norma tributária",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_154",
+              "materiaId": "mat_005",
+              "nome": "espécies",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_155",
+              "materiaId": "mat_005",
+              "nome": "vigência e aplicação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_156",
+              "materiaId": "mat_005",
+              "nome": "interpretação e integração",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_157",
+              "materiaId": "mat_005",
+              "nome": "natureza",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_051",
+          "nome": "Obrigação tributária",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_158",
+              "materiaId": "mat_005",
+              "nome": "conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_159",
+              "materiaId": "mat_005",
+              "nome": "espécies",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_160",
+              "materiaId": "mat_005",
+              "nome": "fato gerador (hipótese de incidência)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_161",
+              "materiaId": "mat_005",
+              "nome": "sujeitos ativo e passivo",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_162",
+              "materiaId": "mat_005",
+              "nome": "solidariedade",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_163",
+              "materiaId": "mat_005",
+              "nome": "capacidade tributária",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_164",
+              "materiaId": "mat_005",
+              "nome": "domicílio tributário",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_052",
+          "nome": "Responsabilidade tributária. Responsabilidade dos Sucessores. Solidariedade e sucessão. Responsabilidade pessoal e de terceiros. Responsabilidade por infrações. Responsabilidade supletiva",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_053",
+          "nome": "Crédito tributário",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_165",
+              "materiaId": "mat_005",
+              "nome": "conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_166",
+              "materiaId": "mat_005",
+              "nome": "natureza",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_167",
+              "materiaId": "mat_005",
+              "nome": "lançamento e suas modalidades",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_168",
+              "materiaId": "mat_005",
+              "nome": "revisão",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_169",
+              "materiaId": "mat_005",
+              "nome": "suspensão",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_170",
+              "materiaId": "mat_005",
+              "nome": "extinção e exclusão",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_171",
+              "materiaId": "mat_005",
+              "nome": "prescrição e decadência",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_172",
+              "materiaId": "mat_005",
+              "nome": "repetição do indébito",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_054",
+          "nome": "Garantias e privilégios do crédito tributário",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_055",
+          "nome": "Administração Tributária. Fiscalização. Sigilo Fiscal. Dívida Ativa. Certidões Negativas",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_056",
+          "nome": "Lei Complementar nº 118, de 2005",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_057",
+          "nome": "Crimes contra a ordem tributária (Lei nº 8.137/1990 e suas alterações)",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_006",
+      "nome": "ESTATÍSTICA E PROBABILIDADE",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_058",
+          "nome": "Estatística descritiva",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_059",
+          "nome": "Análise exploratória de dados",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_173",
+              "materiaId": "mat_006",
+              "nome": "Gráficos, diagramas, tabelas, medidas descritivas (posição, dispersão, assimetria e curtose)",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_060",
+          "nome": "Probabilidade",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_174",
+              "materiaId": "mat_006",
+              "nome": "Definições básicas e axiomas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_175",
+              "materiaId": "mat_006",
+              "nome": "Probabilidade condicional e independência",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_061",
+          "nome": "Amostragem",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_176",
+              "materiaId": "mat_006",
+              "nome": "Amostragem aleatória simples, estratificada, sistemática e por conglomerados",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_007",
+      "nome": "CONTABILIDADE PÚBLICA",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_062",
+          "nome": "Conceituação, objeto e campo de aplicação",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_063",
+          "nome": "Patrimônio público",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_177",
+              "materiaId": "mat_007",
+              "nome": "Ativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_178",
+              "materiaId": "mat_007",
+              "nome": "Passivo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_179",
+              "materiaId": "mat_007",
+              "nome": "Saldo patrimonial",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_064",
+          "nome": "Variações patrimoniais",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_180",
+              "materiaId": "mat_007",
+              "nome": "Qualitativas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_181",
+              "materiaId": "mat_007",
+              "nome": "Quantitativas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_182",
+              "materiaId": "mat_007",
+              "nome": "Receita e despesa sob o enfoque patrimonial",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_183",
+              "materiaId": "mat_007",
+              "nome": "Realização da variação patrimonial",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_184",
+              "materiaId": "mat_007",
+              "nome": "Resultado patrimonial",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_065",
+          "nome": "Mensuração de ativos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_185",
+              "materiaId": "mat_007",
+              "nome": "Ativo imobilizado",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_186",
+              "materiaId": "mat_007",
+              "nome": "Ativo intangível",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_187",
+              "materiaId": "mat_007",
+              "nome": "Reavaliação e redução ao valor recuperável",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_188",
+              "materiaId": "mat_007",
+              "nome": "Depreciação, amortização e exaustão",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_066",
+          "nome": "Mensuração de passivos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_189",
+              "materiaId": "mat_007",
+              "nome": "Provisões",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_190",
+              "materiaId": "mat_007",
+              "nome": "Passivos contingentes",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_067",
+          "nome": "Tratamento contábil aplicável aos impostos e contribuições",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_068",
+          "nome": "Sistema de custos",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_191",
+              "materiaId": "mat_007",
+              "nome": "Aspectos legais do sistema de custos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_192",
+              "materiaId": "mat_007",
+              "nome": "Ambiente da informação de custos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_193",
+              "materiaId": "mat_007",
+              "nome": "Características da informação de custos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_194",
+              "materiaId": "mat_007",
+              "nome": "Terminologia de custos",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_069",
+          "nome": "Plano de Contas Aplicado ao Setor Público – PCASP",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_070",
+          "nome": "Demonstrações Contábeis Aplicadas ao Setor Público – DCASP",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_195",
+              "materiaId": "mat_007",
+              "nome": "Balanço orçamentário",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_196",
+              "materiaId": "mat_007",
+              "nome": "Balanço financeiro",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_197",
+              "materiaId": "mat_007",
+              "nome": "Demonstração das variações patrimoniais",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_198",
+              "materiaId": "mat_007",
+              "nome": "Balanço patrimonial",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_199",
+              "materiaId": "mat_007",
+              "nome": "Demonstração dos fluxos de caixa",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_200",
+              "materiaId": "mat_007",
+              "nome": "Demonstração das mutações do patrimônio líquido",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_201",
+              "materiaId": "mat_007",
+              "nome": "Notas explicativas às demonstrações contábeis",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_202",
+              "materiaId": "mat_007",
+              "nome": "Consolidação das demonstrações contábeis",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_071",
+          "nome": "Transações no setor público",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_072",
+          "nome": "Normas Brasileiras de Contabilidade Aplicadas ao Setor Público – NBC TSP",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_073",
+          "nome": "Manual de Contabilidade Aplicada ao Setor Público – MCASP, 11ª edição",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_074",
+          "nome": "Regime contábil",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_008",
+      "nome": "ECONOMIA",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_075",
+          "nome": "Introdução aos problemas econômicos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_203",
+              "materiaId": "mat_008",
+              "nome": "escassez e escolha",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_204",
+              "materiaId": "mat_008",
+              "nome": "curva de possibilidades de produção",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_205",
+              "materiaId": "mat_008",
+              "nome": "fatores de produção",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_206",
+              "materiaId": "mat_008",
+              "nome": "produtividade e remuneração dos fatores",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_207",
+              "materiaId": "mat_008",
+              "nome": "livre mercado",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_208",
+              "materiaId": "mat_008",
+              "nome": "papel do governo em uma economia em desenvolvimento",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_076",
+          "nome": "Microeconomia",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_209",
+              "materiaId": "mat_008",
+              "nome": "oferta e demanda",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_210",
+              "materiaId": "mat_008",
+              "nome": "elasticidades",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_211",
+              "materiaId": "mat_008",
+              "nome": "teoria da produção",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_212",
+              "materiaId": "mat_008",
+              "nome": "custos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_213",
+              "materiaId": "mat_008",
+              "nome": "concorrência perfeita",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_214",
+              "materiaId": "mat_008",
+              "nome": "monopólio",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_215",
+              "materiaId": "mat_008",
+              "nome": "eficiência econômica",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_216",
+              "materiaId": "mat_008",
+              "nome": "bens públicos e falhas de mercado",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_077",
+          "nome": "Macroeconomia",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_217",
+              "materiaId": "mat_008",
+              "nome": "contas nacionais",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_218",
+              "materiaId": "mat_008",
+              "nome": "produto e renda",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_219",
+              "materiaId": "mat_008",
+              "nome": "agregados macroeconômicos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_220",
+              "materiaId": "mat_008",
+              "nome": "consumo",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_221",
+              "materiaId": "mat_008",
+              "nome": "poupança e investimento",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_222",
+              "materiaId": "mat_008",
+              "nome": "multiplicador",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_223",
+              "materiaId": "mat_008",
+              "nome": "setor público",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_224",
+              "materiaId": "mat_008",
+              "nome": "políticas de estabilização",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_009",
+      "nome": "FINANÇAS PÚBLICAS",
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_078",
+          "nome": "Finanças públicas",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_225",
+              "materiaId": "mat_009",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_226",
+              "materiaId": "mat_009",
+              "nome": "objetivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_227",
+              "materiaId": "mat_009",
+              "nome": "metas e abrangência",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_228",
+              "materiaId": "mat_009",
+              "nome": "Funções do Estado e função de bem-estar",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_229",
+              "materiaId": "mat_009",
+              "nome": "Políticas alocativas, distributivas e de estabilização",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_230",
+              "materiaId": "mat_009",
+              "nome": "Financiamento dos gastos públicos, tributação e equidade",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_231",
+              "materiaId": "mat_009",
+              "nome": "Tipos de tributos",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_232",
+              "materiaId": "mat_009",
+              "nome": "progressividade",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_233",
+              "materiaId": "mat_009",
+              "nome": "regressividade e neutralidade",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_079",
+          "nome": "Política econômica e fiscal",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_234",
+              "materiaId": "mat_009",
+              "nome": "Instrumentos das políticas fiscal, regulatória e monetária",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_235",
+              "materiaId": "mat_009",
+              "nome": "Equilíbrio orçamentário, estabilização da moeda, pleno emprego, desenvolvimento econômico e redistribuição da renda",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_236",
+              "materiaId": "mat_009",
+              "nome": "Déficit público - conceito",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_237",
+              "materiaId": "mat_009",
+              "nome": "Déficit público - mensuração",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_238",
+              "materiaId": "mat_009",
+              "nome": "Déficit público - financiamento",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_239",
+              "materiaId": "mat_009",
+              "nome": "Déficit público - sustentabilidade da política fiscal",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_240",
+              "materiaId": "mat_009",
+              "nome": "Crédito público como fonte de financiamento e seus limites",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_241",
+              "materiaId": "mat_009",
+              "nome": "Dívida pública",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_242",
+              "materiaId": "mat_009",
+              "nome": "Reformas administrativa e previdenciária e seus impactos fiscais",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_080",
+          "nome": "Orçamento público",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_243",
+              "materiaId": "mat_009",
+              "nome": "Conceito, técnicas e princípios orçamentários",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_244",
+              "materiaId": "mat_009",
+              "nome": "Ciclo e processo orçamentários",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_081",
+          "nome": "Orçamento público no Brasil",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_245",
+              "materiaId": "mat_009",
+              "nome": "Sistema de planejamento e orçamento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_246",
+              "materiaId": "mat_009",
+              "nome": "Plano plurianual, lei de diretrizes orçamentárias e lei orçamentária anual",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_247",
+              "materiaId": "mat_009",
+              "nome": "Sistema e processo de orçamentação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_248",
+              "materiaId": "mat_009",
+              "nome": "Classificações orçamentárias e estrutura programática",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_249",
+              "materiaId": "mat_009",
+              "nome": "Créditos ordinários e adicionais",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_082",
+          "nome": "Programação e execução orçamentária e financeira",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_250",
+              "materiaId": "mat_009",
+              "nome": "Descentralização orçamentária e financeira",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_251",
+              "materiaId": "mat_009",
+              "nome": "Acompanhamento e controle da execução",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_252",
+              "materiaId": "mat_009",
+              "nome": "Sistemas de informações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_253",
+              "materiaId": "mat_009",
+              "nome": "Alterações orçamentárias e créditos adicionais",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_083",
+          "nome": "Receita pública",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_254",
+              "materiaId": "mat_009",
+              "nome": "conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_255",
+              "materiaId": "mat_009",
+              "nome": "classificações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_256",
+              "materiaId": "mat_009",
+              "nome": "estágios",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_257",
+              "materiaId": "mat_009",
+              "nome": "fontes e dívida ativa",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_084",
+          "nome": "Despesa pública",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_258",
+              "materiaId": "mat_009",
+              "nome": "conceito",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_259",
+              "materiaId": "mat_009",
+              "nome": "classificações e estágios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_260",
+              "materiaId": "mat_009",
+              "nome": "Restos a pagar",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_261",
+              "materiaId": "mat_009",
+              "nome": "Despesas de exercícios anteriores",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_262",
+              "materiaId": "mat_009",
+              "nome": "Dívidas flutuante e fundada",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_263",
+              "materiaId": "mat_009",
+              "nome": "Suprimento de fundos",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_264",
+              "materiaId": "mat_009",
+              "nome": "Ordenador de despesa - conceito",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_265",
+              "materiaId": "mat_009",
+              "nome": "Ordenador de despesa - ordenador primário",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_266",
+              "materiaId": "mat_009",
+              "nome": "Ordenador de despesa - delegação de competência",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_085",
+          "nome": "Responsabilidade e controle fiscal",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_267",
+              "materiaId": "mat_009",
+              "nome": "Lei Complementar nº 101/2000 e suas alterações (Lei de Responsabilidade Fiscal)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_268",
+              "materiaId": "mat_009",
+              "nome": "Lei nº 4.320/1964 e suas alterações",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_269",
+              "materiaId": "mat_009",
+              "nome": "SIAFI (Sistema Integrado de Administração Financeira)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_086",
+          "nome": "Fluxo de caixa",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_270",
+              "materiaId": "mat_009",
+              "nome": "Elaboração, apresentação, projeção e análise",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_271",
+              "materiaId": "mat_009",
+              "nome": "Fluxos de caixa descontados",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_272",
+              "materiaId": "mat_009",
+              "nome": "Valor presente líquido (VPL) e taxa interna de retorno (TIR)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_273",
+              "materiaId": "mat_009",
+              "nome": "Valores antecipados e postecipados",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_274",
+              "materiaId": "mat_009",
+              "nome": "valor presente e valor futuro",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_275",
+              "materiaId": "mat_009",
+              "nome": "taxa de juros e prazo",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_087",
+          "nome": "Moeda, crédito e Sistema Financeiro Nacional",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_276",
+              "materiaId": "mat_009",
+              "nome": "Conceitos e funções da moeda",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_277",
+              "materiaId": "mat_009",
+              "nome": "Base monetária, meios de pagamento e multiplicador monetário",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_278",
+              "materiaId": "mat_009",
+              "nome": "Banco Central e instrumentos de controle monetário",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_279",
+              "materiaId": "mat_009",
+              "nome": "Estrutura e instituições do Sistema Financeiro Nacional",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_088",
+          "nome": "Setor externo",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_280",
+              "materiaId": "mat_009",
+              "nome": "balanço de pagamentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_281",
+              "materiaId": "mat_009",
+              "nome": "equilíbrio e desequilíbrio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_282",
+              "materiaId": "mat_009",
+              "nome": "taxas de câmbio e regimes cambiais fixos e flexíveis",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_089",
+          "nome": "Mercado financeiro brasileiro",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_283",
+              "materiaId": "mat_009",
+              "nome": "Dinâmica e instituições",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_284",
+              "materiaId": "mat_009",
+              "nome": "Mercados primário e secundário e bolsas de valores",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_285",
+              "materiaId": "mat_009",
+              "nome": "Operações à vista, contratos a termo, contratos futuros e mercado de opções",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_010",
+      "nome": "LEGISLAÇÃO TRIBUTÁRIA ESTADUAL",
+      "ordem": 9,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_090",
+          "nome": "Lei Estadual nº 5.900/1996 (ICMS), e suas alterações",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_091",
+          "nome": "Lei Estadual nº 6.555/2004 (IPVA), e suas alterações",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_092",
+          "nome": "Lei Estadual nº 5.077/1989 (ITCD), e suas alterações",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_093",
+          "nome": "Lei Estadual nº 6.771/2006 (Processo Administrativo Tributário), e suas alterações",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_094",
+          "nome": "Lei Estadual nº 8.085/2018 (Programa Contribuinte Arretado), e suas alterações",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_011",
+      "nome": "INTELIGÊNCIA ARTIFICIAL",
+      "ordem": 10,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_095",
+          "nome": "Fundamentos de inteligência artificial",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_286",
+              "materiaId": "mat_011",
+              "nome": "Relações entre inteligência artificial, aprendizado de máquina e deep learning",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_096",
+          "nome": "Redes neurais artificiais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_097",
+          "nome": "Deep learning",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_098",
+          "nome": "Processamento de linguagem natural",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_287",
+              "materiaId": "mat_011",
+              "nome": "Mineração de texto",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_099",
+          "nome": "Visão computacional",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_100",
+          "nome": "Inteligência artificial generativa",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_288",
+              "materiaId": "mat_011",
+              "nome": "Modelos de linguagem de grande escala – LLM",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_289",
+              "materiaId": "mat_011",
+              "nome": "Geração aumentada por recuperação – RAG",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_012",
+      "nome": "DESENVOLVIMENTO DE SISTEMAS",
+      "ordem": 11,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_101",
+          "nome": "Modelagem de processos de negócio",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_290",
+              "materiaId": "mat_012",
+              "nome": "Conceitos básicos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_291",
+              "materiaId": "mat_012",
+              "nome": "Identificação e delimitação de processos de negócio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_292",
+              "materiaId": "mat_012",
+              "nome": "Técnicas de mapeamento de processos (modelos AS-IS e TO-BE)",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_102",
+          "nome": "Metodologias ágeis de desenvolvimento de software",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_293",
+              "materiaId": "mat_012",
+              "nome": "XP",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_294",
+              "materiaId": "mat_012",
+              "nome": "Scrum e Kanban",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_103",
+          "nome": "Integração contínua e entrega contínua",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_104",
+          "nome": "Arquitetura de software",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_295",
+              "materiaId": "mat_012",
+              "nome": "Arquitetura de aplicações web em modelo de três camadas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_296",
+              "materiaId": "mat_012",
+              "nome": "Domain-driven design (DDD)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_297",
+              "materiaId": "mat_012",
+              "nome": "Arquitetura orientada a serviços (SOA)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_298",
+              "materiaId": "mat_012",
+              "nome": "Arquitetura de microsserviços",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_105",
+          "nome": "Soluções de integração entre sistemas",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_299",
+              "materiaId": "mat_012",
+              "nome": "API REST",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_106",
+          "nome": "Testes de software",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_300",
+              "materiaId": "mat_012",
+              "nome": "testes unitários",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_301",
+              "materiaId": "mat_012",
+              "nome": "testes de integração e TDD",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_107",
+          "nome": "Desenvolvimento",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_302",
+              "materiaId": "mat_012",
+              "nome": "Linguagem Java",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_303",
+              "materiaId": "mat_012",
+              "nome": "Linguagem JavaScript",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_108",
+          "nome": "Ferramentas de versionamento Git",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_109",
+          "nome": "Segurança no desenvolvimento",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_304",
+              "materiaId": "mat_012",
+              "nome": "Práticas de programação segura e revisão de código",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_305",
+              "materiaId": "mat_012",
+              "nome": "Melhores práticas de codificação segura OWASP",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_110",
+          "nome": "Conceitos avançados em engenharia e arquitetura de software",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_306",
+              "materiaId": "mat_012",
+              "nome": "Arquitetura orientada a eventos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_307",
+              "materiaId": "mat_012",
+              "nome": "Mensageria",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_308",
+              "materiaId": "mat_012",
+              "nome": "Transações distribuídas e teorema CAP",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_309",
+              "materiaId": "mat_012",
+              "nome": "Gerenciamento de identidades com OAuth 2.0 e JWT",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_310",
+              "materiaId": "mat_012",
+              "nome": "API gateways",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_013",
+      "nome": "INFRAESTRUTURA DE TIC E SEGURANÇA DA INFORMAÇÃO",
+      "ordem": 12,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_111",
+          "nome": "Infraestrutura em nuvem",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_311",
+              "materiaId": "mat_013",
+              "nome": "Nuvens pública e privada",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_312",
+              "materiaId": "mat_013",
+              "nome": "IaaS",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_313",
+              "materiaId": "mat_013",
+              "nome": "PaaS",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_314",
+              "materiaId": "mat_013",
+              "nome": "SaaS e workloads",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_315",
+              "materiaId": "mat_013",
+              "nome": "Estratégias de migração de aplicações, computação serverless e modelo de responsabilidade compartilhada",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_316",
+              "materiaId": "mat_013",
+              "nome": "Contêineres e orquestração - Docker",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_317",
+              "materiaId": "mat_013",
+              "nome": "Contêineres e orquestração - Podman",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_318",
+              "materiaId": "mat_013",
+              "nome": "Contêineres e orquestração - Kubernetes",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_112",
+          "nome": "DevOps e DevSecOps",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_319",
+              "materiaId": "mat_013",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_320",
+              "materiaId": "mat_013",
+              "nome": "práticas e ferramentas",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_113",
+          "nome": "Gestão de serviços",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_321",
+              "materiaId": "mat_013",
+              "nome": "Conceitos e práticas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_322",
+              "materiaId": "mat_013",
+              "nome": "ITIL v4 - controle de mudanças",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_323",
+              "materiaId": "mat_013",
+              "nome": "ITIL v4 - gerenciamento de liberação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_324",
+              "materiaId": "mat_013",
+              "nome": "ITIL v4 - incidentes",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_325",
+              "materiaId": "mat_013",
+              "nome": "ITIL v4 - problemas",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_326",
+              "materiaId": "mat_013",
+              "nome": "ITIL v4 - service desk",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_114",
+          "nome": "Forense computacional",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_327",
+              "materiaId": "mat_013",
+              "nome": "Preservação de evidências, hash de arquivos e cadeia de custódia",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_328",
+              "materiaId": "mat_013",
+              "nome": "Coleta, espelhamento e imagem de discos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_329",
+              "materiaId": "mat_013",
+              "nome": "Técnicas antiforense - criptografia",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_330",
+              "materiaId": "mat_013",
+              "nome": "Técnicas antiforense - esteganografia",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_331",
+              "materiaId": "mat_013",
+              "nome": "Sanitização de discos e wipe",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_115",
+          "nome": "Redes de computadores",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_332",
+              "materiaId": "mat_013",
+              "nome": "Firewall e web application firewall (WAF)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_333",
+              "materiaId": "mat_013",
+              "nome": "Proxy e proxy reverso",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_334",
+              "materiaId": "mat_013",
+              "nome": "DNS",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_335",
+              "materiaId": "mat_013",
+              "nome": "Redes MPLS e SD-WAN",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_336",
+              "materiaId": "mat_013",
+              "nome": "Segmentação e microssegmentação de redes",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_116",
+          "nome": "Segurança da informação",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_337",
+              "materiaId": "mat_013",
+              "nome": "Gestão de segurança da informação e continuidade do negócio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_338",
+              "materiaId": "mat_013",
+              "nome": "Gestão de identidade e acesso",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_339",
+              "materiaId": "mat_013",
+              "nome": "Gestão de riscos de segurança da informação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_340",
+              "materiaId": "mat_013",
+              "nome": "Arquitetura zero trust",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_341",
+              "materiaId": "mat_013",
+              "nome": "Identificação, análise e correção de vulnerabilidades",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_342",
+              "materiaId": "mat_013",
+              "nome": "Ataques em redes e aplicações corporativas e medidas de proteção",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_343",
+              "materiaId": "mat_013",
+              "nome": "Segurança de endpoints",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_344",
+              "materiaId": "mat_013",
+              "nome": "Avaliação e testes de segurança em infraestrutura, redes e aplicações",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_345",
+              "materiaId": "mat_013",
+              "nome": "Infraestrutura de chaves públicas e certificação digital",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "id": "sub_346",
+              "materiaId": "mat_013",
+              "nome": "Prevenção e tratamento de incidentes de segurança da informação",
+              "ordem": 9,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_014",
+      "nome": "REFORMA TRIBUTÁRIA",
+      "ordem": 13,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_117",
+          "nome": "Emenda Constitucional nº 132/2023",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_118",
+          "nome": "Lei Complementar nº 214/2025",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_119",
+          "nome": "Lei Complementar nº 227/2026",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_120",
+          "nome": "Resolução CGIBS nº 6/2026, alterada pela Resolução CGIBS nº 13/2026 (Regulamento do IBS)",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_121",
+          "nome": "IBS, CBS e Imposto Seletivo",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_122",
+          "nome": "Princípio do destino",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_123",
+          "nome": "Incidência, não incidência, imunidades, fato gerador, base de cálculo, alíquotas e sujeição passiva",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_124",
+          "nome": "Não cumulatividade e apropriação de créditos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_125",
+          "nome": "Extinção dos débitos, ressarcimento e pagamento indevido",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_126",
+          "nome": "Importação e exportação",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_127",
+          "nome": "Cashback e Cesta Básica Nacional",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_128",
+          "nome": "Regimes diferenciados e específicos",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_129",
+          "nome": "Administração Tributária e Comitê Gestor do IBS",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_130",
+          "nome": "Processo Administrativo Tributário do IBS",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_131",
+          "nome": "Distribuição do produto da arrecadação do IBS",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_132",
+          "nome": "Regras de transição do IBS, CBS e ICMS",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_133",
+          "nome": "Split payment",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_134",
+          "nome": "Apuração assistida",
+          "ordem": 17,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_135",
+          "nome": "Sistema Nacional de Gestão de Informações Territoriais (Sinter) e Cadastro Imobiliário Brasileiro (CIB)",
+          "ordem": 18,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_136",
+          "nome": "Tabela de Código de Crédito Presumido do IBS e CBS (cCredPres)",
+          "ordem": 19,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_137",
+          "nome": "Novas obrigações acessórias",
+          "ordem": 20,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_347",
+              "materiaId": "mat_014",
+              "nome": "DeRE",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_348",
+              "materiaId": "mat_014",
+              "nome": "Nota Fiscal de Alienação de Bens Imóveis (NF-ABI)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_349",
+              "materiaId": "mat_014",
+              "nome": "Nota Fiscal de Água e Saneamento (NFAg)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_350",
+              "materiaId": "mat_014",
+              "nome": "Bilhete de Passagem Eletrônico Aéreo (BP-e Aéreo)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_351",
+              "materiaId": "mat_014",
+              "nome": "Nota Fiscal de Gás (NF-e Gás) e declarações e documentos fiscais das plataformas digitais",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_015",
+      "nome": "AUDITORIA FISCAL",
+      "ordem": 14,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_138",
+          "nome": "Sistema Público de Escrituração Digital (SPED)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_139",
+          "nome": "Manual de Orientação ao Contribuinte da NF-e e NFC-e (MOC – versão 7.0)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_140",
+          "nome": "Guia Prático da EFD ICMS/IPI (versão 3.2.2)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_141",
+          "nome": "Manual de Orientação ao Contribuinte do CT-e e CT-e OS (versão 4.0)",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_142",
+          "nome": "Manual de Orientação ao Contribuinte do MDF-e (versão 3.0b)",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_143",
+          "nome": "Tabelas nacionais CFOP, CST, CSOSN e cBenef",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_144",
+          "nome": "Cruzamento e consistência entre documentos fiscais eletrônicos e EFD ICMS/IPI",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_145",
+          "nome": "Identificação de omissão de receitas, divergências de escrituração, créditos indevidos e inconsistências fiscais",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_016",
+      "nome": "CIÊNCIA DE DADOS",
+      "ordem": 15,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_146",
+          "nome": "Dado, informação, conhecimento e inteligência",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_352",
+              "materiaId": "mat_016",
+              "nome": "Dados estruturados e não estruturados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_353",
+              "materiaId": "mat_016",
+              "nome": "Dados abertos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_147",
+          "nome": "Coleta, tratamento, armazenamento, integração e recuperação de dados",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_148",
+          "nome": "Bancos de dados relacionais",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_354",
+              "materiaId": "mat_016",
+              "nome": "Conceitos e características",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_355",
+              "materiaId": "mat_016",
+              "nome": "Metadados, tabelas, visões, índices, chaves e relacionamentos",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_149",
+          "nome": "Modelagem relacional, dimensional e multidimensional",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_150",
+          "nome": "Planilhas e SQL",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_151",
+          "nome": "Processo de ciência de dados",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_356",
+              "materiaId": "mat_016",
+              "nome": "Modelo de referência CRISP-DM",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_357",
+              "materiaId": "mat_016",
+              "nome": "Técnicas de pré- processamento de dados",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_152",
+          "nome": "Visualização e análise exploratória de dados",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_153",
+          "nome": "Mineração de dados",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_358",
+              "materiaId": "mat_016",
+              "nome": "Classificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_359",
+              "materiaId": "mat_016",
+              "nome": "Regras de associação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_360",
+              "materiaId": "mat_016",
+              "nome": "Regressão",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_361",
+              "materiaId": "mat_016",
+              "nome": "Análise de agrupamentos (clusterização)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_362",
+              "materiaId": "mat_016",
+              "nome": "Detecção de anomalias",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_363",
+              "materiaId": "mat_016",
+              "nome": "Modelagem preditiva",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_154",
+          "nome": "Aprendizado de máquina",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_364",
+              "materiaId": "mat_016",
+              "nome": "fundamentos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_365",
+              "materiaId": "mat_016",
+              "nome": "principais algoritmos e métricas de desempenho",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_155",
+          "nome": "Big Data",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_366",
+              "materiaId": "mat_016",
+              "nome": "conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_367",
+              "materiaId": "mat_016",
+              "nome": "premissas e aplicações",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_156",
+          "nome": "Business Intelligence",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": null,
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": {
+      "scoringMode": "cebraspe",
+      "errorPenalty": 1,
+      "groups": [
+        {
+          "id": "g_conhecimentos_basicos",
+          "name": "Prova Objetiva P1 - Conhecimentos Básicos",
+          "useBlockData": false,
+          "items": [
+            {
+              "id": "mat_001",
+              "q": 5,
+              "w": 1
+            },
+            {
+              "id": "mat_002",
+              "q": 5,
+              "w": 1
+            },
+            {
+              "id": "mat_003",
+              "q": 5,
+              "w": 1
+            },
+            {
+              "id": "mat_004",
+              "q": 5,
+              "w": 1
+            },
+            {
+              "id": "mat_005",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_006",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_007",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_008",
+              "q": 10,
+              "w": 1
+            }
+          ],
+          "q": 60,
+          "w": 1,
+          "pts": 60,
+          "minPts": 12,
+          "notes": "Nota por item: 60/(60 - np1), positiva ou negativa. Corte dinâmico M1 = parte inteira de (60 - np1) x 0,2; baseline sem itens alterados: 12 pontos."
+        },
+        {
+          "id": "g_conhecimentos_especificos",
+          "name": "Prova Objetiva P2 - Conhecimentos Específicos",
+          "useBlockData": false,
+          "items": [
+            {
+              "id": "mat_009",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_010",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_011",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_012",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_013",
+              "q": 10,
+              "w": 1
+            },
+            {
+              "id": "mat_014",
+              "q": 15,
+              "w": 1
+            },
+            {
+              "id": "mat_015",
+              "q": 15,
+              "w": 1
+            },
+            {
+              "id": "mat_016",
+              "q": 20,
+              "w": 1
+            }
+          ],
+          "q": 100,
+          "w": 1,
+          "pts": 100,
+          "minPts": 30,
+          "notes": "Nota por item: 100/(100 - np2), positiva ou negativa. Corte dinâmico M2 = parte inteira de (100 - np2) x 0,3; baseline sem itens alterados: 30 pontos."
+        },
+        {
+          "id": "g_discursiva",
+          "name": "Prova Discursiva P3",
+          "type": "redacao",
+          "items": [],
+          "q": 4,
+          "w": 1,
+          "pts": 40,
+          "minPts": 20,
+          "redType": "Questões discursivas (Ciência de Dados, Auditoria Fiscal, Finanças Públicas e Reforma Tributária), 10 pontos cada, até 30 linhas por questão",
+          "isClassificatoriaOnly": false
+        }
+      ]
+    }
+  }
+}
