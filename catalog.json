@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-28T13:42:46.806Z",
+  "atualizadoEm": "2026-08-28T14:13:47.797Z",
   "editais": [
+    {
+      "id": "recenseador-ibge-2022",
+      "titulo": "Recenseador - IBGE 2022",
+      "orgao": "Recenseador - IBGE 2022",
+      "banca": "A definir",
+      "cargo": "Recenseador - IBGE 2022",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Recenseador%20-%20IBGE%202022/card_premium_ibge.png",
+      "arquivo": "Recenseador%20-%20IBGE%202022/Edital%20Premium%20Track%20Concursos%20Recenseador%20IBGE%202022_gran_multibancas_fundamental.json",
+      "arquivoNome": "Edital Premium Track Concursos Recenseador IBGE 2022_gran_multibancas_fundamental.json",
+      "atualizadoEm": "2026-08-28T14:13:29.000Z"
+    },
     {
       "id": "agente-de-policia-judiciaria-pcpr",
       "titulo": "Agente de Polícia Judiciária (PCPR)",
