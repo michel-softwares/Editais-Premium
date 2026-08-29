@@ -1,0 +1,47 @@
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS     
+============================================================
+
+🏢 ÓRGÃO: Tribunal de Contas do Estado de Goiás (TCE-GO)
+🪪 CARGO: Técnico de Controle Externo – Especialidade: Tecnologia da Informação
+🧾 BANCA: FCC (Fundação Carlos Chagas)
+📜 EDITAL: Edital nº 01/2026 - Abertura de Inscrições, de 24/08/2026
+
+📝 PAINEL DE PROVAS:
+• Provas Objetivas (4h30 de duração com o Estudo de Caso):
+  - Conhecimentos Gerais: 25 questões (peso 1,00)
+    * Língua Portuguesa
+    * Matemática e Raciocínio Lógico
+    * Legislação Institucional
+  - Conhecimentos Específicos: 45 questões (peso 2,00)
+    * Engenharia de Software
+    * Desenvolvimento de Sistemas
+    * Engenharia de Software Assistida por IA e Sistemas Agentivos
+    * DevOps, Plataforma e Engenharia de Entrega
+    * Banco de Dados
+    * Inteligência Artificial, Ciência de Dados e Automação
+    * Segurança da Informação
+    * Sistemas Operacionais, Redes e Nuvem
+    * Governança de TI
+    * Legislação Aplicada à Tecnologia da Informação
+    * Língua Inglesa (Leitura Técnica)
+  - Total de Questões: 70 questões de múltipla escolha (A a E)
+  - Habilitação na Objetiva: Mínimo de 150 pontos no somatório
+    das notas padronizadas (escore padronizado FCC).
+
+• Prova Discursiva - Estudo de Caso (Aplicada junto à Objetiva):
+  - 1 questão prática sobre Conhecimentos Específicos
+  - Pontuação Máxima: 100,00 pontos
+  - Habilitação no Estudo de Caso: Mínimo de 50,00 pontos (50%)
+  - Correção: Até a 38ª posição (AC) + 10ª (Negros) + PcD
+
+🎓 ESCOLARIDADE: Ensino Médio Completo (Certificado de conclusão
+  de ensino médio ou curso técnico profissionalizante reconhecido
+  pelo MEC)
+👥 VAGAS: 10 vagas imediatas (7 AC, 1 PcD, 2 Negros) + CR
+📅 DATA DA PROVA OBJETIVA E DISCURSIVA: 17/01/2027 (Goiânia/GO)
+⏱️ JORNADA: 40 horas semanais
+💵 REMUNERAÇÃO INICIAL: R$ 11.862,19
+💳 TAXA DE INSCRIÇÃO: R$ 100,00
+📆 PERÍODO DE INSCRIÇÕES: 05/10/2026 a 06/11/2026
+💵 VENCIMENTO DA TAXA: 09/11/2026
