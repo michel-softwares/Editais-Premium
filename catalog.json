@@ -1,6 +1,38 @@
 {
-  "atualizadoEm": "2026-08-28T19:34:05.464Z",
+  "atualizadoEm": "2026-08-29T15:45:50.994Z",
   "editais": [
+    {
+      "id": "tecnico-de-controle-externo-especialidade-tecnologia-da-informacao-tce-go",
+      "titulo": "Tribunal de Contas do Estado de Goiás (TCE-GO)",
+      "orgao": "Tribunal de Contas do Estado de Goiás (TCE-GO)",
+      "banca": "FCC (Fundação Carlos Chagas)",
+      "cargo": "Técnico de Controle Externo – Especialidade: Tecnologia da Informação",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20de%20Controle%20Externo%20-%20Especialidade%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(TCE-GO)/card_premium_tce_go.png",
+      "arquivo": "T%C3%A9cnico%20de%20Controle%20Externo%20-%20Especialidade%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(TCE-GO)/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20de%20Controle%20Externo%20-%20Especialidade%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(TCE-GO).json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico de Controle Externo - Especialidade Tecnologia da Informação (TCE-GO).json",
+      "atualizadoEm": "2026-08-29T15:45:34.000Z"
+    },
+    {
+      "id": "tecnico-de-controle-externo-especialidade-tecnico-administrativo-tce-go",
+      "titulo": "Tribunal de Contas do Estado de Goiás (TCE-GO)",
+      "orgao": "Tribunal de Contas do Estado de Goiás (TCE-GO)",
+      "banca": "FCC (Fundação Carlos Chagas)",
+      "cargo": "Técnico de Controle Externo – Especialidade: Técnico Administrativo",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "T%C3%A9cnico%20de%20Controle%20Externo%20-%20Especialidade%20T%C3%A9cnico%20Administrativo%20(TCE-GO)/card_premium_tce_go.png",
+      "arquivo": "T%C3%A9cnico%20de%20Controle%20Externo%20-%20Especialidade%20T%C3%A9cnico%20Administrativo%20(TCE-GO)/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20de%20Controle%20Externo%20-%20Especialidade%20T%C3%A9cnico%20Administrativo%20(TCE-GO).json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico de Controle Externo - Especialidade Técnico Administrativo (TCE-GO).json",
+      "atualizadoEm": "2026-08-29T15:45:34.000Z"
+    },
     {
       "id": "auditor-fiscal-da-administracao-tributaria-estadual-afte-sefaz-al",
       "titulo": "Secretaria de Estado da Fazenda de Alagoas (SEFAZ/AL)",
