@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-08-29T15:45:50.994Z",
+  "atualizadoEm": "2026-09-03T13:13:09.881Z",
   "editais": [
+    {
+      "id": "edital-unificado-bancario-bb-bnb-caixa",
+      "titulo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
+      "orgao": "Edital Unificado Bancario (BB - BNB - CAIXA)",
+      "banca": "A definir",
+      "cargo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA)/card_premium_edital_unificado_bb_caixa_bnb.png",
+      "arquivo": "Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA)/Edital%20Premium%20Track%20Concursos%20-%20Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA).json",
+      "arquivoNome": "Edital Premium Track Concursos - Edital Unificado Bancario (BB - BNB - CAIXA).json",
+      "atualizadoEm": "2026-09-03T13:12:15.000Z"
+    },
     {
       "id": "tecnico-de-controle-externo-especialidade-tecnologia-da-informacao-tce-go",
       "titulo": "Tribunal de Contas do Estado de Goiás (TCE-GO)",
@@ -99,23 +116,6 @@
       "arquivo": "T%C3%A9cnico%20em%20Informa%C3%A7%C3%B5es%20Geogr%C3%A1ficas%20e%20Estat%C3%ADsticas%20(TIGE%20-%20IBGE)/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20em%20Informa%C3%A7%C3%B5es%20Geogr%C3%A1ficas%20e%20Estat%C3%ADsticas%20(TIGE%20-%20IBGE)_gran.json",
       "arquivoNome": "Edital Premium Track Concursos Técnico em Informações Geográficas e Estatísticas (TIGE - IBGE)_gran.json",
       "atualizadoEm": "2026-08-23T02:10:17.000Z"
-    },
-    {
-      "id": "edital-unificado-bancario-bb-bnb-caixa",
-      "titulo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
-      "orgao": "Edital Unificado Bancario (BB - BNB - CAIXA)",
-      "banca": "A definir",
-      "cargo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "nivel medio"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA)/card_premium_edital_unificado_bb_caixa_bnb.png",
-      "arquivo": "Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA)/Edital%20Premium%20Track%20Concursos%20-%20Edital%20Unificado%20Bancario%20(BB%20-%20BNB%20-%20CAIXA).json",
-      "arquivoNome": "Edital Premium Track Concursos - Edital Unificado Bancario (BB - BNB - CAIXA).json",
-      "atualizadoEm": "2026-08-22T08:15:12.000Z"
     },
     {
       "id": "tecnico-do-seguro-social-inss",
