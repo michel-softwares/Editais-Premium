@@ -1,0 +1,3711 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "GCM Nísia Floresta",
+    "cargo": "Guarda Civil Municipal",
+    "banca": "IDIB",
+    "logoEmoji": null,
+    "dataProva": "2026-12-06",
+    "localProva": "Nísia Floresta - RN (e cidades circunvizinhas se necessário)",
+    "linkEdital": "https://www.idib.org.br",
+    "preEdital": false,
+    "pontuacaoMax": 90,
+    "escolaridade": "Ensino Médio Completo + CNH categorias A e B",
+    "vagas": "50 (30 imediatas + 20 CR - AC 19 / FEM 3 / PCD 2 / PPP 6)",
+    "salario": "R$ 2.640,00 (Vencimento-base R$ 1.800,00 + 30% Gratificação Risco de Vida + Adicional Noturno R$ 300,00)",
+    "obs": "Edital nº 02/2026 da Prefeitura Municipal de Nísia Floresta/RN (Secretaria de Segurança Pública). Inscrições: 11/09/2026 a 13/10/2026 no site do IDIB (www.idib.org.br); Taxa: R$ 130,00 (vencimento do boleto em 14/10/2026); Prova Objetiva: 06/12/2026 (duração de 4h); Divulgação dos locais de prova: 27/11/2026; TAF: 13 e 14/02/2027; Avaliação Psicológica: 07/03/2027; Avaliação de Saúde: 01 e 02/05/2027; Investigação Social e Curso de Formação a cargo da Prefeitura. Requisitos: Nível Médio, CNH A e B, idade entre 18 e 45 anos, altura mínima 1,65m (homens) e 1,60m (mulheres).",
+    "observacoes": "------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos;\nConsidere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;\nPara outros editais mais completos com seu material (PDFs cadernos de questões do Tec Concursos ou Qconcursos) entre em contato comigo michel.araujo.py@gmail.com\n\nApoie o projeto financeiramente através do PIX: michelaraujo100@gmail.com\nBons estudos!"
+  },
+  "materias": [
+    {
+      "id": "mat_001",
+      "nome": "LÍNGUA PORTUGUESA",
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_001_001",
+          "nome": "Leitura e interpretação textual",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "id": "cad_gran_g851mvy6i",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403701&banca=937&nivel=2",
+              "nome": "Gran - Leitura e interpretação textual - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_002",
+          "nome": "Estruturação do texto e dos parágrafos",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "id": "cad_gran_0uv5oa7ss",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=419441,403703,403702,409512,419177,419178,419179,419180,419181,419182,419183,419184,409517,409519,409518,409524,409525,409526,409527,409528,409529,409530,409531,409532,409533,409534,409535,409536,409537,409538,409510,409539,409540,409541,419186,409542,409543,409544,419187,419188,419189,419190,419191,419192,419193,419194,419195,419196,419197,419198,419199,409520,419200,419201,419202,419203,419204,419205,419207,419208,419209,419210,419211,419212,419213,419214,419216,419218,419219,436307,419220,419221,419222,419224,419225,419227,419228,419229,419230,419231,419232,419233,419234,419235,419236,419237&banca=937&nivel=2",
+              "nome": "Gran - Estruturação do texto e dos parágrafos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_003",
+          "nome": "Articulação do texto",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001_003_001",
+              "materiaId": "mat_001",
+              "nome": "Pronomes e expressões referenciais",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_3h9tlmeoh",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403641,409166,409170,403642,409171,403643,403644,403645,409173,403646,409174,409175,403647,409182,409183,403648,409178,409179,403649,409181,409403,403659,409405,409406,409407,409408,403661,409409&banca=937&nivel=2",
+                  "nome": "Gran - Pronomes e expressões referenciais - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_001_003_002",
+              "materiaId": "mat_001",
+              "nome": "Nexos e operadores sequenciais",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_8piyins3b",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403650,409184,409185,409186,419439,409187,409188,409405,409406,409407,409408,403661,409409&banca=937&nivel=2",
+                  "nome": "Gran - Nexos e operadores sequenciais - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_001_004",
+          "nome": "Significação contextual de palavras e expressões",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_e3cqgpyzr",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403683,403684,403685,403686,403687,403688,403689,403690,403691,403692,403693,403694,403695,403696,403697,403698,403699,408988,408989,408990,408991,408992,408993&banca=937&nivel=2",
+              "nome": "Gran - Significação contextual de palavras e expressões - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_005",
+          "nome": "Equivalência e transformação de estruturas",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_1lxhjjgwc",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=409488&banca=937&nivel=2",
+              "nome": "Gran - Equivalência e transformação de estruturas - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_006",
+          "nome": "Linguagem verbal e não verbal",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_xu2s815sg",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403707,408996,408997,408998,408999,409000,409001&banca=937&nivel=2",
+              "nome": "Gran - Linguagem verbal e não verbal - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_001_006_001",
+              "materiaId": "mat_001",
+              "nome": "Ícone",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_001_006_002",
+              "materiaId": "mat_001",
+              "nome": "Índice",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_001_006_003",
+              "materiaId": "mat_001",
+              "nome": "Símbolo",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_001_007",
+          "nome": "Modalizadores discursivos",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_edvzqhjky",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=419405&banca=937&nivel=2",
+              "nome": "Gran - Modalizadores discursivos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_008",
+          "nome": "Sintaxe e construção frasal",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "id": "cad_gran_opzik9xma",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403653,409343,409344,409345,409346,409347,409348,409349,409350,409351,409352,409353,409354,409355,409356,409361,409357,409358,409359,409360,409362,419419,419420,409363,409364,409365,409340,409341,409342,419418&banca=937&nivel=2",
+              "nome": "Gran - Sintaxe e construção frasal - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_009",
+          "nome": "Sintaxe",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001_009_001",
+              "materiaId": "mat_001",
+              "nome": "Processos de coordenação",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_h5uva2zau",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=409403,403659,409405,409406,409407,409408,403661,409409&banca=937&nivel=2",
+                  "nome": "Gran - Processos de coordenação - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_001_009_002",
+              "materiaId": "mat_001",
+              "nome": "Processos de subordinação",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_u3ajohmnt",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=409410,403662,409417,409418,403664,409419,409420,409421,409422,409423,409424,409425,409426,409427,409428,419437,409416,403663,409411,409412,409413,409414,409415,403665,419618,419619,419620&banca=937&nivel=2",
+                  "nome": "Gran - Processos de subordinação - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_001_010",
+          "nome": "Emprego de tempos e modos verbais",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "id": "cad_gran_jiz4l6x83",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403630,419378,419379,419380,419381,425388,403631,419374,419375,419376,419377&banca=937&nivel=2",
+              "nome": "Gran - Emprego de tempos e modos verbais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_011",
+          "nome": "Pontuação",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "id": "cad_gran_fovmc4g4s",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403666,409442,403668,403667,403669,403670,409445,403672,403673,403674,403671,409447,409448,419440,419441,419442&banca=937&nivel=2",
+              "nome": "Gran - Pontuação - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_012",
+          "nome": "Concordância nominal e verbal",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "id": "cad_gran_vyfrfks5j",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=409455,403658,409467,409470,409478,409456,409457,419438&banca=937&nivel=2",
+              "nome": "Gran - Concordância nominal e verbal - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_013",
+          "nome": "Regência nominal e verbal",
+          "ordem": 12,
+          "cadernos": [
+            {
+              "id": "cad_gran_q2pcz0yxp",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=409479,403657,409480,409481,409482,409483&banca=937&nivel=2",
+              "nome": "Gran - Regência nominal e verbal - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_014",
+          "nome": "Pronomes",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001_014_001",
+              "materiaId": "mat_001",
+              "nome": "Emprego",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_iuu0n50yy",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403641,409166,409170,403642,409171,403643,403644,403645,409173,403646,409174,409175,403647,409182,409183,403648,409178,409179,403649,409181&banca=937&nivel=2",
+                  "nome": "Gran - Emprego de pronomes - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_001_014_002",
+              "materiaId": "mat_001",
+              "nome": "Formas de tratamento",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_m54nigxuq",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403644&banca=937&nivel=2",
+                  "nome": "Gran - Pronomes de tratamento - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_001_014_003",
+              "materiaId": "mat_001",
+              "nome": "Colocação",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_f3ujuh4y8",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403650,409184,409185,409186,419439,409187,409188&banca=937&nivel=2",
+                  "nome": "Gran - Colocação pronominal - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_001_015",
+          "nome": "Sintaxe do período simples e composto",
+          "ordem": 14,
+          "cadernos": [
+            {
+              "id": "cad_gran_8fefumtfj",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403651,403652,409333,409334,409335,409337,419416,409398,409399,409400,409401,409402,419417,409339,409395,409396,409397,409340,409341,409342,419418,403653,409343,409344,409345,409346,409347,409348,409349,409350,409351,409352,409353,409354,409355,409356,409361,409357,409358,409359,409360,409362,419419,419420,409363,409364,409365,403654,403655,409366,409367,409368,409369,409370,409372,409373,409374,409375,419434,403656,409376,409377,409378,409379,409380,409381,409382,409383,409384,409385,409386,409387,409389,409390,409391,419435,409392,409393,419436,409403,403659,409405,409406,409407,409408,403661,409409,409410,403662,409417,409418,403664,409419,409420,409421,409422,409423,409424,409425,409426,409427,409428,419437,409416,403663,409411,409412,409413,409414,409415,403665,419618,419619,419620,409455,403658,409467,409470,409478,409456,409457,419438,409479,403657,409480,409481,409482,409483,403682,409297,409298,409299,409300,409301,409302,403650,409184,409185,409186,419439,409187,409188,403677,409449,409450,403676,409451,409452,421062,421064,421065,421063,421066,421067,403666,409442,403668,403667,403669,403670,409445,403672,403673,403674,403671,409447,409448,419440,419441,419442,419443&banca=937&nivel=2",
+              "nome": "Gran - Sintaxe do período simples e composto - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_001_016",
+          "nome": "Morfologia e estrutura das palavras",
+          "ordem": 15,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001_016_001",
+              "materiaId": "mat_001",
+              "nome": "Estrutura e formação de palavras",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_or2la3nqq",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403628,403629,419368,419369,419370,419371,409189,403632,403633,403631,419374,419375,419376,419377,403630,419378,419379,419380,419381,425388,403634,409190,409191,409192,409193,409194,409195,409196,409197,409198,409199,403635,419382,419383,419384,403639,409257,419395,419396,419397,425384,425385,425386,425387&banca=937&nivel=2",
+                  "nome": "Gran - Estrutura e formação de palavras - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_001_016_002",
+              "materiaId": "mat_001",
+              "nome": "Funções das classes de palavras",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_mgrutn2w9",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=419336,425382,403622,409108,419345,409111,409112,419346,409109,409110,409113,409117,409118,409119,419347,409120,409121,409122,409114,409115,409116,409123,409124,409125,409126,409127,419358,419359,419360,409129,409136,419361,425394,425395,403623,409137,409138,409139,409140,409141,419362,409142,409143,409144,409145,409146,409147,409148,409149,409150,409151,409152,403620,409154,409155,409157,419363,403621,409159,419364,419365,419366,419367,409160,409161,403641,409166,409170,403642,409171,403643,403644,403645,409173,403646,409174,409175,403647,409182,409183,403648,409178,409179,403649,409181,403628,403629,419368,419369,419370,419371,409189,403632,403633,403631,419374,419375,419376,419377,403630,419378,419379,419380,419381,425388,403634,409190,409191,409192,409193,409194,409195,409196,409197,409198,409199,403635,419382,419383,419384,403639,409257,419395,419396,419397,425384,425385,425386,425387,403624,409264,409265,409266,409267,409268,409269,409270,409271,409286,419398,419399,419400,419401,409272,409273,409274,409287,409288,409289,419402,419403,419404,419405,403625,409291,409290,409292,409293,409294,409295,409296,403626,409303,409304,409305,409306,409307,409308,409309,409310,419406,419407,419408,419409,419410,419411,419412,419413,419414,419415,409311,403627,409312,409313&banca=937&nivel=2",
+                  "nome": "Gran - Funções das classes de palavras - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_001_016_003",
+              "materiaId": "mat_001",
+              "nome": "Flexão nominal e verbal",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_ituk5wf5c",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=409117,409118,409119,419347,409120,409121,409122,409114,409115,409116,409123,409124,409125,409126,409127,419358,419359,419360,409143,409144,409145,409146,409147,409148,409149,403630,419378,419379,419380,419381,425388&banca=937&nivel=2",
+                  "nome": "Gran - Flexão nominal e verbal - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_001_017",
+          "nome": "Norma-padrão da língua portuguesa",
+          "ordem": 16,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_001_017_001",
+              "materiaId": "mat_001",
+              "nome": "Ortografia oficial",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_watzjn6oj",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=419321,403614,409042,409043,409044,409045,409046,409047,409048,409049,409050,409051,409052,409053,409054,409055,409056,409057,409058,409059,425393,419322,419323,409071,409097,419324,419325,409070,419326,419327,419328,419329,419330,419331,419332,403616,425389,425390,425391,425392,403612,409060,409061,409062,409063,409064,409065,409066,409067,409068,409069&banca=937&nivel=2",
+                  "nome": "Gran - Ortografia oficial - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_001_017_002",
+              "materiaId": "mat_001",
+              "nome": "Acentuação gráfica",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_7360g606b",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403612,409060,409061,409062,409063,409064,409065,409066,409067,409068,409069&banca=937&nivel=2",
+                  "nome": "Gran - Acentuação gráfica - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_002",
+      "nome": "RACIOCÍNIO LÓGICO E MATEMÁTICO",
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_002_001",
+          "nome": "Raciocínio lógico numérico",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "id": "cad_gran_v5fvg7cpv",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403826,403827,408550,408551,408552,408553,408554,408555,408556,408557,408558,440298,440299,403830,408559,408560,408561,408562,408563,408564,425053,408565,408566,408567,403831,408568,408573,408574,408569,408575,408570,408576,408577,408571,408578,408579,408572,403835,408580,408581,408582,408583,403833,408584,408585,408586,408587,408588,408589,408590,408591,408592,403832,408593,408594,403910,408595,408596,408597,408598,403838,403828,408600,403829,425054,425055,425056,403836,403834,425058,440803&banca=937&nivel=2",
+              "nome": "Gran - Números inteiros, racionais e reais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_002_001_001",
+              "materiaId": "mat_002",
+              "nome": "Resolução de problemas envolvendo números reais",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_002_002",
+          "nome": "Raciocínio Lógico",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_002_002_001",
+              "materiaId": "mat_002",
+              "nome": "Proposições",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_edi3yfrev",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=425266,425267,425268&banca=937&nivel=2",
+                  "nome": "Gran - Proposições - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_002_002",
+              "materiaId": "mat_002",
+              "nome": "Conectivos",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_0mcgm3ktx",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404260,411073,411074,411075,411076,425269,411077,425270,425271&banca=937&nivel=2",
+                  "nome": "Gran - Conectivos - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_002_003",
+              "materiaId": "mat_002",
+              "nome": "Negação",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_gotd1n5y2",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=411072,425288,425289,411079,425290,425291&banca=937&nivel=2",
+                  "nome": "Gran - Negação - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_002_004",
+              "materiaId": "mat_002",
+              "nome": "Tabela verdade",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "id": "cad_gran_xynavpj62",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=425272&banca=937&nivel=2",
+                  "nome": "Gran - Tabela verdade - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_002_005",
+              "materiaId": "mat_002",
+              "nome": "Equivalência e implicação lógica",
+              "ordem": 4,
+              "cadernos": [
+                {
+                  "id": "cad_gran_5fnj49th2",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404263,425281,425282,404262,425284,425285,425286,425287&banca=937&nivel=2",
+                  "nome": "Gran - Equivalência e implicação lógica - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_002_006",
+              "materiaId": "mat_002",
+              "nome": "Diagramas Lógicos",
+              "ordem": 5,
+              "cadernos": [
+                {
+                  "id": "cad_gran_28ascg5ff",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406162,425297,425298,425299,425300&banca=937&nivel=2",
+                  "nome": "Gran - Diagramas Lógicos - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_002_003",
+          "nome": "Calendários",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "id": "cad_gran_7mvgey2jk",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=411113&banca=937&nivel=2",
+              "nome": "Gran - Calendários e problemas temporais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_004",
+          "nome": "Numeração",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_0lo0iphcb",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408586,408587,408588,408589,408590,408591,408592&banca=937&nivel=2",
+              "nome": "Gran - Sistema de Numeração - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_005",
+          "nome": "Razões especiais",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_wsqehdpcb",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408574&banca=937&nivel=2",
+              "nome": "Gran - Razões especiais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_006",
+          "nome": "Grandezas diretamente e inversamente proporcionais",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_t4poczjw2",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403833,408584,408585&banca=937&nivel=2",
+              "nome": "Gran - Regra de Três e Grandezas Proporcionais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_007",
+          "nome": "Divisão Proporcional",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_za7qa4vxv",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408571,408578,408579&banca=937&nivel=2",
+              "nome": "Gran - Divisão Proporcional - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_008",
+          "nome": "Porcentagem",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "id": "cad_gran_fj3ipy4ip",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403835,408580,408581,408582,408583&banca=937&nivel=2",
+              "nome": "Gran - Porcentagem - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_009",
+          "nome": "Conjuntos",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_0hpi7bysl",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403909,408601,408602,408603,408604,408606,408608,408609,408610,408611,408612,408615,408617,408620,408621,408622,408623,408624,408625,408626,408627,408628,408629,408630,408631,408632,408633,408634,408636,408637,408638,408639,408640,408641,408642,408643,408644,408645,408646,408647,408648,408649,408650,408651,425059,408652,408653,408654,408655,408656,408657,408658,408659,408660,408661,408662,425060,425061,425062,408663,408664,408665,408666,408667,425063,408668,408669,408670,408671,408672,408673,408674,408675,408676,408677,408678,425064,425065,425066,425067,425068,425069,408679,408680,408681,408682,408683,408684,408685,408686,408687,408688,408689,408690,408691,448452,408692,425070,425071,425072,425073,425074,425075,425076,425077,425078,425079&banca=937&nivel=2",
+              "nome": "Gran - Conjuntos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_010",
+          "nome": "Múltiplos e divisores",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_002_010_001",
+              "materiaId": "mat_002",
+              "nome": "Regras de divisibilidade",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_d67r0fhgv",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403828&banca=937&nivel=2",
+                  "nome": "Gran - Regras de divisibilidade - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_010_002",
+              "materiaId": "mat_002",
+              "nome": "MDC e MMC",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_xapp4smjf",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403829&banca=937&nivel=2",
+                  "nome": "Gran - MDC e MMC - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_002_011",
+          "nome": "Sequências e padrões (com números, figuras, letras ou palavras)",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "id": "cad_gran_zxvw668ro",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404279&banca=937&nivel=2",
+              "nome": "Gran - Sequências com números, letras, palavras e figuras - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_012",
+          "nome": "Progressões aritméticas e geométricas",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "id": "cad_gran_ly0ahm1d8",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403853,403856,408850,408851,408852,408853,403854,408857,408856,408854,408855,408858,408859,408860,403855,408863,408864,408862,408865,408866&banca=937&nivel=2",
+              "nome": "Gran - Progressões aritméticas e geométricas - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_013",
+          "nome": "Equações e sistemas do 1º e 2º graus",
+          "ordem": 12,
+          "cadernos": [
+            {
+              "id": "cad_gran_qzjbhtf4w",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403843,403841,403842&banca=937&nivel=2",
+              "nome": "Gran - Equações e sistemas do 1º e 2º graus - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_014",
+          "nome": "Problemas de contagem",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_002_014_001",
+              "materiaId": "mat_002",
+              "nome": "Princípio Aditivo e Princípio Multiplicativo",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_q1p96oz7x",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408834&banca=937&nivel=2",
+                  "nome": "Gran - Princípio Aditivo e Multiplicativo - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_014_002",
+              "materiaId": "mat_002",
+              "nome": "Arranjos",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_sug5hm2je",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408849&banca=937&nivel=2",
+                  "nome": "Gran - Arranjos - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_014_003",
+              "materiaId": "mat_002",
+              "nome": "Combinações",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_6re586ucr",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408839,408840&banca=937&nivel=2",
+                  "nome": "Gran - Combinações - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_014_004",
+              "materiaId": "mat_002",
+              "nome": "Permutações",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "id": "cad_gran_p3w3b0ns6",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408847&banca=937&nivel=2",
+                  "nome": "Gran - Permutações - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_002_015",
+          "nome": "Noções de probabilidade",
+          "ordem": 14,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_002_015_001",
+              "materiaId": "mat_002",
+              "nome": "Probabilidade da união de dois eventos",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_27jez3uvk",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403869,425188,425189,425190,425191,425193,425194,425195,425196,425197,425198,425199,425200&banca=937&nivel=2",
+                  "nome": "Gran - Probabilidade da união de dois eventos - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_015_002",
+              "materiaId": "mat_002",
+              "nome": "Probabilidade condicional",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_qm5lrhtnu",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=425195&banca=937&nivel=2",
+                  "nome": "Gran - Probabilidade condicional - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_002_015_003",
+              "materiaId": "mat_002",
+              "nome": "Probabilidade de eventos independentes",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_1882sf9sm",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=425197&banca=937&nivel=2",
+                  "nome": "Gran - Probabilidade de eventos independentes - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_002_016",
+          "nome": "Média aritmética simples e ponderada",
+          "ordem": 15,
+          "cadernos": [
+            {
+              "id": "cad_gran_09x0mxcto",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408555,408556&banca=937&nivel=2",
+              "nome": "Gran - Média aritmética simples e ponderada - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_017",
+          "nome": "Perímetro e área de figuras planas",
+          "ordem": 16,
+          "cadernos": [
+            {
+              "id": "cad_gran_dyrnskj5e",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=425219&banca=937&nivel=2",
+              "nome": "Gran - Perímetro e área de figuras planas - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_002_018",
+          "nome": "Sistema Legal de Medidas",
+          "ordem": 17,
+          "cadernos": [
+            {
+              "id": "cad_gran_ejp2wn9d3",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=403832,408593&banca=937&nivel=2",
+              "nome": "Gran - Sistema Legal de Medidas - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_002_018_001",
+              "materiaId": "mat_002",
+              "nome": "Medidas de comprimento",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002_018_002",
+              "materiaId": "mat_002",
+              "nome": "Medidas de área",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002_018_003",
+              "materiaId": "mat_002",
+              "nome": "Medidas de volume",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002_018_004",
+              "materiaId": "mat_002",
+              "nome": "Medidas de massa",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002_018_005",
+              "materiaId": "mat_002",
+              "nome": "Medidas de capacidade",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_002_018_006",
+              "materiaId": "mat_002",
+              "nome": "Medidas de tempo",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_003",
+      "nome": "NOÇÕES DE INFORMÁTICA",
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_003_001",
+          "nome": "Fundamentos de informática",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "id": "cad_gran_tp3li29gh",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=419743,405051,419744,419745,419746,419747,419748,419749,419750,419751,419752,419753,419754,419755,405035,405036,405039,419764,419765,419766,419767,419768,419769,419770,419771,419773,419774,419775,419776,419777,419778,419779,419780,419781,419782,419783,419784,419785,432752,405038,419786,419787,419788,405037,419789,419790,419791,419792,419793,405043,419794,405040,419795,419796,419797,419798,419799,419800,419801,419802,419803,419804,419805,419806,419807,419808,419809,419810,419811,419812,419813,419814,419815,419816,419817,419818,419819,419820,419821,419822,419823,419824,419825,419826,419827,419829,419830,419831,419832,405044,405045,405046,405047,405049,419833,419834,419835,419836,419837,419838,419839,419840,419841,419842,419843,405048,419844,419845,419846,419847,419848,419849,419850,419852,419854,419859,419860&banca=937&nivel=2",
+              "nome": "Gran - Fundamentos de informática (Hardware e Software) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_001_001",
+              "materiaId": "mat_003",
+              "nome": "Hardware e software",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_001_002",
+              "materiaId": "mat_003",
+              "nome": "Software livre e software proprietário",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_001_003",
+              "materiaId": "mat_003",
+              "nome": "Componentes do computador e dispositivos de entrada, saída e armazenamento",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_001_004",
+              "materiaId": "mat_003",
+              "nome": "Sistemas operacionais e programas aplicativos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_001_005",
+              "materiaId": "mat_003",
+              "nome": "Tipos e extensões de arquivos",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_001_006",
+              "materiaId": "mat_003",
+              "nome": "Unidades de medida da informação",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_002",
+          "nome": "Sistemas operacionais (Windows 11 e Linux Ubuntu)",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "id": "cad_gran_gy2jx1sdo",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405080,405081,420681,420682,420683,420684,420685,420686,420687,420688,420689,405082,405083,405084,420690,420691,405094,405096,405098,405099,421228,405101,430398,405085,405086,405087,405088,405090,420695,420696,420697,420698,420699,420700,420702,420703,420704,420705,420706,420707,420708,420709,420710,405089,420711,420712,420713,420714,420715,420716,420717,420718,420719,420723,420724,420725,420726,420727,420729,420730,420732,420733,420735,420720,420736,420737,420738,420739,420740,420721,420741,420742,420743,420744,420745,420747,420722,405091,405095,405097,406731,420748,420749,420750,420752,405031,405032,405033,406719,420753,420754,420755,420756,420758,420759,420760,420762,420765,420766,420767,420768,420769,420770,420771,420772,420773,420775,420779,420780,420781,420782,420785,420787,420788,420791,420793,420794,420795,420796,420797,420798,420799,420800,420801,420802,420804,420806,420813,420815,420816,420817,420821,420824,420825,420831,420832,420833,420834,420836,420837,420835,420838,420839,421229,405102,405103,405104,405105,405106,420840,420841,420842,420843,420844,420845,420846,420847,420849,420850,420851,420852,420853,420855,420859,420861,420865,420866,420867,420868,420869,420870,420871,420872,420873,420874,420875,420876,420877,420878,420879,420880,420881,420862,420882,420883,420884,420885,420886,420887,420888,420889,420890,420891,420892,420893,420894,420895,420896,420898,420899,420900,420901,420902,420903,420904,420905,420907,420909,420910,420911,420912,420914,420863,420917,420918,420919&banca=937&nivel=2",
+              "nome": "Gran - Sistemas operacionais (Windows 11 e Linux Ubuntu) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_002_001",
+              "materiaId": "mat_003",
+              "nome": "Área de trabalho, janelas, menus e barra de tarefas",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_002_002",
+              "materiaId": "mat_003",
+              "nome": "Gerenciamento de arquivos e pastas (criação, cópia, movimentação, renomeação, exclusão e pesquisa)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_002_003",
+              "materiaId": "mat_003",
+              "nome": "Área de transferência, atalhos de teclado, lixeira e recuperação de arquivos",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_002_004",
+              "materiaId": "mat_003",
+              "nome": "Contas de usuário, configurações básicas e instalação/remoção de aplicativos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_002_005",
+              "materiaId": "mat_003",
+              "nome": "Impressão e recursos de acessibilidade",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_003",
+          "nome": "Editores de texto (Microsoft Word e LibreOffice Writer)",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "id": "cad_gran_326p7leg0",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405112,405113,405114,405115,405116,405117,406724,406720,420356,420357,420359,420360,420361,420362,420363,420364,420365,420366,420367,420368,420369,420370,420371,420372,420373,420374,420375,420377,420378,420379,420380,420381,420382,420383,420384,420385,420386,420387,420388,420391,420392,420393,420394,420395,420396,420397,420398,420399,420400,420401,420402,420403,420404,420389&banca=937&nivel=2",
+              "nome": "Gran - Editores de texto (Microsoft Word e LibreOffice Writer) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_003_001",
+              "materiaId": "mat_003",
+              "nome": "Criação e edição de documentos (formatação de fontes e parágrafos)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_003_002",
+              "materiaId": "mat_003",
+              "nome": "Configuração de página, cabeçalhos, rodapés, bordas e tabelas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_003_003",
+              "materiaId": "mat_003",
+              "nome": "Inserção de imagens, formas e símbolos; estilos e temas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_003_004",
+              "materiaId": "mat_003",
+              "nome": "Localização/substituição de conteúdo e verificação ortográfica",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_003_005",
+              "materiaId": "mat_003",
+              "nome": "Impressão, exportação (inclusive PDF) e compartilhamento básico",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_004",
+          "nome": "Planilhas eletrônicas (Microsoft Excel e LibreOffice Calc)",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_393pv9zig",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405118,420299,420300,405119,405120,405121,405122,405123,406725,406721,420301,420305,420306,420307,420308,420309,420310,420312,420302,420313,420314,420315,420316,420317,420318,420319,420320,420303,420321,420322,420324,420325,420326,420327,420328,420329,420330,420331,420332,420333,420336,420337,420338,420339,420340,420341,420334,420342,420343,420345,420347,420348,420350,420351,420352,420353,420335&banca=937&nivel=2",
+              "nome": "Gran - Planilhas eletrônicas (Microsoft Excel e LibreOffice Calc) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_004_001",
+              "materiaId": "mat_003",
+              "nome": "Pastas de trabalho, planilhas, células e tipos de dados",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_004_002",
+              "materiaId": "mat_003",
+              "nome": "Fórmulas, operadores e referências relativas/absolutas",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_004_003",
+              "materiaId": "mat_003",
+              "nome": "Funções básicas (soma, média, mínimo, máximo, contagem e condicional simples)",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_004_004",
+              "materiaId": "mat_003",
+              "nome": "Classificação, filtragem, formatação condicional e gráficos básicos",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_004_005",
+              "materiaId": "mat_003",
+              "nome": "Configuração de página e impressão",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_005",
+          "nome": "Programas de apresentação (Microsoft PowerPoint e LibreOffice Impress)",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_c4kv86f53",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405124,406723,405125,405126,405127,405128,406726,406722,420406,420413,420414,420415,420416,420417,420407,420418,420419,420420,420421,420422,420423,420424,420425,420426,420408,420427,420428,420429,420430,420431,420432,420433,420434,420435,420436,420437,420409,420438,420439,420440,420441,420443,420446,420447,420410&banca=937&nivel=2",
+              "nome": "Gran - Programas de apresentação (PowerPoint e Impress) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_005_001",
+              "materiaId": "mat_003",
+              "nome": "Criação, layouts e temas de slides",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_005_002",
+              "materiaId": "mat_003",
+              "nome": "Inserção de textos, imagens, tabelas e gráficos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_005_003",
+              "materiaId": "mat_003",
+              "nome": "Transições e animações",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_005_004",
+              "materiaId": "mat_003",
+              "nome": "Modos de exibição e modo apresentador",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_005_005",
+              "materiaId": "mat_003",
+              "nome": "Impressão e exportação de apresentações",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_006",
+          "nome": "Internet e navegadores (Google Chrome, Microsoft Edge e Mozilla Firefox)",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_6s9scim8j",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405050,405052,406740,420001,420002,420003,420004,420006,420007,420008,420005,405053,420009,420018,420019,420020,420021,420022,420023,420024,420025,420026,420027,420028,420029,420031,420032,420033,405057,420037,420038,420040,420041,420042,420044,420045,420046,405054,420047,420051,420052,420053,420054,420055,420056,420057,420058,420059,420060,420061,420062,420063,420064,405056,420065,420066,420067,420068,420069,420071,420072,420073,420074,406727,420075,420076,420077,420079,420080,420081,405055,420087,420092,420093,420097,420098,420099,420101,420102,420103,420104,420105,420106,405064,420108,420109,420110,420111,420112,420113,420114,420115,420116,420117,420118,420120,420125,405065,420126,420127,405173,420128,420129,420130,420131,420132,420133,420134,420135,420136,406743,405066,420138,420139,420141,420142,420143,420145,420147,420148,420149,420150,420151,420152,420153,420154,420157,420158,420159,420160,420161,420162,420163,420164,420165,406744,406732,406728,406745,420166,420167,420168,420169,420170,420171,420172,420173,420178,420179,420180,420181,420182,420183,420185,420186,420187,420192,420193,420194,420195,420196,420197,420198,420199,420200,420201,420202,420203,420204,420206,420207,420208,420209,420210,420211,420212,420214,420215,420216,420217,420218,420219,420220,430413,442653&banca=937&nivel=2",
+              "nome": "Gran - Internet e navegadores (Chrome, Edge e Firefox) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_006_001",
+              "materiaId": "mat_003",
+              "nome": "Conceitos de internet, intranet e World Wide Web",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_006_002",
+              "materiaId": "mat_003",
+              "nome": "Guias, favoritos, histórico e downloads",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_006_003",
+              "materiaId": "mat_003",
+              "nome": "Cache, cookies e navegação privativa",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_006_004",
+              "materiaId": "mat_003",
+              "nome": "Mecanismos e estratégias de busca",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_006_005",
+              "materiaId": "mat_003",
+              "nome": "Avaliação de fontes e reconhecimento de conexões seguras (HTTPS)",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_007",
+          "nome": "Correio eletrônico (Microsoft Outlook, Mozilla Thunderbird e webmails como Gmail)",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_rw1ik8bdk",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405059,420221,420222,420223,420224,420225,420226,420227,420228,420229,420230,420231,420232,420233,420234,420235,420236,420237,420239,420241,420242,420243,420244,420246,420247,420249,420250,420251,420254,420255,420256,420257,420258,405060,420259,420260,420261,420262,420263,420265,420266,405061,420267,420269,420270,420271,420272,420274,405063&banca=937&nivel=2",
+              "nome": "Gran - Correio eletrônico (Outlook, Thunderbird e Webmail) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_007_001",
+              "materiaId": "mat_003",
+              "nome": "Funcionamento básico e estrutura de uma mensagem",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_007_002",
+              "materiaId": "mat_003",
+              "nome": "Envio, resposta e encaminhamento (campos destinatário, CC e CCO)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_007_003",
+              "materiaId": "mat_003",
+              "nome": "Anexos, contatos e organização em pastas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_007_004",
+              "materiaId": "mat_003",
+              "nome": "Caixa de entrada, spam e boas práticas de comunicação",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_007_005",
+              "materiaId": "mat_003",
+              "nome": "Identificação de mensagens fraudulentas e cuidados com links e anexos",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_008",
+          "nome": "Comunicação, colaboração e armazenamento em nuvem",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "id": "cad_gran_aejtn320s",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405066,420138,420139,420141,420142,420143,420145,420147,420148,420149,420150,420151,420152,420153,420154,420157,420158,420159,420160,420161,420162,420163,420164,420165&banca=937&nivel=2",
+              "nome": "Gran - Comunicação, colaboração e armazenamento em nuvem - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_008_001",
+              "materiaId": "mat_003",
+              "nome": "Conceitos de computação em nuvem (Microsoft OneDrive, Google Drive, Microsoft Teams, Google Meet e Zoom)",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_008_002",
+              "materiaId": "mat_003",
+              "nome": "Armazenamento, sincronização e compartilhamento de arquivos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_008_003",
+              "materiaId": "mat_003",
+              "nome": "Permissões básicas e edição colaborativa",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_008_004",
+              "materiaId": "mat_003",
+              "nome": "Ferramentas de videoconferência",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_008_005",
+              "materiaId": "mat_003",
+              "nome": "Calendários eletrônicos e cuidados no compartilhamento institucional",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_003_009",
+          "nome": "Segurança da informação",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_gul4gj60e",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405067,405068,420276,420277,420278,420279,420280,420281,420282,420283,405069,406729,420284,420285,420286,420287,420288,420289,420290,420291,405078,405073,405074,405075,405076,405077,420296,420297,420603,420604,420605,420606,420608,420609,420610,420612,420613,420614,420615,420616,420617,420618,420619,420620,420621,420622,420623,420624,420626,405070,420627,420628,420629,420630,420631,420632,420634,420635,420636,420637,420638,420639,420640,420641,405072,420642,420643,420644,420645,420646,420647,420648,420649,420650,420651,420652,420653,420654,420655,420656,420657,420658,406730,420659,420661,420662,420663,420664,420665,420666,405071,420667,420668,420669,420670,420671,420674,420675,405079,420676,420677,420678,420679,420680,420168,420169,420170,420171,420172,420173,420178,420179,420180,420181,420182,420183,420185,420186,420187,420192,420193,420194,420195,420196,420197,420198,420199,420200,420201,420202,420203,420204,420206,420207,420208,420209,420210,420211,420212,420214,420215,420216,420217,420218,420219,420220&banca=937&nivel=2",
+              "nome": "Gran - Segurança da informação (Princípios, Malwares e Golpes) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_003_009_001",
+              "materiaId": "mat_003",
+              "nome": "Princípios de confidencialidade, integridade e disponibilidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_002",
+              "materiaId": "mat_003",
+              "nome": "Autenticação, autorização e auditoria (autenticação em múltiplos fatores)",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_003",
+              "materiaId": "mat_003",
+              "nome": "Senhas seguras, bloqueio de tela e cópias de segurança",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_004",
+              "materiaId": "mat_003",
+              "nome": "Malwares (vírus, worms, trojans, spyware e ransomware)",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_005",
+              "materiaId": "mat_003",
+              "nome": "Phishing e suas variações (spear phishing, vishing e smishing) e engenharia social",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_006",
+              "materiaId": "mat_003",
+              "nome": "Proteção de informações e dados pessoais (dado pessoal e dado pessoal sensível)",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_007",
+              "materiaId": "mat_003",
+              "nome": "Cuidados com coleta, armazenamento e compartilhamento de dados",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_008",
+              "materiaId": "mat_003",
+              "nome": "Proteção de documentos físicos e digitais e descarte seguro",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "id": "sub_003_009_009",
+              "materiaId": "mat_003",
+              "nome": "Responsabilidade do usuário no tratamento de informações institucionais",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_004",
+      "nome": "CONHECIMENTOS SOBRE NÍSIA FLORESTA/RN",
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_004_001",
+          "nome": "História da formação do Município de Nísia Floresta",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_002",
+          "nome": "Aspectos históricos, geográficos, econômicos, sociais, culturais e ambientais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_003",
+          "nome": "Organização político-administrativa do Município",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_004",
+          "nome": "Patrimônio histórico, cultural e natural",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_005",
+          "nome": "Distritos, localidades, principais vias, equipamentos públicos e órgãos municipais",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_006",
+          "nome": "Economia local e principais atividades produtivas",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_007",
+          "nome": "Aspectos demográficos e indicadores socioeconômicos",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_008",
+          "nome": "Meio ambiente, recursos hídricos e sustentabilidade",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_009",
+          "nome": "Serviços públicos municipais",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_010",
+          "nome": "Atualidades relacionadas ao Município de Nísia Floresta",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_004_011",
+          "nome": "Símbolos oficiais do Município",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_005",
+      "nome": "LEGISLAÇÃO MUNICIPAL DE NÍSIA FLORESTA/RN",
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_005_001",
+          "nome": "Lei Orgânica do Município de Nísia Floresta, promulgada em 30 de março de 1990, e suas Emendas",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_005_002",
+          "nome": "Lei nº 006, de 18 de novembro de 2013 (Estatuto dos Servidores Públicos do Município de Nísia Floresta, e suas alterações)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_005_003",
+          "nome": "Lei Complementar nº 048/2025 (Legislação municipal relativa à Guarda Civil Municipal de Nísia Floresta)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_005_003_001",
+              "materiaId": "mat_005",
+              "nome": "Criação, organização e competências",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005_003_002",
+              "materiaId": "mat_005",
+              "nome": "Estrutura administrativa",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005_003_003",
+              "materiaId": "mat_005",
+              "nome": "Direitos, deveres e prerrogativas",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_005_003_004",
+              "materiaId": "mat_005",
+              "nome": "Regime disciplinar e demais normas correlatas",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_005_004",
+          "nome": "Patrulha Maria da Penha no Estado do Rio Grande do Norte (Lei Estadual nº 10.097/2016 e Decreto Estadual nº 29.496/2020)",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_kevuqlfbg",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406443,410821,410822,410823,410824,410825,410826,406444,410827,410828,410829,410830,410831,410832,410833,410834,410835,410836,410837,410838,410839,410840,406447,410841,410842,410843,410844,410845,410846,410847,410848,410849,410850,410851,410852,410853,410854,410855,410856,410857,410858,410859,410860,410861,410862,410863,410864,410865,410866,410867,410868,410869,410870,410871,410872,410873,410874,410877,410878,410879,410880,410881,410882,410883,410884,410886,410887,410888,410890,410891,410892,410896,410898,410899,410900,410901,410902,410907,406448,410908,410909,410910,410911,410912,410913,410915,410919,410920,410921,410922,410923,410927,410928,410929,410930,410931,410932,410933,410934,410935,410936,410937,410938,410939,410940,410941,410942,410943,410944,410945,410946,410947,410950,410952,410953,410955,410956,410957,410958,410959,410961,410962,410965,410966,410967,410968,410970,410971,410972,410975,410976,410977,410978,406449,410979,410980,410981,410982,406451,410983,406452,410986,410990,410991,410993,410995,410996,410997,411001,411004&banca=937&nivel=2",
+              "nome": "Gran - Patrulha Maria da Penha / Lei Maria da Penha - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_006",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_006_001",
+          "nome": "Estado, Governo e Administração Pública",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "id": "cad_gran_ydwjw6wxd",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404342,422145,404343,407801,407802,422146,422147,407803,407804,407805,407806,422148,404345,422149,404344,407807,422150,407808,407809,407838,407836,407837,407810,407811,407812,407813,407814,407815,407816,407817,407818,407819,407820,407821,407822,407823,407824,407825,407832,407833,407834,407835,422151,422152,422153,404346,407851,407848,407847,404347,407839,407840,407841,407844,407854,404348,407946,404349,404351,407863,407864,407866,407897,407896,407894,407862,407879,407880,407882,407869,407870,407871,407872,407873,407874,407875,407876,407877,422901,407895,404350,407899,407902,407900,407901,407893,407903,407904,407905,407906,407907,404353,407892,407909,407910,407911,407912,407865,407891,407890,407889,404352,407913,407887,407914,407915,407916,407917,407918,407919,407920,407921,407923,407924,407925,407926,407927,407928,407929,407930,407931,407932,407933,407934,407935,407938,407940,407886,407943&banca=937&nivel=2",
+              "nome": "Gran - Estado, Governo e Organização Administrativa - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_001_001",
+              "materiaId": "mat_006",
+              "nome": "Conceitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_001_002",
+              "materiaId": "mat_006",
+              "nome": "Princípios",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_001_003",
+              "materiaId": "mat_006",
+              "nome": "Organização administrativa",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_002",
+          "nome": "Princípios expressos e implícitos da Administração Pública",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "id": "cad_gran_uv0hch4g5",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404358,404359,407783,407784,407785,407786,404360,408531,408530,408529,408528,422139,408527,408526,408525,404338,407787,404361,407788,407789,404362,407790,407791,407792,407793,407794,407795,407796,407797,407798,407799,407800,408524,422141,422142,422143,422144&banca=937&nivel=2",
+              "nome": "Gran - Princípios da Administração Pública - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_006_003",
+          "nome": "Competência administrativa",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "id": "cad_gran_2wsamtlb5",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404342,422145,404343,407801,407802,422146,422147,407803,407804,407805,407806,422148,404345,422149,404344,407807,422150,407808,407809,407838,407836,407837,407810,407811,407812,407813,407814,407815,407816,407817,407818,407819,407820,407821,407822,407823,407824,407825,407832,407833,407834,407835,422151,422152,422153,404346,407851,407848,407847,404347,407839,407840,407841,407844,407854,404348,407946,404349,404351,407863,407864,407866,407897,407896,407894,407862,407879,407880,407882,407869,407870,407871,407872,407873,407874,407875,407876,407877,422901,407895,404350,407899,407902,407900,407901,407893,407903,407904,407905,407906,407907,404353,407892,407909,407910,407911,407912,407865,407891,407890,407889,404352,407913,407887,407914,407915,407916,407917,407918,407919,407920,407921,407923,407924,407925,407926,407927,407928,407929,407930,407931,407932,407933,407934,407935,407938,407940,407886,407943&banca=937&nivel=2",
+              "nome": "Gran - Competência administrativa (Delegação e Avocação) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_003_001",
+              "materiaId": "mat_006",
+              "nome": "Delegação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_003_002",
+              "materiaId": "mat_006",
+              "nome": "Avocação",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_003_003",
+              "materiaId": "mat_006",
+              "nome": "Exercício da competência",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_004",
+          "nome": "Poderes administrativos",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_priq2rrtj",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407952,407885,407884&banca=937&nivel=2",
+              "nome": "Gran - Poderes administrativos (Poder de Polícia) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_004_001",
+              "materiaId": "mat_006",
+              "nome": "Poder vinculado e discricionário",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_004_002",
+              "materiaId": "mat_006",
+              "nome": "Poder hierárquico",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_004_003",
+              "materiaId": "mat_006",
+              "nome": "Poder disciplinar",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_004_004",
+              "materiaId": "mat_006",
+              "nome": "Poder regulamentar",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_004_005",
+              "materiaId": "mat_006",
+              "nome": "Poder de polícia",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_005",
+          "nome": "Atos administrativos",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_boo5alhnm",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404372,404373,408046,408047,408048,408049,408050,408051,408052,422193,422194,422195,404376,404377,404378,404379,422183,404380,404374,408053,408054,408055,422184,408056,408057,408058,408059,408060,408061,408062,408063,408064,404381,408065,408066,408067,408068,408069,408070,408071,408072,408073,408074,408075,408076,408077,408078,408079,408080,408081,408082,408083,408084,408085,408086,408087,408088,408089,408090,408091,408092,408093,408094,408095,408096,408097,408098,408099,408100,408101,408102,422185,404382,404385,408104,408105,408106,422186,408107,408108,408109,408110,408111,408112,408113,408114,408115,404386,408116,408117,408118,408119,404387,408120,408121,408122,408123,408124,408125,404383,408126,408127,408128,408129,408130,404384,408131,408132,408133,408134,408135,408136,408137,408138,404389,408139,408140,422187,422188,422189,422190,404388,408141,408142,408143,408144,408145,408146,408147,422191,422192&banca=937&nivel=2",
+              "nome": "Gran - Atos administrativos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_005_001",
+              "materiaId": "mat_006",
+              "nome": "Conceito e requisitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_005_002",
+              "materiaId": "mat_006",
+              "nome": "Atributos",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_005_003",
+              "materiaId": "mat_006",
+              "nome": "Espécies e classificação",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_005_004",
+              "materiaId": "mat_006",
+              "nome": "Invalidação, revogação e convalidação",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_006",
+          "nome": "Agentes públicos",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_pkqujl95u",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407835,422151,422152,422153&banca=937&nivel=2",
+              "nome": "Gran - Agentes públicos e Servidores - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_006_001",
+              "materiaId": "mat_006",
+              "nome": "Conceito e classificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_006_002",
+              "materiaId": "mat_006",
+              "nome": "Direitos e deveres",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_006_003",
+              "materiaId": "mat_006",
+              "nome": "Responsabilidades",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_006_004",
+              "materiaId": "mat_006",
+              "nome": "Provimento e vacância",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_006_005",
+              "materiaId": "mat_006",
+              "nome": "Regime disciplinar",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_007",
+          "nome": "Serviços públicos",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_jdlslh27a",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408539&banca=937&nivel=2",
+              "nome": "Gran - Serviços públicos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_007_001",
+              "materiaId": "mat_006",
+              "nome": "Conceito e princípios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_007_002",
+              "materiaId": "mat_006",
+              "nome": "Classificação e formas de prestação",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_008",
+          "nome": "Bens públicos",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "id": "cad_gran_mf87h4iqv",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404419,404420,422223,422224,422225,422226,422229,404421,408462,408463,408464,408465,408466,408467,408468,408469,408470,408471,408472,408473,404422,408474,408475,408476,408477,404423,408478,408479,408480,408481,408482,408483,408484,408485,408487,408488,422230,422231,422232,408490,404425,408491,408492,408494,408495,408496,408497,408498,408499,422233,404424,408500,408501,408502,408503,408504,422234,408505&banca=937&nivel=2",
+              "nome": "Gran - Bens públicos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_008_001",
+              "materiaId": "mat_006",
+              "nome": "Conceito e classificação",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_008_002",
+              "materiaId": "mat_006",
+              "nome": "Utilização, proteção e afetação",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_009",
+          "nome": "Responsabilidade civil da Administração Pública",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_nmm9bl865",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404402,404403,404399,404404,404405,404400,408364,404406,408365,408366,408367,404407,404408,404401,404398,408368,408369,408370,408363,408371,408372,408373,408378,408379,408380,408381,408382,408383,408374,408375,408384,408385,408386,408362,408361,408376,408359,408377,408358,408357,408356&banca=937&nivel=2",
+              "nome": "Gran - Responsabilidade civil da Administração Pública - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_006_010",
+          "nome": "Controle da Administração Pública",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "id": "cad_gran_9z7o5s789",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404409,404410,404412,404411,404413,408387,404414,408388,408402,404415,408406,408407,408408,408409,408410,408411,408412,408390,408389,408355,408391,408392,408393,408394,408395,408396,408397,408398,408399,408400,408401,408404,408403,408413,405174,404484,404486,404487,404488,422211,422212,422213,404416,408405,404417,404418,422214,422215,422216,422217&banca=937&nivel=2",
+              "nome": "Gran - Controle da Administração Pública - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_010_001",
+              "materiaId": "mat_006",
+              "nome": "Controle administrativo",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_010_002",
+              "materiaId": "mat_006",
+              "nome": "Controle legislativo",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_010_003",
+              "materiaId": "mat_006",
+              "nome": "Controle judicial",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_011",
+          "nome": "Processo administrativo (Lei nº 9.784/1999)",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "id": "cad_gran_h7owqjn72",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408253&banca=937&nivel=2",
+              "nome": "Gran - Processo administrativo (Lei nº 9.784/1999) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_011_001",
+              "materiaId": "mat_006",
+              "nome": "Princípios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_011_002",
+              "materiaId": "mat_006",
+              "nome": "Direitos e deveres do administrado",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_012",
+          "nome": "Processo Administrativo Disciplinar (PAD)",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "id": "cad_gran_qu7jmykee",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=408272,408276,408277,408278,408279,408280,408281,408282,408283,408284&banca=937&nivel=2",
+              "nome": "Gran - Processo Administrativo Disciplinar (PAD) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_012_001",
+              "materiaId": "mat_006",
+              "nome": "Conceito e princípios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_012_002",
+              "materiaId": "mat_006",
+              "nome": "Aspectos gerais",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_013",
+          "nome": "Improbidade administrativa (Lei nº 8.429/1992 com as alterações da Lei nº 14.230/2021)",
+          "ordem": 12,
+          "cadernos": [
+            {
+              "id": "cad_gran_58cn3edeb",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=404431,404527,422218,408431,408434,408435,404528,408414,404529,404530,408415,408426,408425,404531,404532,408428,408432,408427,408433,408424,408423,408430,408429,408422,408421&banca=937&nivel=2",
+              "nome": "Gran - Improbidade administrativa (Lei nº 8.429/1992 e Lei 14.230/2021) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_006_014",
+          "nome": "Licitações e contratos administrativos (Lei nº 14.133/2021)",
+          "ordem": 13,
+          "cadernos": [
+            {
+              "id": "cad_gran_zq5zazgyh",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=422381&banca=937&nivel=2",
+              "nome": "Gran - Licitações e contratos administrativos (Lei nº 14.133/2021) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_006_014_001",
+              "materiaId": "mat_006",
+              "nome": "Princípios",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_014_002",
+              "materiaId": "mat_006",
+              "nome": "Modalidades",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_014_003",
+              "materiaId": "mat_006",
+              "nome": "Contratação direta",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_006_014_004",
+              "materiaId": "mat_006",
+              "nome": "Noções gerais da Lei nº 14.133/2021",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_006_015",
+          "nome": "Responsabilidade dos agentes públicos e exercício do poder de polícia administrativa",
+          "ordem": 14,
+          "cadernos": [
+            {
+              "id": "cad_gran_hbyueah26",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407952,407885,407884,404402,404403,404399,404404,404405,404400,408364,404406,408365,408366,408367,404407,404408,404401,404398,408368,408369,408370,408363,408371,408372,408373,408378,408379,408380,408381,408382,408383,408374,408375,408384,408385,408386,408362,408361,408376,408359,408377,408358,408357,408356&banca=937&nivel=2",
+              "nome": "Gran - Responsabilidade dos agentes e Poder de Polícia - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_007",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_007_001",
+          "nome": "Constituição da República Federativa do Brasil de 1988",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_007_001_001",
+              "materiaId": "mat_007",
+              "nome": "Conceito e classificação",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_qj76or4ot",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405200,405201,421759,405202,405206,407523,405204,405207,407541,407542,407543,421760,407544,407545,421761,421762,421763,421764,421765,421766,421767,405209,407536,407537,407538,407539,407540,421769,405208,407558,407552,407566,405203,407522,407521,405205&banca=937&nivel=2",
+                  "nome": "Gran - Conceito e classificação da CF - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_001_002",
+              "materiaId": "mat_007",
+              "nome": "Princípios fundamentais",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_jd6cxzku7",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405212,405213,407567,405215,405216&banca=937&nivel=2",
+                  "nome": "Gran - Princípios fundamentais - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_001_003",
+              "materiaId": "mat_007",
+              "nome": "Aplicabilidade das normas constitucionais",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_jzrvnsmon",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405205&banca=937&nivel=2",
+                  "nome": "Gran - Aplicabilidade das normas constitucionais - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_007_002",
+          "nome": "Direitos e garantias fundamentais",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_007_002_001",
+              "materiaId": "mat_007",
+              "nome": "Direitos e deveres individuais e coletivos",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_ihg77lgy9",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405219&banca=937&nivel=2",
+                  "nome": "Gran - Direitos e deveres individuais e coletivos (art. 5º da CF/88) - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_002_002",
+              "materiaId": "mat_007",
+              "nome": "Direitos sociais",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_w91ai0i4b",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405227,407573,407574,407576,407577&banca=937&nivel=2",
+                  "nome": "Gran - Direitos sociais (arts. 6º a 11 da CF/88) - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_002_003",
+              "materiaId": "mat_007",
+              "nome": "Nacionalidade",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_kigb7m84u",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405228,407578,407579,407580,407581,407582,407583,421770&banca=937&nivel=2",
+                  "nome": "Gran - Nacionalidade (arts. 12 e 13 da CF/88) - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_002_004",
+              "materiaId": "mat_007",
+              "nome": "Direitos políticos",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "id": "cad_gran_h08iqeilr",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405229,421771,407584,407585,407586,407587,407588,407589,407590&banca=937&nivel=2",
+                  "nome": "Gran - Direitos políticos (arts. 14 a 16 da CF/88) - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_007_003",
+          "nome": "Organização político-administrativa da República Federativa do Brasil",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "id": "cad_gran_4t6kwkn96",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405231,405232,407599,405233,405234,405235,405236,407596,407597,407598,407602,405237,407594,407595,407601,407600,407557,407556,407555,407554,433479,407614,407553,407565,407563,407562,407561,407560,407559,421773,421774,421775,421776,421777,421778,421779,421780,421781,421782,405238,407603,407604,407605,407606,407607,407608,405239,421783,421784,421785,405240,405241,405242,407616,407620,407619,407629,407630,407609,405243,407615,407617,407625,407618,405244,405245&banca=937&nivel=2",
+              "nome": "Gran - Organização político-administrativa do Estado - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_007_004",
+          "nome": "Competências da União, dos Estados, do Distrito Federal e dos Municípios",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_rcjl970ym",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405231,405232,407599,405233,405234,405235,405236,407596,407597,407598,407602,405237,407594,407595,407601,407600,407557,407556,407555,407554,433479,407614,407553,407565,407563,407562,407561,407560,407559,421773,421774,421775,421776,421777,421778,421779,421780,421781,421782,405238,407603,407604,407605,407606,407607,407608,405239,421783,421784,421785,405240,405241,405242,407616,407620,407619,407629,407630,407609,405243,407615,407617,407625,407618,405244,405245&banca=937&nivel=2",
+              "nome": "Gran - Competências da União, Estados, DF e Municípios - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_007_005",
+          "nome": "Administração Pública (arts. 37 a 41 da CF/88)",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_007_005_001",
+              "materiaId": "mat_007",
+              "nome": "Princípios constitucionais",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_hah2lxgce",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405240,405241,405242,407616,407620,407619,407629,407630,407609,405243,407615,407617,407625,407618,405244,405245&banca=937&nivel=2",
+                  "nome": "Gran - Princípios constitucionais da Administração Pública - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_005_002",
+              "materiaId": "mat_007",
+              "nome": "Disposições gerais",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_emv3alq67",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405240,405241,405242,407616,407620,407619,407629,407630,407609,405243,407615,407617,407625,407618,405244,405245&banca=937&nivel=2",
+                  "nome": "Gran - Disposições gerais da Administração Pública - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_007_006",
+          "nome": "Organização dos Poderes",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_c3tybl7pc",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405251,407626,407628&banca=937&nivel=2",
+              "nome": "Gran - Organização dos Poderes - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_007_007",
+          "nome": "Defesa do Estado e das Instituições Democráticas",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_bbm73zyw8",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405284&banca=937&nivel=2",
+              "nome": "Gran - Defesa do Estado e das Instituições Democráticas - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_007_008",
+          "nome": "Segurança Pública (art. 144 da CF/88)",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_007_008_001",
+              "materiaId": "mat_007",
+              "nome": "Órgãos de segurança pública",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_emqc83ml7",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405289,407740,407744,407743&banca=937&nivel=2",
+                  "nome": "Gran - Órgãos de segurança pública - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_008_002",
+              "materiaId": "mat_007",
+              "nome": "Competências",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_ckpq0spc4",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405289,407740,407744,407743&banca=937&nivel=2",
+                  "nome": "Gran - Competências de segurança pública - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_008_003",
+              "materiaId": "mat_007",
+              "nome": "Organização da segurança pública",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_j2p3wopsv",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405289,407740,407744,407743&banca=937&nivel=2",
+                  "nome": "Gran - Organização da segurança pública - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_007_008_004",
+              "materiaId": "mat_007",
+              "nome": "Guardas Municipais (art. 144 da Constituição Federal)",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "id": "cad_gran_x0xjjalxx",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405289,407740,407744,407743&banca=937&nivel=2",
+                  "nome": "Gran - Guardas Municipais (art. 144 da Constituição Federal) - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_007_009",
+          "nome": "Controle da Administração Pública previsto na Constituição Federal",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_oz6j4qjbj",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=405240,405241,405242,407616,407620,407619,407629,407630,407609,405243,407615,407617,407625,407618,405244,405245&banca=937&nivel=2",
+              "nome": "Gran - Controle da Administração Pública na CF - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_008",
+      "nome": "NOÇÕES DE DIREITOS HUMANOS",
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_008_001",
+          "nome": "Conceito, características, fundamentos, princípios e evolução histórica dos Direitos Humanos",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "id": "cad_gran_njrmehoxo",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=423167,423168&banca=937&nivel=2",
+              "nome": "Gran - Conceito, fundamentos e evolução histórica dos Direitos Humanos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_002",
+          "nome": "Gerações (ou dimensões) dos Direitos Humanos",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "id": "cad_gran_4jp84mv64",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407075&banca=937&nivel=2",
+              "nome": "Gran - Gerações (ou dimensões) dos Direitos Humanos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_003",
+          "nome": "Declaração Universal dos Direitos Humanos (1948)",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "id": "cad_gran_gia6gw5nx",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407086&banca=937&nivel=2",
+              "nome": "Gran - Declaração Universal dos Direitos Humanos (1948) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_004",
+          "nome": "Sistema Global e Sistema Interamericano de Proteção dos Direitos Humanos",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_assbpygdt",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407076,407077,407078,407079,407080,407081,407110,407137,407138,407139,407140,407141,407142&banca=937&nivel=2",
+              "nome": "Gran - Sistema Global e Interamericano de Proteção dos Direitos Humanos - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_005",
+          "nome": "Direitos Humanos na Constituição da República Federativa do Brasil de 1988",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_j5y1nham6",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407108,407127,407128,407129,423171&banca=937&nivel=2",
+              "nome": "Gran - Direitos Humanos na Constituição Federal de 1988 - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_006",
+          "nome": "Direitos Humanos e atividade policial",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_cyf3hwzvn",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407134&banca=937&nivel=2",
+              "nome": "Gran - Direitos Humanos e atividade policial - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_007",
+          "nome": "Uso diferenciado da força",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_hhlett1ya",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407134&banca=937&nivel=2",
+              "nome": "Gran - Uso diferenciado da força - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": [
+            {
+              "id": "sub_008_007_001",
+              "materiaId": "mat_008",
+              "nome": "Princípio da legalidade",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_008_007_002",
+              "materiaId": "mat_008",
+              "nome": "Princípio da necessidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_008_007_003",
+              "materiaId": "mat_008",
+              "nome": "Princípio da proporcionalidade",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "id": "sub_008_007_004",
+              "materiaId": "mat_008",
+              "nome": "Princípio da razoabilidade",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "id": "sub_008_007_005",
+              "materiaId": "mat_008",
+              "nome": "Princípio da precaução e responsabilização",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "id": "top_008_008",
+          "nome": "Proteção dos grupos vulneráveis",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_008_008_001",
+              "materiaId": "mat_008",
+              "nome": "Crianças e adolescentes",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_1npviyp9j",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407093&banca=937&nivel=2",
+                  "nome": "Gran - Proteção da criança e do adolescente - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_008_008_002",
+              "materiaId": "mat_008",
+              "nome": "Pessoas idosas",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_z8nhxoyba",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=452385,452386,452389&banca=937&nivel=2",
+                  "nome": "Gran - Proteção da pessoa idosa - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_008_008_003",
+              "materiaId": "mat_008",
+              "nome": "Pessoas com deficiência",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_430dvh6j8",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407096&banca=937&nivel=2",
+                  "nome": "Gran - Proteção da pessoa com deficiência - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_008_008_004",
+              "materiaId": "mat_008",
+              "nome": "Mulheres",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "id": "cad_gran_cystokeky",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407090&banca=937&nivel=2",
+                  "nome": "Gran - Proteção das mulheres - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_008_008_005",
+              "materiaId": "mat_008",
+              "nome": "População negra",
+              "ordem": 4,
+              "cadernos": [
+                {
+                  "id": "cad_gran_l9ghgilm7",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407089&banca=937&nivel=2",
+                  "nome": "Gran - Proteção da população negra - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_008_008_006",
+              "materiaId": "mat_008",
+              "nome": "Povos indígenas e comunidades tradicionais",
+              "ordem": 5,
+              "cadernos": [
+                {
+                  "id": "cad_gran_nwkmsusm0",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407119,430252&banca=937&nivel=2",
+                  "nome": "Gran - Povos indígenas e comunidades tradicionais - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_008_009",
+          "nome": "Cidadania, dignidade da pessoa humana, igualdade, não discriminação e promoção dos direitos fundamentais",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_n7priedcw",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=423167,423168&banca=937&nivel=2",
+              "nome": "Gran - Cidadania, dignidade da pessoa humana e igualdade - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_010",
+          "nome": "Direitos Humanos aplicados à atuação da Guarda Civil Municipal",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "id": "cad_gran_avbs9k88b",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407134&banca=937&nivel=2",
+              "nome": "Gran - Direitos Humanos aplicados à atuação da GCM - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_011",
+          "nome": "Programa Nacional de Direitos Humanos (PNDH)",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "id": "cad_gran_widulh9tf",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407109,407130,407131,407132,407133,407134,407135,407136&banca=937&nivel=2",
+              "nome": "Gran - Programa Nacional de Direitos Humanos (PNDH) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_008_012",
+          "nome": "Regras de Mandela e Código de Conduta para os Funcionários Responsáveis pela Aplicação da Lei (ONU)",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "id": "cad_gran_vw760fj0r",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=407092&banca=937&nivel=2",
+              "nome": "Gran - Regras de Mandela e Código de Conduta da ONU - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    },
+    {
+      "id": "mat_009",
+      "nome": "NOÇÕES DE DIREITO PENAL",
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_009_001",
+          "nome": "Princípios do Direito Penal",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "id": "cad_gran_ujot0oykg",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406226,418294,413497,413498,413502,413503,418414,418415,413504,413505,413506,413507,413508,413509,413510,413511,413512,413513,413514,413516,413517,413518,413519,413520,413523,413524,413525,413526,413527,413528,413529,413530,413531,418416,418417&banca=937&nivel=2",
+              "nome": "Gran - Princípios do Direito Penal - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_002",
+          "nome": "Aplicação da lei penal (Lei penal no tempo e no espaço)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_003",
+          "nome": "Crime",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_009_003_001",
+              "materiaId": "mat_009",
+              "nome": "Conceito, classificação e sujeitos",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "id": "sub_009_003_002",
+              "materiaId": "mat_009",
+              "nome": "Tipicidade, ilicitude e culpabilidade",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "id": "sub_009_003_002b",
+              "materiaId": "mat_009",
+              "nome": "Consumação e tentativa",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_ykg078kpg",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406248,413561,413562,413563,413564&banca=937&nivel=2",
+                  "nome": "Gran - Consumação e tentativa - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_009_003_003",
+              "materiaId": "mat_009",
+              "nome": "Concurso de pessoas",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "id": "cad_gran_xvhbx7lhr",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406277,418562,418565,418566&banca=937&nivel=2",
+                  "nome": "Gran - Concurso de pessoas - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_009_003_004",
+              "materiaId": "mat_009",
+              "nome": "Concurso de crimes",
+              "ordem": 4,
+              "cadernos": [
+                {
+                  "id": "cad_gran_vu4fwgrkw",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406282,413868,413869&banca=937&nivel=2",
+                  "nome": "Gran - Concurso de crimes - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_009_003_005",
+              "materiaId": "mat_009",
+              "nome": "Excludentes de ilicitude e de culpabilidade",
+              "ordem": 5,
+              "cadernos": [
+                {
+                  "id": "cad_gran_q0811bu22",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406263,406264,406265,418502,418503&banca=937&nivel=2",
+                  "nome": "Gran - Excludentes de ilicitude e de culpabilidade - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_009_004",
+          "nome": "Pena",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_009_004_001",
+              "materiaId": "mat_009",
+              "nome": "Espécies de pena",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_anyvgz3na",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406284,413840,413845,418699,413841,413842,413843,413844,418700,413846,413848,413849,413850,413851,413852,413847,406285,406286,418701,406288,406287,418702,418703,418704,406289,413859,413860,413861,413862,413863,406290,413854,413855,418705,413856,413857,418706,418707,418708,418709,418710,418711,413858,418712,413905,406279,406280,406281,413864,413865,413866,413867,406282,413868,413869,418717,418718,418719,406291,418720,413872,413873,413874,413875,406293,413876,413877,413878,413879,413881,413882,413883,413894,413895,418721,418722,418723,413896,413897,413898,413899,413900,413901,413902,418724,418725,406294,418726,413903,413904,406292,413884,418727,413885,418728,418729,413886,413887,418730,418731,413888,413889,413890,413891,413892,413893,418732,418733,418734,418735,418736,418738,418739&banca=937&nivel=2",
+                  "nome": "Gran - Espécies de pena - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_009_004_002",
+              "materiaId": "mat_009",
+              "nome": "Aplicação da pena",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_c6oo61wdm",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406284,413840,413845,418699,413841,413842,413843,413844,418700,413846,413848,413849,413850,413851,413852,413847,406285,406286,418701,406288,406287,418702,418703,418704,406289,413859,413860,413861,413862,413863,406290,413854,413855,418705,413856,413857,418706,418707,418708,418709,418710,418711,413858,418712,413905,406279,406280,406281,413864,413865,413866,413867,406282,413868,413869,418717,418718,418719,406291,418720,413872,413873,413874,413875,406293,413876,413877,413878,413879,413881,413882,413883,413894,413895,418721,418722,418723,413896,413897,413898,413899,413900,413901,413902,418724,418725,406294,418726,413903,413904,406292,413884,418727,413885,418728,418729,413886,413887,418730,418731,413888,413889,413890,413891,413892,413893,418732,418733,418734,418735,418736,418738,418739&banca=937&nivel=2",
+                  "nome": "Gran - Aplicação da pena - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_009_005",
+          "nome": "Crimes contra a pessoa",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_xmk5ar71z",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=418778,406315,418794,406316,413916,413917,413918,418795,413919,418796,413920,413921,418797,418798,406317,406319,406318,413922,413923,413924,413925,413926,418799,418800,418801&banca=937&nivel=2",
+              "nome": "Gran - Crimes contra a pessoa - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_006",
+          "nome": "Crimes contra o patrimônio",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_1gp05ynt8",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406339,406361,413948,413949,413950,418808,418809,418810,418811,406362,413951,413952,413953,413954,406364,418812,418813,418814,406365,406366,406367,413956,413957,413958,413959,406368,418818,413960,413961,413962,413964,406369,413965,413966,413967,413968,413969,406370,418827,413970,413971,413972,413973,413974,413975,413976,413977,413978,413979,413980,413981,413982,413984,406371,418860,418861,418862,418863,413985,418865,418866,418867,418868&banca=937&nivel=2",
+              "nome": "Gran - Crimes contra o patrimônio - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_007",
+          "nome": "Crimes contra a Administração Pública",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_b4jf7o7bc",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406349,406431,406432,418924,418927,418929,406433,406434,406438,406440,406442,406446,406450,406453,414056,406454,406455,414057,406456,406457,406459,406460,406462,406469,418941,418942,418943,406474,406475,406476,406477,406478,406479,406480,406481,418944,406482,406483,406484,406485,406493,406494,406495,414058,430329,430330,430331,430332,430333,430334,430335,430336,430337,430338,430339,430340,406496,406497,406498,406499,406500,406501,406502,406503,418946,406504,406505,406506,406508,406509,406510,406511,406512,432522,406514,406515,406516,406517,418945,418948,406518,414059,414060,414061,414062,414063,414064,414065,414066&banca=937&nivel=2",
+              "nome": "Gran - Crimes contra a Administração Pública - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_008",
+          "nome": "Crimes contra a fé pública",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "id": "cad_gran_9mvsg7nhi",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406348,418908,406411,414047,414048,406412,406413,414049,414050,406414,406415,406416,406417,406418,406420,406421,406422,406424,406425,406426,406427,406428,414052,414053,414054,414055,406430&banca=937&nivel=2",
+              "nome": "Gran - Crimes contra a fé pública - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_009",
+          "nome": "Crimes contra a Administração da Justiça",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_mv0i5kvxd",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406496,406497,406498,406499,406500,406501,406502,406503,418946,406504,406505,406506,406508,406509,406510,406511,406512,432522,406514,406515,406516,406517,418945,418948&banca=937&nivel=2",
+              "nome": "Gran - Crimes contra a Administração da Justiça - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_010",
+          "nome": "Crimes contra a incolumidade pública",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "id": "cad_gran_bwe84xda8",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406346,406402,414013,414014,414015,414016,414017,414018,414019,414021,414022,406403,414023,414024,414025,414026,414027,414028,414029,406404,414030,414031,414032,414033,414034,414035,414036,414037,414039,414040,414041,414042,414043,414044,414045&banca=937&nivel=2",
+              "nome": "Gran - Crimes contra a incolumidade pública - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_009_011",
+          "nome": "Noções de Criminologia",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_009_011_001",
+              "materiaId": "mat_009",
+              "nome": "Conceitos básicos",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_5md0ymvh3",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=418186&banca=937&nivel=2",
+                  "nome": "Gran - Noções de Criminologia - Conceitos básicos - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_009_011_002",
+              "materiaId": "mat_009",
+              "nome": "Prevenção da criminalidade",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_qjsbv2mfh",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=418186&banca=937&nivel=2",
+                  "nome": "Gran - Noções de Criminologia - Prevenção da criminalidade - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_010",
+      "nome": "NOÇÕES DE PROCESSO PENAL",
+      "ordem": 9,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_010_001",
+          "nome": "Jurisdição e competência",
+          "ordem": 0,
+          "cadernos": [
+            {
+              "id": "cad_gran_nhj7db6sx",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406626,421254,421255,421258,421261,421262,421263,421264,421269,421270,421271,421273,421274,421275,421276,421277,421280,421281,414247,414248,414234,406633,414250,414267,414268,406627,414269,414270,414271,414272,406628,406630,414280,406631,414312,406632,414320,414323,414350,406634,414356,421283,421284,421285,421286,421288,421289,421290,421291,421292,421293,414357,414360,414362,414364,414365,421294,421295,421296,414358,414366,414369,414370,414371,414367,414373,414359&banca=937&nivel=2",
+              "nome": "Gran - Jurisdição e competência - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_002",
+          "nome": "Inquérito policial",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "id": "cad_gran_fu5ezt3r8",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406608,414132,414133,414134,414135,414136,406609,406610,406611,421025,421026,421027,421028,421029,421030,421031,421032,421035,421036,421037,421038,421039,421040,421041,421042,421043,421044,421045,421046,421047,421048,421049,421050,421052,421053,421054,421056,421057,421059,421060,421061,421068,421070,421071,421072,421073,421074,421075,421076,421077,421078,421079,421080,421081,421082,421083,421084,421085,421086,421087,421088,421089,421090,421091,421092,421094,421095,421096,421097,421100,421101,421102,421104,421105,421106,421107,421108,421109,421098,421110,421111,421112,421113,421114,421115,421099,421116,421117,421118,421119,421120,421121,421122,421128,421132,421123,421124,421125,421126,421127,421133,421134,421140,421141,421142,421143,421144,421145,423170,421135,421136,421137,421138,421146,421147,421139,421148,406612,406615,421149,421150&banca=937&nivel=2",
+              "nome": "Gran - Inquérito policial - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_003",
+          "nome": "Ação penal",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "id": "cad_gran_59hz6pltx",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406616,421151,421152,421153,421154,421155,414137,414139,414140,421156,421157,421158,414141,414142,414143,414148,414144,414145,421159,421160,414147,421161,414149,414151,414152,414153,421162,406618,414154,414155,414156,414157,414158,414159,414160,414161,414162,406619,421173,421174,406620,414165,414167,414168,414169,421175,421176,421177,421178,421179,421180,414175,406622,421181,414174,406624,421182,421183,414176,414177,414178,414179,414180,421184,421185,421186,414186,414191,414192,414194,421188,421189,421238,421239,421240,421191,421241,421242,421243,421245,414196,406617,414197,414206,414207,414209,414213,414208,414214,414216,414218,414198,414215,414222,414224,414225,406625,414226,421252,421253,414227,414228,414229&banca=937&nivel=2",
+              "nome": "Gran - Ação penal - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_004",
+          "nome": "Sujeitos processuais",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_g0gxvdpb4",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406637,414879&banca=937&nivel=2",
+              "nome": "Gran - Sujeitos processuais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_005",
+          "nome": "Comunicação dos atos processuais",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_j70lng0md",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406649,414506,414508&banca=937&nivel=2",
+              "nome": "Gran - Comunicação dos atos processuais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_006",
+          "nome": "Prisão em flagrante",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_bhuq2m74o",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406669,414930,414931,414932,414936,414937,414938,414939,414940,414941,414942,414943,414933,414934,414944,414945,414947,414948,414949,414950,414951,414935&banca=937&nivel=2",
+              "nome": "Gran - Prisão em flagrante - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_007",
+          "nome": "Prisões cautelares e medidas cautelares pessoais",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_bskipp8li",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406669,414930,414931,414932,414936,414937,414938,414939,414940,414941,414942,414943,414933,414934,414944,414945,414947,414948,414949,414950,414951,414935&banca=937&nivel=2",
+              "nome": "Gran - Prisões cautelares e medidas cautelares pessoais - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_008",
+          "nome": "Busca e apreensão",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "id": "cad_gran_y2l3iu6u9",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406656,414550,414551,414552,414553,414555,414554,414557&banca=937&nivel=2",
+              "nome": "Gran - Busca e apreensão - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_009",
+          "nome": "Provas e cadeia de custódia",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_5lt63hbjl",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406650&banca=937&nivel=2",
+              "nome": "Gran - Provas e cadeia de custódia - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_010",
+          "nome": "Direitos e garantias do preso",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "id": "cad_gran_3nyyo1y0j",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406669,414930,414931,414932,414936,414937,414938,414939,414940,414941,414942,414943,414933,414934,414944,414945,414947,414948,414949,414950,414951,414935&banca=937&nivel=2",
+              "nome": "Gran - Direitos e garantias do preso - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_011",
+          "nome": "Juizados Especiais Criminais e Termo Circunstanciado de Ocorrência (Lei nº 9.099/1995)",
+          "ordem": 10,
+          "cadernos": [
+            {
+              "id": "cad_gran_5ryilfudd",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406711,406712,406713,406714,406715,415016,415017,415018,415019,415025,415026,406716,415020,415021,415022,415023,415024,415039,415038,415045,415044,415036,415035,415034,415033,414963,414964,414983,415027,415028,415029,415030,415031,415032,421467,414965,414984,414966,414987,414989,414968,414969&banca=937&nivel=2",
+              "nome": "Gran - Juizados Especiais Criminais e TCO (Lei nº 9.099/1995) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_010_012",
+          "nome": "Atuação da Guarda Civil Municipal",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_010_012_001",
+              "materiaId": "mat_010",
+              "nome": "Proteção dos bens, serviços, logradouros públicos e instalações municipais",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_qlqd2008t",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406669,414930,414931,414932,414936,414937,414938,414939,414940,414941,414942,414943,414933,414934,414944,414945,414947,414948,414949,414950,414951,414935&banca=937&nivel=2",
+                  "nome": "Gran - Proteção dos bens, serviços e logradouros públicos - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_010_012_002",
+              "materiaId": "mat_010",
+              "nome": "Preservação da ordem pública",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_e278x7h1l",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406669,414930,414931,414932,414936,414937,414938,414939,414940,414941,414942,414943,414933,414934,414944,414945,414947,414948,414949,414950,414951,414935&banca=937&nivel=2",
+                  "nome": "Gran - Preservação da ordem pública - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_010_012_003",
+              "materiaId": "mat_010",
+              "nome": "Colaboração com os órgãos de segurança pública e prisão em flagrante (CF/88, Lei nº 13.022/2014)",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_7pjo2txah",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406669,414930,414931,414932,414936,414937,414938,414939,414940,414941,414942,414943,414933,414934,414944,414945,414947,414948,414949,414950,414951,414935&banca=937&nivel=2",
+                  "nome": "Gran - Colaboração com órgãos de segurança e prisão em flagrante - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mat_011",
+      "nome": "LEGISLAÇÃO EXTRAVAGANTE",
+      "ordem": 10,
+      "cadernos": [],
+      "topicos": [
+        {
+          "id": "top_011_001",
+          "nome": "Lei nº 13.022/2014 (Estatuto Geral das Guardas Municipais)",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "id": "sub_011_001_001",
+              "materiaId": "mat_011",
+              "nome": "Princípios",
+              "ordem": 0,
+              "cadernos": [
+                {
+                  "id": "cad_gran_2vahfnemb",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=402328&banca=937&nivel=2",
+                  "nome": "Gran - Estatuto Geral das Guardas Municipais - Princípios - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_011_001_002",
+              "materiaId": "mat_011",
+              "nome": "Competências",
+              "ordem": 1,
+              "cadernos": [
+                {
+                  "id": "cad_gran_8eixtwu66",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=402328&banca=937&nivel=2",
+                  "nome": "Gran - Estatuto Geral das Guardas Municipais - Competências - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_011_001_003",
+              "materiaId": "mat_011",
+              "nome": "Organização",
+              "ordem": 2,
+              "cadernos": [
+                {
+                  "id": "cad_gran_ttfyh8ycf",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=402328&banca=937&nivel=2",
+                  "nome": "Gran - Estatuto Geral das Guardas Municipais - Organização - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_011_001_004",
+              "materiaId": "mat_011",
+              "nome": "Controle, corregedoria e ouvidoria",
+              "ordem": 3,
+              "cadernos": [
+                {
+                  "id": "cad_gran_9kk16k36j",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=402328&banca=937&nivel=2",
+                  "nome": "Gran - Estatuto Geral das Guardas Municipais - Controle e Ouvidoria - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            },
+            {
+              "id": "sub_011_001_005",
+              "materiaId": "mat_011",
+              "nome": "Atuação integrada e suas alterações",
+              "ordem": 4,
+              "cadernos": [
+                {
+                  "id": "cad_gran_ishknpw99",
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=402328&banca=937&nivel=2",
+                  "nome": "Gran - Estatuto Geral das Guardas Municipais - Atuação integrada - IDIB - Médio",
+                  "emoji": "📓",
+                  "rotulo": "QUEST"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "top_011_002",
+          "nome": "Lei nº 13.675/2018 (Sistema Único de Segurança Pública – SUSP e Política Nacional de Segurança Pública e Defesa Social)",
+          "ordem": 1,
+          "cadernos": [
+            {
+              "id": "cad_gran_rxe3m5atn",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=401868&banca=937&nivel=2",
+              "nome": "Gran - SUSP e Política Nacional de Segurança Pública (Lei nº 13.675/2018) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_003",
+          "nome": "Decreto nº 11.841/2023 (Cooperação das Guardas Municipais com os órgãos de segurança pública)",
+          "ordem": 2,
+          "cadernos": [
+            {
+              "id": "cad_gran_up0g5btce",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=402328,401868&banca=937&nivel=2",
+              "nome": "Gran - Cooperação das Guardas Municipais (Decreto nº 11.841/2023) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_004",
+          "nome": "Lei nº 11.340/2006 (Lei Maria da Penha) e suas alterações",
+          "ordem": 3,
+          "cadernos": [
+            {
+              "id": "cad_gran_17uxq5hjo",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406443,410821,410822,410823,410824,410825,410826,406444,410827,410828,410829,410830,410831,410832,410833,410834,410835,410836,410837,410838,410839,410840,406447,410841,410842,410843,410844,410845,410846,410847,410848,410849,410850,410851,410852,410853,410854,410855,410856,410857,410858,410859,410860,410861,410862,410863,410864,410865,410866,410867,410868,410869,410870,410871,410872,410873,410874,410877,410878,410879,410880,410881,410882,410883,410884,410886,410887,410888,410890,410891,410892,410896,410898,410899,410900,410901,410902,410907,406448,410908,410909,410910,410911,410912,410913,410915,410919,410920,410921,410922,410923,410927,410928,410929,410930,410931,410932,410933,410934,410935,410936,410937,410938,410939,410940,410941,410942,410943,410944,410945,410946,410947,410950,410952,410953,410955,410956,410957,410958,410959,410961,410962,410965,410966,410967,410968,410970,410971,410972,410975,410976,410977,410978,406449,410979,410980,410981,410982,406451,410983,406452,410986,410990,410991,410993,410995,410996,410997,411001,411004&banca=937&nivel=2",
+              "nome": "Gran - Lei Maria da Penha (Lei nº 11.340/2006) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_005",
+          "nome": "Lei nº 11.343/2006 (Lei de Drogas) e suas alterações",
+          "ordem": 4,
+          "cadernos": [
+            {
+              "id": "cad_gran_vp1pcanm0",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406529&banca=937&nivel=2",
+              "nome": "Gran - Lei de Drogas (Lei nº 11.343/2006) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_006",
+          "nome": "Lei nº 10.826/2003 (Estatuto do Desarmamento) e suas alterações",
+          "ordem": 5,
+          "cadernos": [
+            {
+              "id": "cad_gran_sucp0nqh4",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406528&banca=937&nivel=2",
+              "nome": "Gran - Estatuto do Desarmamento (Lei nº 10.826/2003) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_007",
+          "nome": "Lei nº 13.869/2019 (Lei de Abuso de Autoridade) e suas alterações",
+          "ordem": 6,
+          "cadernos": [
+            {
+              "id": "cad_gran_4h7fhahl7",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406521&banca=937&nivel=2",
+              "nome": "Gran - Lei de Abuso de Autoridade (Lei nº 13.869/2019) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_008",
+          "nome": "Lei nº 9.455/1997 (Lei de Tortura) e suas alterações",
+          "ordem": 7,
+          "cadernos": [
+            {
+              "id": "cad_gran_74va8xio0",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406526&banca=937&nivel=2",
+              "nome": "Gran - Lei de Tortura (Lei nº 9.455/1997) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_009",
+          "nome": "Lei nº 9.503/1997 (Código de Trânsito Brasileiro) e suas alterações",
+          "ordem": 8,
+          "cadernos": [
+            {
+              "id": "cad_gran_6witam2h9",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=421857,421858,421859,421864,421865,421866,421867,421868,421869,421870,421871,421872,421873,421874,421875,421876,421877,421878,421879,421880,421881,421882,421883,421884,421885,421886,421887,421888,421889,421890,421891,421892,421893,421860,421861,421862,421863,429916,430435,430423,446004,447671&banca=937&nivel=2",
+              "nome": "Gran - Código de Trânsito Brasileiro - CTB (Lei nº 9.503/1997) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_010",
+          "nome": "Lei nº 8.069/1990 (Estatuto da Criança e do Adolescente – ECA) e suas alterações",
+          "ordem": 9,
+          "cadernos": [
+            {
+              "id": "cad_gran_ol3eawu8i",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406581,406584,406582,406585,406586,406587,411472,411473,411474,411475,411476,411477,411478,406588,406589,406583,411479,406590,406591,411480,411481,406592,406593,411482,411483,411484,411485,406594,411486,411487,406595,411488,411489,411490,411491,411492,411493,411494,411495,411496,411497,411498,411499,406596,406597,411500,411501,411502,411503,411504,406598,406599,411505,411506,411507,411509,411510,411511,411512,411513,411514,411518,411527,411531,411534,411535,411536,411537,411538,411539,406600,411540,411541,411542,411543,406601&banca=937&nivel=2",
+              "nome": "Gran - ECA (Lei nº 8.069/1990) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_011",
+          "nome": "Lei nº 10.741/2003 (Estatuto da Pessoa Idosa) e suas alterações",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_012",
+          "nome": "Lei nº 13.146/2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência) e suas alterações",
+          "ordem": 11,
+          "cadernos": [
+            {
+              "id": "cad_gran_512tu1mp7",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=433292,433275,433276,433277,433278,433279,433280,433281,433282,433283,433284,433285,433286,433287,433288,433289,433290,433291,433293,433294,433295,433296,433297,433298,433299,433300,433301,433302,433303&banca=937&nivel=2",
+              "nome": "Gran - Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_013",
+          "nome": "Lei nº 12.288/2010 (Estatuto da Igualdade Racial) e suas alterações",
+          "ordem": 12,
+          "cadernos": [
+            {
+              "id": "cad_gran_w0el6u63y",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=398667,428100,428101,428102,428103&banca=937&nivel=2",
+              "nome": "Gran - Estatuto da Igualdade Racial (Lei nº 12.288/2010) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_014",
+          "nome": "Crimes de preconceito de raça ou cor (Lei nº 7.716/1989 e alterações da Lei nº 14.532/2023 quanto à injúria racial)",
+          "ordem": 13,
+          "cadernos": [
+            {
+              "id": "cad_gran_hh7qhksqn",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=406523,439136&banca=937&nivel=2",
+              "nome": "Gran - Crimes de preconceito de raça ou cor (Lei 7.716/89 e Lei 14.532/23) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_015",
+          "nome": "Lei nº 9.605/1998 (Lei de Crimes Ambientais) e suas alterações",
+          "ordem": 14,
+          "cadernos": [
+            {
+              "id": "cad_gran_2cv1yhieo",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=423207&banca=937&nivel=2",
+              "nome": "Gran - Lei de Crimes Ambientais (Lei nº 9.605/1998) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_016",
+          "nome": "Lei nº 14.597/2023 (Lei Geral do Esporte - prevenção da violência e segurança nos eventos esportivos)",
+          "ordem": 15,
+          "cadernos": [
+            {
+              "id": "cad_gran_d722n6ath",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=432767&banca=937&nivel=2",
+              "nome": "Gran - Lei Geral do Esporte (Lei nº 14.597/2023) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_017",
+          "nome": "Lei nº 13.060/2014 (Uso dos instrumentos de menor potencial ofensivo pelos agentes de segurança pública)",
+          "ordem": 16,
+          "cadernos": [
+            {
+              "id": "cad_gran_qz1pspth5",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=433754&banca=937&nivel=2",
+              "nome": "Gran - Instrumentos de menor potencial ofensivo (Lei nº 13.060/2014) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_018",
+          "nome": "Lei nº 13.431/2017 (Sistema de garantia de direitos da criança e do adolescente vítima ou testemunha de violência)",
+          "ordem": 17,
+          "cadernos": [
+            {
+              "id": "cad_gran_dqwkip0cc",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=401554&banca=937&nivel=2",
+              "nome": "Gran - Criança/adolescente vítima de violência (Lei nº 13.431/2017) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_019",
+          "nome": "Lei nº 12.037/2009 (Identificação Criminal) e suas alterações",
+          "ordem": 18,
+          "cadernos": [
+            {
+              "id": "cad_gran_tn4c1t1kw",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=421167&banca=937&nivel=2",
+              "nome": "Gran - Identificação Criminal (Lei nº 12.037/2009) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        },
+        {
+          "id": "top_011_020",
+          "nome": "Lei nº 14.133/2021 (exclusivamente quanto aos crimes em licitações e contratos administrativos)",
+          "ordem": 19,
+          "cadernos": [
+            {
+              "id": "cad_gran_pmn9v22qv",
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=430329,430330,430331,430332,430333,430334,430335,430336,430337,430338,430339,430340&banca=937&nivel=2",
+              "nome": "Gran - Crimes em licitações e contratos (Lei nº 14.133/2021) - IDIB - Médio",
+              "emoji": "📓",
+              "rotulo": "QUEST"
+            }
+          ],
+          "subtopicos": []
+        }
+      ]
+    }
+  ],
+  "estrutura": {
+    "configProva": {
+      "groups": [
+        {
+          "id": "g_comuns",
+          "name": "Prova Objetiva - Conhecimentos Comuns",
+          "useBlockData": false,
+          "items": [
+            {
+              "id": "mat_001",
+              "q": 18,
+              "w": 1
+            },
+            {
+              "id": "mat_002",
+              "q": 6,
+              "w": 1
+            },
+            {
+              "id": "mat_003",
+              "q": 6,
+              "w": 1
+            }
+          ],
+          "q": 30,
+          "w": 1,
+          "minPts": 15
+        },
+        {
+          "id": "g_especificos",
+          "name": "Prova Objetiva - Conhecimentos Específicos",
+          "useBlockData": true,
+          "items": [
+            {
+              "id": "mat_004",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_005",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_006",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_007",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_008",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_009",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_010",
+              "q": "X",
+              "w": "Y"
+            },
+            {
+              "id": "mat_011",
+              "q": "X",
+              "w": "Y"
+            }
+          ],
+          "q": 30,
+          "w": 2,
+          "minPts": 30
+        }
+      ]
+    },
+    "cronoMats": "[{\"nome\": \"LÍNGUA PORTUGUESA\", \"cor\": \"#f55a5a\", \"materiaId\": \"mat_001\"}, {\"nome\": \"RACIOCÍNIO LÓGICO E MATEMÁTICO\", \"cor\": \"#4f8ef7\", \"materiaId\": \"mat_002\"}, {\"nome\": \"NOÇÕES DE INFORMÁTICA\", \"cor\": \"#7c5cfc\", \"materiaId\": \"mat_003\"}, {\"nome\": \"CONHECIMENTOS SOBRE NÍSIA FLORESTA/RN\", \"cor\": \"#3ecf8e\", \"materiaId\": \"mat_004\"}, {\"nome\": \"LEGISLAÇÃO MUNICIPAL DE NÍSIA FLORESTA/RN\", \"cor\": \"#f5c842\", \"materiaId\": \"mat_005\"}, {\"nome\": \"NOÇÕES DE DIREITO ADMINISTRATIVO\", \"cor\": \"#f5874a\", \"materiaId\": \"mat_006\"}, {\"nome\": \"NOÇÕES DE DIREITO CONSTITUCIONAL\", \"cor\": \"#00bcd4\", \"materiaId\": \"mat_007\"}, {\"nome\": \"NOÇÕES DE DIREITOS HUMANOS\", \"cor\": \"#e91e8c\", \"materiaId\": \"mat_008\"}, {\"nome\": \"NOÇÕES DE DIREITO PENAL\", \"cor\": \"#8bc34a\", \"materiaId\": \"mat_009\"}, {\"nome\": \"NOÇÕES DE PROCESSO PENAL\", \"cor\": \"#ff9800\", \"materiaId\": \"mat_010\"}, {\"nome\": \"LEGISLAÇÃO EXTRAVAGANTE\", \"cor\": \"#9c27b0\", \"materiaId\": \"mat_011\"}, {\"nome\": \"SIMULADO\", \"cor\": \"#607d8b\", \"materiaId\": \"v-simulado\"}, {\"nome\": \"REVISAO\", \"cor\": \"#607d8b\", \"materiaId\": \"v-revisao\"}]"
+  }
+}

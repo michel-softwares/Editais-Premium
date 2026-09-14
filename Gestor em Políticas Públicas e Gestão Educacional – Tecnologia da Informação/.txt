@@ -1,0 +1,76 @@
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS     
+============================================================
+
+🏢 ÓRGÃO: Secretaria de Estado de Educação do Distrito Federal (SEEDF)
+🪪 CARGO: Gestor em Políticas Públicas e Gestão Educacional – Tecnologia da Informação
+🧾 BANCA: Instituto QUADRIX
+
+📝 PAINEL DE PROVAS:
+• 1ª FASE - Prova Objetiva (Eliminatória e Classificatória):
+  - Total de 120 itens do tipo CERTO ou ERRADO.
+  - Modelo com fator de correção (estilo Cebraspe):
+    * Erros anulam acertos (proporção 1:1).
+  - Pontuação Máxima: 120,00 pontos.
+  - Divisão das Áreas de Conhecimento:
+    * Conhecimentos Básicos: 40 itens (peso 1,0 = 40 pts)
+      (Língua Portuguesa, Tecnologia e Informática Básica,
+       Direito Administrativo, Conhecimentos sobre o DF)
+      -> Mínimo exigido: 10,00 pontos.
+    * Conhecimentos Complementares: 30 itens (peso 1,0 = 30 pts)
+      (Legislação Aplicada à Educação - Lei 5.106/2013)
+      -> Mínimo exigido: 8,00 pontos.
+    * Conhecimentos Específicos: 50 itens (peso 1,0 = 50 pts)
+      (Desenvolvimento de Sistemas, Bancos de Dados,
+       Segurança da Informação, Suporte e Infraestrutura,
+       Administração de Redes, Gestão/Governança de TI,
+       Língua Inglesa)
+      -> Mínimo exigido: 12,00 pontos.
+  - Habilitação Geral na Objetiva: Mínimo de 34,00 pontos
+    no conjunto de todas as áreas de conhecimento.
+
+• 2ª FASE - Prova Discursiva (Eliminatória e Classificatória):
+  - Pontuação Máxima: 30,00 pontos.
+  - Habilitação na Discursiva: Mínimo de 15,00 pontos (50%).
+  - Estrutura: Texto dissertativo (mínimo de 20 e máximo de
+    30 linhas) abordando tema de Atualidades (conhecimentos
+    básicos do edital).
+  - Critério de Correção: Corrigidas as redações dos aprovados
+    na objetiva classificados até 3 vezes o total de vagas e CR.
+
+• 3ª FASE - Avaliação de Títulos (Classificatória):
+  - Pontuação Máxima: 4,00 pontos (Doutorado, Mestrado,
+    Pós-graduação Lato Sensu e Aprovação em Concurso).
+
+🎓 ESCOLARIDADE: Nível Superior em TI ou Graduação em qualquer área com pós-graduação/especialização em TI
+👥 VAGAS: 2 vagas imediatas + 40 Cadastro de Reserva (Total: 42 oportunidades)
+  - Vagas Imediatas: 2 Ampla Concorrência, 0 PcD, 0 Negros, 0 Hipossuficientes
+  - Cadastro de Reserva: 20 Ampla Concorrência, 8 PcD, 8 Negros, 4 Hipossuficientes
+📅 DATA DA PROVA: 16/10/2022
+💵 REMUNERAÇÃO INICIAL: R$ 4.223,76 (40 horas semanais)
+  - Vencimento Básico: R$ 3.016,97
+  - Gratificação de Incentivo à Carreira (GIC): R$ 1.206,79
+  - Adicionais legais aplicáveis da carreira
+💵 TAXA DE INSCRIÇÃO: R$ 56,00
+  - Período de Inscrição: 02/08/2022 a 31/08/2022
+  - Vencimento do Boleto: 02/09/2022
+📌 REGIME: Estatutário (Lei Complementar Distrital nº 840/2011)
+⏰ CARGA HORÁRIA: 40 horas semanais (8 horas diárias)
+📍 LOCAL DE PROVA: Brasília/DF
+📅 TURNO DA PROVA: Manhã (Duração de 4 horas)
+
+📚 CONTEÚDO PROGRAMÁTICO RESUMIDO:
+1. Língua Portuguesa (7 tópicos)
+2. Uso de Tecnologia na Educação e Informática Básica (5 tópicos)
+3. Noções de Direito Administrativo (8 tópicos)
+4. Conhecimentos Acerca do Distrito Federal (2 tópicos)
+5. Legislação Aplicada à Educação (17 tópicos)
+6. Desenvolvimento de Sistemas (10 tópicos)
+7. Bancos de Dados (11 tópicos)
+8. Segurança da Informação (10 tópicos)
+9. Suporte e Infraestrutura (7 tópicos)
+10. Administração de Redes (6 tópicos)
+11. Gestão e Governança de TI (4 tópicos)
+12. Língua Inglesa (2 tópicos)
+
+🔗 BANCA EXECUTORA: www.quadrix.org.br
