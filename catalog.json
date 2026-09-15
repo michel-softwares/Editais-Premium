@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-09-14T20:26:19.662Z",
+  "atualizadoEm": "2026-09-15T03:18:03.609Z",
   "editais": [
+    {
+      "id": "gestor-em-politicas-publicas-e-gestao-educacional-administracao-seedf",
+      "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "orgao": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "banca": "Instituto Quadrix",
+      "cargo": "Gestor em Políticas Públicas e Gestão Educacional - Administração",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20-%20Administra%C3%A7%C3%A3o%20(SEEDF)/card_premium_seedf.png",
+      "arquivo": "Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20-%20Administra%C3%A7%C3%A3o%20(SEEDF)/Edital%20Premium%20Track%20Concursos%20Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20-%20Administra%C3%A7%C3%A3o%20(SEEDF).backup.json",
+      "arquivoNome": "Edital Premium Track Concursos Gestor em Políticas Públicas e Gestão Educacional - Administração (SEEDF).backup.json",
+      "atualizadoEm": "2026-09-15T03:17:35.000Z"
+    },
     {
       "id": "analista-legislativo-processo-legislativo-e-gestao-camara-dos-deputados",
       "titulo": "Analista Legislativo – Processo Legislativo e Gestão (Câmara dos Deputados)",
