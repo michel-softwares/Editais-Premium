@@ -1,6 +1,92 @@
 {
-  "atualizadoEm": "2026-09-03T13:27:30.726Z",
+  "atualizadoEm": "2026-09-14T20:26:19.662Z",
   "editais": [
+    {
+      "id": "analista-legislativo-processo-legislativo-e-gestao-camara-dos-deputados",
+      "titulo": "Analista Legislativo – Processo Legislativo e Gestão (Câmara dos Deputados)",
+      "orgao": "Analista Legislativo – Processo Legislativo e Gestão (Câmara dos Deputados)",
+      "banca": "A definir",
+      "cargo": "Analista Legislativo – Processo Legislativo e Gestão (Câmara dos Deputados)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20Legislativo%20%E2%80%93%20Processo%20Legislativo%20e%20Gest%C3%A3o%20(C%C3%A2mara%20dos%20Deputados)/card_premium_c_mara_dos_deputados.png",
+      "arquivo": "Analista%20Legislativo%20%E2%80%93%20Processo%20Legislativo%20e%20Gest%C3%A3o%20(C%C3%A2mara%20dos%20Deputados)/Edital%20Premium%20Track%20Concursos%20Analista%20Legislativo%20%E2%80%93%20Processo%20Legislativo%20e%20Gest%C3%A3o%20(C%C3%A2mara%20dos%20Deputados).json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Legislativo – Processo Legislativo e Gestão (Câmara dos Deputados).json",
+      "atualizadoEm": "2026-09-14T20:26:02.000Z"
+    },
+    {
+      "id": "gestor-em-politicas-publicas-e-gestao-educacional-tecnologia-da-informacao",
+      "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "orgao": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "banca": "Instituto QUADRIX",
+      "cargo": "Gestor em Políticas Públicas e Gestão Educacional – Tecnologia da Informação",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20%E2%80%93%20Tecnologia%20da%20Informa%C3%A7%C3%A3o/card_premium_seedf.png",
+      "arquivo": "Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20%E2%80%93%20Tecnologia%20da%20Informa%C3%A7%C3%A3o/Edital%20Premium%20Track%20Concursos%20Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20%E2%80%93%20Tecnologia%20da%20Informa%C3%A7%C3%A3o.json",
+      "arquivoNome": "Edital Premium Track Concursos Gestor em Políticas Públicas e Gestão Educacional – Tecnologia da Informação.json",
+      "atualizadoEm": "2026-09-14T20:26:02.000Z"
+    },
+    {
+      "id": "guarda-civil-municipal-gcm-nisia-floresta",
+      "titulo": "Prefeitura Municipal de Nísia Floresta (RN)",
+      "orgao": "Prefeitura Municipal de Nísia Floresta (RN)",
+      "banca": "IDIB (Instituto de Desenvolvimento Institucional Brasileiro)",
+      "cargo": "Guarda Civil Municipal",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Guarda%20Civil%20Municipal%20(GCM%20N%C3%ADsia%20Floresta)/card_premium_gcm_n_sia_floresta.png",
+      "arquivo": "Guarda%20Civil%20Municipal%20(GCM%20N%C3%ADsia%20Floresta)/Edital%20Premium%20Track%20Concursos%20Guarda%20Civil%20Municipal%20(GCM%20N%C3%ADsia%20Floresta).json",
+      "arquivoNome": "Edital Premium Track Concursos Guarda Civil Municipal (GCM Nísia Floresta).json",
+      "atualizadoEm": "2026-09-14T20:26:02.000Z"
+    },
+    {
+      "id": "monitor-de-gestao-educacional",
+      "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "orgao": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "banca": "Cebraspe (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos)",
+      "cargo": "Monitor de Gestão Educacional (Cargo 38)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Monitor%20de%20Gest%C3%A3o%20Educacional/card_premium_seedf.png",
+      "arquivo": "Monitor%20de%20Gest%C3%A3o%20Educacional/Edital%20Premium%20Track%20Concursos%20Monitor%20de%20Gest%C3%A3o%20Educacional.json",
+      "arquivoNome": "Edital Premium Track Concursos Monitor de Gestão Educacional.json",
+      "atualizadoEm": "2026-09-14T20:26:02.000Z"
+    },
+    {
+      "id": "pedagogo-orientador-educacional",
+      "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "orgao": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "banca": "Instituto QUADRIX",
+      "cargo": "Pedagogo – Orientador Educacional",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Pedagogo%20%E2%80%93%20Orientador%20Educacional/card_premium_seedf.png",
+      "arquivo": "Pedagogo%20%E2%80%93%20Orientador%20Educacional/Edital%20Premium%20Track%20Concursos%20Pedagogo%20%E2%80%93%20Orientador%20Educacional.json",
+      "arquivoNome": "Edital Premium Track Concursos Pedagogo – Orientador Educacional.json",
+      "atualizadoEm": "2026-09-14T20:26:02.000Z"
+    },
     {
       "id": "edital-unificado-bancario-bb-bnb-caixa",
       "titulo": "Edital Unificado Bancario (BB - BNB - CAIXA)",
