@@ -16,7 +16,7 @@
   },
   "concurso": {
     "nome": "SEEDF",
-    "cargo": "Gestor em Políticas Públicas e Gestão Educacional - Administração",
+    "cargo": "Analista em Políticas Públicas e Gestão Educacional - Administração",
     "salario": "R$ 4.223,76 (Vencimento-base R$ 3.016,97 + Gratificação GIC R$ 1.206,79)",
     "banca": "Instituto Quadrix",
     "logoEmoji": null,
@@ -31,7 +31,7 @@
   },
   "materias": [
     {
-      "id": "mu1rfhouze66m",
+      "id": "mu2zwcvng0tjk",
       "nome": "LÍNGUA PORTUGUESA",
       "ordem": 0,
       "cadernos": [],
@@ -92,7 +92,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Emprego de elementos de referenciação, substituição e repetição",
               "ordem": 0,
               "cadernos": [
@@ -106,7 +106,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Emprego de conectores e outros elementos de sequenciação textual",
               "ordem": 1,
               "cadernos": [
@@ -120,7 +120,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Emprego de tempos e modos verbais",
               "ordem": 2,
               "cadernos": [
@@ -149,7 +149,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Emprego das classes de palavras",
               "ordem": 0,
               "cadernos": [
@@ -163,7 +163,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Relações de coordenação entre orações e entre termos da oração",
               "ordem": 1,
               "cadernos": [
@@ -177,7 +177,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Relações de subordinação entre orações e entre termos da oração",
               "ordem": 2,
               "cadernos": [
@@ -191,7 +191,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Emprego dos sinais de pontuação",
               "ordem": 3,
               "cadernos": [
@@ -205,7 +205,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Concordância verbal e nominal",
               "ordem": 4,
               "cadernos": [
@@ -219,7 +219,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Regência verbal e nominal",
               "ordem": 5,
               "cadernos": [
@@ -233,7 +233,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Emprego do sinal indicativo de crase",
               "ordem": 6,
               "cadernos": [
@@ -247,7 +247,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Colocação dos pronomes átonos",
               "ordem": 7,
               "cadernos": [
@@ -276,7 +276,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Significação das palavras",
               "ordem": 0,
               "cadernos": [
@@ -290,7 +290,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Substituição de palavras ou de trechos de texto",
               "ordem": 1,
               "cadernos": [
@@ -304,7 +304,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Reorganização da estrutura de orações e de períodos do texto",
               "ordem": 2,
               "cadernos": [
@@ -318,7 +318,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfhouze66m",
+              "materiaId": "mu2zwcvng0tjk",
               "nome": "Reescrita de textos de diferentes gêneros e níveis de formalidade",
               "ordem": 3,
               "cadernos": [
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "id": "mu1rfib3nx17r",
+      "id": "mu2zwdkzaavf4",
       "nome": "USO DE TECNOLOGIA NA EDUCAÇÃO E INFORMÁTICA BÁSICA",
       "ordem": 1,
       "cadernos": [],
@@ -369,7 +369,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Noções de vírus e pragas virtuais",
               "ordem": 0,
               "cadernos": [
@@ -383,7 +383,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Procedimentos de backup",
               "ordem": 1,
               "cadernos": [
@@ -412,7 +412,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Google Sala de Aula",
               "ordem": 0,
               "cadernos": [
@@ -426,7 +426,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Google Documentos",
               "ordem": 1,
               "cadernos": [
@@ -440,7 +440,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Google Planilhas",
               "ordem": 2,
               "cadernos": [
@@ -469,7 +469,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Edição de textos em ambiente Windows",
               "ordem": 0,
               "cadernos": [
@@ -483,7 +483,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Planilhas em ambiente Windows",
               "ordem": 1,
               "cadernos": [
@@ -497,7 +497,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfib3nx17r",
+              "materiaId": "mu2zwdkzaavf4",
               "nome": "Apresentações em ambiente Windows",
               "ordem": 2,
               "cadernos": [
@@ -543,7 +543,7 @@
       ]
     },
     {
-      "id": "mu1rfioadiuhi",
+      "id": "mu2zwe18qzxjm",
       "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
       "ordem": 2,
       "cadernos": [],
@@ -562,7 +562,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Conceitos, elementos e poderes",
               "ordem": 0,
               "cadernos": [
@@ -576,7 +576,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Organização administrativa, natureza, fins e princípios",
               "ordem": 1,
               "cadernos": [
@@ -633,7 +633,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Espécies e classificação",
               "ordem": 0,
               "cadernos": [
@@ -647,7 +647,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Poderes, deveres e prerrogativas",
               "ordem": 1,
               "cadernos": [
@@ -661,7 +661,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Cargo, emprego e função públicos",
               "ordem": 2,
               "cadernos": [
@@ -704,7 +704,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Conceitos e requisitos",
               "ordem": 0,
               "cadernos": [
@@ -718,7 +718,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Atributos e classificação",
               "ordem": 1,
               "cadernos": [
@@ -732,7 +732,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Espécies e invalidação",
               "ordem": 2,
               "cadernos": [
@@ -761,7 +761,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Controle administrativo",
               "ordem": 0,
               "cadernos": [
@@ -775,7 +775,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Controle judicial",
               "ordem": 1,
               "cadernos": [
@@ -789,7 +789,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Controle legislativo",
               "ordem": 2,
               "cadernos": [
@@ -803,7 +803,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfioadiuhi",
+              "materiaId": "mu2zwe18qzxjm",
               "nome": "Responsabilidade civil do Estado",
               "ordem": 3,
               "cadernos": [
@@ -835,7 +835,7 @@
       ]
     },
     {
-      "id": "mu1rfj7epgagb",
+      "id": "mu2zwep12lil3",
       "nome": "CONHECIMENTOS ACERCA DO DISTRITO FEDERAL",
       "ordem": 3,
       "cadernos": [],
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "id": "mu1rfja0xajol",
+      "id": "mu2zwes9yb3ng",
       "nome": "LEGISLAÇÃO EDUCACIONAL E DISTRITAL",
       "ordem": 4,
       "cadernos": [],
@@ -953,7 +953,7 @@
             {
               "id": "cad_gran_yuntn262h",
               "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=425877&banca=286&nivel=1",
-              "nome": "Gran - Diretrizes Curriculares Nacionais para o Ensino Fundamental de 9 anos (Resolução CNE-CEB nº 7/2010) - Quadrix - Superior",
+              "nome": "Gran - Diretrizes Curriculares Nacionais para o Ensino Fundamental de 9 anos (Resolução CNE-CEB nº 7/2010) - Quadrix - S",
               "emoji": "📓",
               "rotulo": "QUEST"
             }
@@ -1086,7 +1086,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfja0xajol",
+              "materiaId": "mu2zwes9yb3ng",
               "nome": "Avaliação da aprendizagem",
               "ordem": 0,
               "cadernos": [
@@ -1100,7 +1100,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfja0xajol",
+              "materiaId": "mu2zwes9yb3ng",
               "nome": "Avaliação institucional",
               "ordem": 1,
               "cadernos": [
@@ -1114,7 +1114,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfja0xajol",
+              "materiaId": "mu2zwes9yb3ng",
               "nome": "Avaliação em larga escala",
               "ordem": 2,
               "cadernos": [
@@ -1160,7 +1160,7 @@
       ]
     },
     {
-      "id": "mu1rfjsnt6e8i",
+      "id": "mu2zwfgha3u94",
       "nome": "ADMINISTRAÇÃO GERAL E PÚBLICA",
       "ordem": 5,
       "cadernos": [],
@@ -1179,7 +1179,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Principais abordagens da administração (da clássica até a contingencial)",
               "ordem": 0,
               "cadernos": [
@@ -1193,7 +1193,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Evolução da administração pública no Brasil (após 1930)",
               "ordem": 1,
               "cadernos": [
@@ -1207,7 +1207,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Reformas administrativas no Brasil",
               "ordem": 2,
               "cadernos": [
@@ -1221,7 +1221,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "A nova gestão pública",
               "ordem": 3,
               "cadernos": [
@@ -1250,7 +1250,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Função de Planejamento",
               "ordem": 0,
               "cadernos": [
@@ -1264,7 +1264,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Função de Organização",
               "ordem": 1,
               "cadernos": [
@@ -1278,7 +1278,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Função de Direção",
               "ordem": 2,
               "cadernos": [
@@ -1292,7 +1292,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Função de Controle",
               "ordem": 3,
               "cadernos": [
@@ -1321,7 +1321,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Planejamento estratégico (visão, missão e análise SWOT)",
               "ordem": 0,
               "cadernos": [
@@ -1335,7 +1335,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Análise competitiva e estratégias genéricas",
               "ordem": 1,
               "cadernos": [
@@ -1349,7 +1349,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Redes e alianças",
               "ordem": 2,
               "cadernos": [
@@ -1363,7 +1363,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Planejamento tático",
               "ordem": 3,
               "cadernos": [
@@ -1377,7 +1377,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Planejamento operacional",
               "ordem": 4,
               "cadernos": [
@@ -1391,7 +1391,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Administração por objetivos (APO)",
               "ordem": 5,
               "cadernos": [
@@ -1405,7 +1405,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Balanced scorecard (BSC)",
               "ordem": 6,
               "cadernos": [
@@ -1419,7 +1419,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Processo decisório",
               "ordem": 7,
               "cadernos": [
@@ -1448,7 +1448,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Estrutura organizacional",
               "ordem": 0,
               "cadernos": [
@@ -1462,7 +1462,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Tipos de departamentalização (características, vantagens e desvantagens de cada tipo)",
               "ordem": 1,
               "cadernos": [
@@ -1476,7 +1476,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Organização informal",
               "ordem": 2,
               "cadernos": [
@@ -1490,7 +1490,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Cultura organizacional",
               "ordem": 3,
               "cadernos": [
@@ -1519,7 +1519,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Motivação e liderança",
               "ordem": 0,
               "cadernos": [
@@ -1533,7 +1533,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Comunicação organizacional",
               "ordem": 1,
               "cadernos": [
@@ -1547,7 +1547,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Descentralização e delegação",
               "ordem": 2,
               "cadernos": [
@@ -1576,7 +1576,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Características do controle",
               "ordem": 0,
               "cadernos": [
@@ -1590,7 +1590,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Tipos, vantagens e desvantagens",
               "ordem": 1,
               "cadernos": [
@@ -1604,7 +1604,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfjsnt6e8i",
+              "materiaId": "mu2zwfgha3u94",
               "nome": "Sistema de medição de desempenho organizacional",
               "ordem": 2,
               "cadernos": [
@@ -1622,7 +1622,7 @@
       ]
     },
     {
-      "id": "mu1rfko0doydi",
+      "id": "mu2zwgh2wecjx",
       "nome": "GESTÃO DE PESSOAS",
       "ordem": 6,
       "cadernos": [],
@@ -1669,7 +1669,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfko0doydi",
+              "materiaId": "mu2zwgh2wecjx",
               "nome": "Objetivos e características do recrutamento e seleção",
               "ordem": 0,
               "cadernos": [
@@ -1683,7 +1683,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfko0doydi",
+              "materiaId": "mu2zwgh2wecjx",
               "nome": "Principais tipos, características, vantagens e desvantagens de recrutamento",
               "ordem": 1,
               "cadernos": [
@@ -1697,7 +1697,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfko0doydi",
+              "materiaId": "mu2zwgh2wecjx",
               "nome": "Principais técnicas de seleção de pessoas (características, vantagens e desvantagens)",
               "ordem": 2,
               "cadernos": [
@@ -1757,7 +1757,7 @@
       ]
     },
     {
-      "id": "mu1rfkyb9spl8",
+      "id": "mu2zwgqvl3t73",
       "nome": "GESTÃO DA QUALIDADE E EXCELÊNCIA GERENCIAL",
       "ordem": 7,
       "cadernos": [],
@@ -1821,7 +1821,7 @@
       ]
     },
     {
-      "id": "mu1rfl342j0l1",
+      "id": "mu2zwgwfiz1zq",
       "nome": "GESTÃO DE PROJETOS E PROCESSOS",
       "ordem": 8,
       "cadernos": [],
@@ -1840,7 +1840,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfl342j0l1",
+              "materiaId": "mu2zwgwfiz1zq",
               "nome": "Elaboração, análise e avaliação de projetos",
               "ordem": 0,
               "cadernos": [
@@ -1854,7 +1854,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfl342j0l1",
+              "materiaId": "mu2zwgwfiz1zq",
               "nome": "Principais características dos modelos de gestão de projetos",
               "ordem": 1,
               "cadernos": [
@@ -1868,7 +1868,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfl342j0l1",
+              "materiaId": "mu2zwgwfiz1zq",
               "nome": "Projetos e suas etapas",
               "ordem": 2,
               "cadernos": [
@@ -1897,7 +1897,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfl342j0l1",
+              "materiaId": "mu2zwgwfiz1zq",
               "nome": "Conceitos da abordagem por processos",
               "ordem": 0,
               "cadernos": [
@@ -1911,7 +1911,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfl342j0l1",
+              "materiaId": "mu2zwgwfiz1zq",
               "nome": "Técnicas de mapeamento, análise e melhoria de processos",
               "ordem": 1,
               "cadernos": [
@@ -1925,7 +1925,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfl342j0l1",
+              "materiaId": "mu2zwgwfiz1zq",
               "nome": "Processos e certificação ISO 9000:2000",
               "ordem": 2,
               "cadernos": [
@@ -1939,7 +1939,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfl342j0l1",
+              "materiaId": "mu2zwgwfiz1zq",
               "nome": "Noções de estatística aplicada ao controle e à melhoria de processos",
               "ordem": 3,
               "cadernos": [
@@ -1957,7 +1957,7 @@
       ]
     },
     {
-      "id": "mu1rflcrsk4ne",
+      "id": "mu2zwh6s6gq1m",
       "nome": "ORÇAMENTO PÚBLICO E FINANÇAS",
       "ordem": 9,
       "cadernos": [],
@@ -2046,7 +2046,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rflcrsk4ne",
+              "materiaId": "mu2zwh6s6gq1m",
               "nome": "Categorias e fontes da receita pública",
               "ordem": 0,
               "cadernos": [
@@ -2060,7 +2060,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflcrsk4ne",
+              "materiaId": "mu2zwh6s6gq1m",
               "nome": "Estágios da receita pública",
               "ordem": 1,
               "cadernos": [
@@ -2074,7 +2074,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflcrsk4ne",
+              "materiaId": "mu2zwh6s6gq1m",
               "nome": "Dívida ativa",
               "ordem": 2,
               "cadernos": [
@@ -2103,7 +2103,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rflcrsk4ne",
+              "materiaId": "mu2zwh6s6gq1m",
               "nome": "Categorias da despesa pública",
               "ordem": 0,
               "cadernos": [
@@ -2117,7 +2117,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflcrsk4ne",
+              "materiaId": "mu2zwh6s6gq1m",
               "nome": "Estágios da despesa pública",
               "ordem": 1,
               "cadernos": [
@@ -2191,7 +2191,7 @@
       ]
     },
     {
-      "id": "mu1rflsuuhsu7",
+      "id": "mu2zwhofo4na2",
       "nome": "LICITAÇÕES, CONTRATOS E LEGISLAÇÃO ADMINISTRATIVA",
       "ordem": 10,
       "cadernos": [],
@@ -2210,7 +2210,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Modalidades, dispensa e inexigibilidade",
               "ordem": 0,
               "cadernos": [
@@ -2224,7 +2224,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Pregão",
               "ordem": 1,
               "cadernos": [
@@ -2238,7 +2238,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Contratos e compras",
               "ordem": 2,
               "cadernos": [
@@ -2252,7 +2252,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Convênios e termos similares",
               "ordem": 3,
               "cadernos": [
@@ -2323,7 +2323,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Admissão, concurso público e estágio probatório",
               "ordem": 0,
               "cadernos": [
@@ -2337,7 +2337,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Vencimento básico e remuneração",
               "ordem": 1,
               "cadernos": [
@@ -2351,7 +2351,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Licença e afastamentos",
               "ordem": 2,
               "cadernos": [
@@ -2365,7 +2365,7 @@
               ]
             },
             {
-              "materiaId": "mu1rflsuuhsu7",
+              "materiaId": "mu2zwhofo4na2",
               "nome": "Demissão e aposentadoria",
               "ordem": 3,
               "cadernos": [
@@ -2383,7 +2383,7 @@
       ]
     },
     {
-      "id": "mu1rfm678ek41",
+      "id": "mu2zwi49dbpgg",
       "nome": "ÉTICA NO SERVIÇO PÚBLICO E ATUALIDADES",
       "ordem": 11,
       "cadernos": [],
@@ -2402,7 +2402,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfm678ek41",
+              "materiaId": "mu2zwi49dbpgg",
               "nome": "Comportamento profissional e atitudes no serviço",
               "ordem": 0,
               "cadernos": [
@@ -2416,7 +2416,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfm678ek41",
+              "materiaId": "mu2zwi49dbpgg",
               "nome": "Organização do trabalho e prioridade em serviço",
               "ordem": 1,
               "cadernos": [
@@ -2445,7 +2445,7 @@
           ],
           "subtopicos": [
             {
-              "materiaId": "mu1rfm678ek41",
+              "materiaId": "mu2zwi49dbpgg",
               "nome": "Segurança, transportes, política, economia e sociedade",
               "ordem": 0,
               "cadernos": [
@@ -2459,7 +2459,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfm678ek41",
+              "materiaId": "mu2zwi49dbpgg",
               "nome": "Educação, saúde, cultura e tecnologia",
               "ordem": 1,
               "cadernos": [
@@ -2473,7 +2473,7 @@
               ]
             },
             {
-              "materiaId": "mu1rfm678ek41",
+              "materiaId": "mu2zwi49dbpgg",
               "nome": "Energia, relações internacionais, desenvolvimento sustentável e ecologia",
               "ordem": 2,
               "cadernos": [
@@ -2494,9 +2494,9 @@
   "simulados": [],
   "estrutura": {
     "cronoWeekly": null,
-    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mu1rfhouze66m\"},{\"nome\":\"USO DE TECNOLOGIA NA EDUCAÇÃO E INFORMÁTICA BÁSICA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mu1rfib3nx17r\"},{\"nome\":\"NOÇÕES DE DIREITO ADMINISTRATIVO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mu1rfioadiuhi\"},{\"nome\":\"CONHECIMENTOS ACERCA DO DISTRITO FEDERAL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mu1rfj7epgagb\"},{\"nome\":\"LEGISLAÇÃO EDUCACIONAL E DISTRITAL\",\"cor\":\"#f5c842\",\"materiaId\":\"mu1rfja0xajol\"},{\"nome\":\"ADMINISTRAÇÃO GERAL E PÚBLICA\",\"cor\":\"#f5874a\",\"materiaId\":\"mu1rfjsnt6e8i\"},{\"nome\":\"GESTÃO DE PESSOAS\",\"cor\":\"#00bcd4\",\"materiaId\":\"mu1rfko0doydi\"},{\"nome\":\"GESTÃO DA QUALIDADE E EXCELÊNCIA GERENCIAL\",\"cor\":\"#e91e8c\",\"materiaId\":\"mu1rfkyb9spl8\"},{\"nome\":\"GESTÃO DE PROJETOS E PROCESSOS\",\"cor\":\"#8bc34a\",\"materiaId\":\"mu1rfl342j0l1\"},{\"nome\":\"ORÇAMENTO PÚBLICO E FINANÇAS\",\"cor\":\"#ff9800\",\"materiaId\":\"mu1rflcrsk4ne\"},{\"nome\":\"LICITAÇÕES, CONTRATOS E LEGISLAÇÃO ADMINISTRATIVA\",\"cor\":\"#9c27b0\",\"materiaId\":\"mu1rflsuuhsu7\"},{\"nome\":\"ÉTICA NO SERVIÇO PÚBLICO E ATUALIDADES\",\"cor\":\"#009688\",\"materiaId\":\"mu1rfm678ek41\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"mu2zwcvng0tjk\"},{\"nome\":\"USO DE TECNOLOGIA NA EDUCAÇÃO E INFORMÁTICA BÁSICA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"mu2zwdkzaavf4\"},{\"nome\":\"NOÇÕES DE DIREITO ADMINISTRATIVO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"mu2zwe18qzxjm\"},{\"nome\":\"CONHECIMENTOS ACERCA DO DISTRITO FEDERAL\",\"cor\":\"#3ecf8e\",\"materiaId\":\"mu2zwep12lil3\"},{\"nome\":\"LEGISLAÇÃO EDUCACIONAL E DISTRITAL\",\"cor\":\"#f5c842\",\"materiaId\":\"mu2zwes9yb3ng\"},{\"nome\":\"ADMINISTRAÇÃO GERAL E PÚBLICA\",\"cor\":\"#f5874a\",\"materiaId\":\"mu2zwfgha3u94\"},{\"nome\":\"GESTÃO DE PESSOAS\",\"cor\":\"#00bcd4\",\"materiaId\":\"mu2zwgh2wecjx\"},{\"nome\":\"GESTÃO DA QUALIDADE E EXCELÊNCIA GERENCIAL\",\"cor\":\"#e91e8c\",\"materiaId\":\"mu2zwgqvl3t73\"},{\"nome\":\"GESTÃO DE PROJETOS E PROCESSOS\",\"cor\":\"#8bc34a\",\"materiaId\":\"mu2zwgwfiz1zq\"},{\"nome\":\"ORÇAMENTO PÚBLICO E FINANÇAS\",\"cor\":\"#ff9800\",\"materiaId\":\"mu2zwh6s6gq1m\"},{\"nome\":\"LICITAÇÕES, CONTRATOS E LEGISLAÇÃO ADMINISTRATIVA\",\"cor\":\"#9c27b0\",\"materiaId\":\"mu2zwhofo4na2\"},{\"nome\":\"ÉTICA NO SERVIÇO PÚBLICO E ATUALIDADES\",\"cor\":\"#009688\",\"materiaId\":\"mu2zwi49dbpgg\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
     "cronoMode": null,
     "ciclo": null,
-    "configProva": "{\"scoringMode\":\"cebraspe\",\"errorPenalty\":1,\"groups\":[{\"id\":\"g_basicos\",\"name\":\"Prova Objetiva - Conhecimentos Básicos\",\"useBlockData\":true,\"items\":[{\"id\":\"mu1rfhouze66m\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rfib3nx17r\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rfioadiuhi\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rfj7epgagb\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":40,\"w\":1,\"minPts\":10},{\"id\":\"g_complementares\",\"name\":\"Prova Objetiva - Conhecimentos Complementares\",\"useBlockData\":true,\"items\":[{\"id\":\"mu1rfja0xajol\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":30,\"w\":1,\"minPts\":8},{\"id\":\"g_especificos\",\"name\":\"Prova Objetiva - Conhecimentos Específicos (Administração)\",\"useBlockData\":true,\"items\":[{\"id\":\"mu1rfjsnt6e8i\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rfko0doydi\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rfkyb9spl8\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rfl342j0l1\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rflcrsk4ne\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rflsuuhsu7\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu1rfm678ek41\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":50,\"w\":1,\"minPts\":12},{\"id\":\"g_discursiva\",\"name\":\"Prova Discursiva (Redação de Atualidades)\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":30,\"redType\":\"Texto dissertativo (20 a 30 linhas sobre Atualidades)\",\"isClassificatoriaOnly\":false,\"minPts\":15}]}"
+    "configProva": "{\"scoringMode\":\"cebraspe\",\"errorPenalty\":1,\"groups\":[{\"id\":\"g_basicos\",\"name\":\"Prova Objetiva - Conhecimentos Básicos\",\"useBlockData\":true,\"items\":[{\"id\":\"mu2zwcvng0tjk\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwdkzaavf4\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwe18qzxjm\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwep12lil3\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":40,\"w\":1,\"minPts\":10},{\"id\":\"g_complementares\",\"name\":\"Prova Objetiva - Conhecimentos Complementares\",\"useBlockData\":true,\"items\":[{\"id\":\"mu2zwes9yb3ng\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":30,\"w\":1,\"minPts\":8},{\"id\":\"g_especificos\",\"name\":\"Prova Objetiva - Conhecimentos Específicos (Administração)\",\"useBlockData\":true,\"items\":[{\"id\":\"mu2zwfgha3u94\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwgh2wecjx\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwgqvl3t73\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwgwfiz1zq\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwh6s6gq1m\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwhofo4na2\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"mu2zwi49dbpgg\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":50,\"w\":1,\"minPts\":12},{\"id\":\"g_discursiva\",\"name\":\"Prova Discursiva (Redação de Atualidades)\",\"type\":\"redacao\",\"items\":[],\"q\":0,\"w\":1,\"pts\":30,\"redType\":\"Texto dissertativo (20 a 30 linhas sobre Atualidades)\",\"isClassificatoriaOnly\":false,\"minPts\":15}]}"
   }
 }
