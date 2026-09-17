@@ -1,6 +1,41 @@
 {
-  "atualizadoEm": "2026-09-15T18:22:05.423Z",
+  "atualizadoEm": "2026-09-17T00:36:30.852Z",
   "editais": [
+    {
+      "id": "agente-de-policia-federal-pf",
+      "titulo": "Polícia Federal (PF)",
+      "orgao": "Polícia Federal (PF)",
+      "banca": "Cebraspe (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos)",
+      "cargo": "Agente de Polícia Federal (Cargo 16)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20de%20Pol%C3%ADcia%20Federal%20(PF)/card_premium_pol_cia_federal.png",
+      "arquivo": "Agente%20de%20Pol%C3%ADcia%20Federal%20(PF)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Pol%C3%ADcia%20Federal%20(PF).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Polícia Federal (PF).json",
+      "atualizadoEm": "2026-09-17T00:36:12.000Z"
+    },
+    {
+      "id": "analista-em-ppge-apoio-administrativo",
+      "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "orgao": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "banca": "Cebraspe (antigo Cespe/UnB)",
+      "cargo": "Analista em PPGE – Apoio Administrativo (antigo Técnico de Gestão Educacional - Apoio Administrativo)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20em%20PPGE%20%E2%80%93%20Apoio%20Administrativo/card_premium_seedf.png",
+      "arquivo": "Analista%20em%20PPGE%20%E2%80%93%20Apoio%20Administrativo/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20de%20Gest%C3%A3o%20Educacional%20-%20Apoio%20Administrativo%20(SEEDF).json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico de Gestão Educacional - Apoio Administrativo (SEEDF).json",
+      "atualizadoEm": "2026-09-17T00:36:12.000Z"
+    },
     {
       "id": "gestor-em-politicas-publicas-e-gestao-educacional-administracao-seedf",
       "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
