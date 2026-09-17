@@ -1,0 +1,55 @@
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS     
+============================================================
+
+🏢 ÓRGÃO: SETEC – Serviços Técnicos Gerais (Campinas/SP)
+🪪 CARGO: Analista Técnico - Informática
+🧾 BANCA: INDEPAC
+
+📝 PAINEL DE PROVAS:
+• 1ª ETAPA - Prova Objetiva (Eliminatória e Classificatória):
+  - Total de 40 questões de múltipla escolha (4 alternativas: A, B, C, D).
+  - Duração Total da Prova (Objetiva + Dissertativa): 3h30 (três horas e trinta minutos).
+  - Pontuação Máxima na Objetiva: 100,00 pontos (peso 2,50 por acerto).
+  - Distribuição das questões:
+    * Língua Portuguesa: 10 questões (peso 2,5 | máx 25,0 pts)
+    * Matemática: 10 questões (peso 2,5 | máx 25,0 pts)
+    * Conhecimentos Específicos: 20 questões (peso 2,5 | máx 50,0 pts)
+  - Habilitação na Objetiva: Mínimo de 50,00 pontos (mínimo de 20 acertos no conjunto).
+
+• 2ª ETAPA - Prova Dissertativa (Eliminatória e Classificatória):
+  - Quantidade de Redações Corrigidas: até 36 candidatos aprovados na Objetiva (25 AC, 2 PcD, 7 Pretos/Pardos, 1 Quilombola, 1 Indígena).
+  - Formato: 1 (uma) questão teórico-prática fundamentada sobre o conteúdo programático do cargo.
+  - Pontuação Máxima: 10,00 pontos.
+  - Habilitação na Dissertativa: Mínimo de 5,00 pontos (50%).
+
+🎓 ESCOLARIDADE: Ensino Superior completo em Análise de Sistemas, Ciência da Computação, Engenharia da Computação ou curso/tecnólogo correlato em TI
+👥 VAGAS: 1 vaga imediata + Cadastro Reserva (Ampla Concorrência + Cotas)
+📅 DATA DA PROVA ESCRITA: 17/01/2027 (Período A - Turno da Manhã)
+💵 REMUNERAÇÃO INICIAL: R$ 10.435,44
+  - Salário-base: R$ 8.285,32
+  - Vale Alimentação / Refeição: R$ 2.150,12
+📅 PERÍODO DE INSCRIÇÃO: 08/09/2026 (Abertura) a 04/12/2026 (Último dia de inscrição)
+💵 TAXA DE INSCRIÇÃO: R$ 78,00
+  - Data Limite para Pagamento: 07/12/2026
+  - Período para Pedido de Isenção: 08/09/2026 a 18/09/2026
+📌 REGIME: Estatutário (Lei Municipal nº 1.399/1955 e nº 8.219/1994)
+⏰ CARGA HORÁRIA: 36 horas semanais ou até 180 horas mensais em regime de escala
+📍 LOCAL DE PROVA: Campinas - SP
+
+📅 CRONOGRAMA PRINCIPAL:
+  - Publicação do Edital: 2026
+  - Período de Inscrição: 08/09/2026 a 04/12/2026
+  - Período de Isenção da Taxa: 08/09 a 18/09/2026
+  - Data Limite para Pagamento do Boleto: 07/12/2026
+  - Confirmação das Inscrições na Internet: 11/12/2026
+  - Convocação e Locais de Prova: a partir de 18/12/2026
+  - Aplicação das Provas (Objetiva e Dissertativa): 17/01/2027 (Período A)
+  - Divulgação dos Gabaritos: comunicada no dia da prova
+
+📚 CONTEÚDO PROGRAMÁTICO VERTICALIZADO (3 DISCIPLINAS):
+1. Língua Portuguesa (10 tópicos)
+2. Matemática (11 tópicos)
+3. Conhecimentos Específicos (24 tópicos)
+
+🔗 EDITAL E INSCRIÇÕES: https://indepac.selecao.net.br/ e https://setec.sp.gov.br/
