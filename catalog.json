@@ -1,6 +1,86 @@
 {
-  "atualizadoEm": "2026-09-17T13:39:09.041Z",
+  "atualizadoEm": "2026-09-17T15:52:42.150Z",
   "editais": [
+    {
+      "id": "agente-administrativo-setec-campinas",
+      "titulo": "SETEC – Serviços Técnicos Gerais (Campinas/SP)",
+      "orgao": "SETEC – Serviços Técnicos Gerais (Campinas/SP)",
+      "banca": "INDEPAC",
+      "cargo": "Agente Administrativo",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20Administrativo%20(SETEC%20Campinas)/card_premium_setec_campinas.png",
+      "arquivo": "Agente%20Administrativo%20(SETEC%20Campinas)/Edital%20Premium%20Track%20Concursos%20Agente%20Administrativo%20(SETEC%20Campinas).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente Administrativo (SETEC Campinas).json",
+      "atualizadoEm": "2026-09-17T15:52:11.000Z"
+    },
+    {
+      "id": "agente-de-apoio-operacional-setec-campinas",
+      "titulo": "SETEC – Serviços Técnicos Gerais (Campinas/SP)",
+      "orgao": "SETEC – Serviços Técnicos Gerais (Campinas/SP)",
+      "banca": "INDEPAC",
+      "cargo": "Agente de Apoio Operacional",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Agente%20de%20Apoio%20Operacional%20(SETEC%20Campinas)/card_premium_setec_campinas.png",
+      "arquivo": "Agente%20de%20Apoio%20Operacional%20(SETEC%20Campinas)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Apoio%20Operacional%20(SETEC%20Campinas).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Apoio Operacional (SETEC Campinas).json",
+      "atualizadoEm": "2026-09-17T15:52:11.000Z"
+    },
+    {
+      "id": "agente-de-suporte-tecnico-setec-campinas",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "SETEC CAMPINAS - EDITAL 01/2026",
+      "imagem": "Agente%20de%20Suporte%20T%C3%A9cnico%20(SETEC%20Campinas)/card_premium_setec_campinas.png",
+      "arquivo": "Agente%20de%20Suporte%20T%C3%A9cnico%20(SETEC%20Campinas)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Suporte%20T%C3%A9cnico%20(SETEC%20Campinas).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Suporte Técnico (SETEC Campinas).json",
+      "atualizadoEm": "2026-09-17T15:52:11.000Z"
+    },
+    {
+      "id": "analista-tecnico-informatica-setec-campinas",
+      "titulo": "SETEC – Serviços Técnicos Gerais (Campinas/SP)",
+      "orgao": "SETEC – Serviços Técnicos Gerais (Campinas/SP)",
+      "banca": "INDEPAC",
+      "cargo": "Analista Técnico - Informática",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Analista%20T%C3%A9cnico%20-%20Inform%C3%A1tica%20(SETEC%20Campinas)/card_premium_setec_campinas.png",
+      "arquivo": "Analista%20T%C3%A9cnico%20-%20Inform%C3%A1tica%20(SETEC%20Campinas)/Edital%20Premium%20Track%20Concursos%20Analista%20T%C3%A9cnico%20-%20Inform%C3%A1tica%20(SETEC%20Campinas).json",
+      "arquivoNome": "Edital Premium Track Concursos Analista Técnico - Informática (SETEC Campinas).json",
+      "atualizadoEm": "2026-09-17T15:52:11.000Z"
+    },
+    {
+      "id": "motorista-especializado-setec-campinas",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "SETEC CAMPINAS - EDITAL 01/2026",
+      "imagem": "Motorista%20Especializado%20(SETEC%20Campinas)/card_premium_setec_campinas.png",
+      "arquivo": "Motorista%20Especializado%20(SETEC%20Campinas)/Edital%20Premium%20Track%20Concursos%20Motorista%20Especializado%20(SETEC%20Campinas).json",
+      "arquivoNome": "Edital Premium Track Concursos Motorista Especializado (SETEC Campinas).json",
+      "atualizadoEm": "2026-09-17T15:52:11.000Z"
+    },
     {
       "id": "gestor-em-politicas-publicas-e-gestao-educacional-psicologia-seedf",
       "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
