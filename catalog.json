@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-09-17T00:36:30.852Z",
+  "atualizadoEm": "2026-09-17T13:39:09.041Z",
   "editais": [
+    {
+      "id": "gestor-em-politicas-publicas-e-gestao-educacional-psicologia-seedf",
+      "titulo": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "orgao": "Secretaria de Estado de Educação do Distrito Federal (SEEDF)",
+      "banca": "Instituto Quadrix",
+      "cargo": "Gestor em Políticas Públicas e Gestão Educacional - Psicologia (Cargo 475)",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "cebraspe"
+      ],
+      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
+      "imagem": "Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20-%20Psicologia%20(SEEDF)/card_premium_seedf.png",
+      "arquivo": "Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20-%20Psicologia%20(SEEDF)/Edital%20Premium%20Track%20Concursos%20Gestor%20em%20Pol%C3%ADticas%20P%C3%BAblicas%20e%20Gest%C3%A3o%20Educacional%20-%20Psicologia%20(SEEDF).json",
+      "arquivoNome": "Edital Premium Track Concursos Gestor em Políticas Públicas e Gestão Educacional - Psicologia (SEEDF).json",
+      "atualizadoEm": "2026-09-17T13:38:52.000Z"
+    },
     {
       "id": "agente-de-policia-federal-pf",
       "titulo": "Polícia Federal (PF)",
