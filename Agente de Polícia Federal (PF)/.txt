@@ -1,0 +1,75 @@
+============================================================
+     FICHA INFORMATIVA - EDITAL PREMIUM TRACK CONCURSOS     
+============================================================
+
+🏢 ÓRGÃO: Polícia Federal (PF)
+🪪 CARGO: Agente de Polícia Federal (Cargo 16)
+🧾 BANCA: Cebraspe (Centro Brasileiro de Pesquisa em Avaliação e Seleção e de Promoção de Eventos)
+
+📝 PAINEL DE PROVAS:
+• 1ª FASE - Prova Objetiva P1 (Eliminatória e Classificatória):
+  - Total de 120 itens no formato CERTO ou ERRADO (modelo Cebraspe).
+  - Correção: cada resposta errada anula uma resposta certa (fator 1 para 1).
+  - Duração: 4 horas e 30 minutos (Turno da Tarde, em conjunto com a Prova Discursiva).
+  - Pontuação Máxima: 120,00 pontos.
+  - Distribuição dos blocos:
+    * Bloco I (Conhecimentos Básicos): 60 itens (Língua Portuguesa, Direito Administrativo, Direito Constitucional, Direito Penal e Processual Penal, Direitos Humanos, Legislação Especial, Estatística, Raciocínio Lógico). Mínimo: 6,00 pontos.
+    * Bloco II (Conhecimentos Básicos): 36 itens (Informática). Mínimo: 3,00 pontos.
+    * Bloco III (Conhecimentos Específicos): 24 itens (Contabilidade Geral). Mínimo: 2,00 pontos.
+  - Habilitação na Prova Objetiva: Mínimo de 48,00 pontos no conjunto dos 3 blocos (P1).
+
+• 1ª FASE - Prova Discursiva P2 (Eliminatória e Classificatória):
+  - Pontuação Máxima: 20,00 pontos.
+  - Habilitação na Discursiva: Mínimo de 10,00 pontos (50%).
+  - Formato: Redação de texto dissertativo (até 30 linhas) sobre tema formulado pela banca.
+
+• DEMAIS ETAPAS DA 1ª FASE (Eliminatórias):
+  - Exame de Aptidão Física (TAF - barra fixa, impulsão horizontal, natação e corrida de 12 minutos)
+  - Avaliação Médica
+  - Avaliação Psicológica (1º momento)
+  - Investigação Social
+
+• 2ª ETAPA - Curso de Formação Profissional (CFP na ANP/DF):
+  - Realizado na Academia Nacional de Polícia em Brasília/DF, de caráter eliminatório e classificatório.
+
+🎓 ESCOLARIDADE: Diploma de conclusão de nível superior em qualquer área de formação + CNH 'B' ou superior
+👥 VAGAS: 630 vagas imediatas (472 Ampla Concorrência + 32 PcD + 126 Pessoas Pretas e Pardas)
+📅 DATA DA PROVA OBJETIVA E DISCURSIVA: 27/07/2025 (Turno da Tarde)
+💵 REMUNERAÇÃO INICIAL: R$ 14.164,81
+  - Subsídio inicial fixado em lei para a 3ª Classe da Carreira Policial Federal
+  - Benefícios: auxílio-alimentação, auxílio-saúde e adicional de fronteira
+💵 TAXA DE INSCRIÇÃO: R$ 180,00
+  - Período de Inscrição: 26/05/2025 a 13/06/2025
+  - Data Limite para Pagamento: 20/06/2025
+📌 REGIME: Estatutário (Lei nº 8.112/1990 e Decreto-Lei nº 2.320/1987)
+⏰ CARGA HORÁRIA: 40 horas semanais em regime de dedicação exclusiva
+📍 LOCAL DE PROVA: Todas as capitais da federação e no Distrito Federal
+
+📅 CRONOGRAMA PRINCIPAL:
+  - Publicação do Edital: 20/05/2025
+  - Inscrições: 26/05 a 13/06/2025
+  - Pagamento da Taxa: até 20/06/2025
+  - Locais de Prova: 14/07/2025
+  - Aplicação das Provas Objetiva e Discursiva: 27/07/2025 (Tarde)
+  - Consulta Individual aos Gabaritos Preliminares: 29 a 31/07/2025
+  - Divulgação dos Gabaritos Preliminares: 01/08/2025
+  - Resultado Final da Objetiva e Preliminar da Discursiva: 20/08/2025
+  - Resultado Final da Discursiva e Convocação para o TAF: 05/09/2025
+  - Realização do Exame de Aptidão Física (TAF): 13 e 14/09/2025
+
+📚 CONTEÚDO PROGRAMÁTICO (10 DISCIPLINAS VERTICALIZADAS):
+• BLOCO I (60 ITENS):
+  1. Língua Portuguesa
+  2. Noções de Direito Administrativo
+  3. Noções de Direito Constitucional
+  4. Noções de Direito Penal e de Direito Processual Penal
+  5. Direitos Humanos
+  6. Legislação Especial
+  7. Estatística
+  8. Raciocínio Lógico
+• BLOCO II (36 ITENS):
+  9. Informática (incluindo IA, Machine Learning, Python, Banco de Dados, Redes e Segurança)
+• BLOCO III (24 ITENS):
+  10. Contabilidade Geral
+
+🔗 EDITAL OFICIAL: http://www.cebraspe.org.br/concursos/pf_25
