@@ -5,13 +5,13 @@
 
 🏛️ ÓRGÃO: Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB
 📋 BANCA EXAMINADORA: FGV (Fundação Getulio Vargas)
-🎯 CARGO: Agente de Tributos Estaduais - Área de Atuação: Tecnologia da Informação
+🎯 CARGO: Agente de Tributos Estaduais - Área de Atuação: Administração Tributária
 ⚖️ REGIME JURÍDICO: Estatutário (Efetivo - Lei Estadual nº 6.677/1994)
 🎓 ESCOLARIDADE / REQUISITOS: Curso Superior em qualquer área de formação, reconhecido pelo MEC
-👥 VAGAS: 05 vagas imediatas (04 AC, 01 Negro, CR para PcD)
-  - Ampla Concorrência: 04 vagas
-  - Candidatos Negros: 01 vaga
-  - Pessoas com Deficiência (PcD): 00 imediatas (CR)
+👥 VAGAS: 30 vagas imediatas (20 AC, 09 Negros, 01 PcD)
+  - Ampla Concorrência: 20 vagas
+  - Candidatos Negros: 09 vagas
+  - Pessoas com Deficiência (PcD): 01 vaga
 💵 REMUNERAÇÃO INICIAL: R$ 5.295,95 a R$ 13.111,66
   - Vencimento Básico Inicial: R$ 1.393,67
   - Gratificação de Atividade Fiscal (GAF): R$ 3.902,28 a R$ 6.410,89
@@ -53,9 +53,9 @@
     * Estatística: 5 questões
     * Noções de Igualdade Racial e de Gênero: 3 questões
   - Conhecimentos Específicos (35 questões | Peso 3,00 | Máximo 105,00 pts):
-    * Informática (Governança, Engenharia de Software, Bancos de Dados, Redes, BI): 20 questões
-    * Gestão Organizacional: 8 questões
-    * Raciocínio Lógico-Matemático: 7 questões
+    * Legislação Tributária do Estado da Bahia: 25 questões
+    * Informática Básica: 5 questões
+    * Raciocínio Lógico-Matemático: 5 questões
   - Critério de Habilitação na Prova Objetiva:
     * Mínimo de 105,00 pontos no somatório total (60% de aproveitamento)
 
@@ -64,8 +64,8 @@
   - Pontuação Máxima: 25,00 pontos
   - Critério de Habilitação: Mínimo de 13,00 pontos (52% de aproveitamento)
   - Quantitativo de Provas Discursivas Corrigidas (até 5x o número de vagas):
-    * Ampla Concorrência: até a 20ª posição
-    * Candidatos Negros: até a 5ª posição
+    * Ampla Concorrência: até a 100ª posição
+    * Candidatos Negros: até a 45ª posição
     * Candidatos PcD: até a 5ª posição
 
 🔗 LINKS OFICIAIS:
