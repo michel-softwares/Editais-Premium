@@ -1,6 +1,57 @@
 {
-  "atualizadoEm": "2026-09-17T15:52:42.150Z",
+  "atualizadoEm": "2026-09-19T16:21:49.562Z",
   "editais": [
+    {
+      "id": "agente-de-tributos-estaduais-administracao-tributaria-sefaz-ba",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "SECRETARIA DA FAZENDA DO ESTADO DA BAHIA (SEFAZ-BA) - EDITAL 001/2022",
+      "imagem": "Agente%20de%20Tributos%20Estaduais%20-%20Administra%C3%A7%C3%A3o%20Tribut%C3%A1ria%20(SEFAZ-BA)/card_premium_sefaz_ba.png",
+      "arquivo": "Agente%20de%20Tributos%20Estaduais%20-%20Administra%C3%A7%C3%A3o%20Tribut%C3%A1ria%20(SEFAZ-BA)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Tributos%20Estaduais%20-%20Administra%C3%A7%C3%A3o%20Tribut%C3%A1ria%20(SEFAZ-BA).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Tributos Estaduais - Administração Tributária (SEFAZ-BA).json",
+      "atualizadoEm": "2026-09-19T16:21:34.000Z"
+    },
+    {
+      "id": "agente-de-tributos-estaduais-administracao-e-financas-sefaz-ba",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "SECRETARIA DA FAZENDA DO ESTADO DA BAHIA (SEFAZ-BA) - EDITAL 001/2022",
+      "imagem": "Agente%20de%20Tributos%20Estaduais%20-%20Administra%C3%A7%C3%A3o%20e%20Finan%C3%A7as%20(SEFAZ-BA)/card_premium_sefaz_ba.png",
+      "arquivo": "Agente%20de%20Tributos%20Estaduais%20-%20Administra%C3%A7%C3%A3o%20e%20Finan%C3%A7as%20(SEFAZ-BA)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Tributos%20Estaduais%20-%20Administra%C3%A7%C3%A3o%20e%20Finan%C3%A7as%20(SEFAZ-BA).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Tributos Estaduais - Administração e Finanças (SEFAZ-BA).json",
+      "atualizadoEm": "2026-09-19T16:21:34.000Z"
+    },
+    {
+      "id": "agente-de-tributos-estaduais-tecnologia-da-informacao-sefaz-ba",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "SECRETARIA DA FAZENDA DO ESTADO DA BAHIA (SEFAZ-BA) - EDITAL 001/2022",
+      "imagem": "Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/card_premium_sefaz_ba.png",
+      "arquivo": "Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA).json",
+      "arquivoNome": "Edital Premium Track Concursos Agente de Tributos Estaduais - Tecnologia da Informação (SEFAZ-BA).json",
+      "atualizadoEm": "2026-09-19T16:21:34.000Z"
+    },
     {
       "id": "agente-administrativo-setec-campinas",
       "titulo": "SETEC – Serviços Técnicos Gerais (Campinas/SP)",
@@ -370,23 +421,6 @@
       "arquivo": "T%C3%A9cnico%20do%20Seguro%20Social%20-%20INSS/Pr%C3%A9-Edital%20Premium%20INSS%20Tecnico%20do%20Seguro%20Social_Track%20Concursos.json",
       "arquivoNome": "Pré-Edital Premium INSS Tecnico do Seguro Social_Track Concursos.json",
       "atualizadoEm": "2026-08-21T20:23:35.000Z"
-    },
-    {
-      "id": "agente-de-tributos-estaduais-tecnologia-da-informacao-sefaz-ba",
-      "titulo": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
-      "orgao": "Secretaria da Fazenda do Estado da Bahia (SEFAZ-BA) / SAEB",
-      "banca": "Fundação Getulio Vargas (FGV)",
-      "cargo": "Agente de Tributos Estaduais - Tecnologia da Informação",
-      "ano": 2026,
-      "tags": [
-        "edital pronto",
-        "fgv"
-      ],
-      "descricao": "baixe o arquivo .JSON importe no seu Track Concursos e comece a estudar",
-      "imagem": "Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/card_premium_sefaz_ba.png",
-      "arquivo": "Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA)/Edital%20Premium%20Track%20Concursos%20Agente%20de%20Tributos%20Estaduais%20-%20Tecnologia%20da%20Informa%C3%A7%C3%A3o%20(SEFAZ-BA).json",
-      "arquivoNome": "Edital Premium Track Concursos Agente de Tributos Estaduais - Tecnologia da Informação (SEFAZ-BA).json",
-      "atualizadoEm": "2026-08-21T19:11:58.000Z"
     },
     {
       "id": "auditor-fiscal-tecnologia-da-informacao-sefaz-ba",
