@@ -1,6 +1,39 @@
 {
-  "atualizadoEm": "2026-09-20T16:24:24.624Z",
+  "atualizadoEm": "2026-09-30T13:19:24.025Z",
   "editais": [
+    {
+      "id": "analista-de-sistemas-desenvolvimento-tjpi",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto"
+      ],
+      "descricao": "TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (TJPI) - EDITAL Nº 01/2022",
+      "imagem": "Analista%20de%20Sistemas%20-%20Desenvolvimento%20(TJPI)/card_premium_tribunal_de_justi_a_do_estado_do_piau_tjpi.png",
+      "arquivo": "Analista%20de%20Sistemas%20-%20Desenvolvimento%20(TJPI)/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Sistemas%20-%20Desenvolvimento%20(TJPI).json",
+      "arquivoNome": "Edital Premium Track Concursos Analista de Sistemas - Desenvolvimento (TJPI).json",
+      "atualizadoEm": "2026-09-30T13:19:04.000Z"
+    },
+    {
+      "id": "oficial-de-justica-tjmg",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS (TJMG) - EDITAL 01/2022",
+      "imagem": "Oficial%20de%20Justi%C3%A7a%20(TJMG)/card_premium_tribunal_de_justi_a_de_minas_gerais.png",
+      "arquivo": "Oficial%20de%20Justi%C3%A7a%20(TJMG)/Edital%20Premium%20Track%20Concursos%20Oficial%20de%20Justi%C3%A7a%20(TJMG).json",
+      "arquivoNome": "Edital Premium Track Concursos Oficial de Justiça (TJMG).json",
+      "atualizadoEm": "2026-09-30T13:19:04.000Z"
+    },
     {
       "id": "analista-administrativo-tjpi",
       "titulo": "",
@@ -31,22 +64,6 @@
       "imagem": "Analista%20Judicial%20(TJPI)/card_premium_tribunal_de_justi_a_do_estado_do_piau_tjpi.png",
       "arquivo": "Analista%20Judicial%20(TJPI)/Edital%20Premium%20Track%20Concursos%20Analista%20Judicial%20(TJPI).json",
       "arquivoNome": "Edital Premium Track Concursos Analista Judicial (TJPI).json",
-      "atualizadoEm": "2026-09-20T16:24:10.000Z"
-    },
-    {
-      "id": "analista-de-sistemas-desenvolvimento-tjpi",
-      "titulo": "",
-      "orgao": "",
-      "banca": "================================================================================",
-      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
-      "ano": 2026,
-      "tags": [
-        "edital pronto"
-      ],
-      "descricao": "TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ (TJPI) - EDITAL Nº 01/2022",
-      "imagem": "Analista%20de%20Sistemas%20-%20Desenvolvimento%20(TJPI)/card_premium_tribunal_de_justi_a_do_estado_do_piau_tjpi.png",
-      "arquivo": "Analista%20de%20Sistemas%20-%20Desenvolvimento%20(TJPI)/Edital%20Premium%20Track%20Concursos%20Analista%20de%20Sistemas%20-%20Desenvolvimento%20(TJPI).json",
-      "arquivoNome": "Edital Premium Track Concursos Analista de Sistemas - Desenvolvimento (TJPI).json",
       "atualizadoEm": "2026-09-20T16:24:10.000Z"
     },
     {
