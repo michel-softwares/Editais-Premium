@@ -1,0 +1,1422 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "Tribunal de Justiça de Minas Gerais",
+    "cargo": "Oficial Judiciário - Oficial de Justiça",
+    "salario": "R$ 3.264,98",
+    "banca": "IBFC",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": null,
+    "localProva": "",
+    "linkEdital": "https://www.ibfc.org.br/",
+    "preEdital": true,
+    "pontuacaoMax": null,
+    "vagas": "59 vagas imediatas + Cadastro de Reserva",
+    "obs": "Estrutura pós-edital verticalizada a partir do Edital nº 1/2022 para o cargo de Oficial Judiciário - Especialidade Oficial de Justiça (Tribunal de Justiça de Minas Gerais - TJMG)\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos;\nConsidere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;\n\nBuy me a coffee (and Claude tokens) \nApoie o projeto financeiramente através do PIX: michelaraujo100@gmail.com\nBons estudos!"
+  },
+  "materias": [
+    {
+      "id": "muo42q35kpgpd",
+      "nome": "LÍNGUA PORTUGUESA",
+      "peso": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Ortografia Oficial e Acentuação Gráfica",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Emprego das letras no sistema ortográfico vigente",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Divisão silábica e regras de translineação",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Acentuação gráfica e regras do Novo Acordo Ortográfico",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Abreviaturas e siglas",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Notações léxicas",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Pontuação e Efeitos de Sentido",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Sinais de pontuação e seus empregos gramaticais",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Efeitos de sentido provocados pelo uso dos sinais de pontuação",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfologia e Classes de Palavras",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Estrutura e processos de formação de palavras",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Reconhecimento e emprego das classes de palavras",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Flexão nominal - padrões regulares e formas irregulares",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Flexão verbal - padrões regulares e formas irregulares",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfossintaxe e Sintaxe da Oração e do Período",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "A oração e seus termos essenciais, integrantes e acessórios",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Emprego das classes de palavras na oração",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Sintaxe de colocação pronominal (próclise, mesóclise e ênclise)",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Regência nominal e regência verbal",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Concordância nominal e concordância verbal",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "O período e sua construção - período simples e período composto",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Processos sintáticos de coordenação - formas e sentidos",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Processos sintáticos de subordinação - formas e sentidos",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Equivalências entre estruturas sintáticas e transformação de orações",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Discurso direto, discurso indireto e discurso indireto livre",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Uso do sinal indicativo de crase",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Semântica e Relações de Sentido",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Significação de palavras e expressões",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Relações semânticas - sinonímia e antonímia",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Relações semânticas - hiponímia e hiperonímia",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Relações semânticas - homonímia e paronímia",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Relações semânticas - polissemia e ambiguidade",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Conotação, denotação, sentido figurado e sentido literal",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Relações semânticas, lógicas e enunciativas entre frases",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Valores semânticos das classes de palavras",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Valores dos tempos, modos e vozes verbais",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Efeitos de sentido da ordem de expressões na oração e no período",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Leitura, Análise e Interpretação de Texto",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Coerência e progressão semântica do texto",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Relações contextuais e situação comunicativa",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Identificação de informações explícitas no texto",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Inferências válidas, pressupostos e implícitos na leitura textual",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Recursos de coesão textual referencial e sequencial",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Função referencial de pronomes e elementos de substituição",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Uso de nexos e conectivos para estabelecer relações entre segmentos textuais",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Segmentação do texto em parágrafos e organização temática",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Identificação do sentido global de um texto e de seus principais tópicos",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Análise da estrutura argumentativa do texto",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            },
+            {
+              "nome": "Síntese, adaptação e reestruturação textual",
+              "materiaId": "muo42q35kpgpd",
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muo42s5yag136",
+      "nome": "NOÇÕES DE DIREITO",
+      "peso": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Constituição da República Federativa do Brasil de 1988",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Dos Princípios Fundamentais (arts. 1º a 4º da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Dos Direitos e Deveres Individuais e Coletivos (art. 5º da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Dos Direitos Sociais, Nacionalidade e Direitos Políticos (arts. 6º a 17 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Da Organização Político-Administrativa da República Federativa do Brasil (arts. 18 e 19 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Da Administração Pública - disposições gerais e servidores públicos (arts. 37 a 41 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Do Poder Legislativo (arts. 44 a 47 e 59 a 69 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Do Poder Executivo (arts. 76 a 83 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Do Poder Judiciário - disposições gerais, tribunais e juízes (arts. 92 a 126 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Das Funções Essenciais à Justiça (arts. 127 a 135 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Da Família, da Criança, do Adolescente, do Jovem e do Idoso (arts. 226 a 230 da CF)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Constituição do Estado de Minas Gerais de 1989",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Dos Servidores Públicos do Estado de Minas Gerais (arts. 20 a 37 da CEMG)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Do Poder Legislativo Estadual (arts. 52 a 72 da CEMG)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Do Poder Executivo Estadual (arts. 83 a 95 da CEMG)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Do Poder Judiciário Estadual (arts. 96 a 118 da CEMG)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Das Funções Essenciais à Justiça no âmbito estadual (arts. 119 a 132 da CEMG)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação Estadual de Minas Gerais e Estrutura do TJMG",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Lei Complementar Estadual nº 59-2001 - circunscrições e órgãos de jurisdição (arts. 1º a 9º)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Complementar Estadual nº 59-2001 - tribunais e juízes comuns (arts. 11 a 16, 23 a 31, 52 a 54 e 82 a 85)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Complementar Estadual nº 59-2001 - magistratura da justiça comum e órgãos auxiliares (arts. 163 e 236 a 257)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Complementar Estadual nº 59-2001 - servidores do Poder Judiciário (arts. 257-A, 257-B, 260, 262 e 264 a 272)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Complementar Estadual nº 59-2001 - regime disciplinar dos servidores do Judiciário mineiro (arts. 273 a 290)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Complementar Estadual nº 59-2001 - sindicância e processo disciplinar (arts. 291 a 300)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Estadual nº 869-1952 - Estatuto dos Funcionários Públicos Civis do Estado de Minas Gerais",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regimento Interno do Tribunal de Justiça de Minas Gerais (Resolução nº 03-2012)",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Disposições preliminares, organização e funcionamento do TJMG (arts. 1º, 2º e 9º a 11)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Registro, preparo e distribuição de feitos (arts. 62 a 78)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Relator, revisor, pauta, julgamento e acórdão (arts. 89 a 93 e 97 a 125)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Recursos cíveis no Regimento Interno do TJMG (arts. 375 a 399)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Recursos criminais no Regimento Interno do TJMG (arts. 484 a 509)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimentos comuns às jurisdições cível e criminal (arts. 510 a 568)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação de Licitações Públicas (Lei nº 14.133-2021 e Lei nº 8.666-1993)",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Âmbito de aplicação, princípios fundamentais e definições legais das licitações",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Modalidades de licitação e critérios de julgamento de propostas",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Processo de contratação direta - inexigibilidade e dispensa de licitação",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Infrações e sanções administrativas nas licitações",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direitos Humanos, Ética Institucional e Proteção de Dados",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Declaração Universal dos Direitos Humanos (Resolução nº 217-A da ONU)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Código de Conduta do Tribunal de Justiça do Estado de Minas Gerais (Portaria nº 4.715-PR-2020)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Geral de Proteção de Dados Pessoais - LGPD (Lei Federal nº 13.709-2018)",
+              "materiaId": "muo42s5yag136",
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muo42ts2c2dg6",
+      "nome": "NOÇÕES DE INFORMÁTICA",
+      "peso": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Equipamentos de Microinformática e Hardware",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Computador, monitor de vídeo, teclado, mouse, impressora, escâner, multifuncional e webcam",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Portas USB, conectores físicos e dispositivos removíveis",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Identificação e utilização das teclas de digitação, Escape, combinação, função e navegação",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistemas Operacionais Windows 7 e Windows 10",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Operações básicas - iniciar, reiniciar, desligar, login, logoff, bloquear e desbloquear",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Área de trabalho, ícones, atalhos, menu iniciar e barra de tarefas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Execução de programas e Gerenciador de Tarefas do Windows",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Janelas, menus, faixa de opções, barras de comandos, barras de ferramentas e barra de estado",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Menus de contexto e atalhos de teclado",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Operações de mouse - apontar, mover e arrastar",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Resolução de tela e configuração de múltiplos monitores de vídeo",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Unidades locais, mapeamentos de rede, rede e compartilhamento",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Dispositivos e impressoras",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gerenciamento de Arquivos e Pastas",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Nomes, extensões e tipos de arquivos",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Utilização do Windows Explorer para navegação e organização",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Operações de abrir, criar, renomear, mover, copiar e excluir arquivos e pastas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Compactação e descompactação de arquivos no formato ZIP",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Cópias de segurança (backup)",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Edição de Textos com Word e LibreOffice Writer",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Criação e edição de documentos de texto no Microsoft Word e LibreOffice Writer",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Formatação de caractere, parágrafo e página",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Marcadores, numeração e estrutura de tópicos",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Cabeçalho, rodapé e numeração de páginas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Ortografia, gramática, idioma e hifenização",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Criação e formatação de tabelas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Inserção de figuras, imagens e Galeria",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Visualização de impressão, impressão de documentos e exportação para PDF",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Planilhas Eletrônicas com Excel e LibreOffice Calc",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Criação e edição de pastas de trabalho e planilhas de cálculo no Microsoft Excel e LibreOffice Calc",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Referências relativas, absolutas e mistas a células",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Fórmulas e funções matemáticas, lógicas, de texto e de data e hora",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Formatação de células, formatação condicional, cabeçalho e rodapé",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Importação de arquivos CSV",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Visualização, impressão e exportação de planilhas para PDF",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redes, Internet, Navegação e Comunicação Eletrônica",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Noções básicas de redes de computadores, Internet e Intranet",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Navegador Mozilla Firefox - janelas, abas, histórico, cookies, cache e plug-ins",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Reconhecimento e digitação de URLs, sítios web, caminhos e páginas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Identificação e navegação por hiperlinks",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Interação com controles de páginas e preenchimento seguro de formulários",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Cadeado de segurança (protocolo HTTPS) e prevenção contra golpes e fraudes online",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Correio eletrônico - estrutura de nomes e endereços de e-mail, remetente, destinatários, cópias e cópias ocultas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Utilização de Webmail - receber, redigir e enviar mensagens com anexos",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Pesquisa, classificação, regras, filtros de mensagens, organização em pastas, lixeira e arquivamento",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Gerenciamento de contatos, listas, agenda/calendário e tarefas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Tratamento de lixo eletrônico (spam), boatos (hoaxes) e engenharia social",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança da Informação, Certificação Digital e Videoconferência",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceitos fundamentais de segurança - confidencialidade, integridade, disponibilidade, autenticidade, não-repúdio e privacidade",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Ameaças em computadores e redes e cuidados com a criação e uso de senhas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Boas práticas de prevenção contra malwares (vírus, cavalos de troia, ransomware e outras pragas virtuais)",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Cuidados para proteção de dados pessoais à luz da LGPD no uso de recursos de TI",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Conceitos de certificação digital de pessoa física e jurídica e atributos do certificado",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil), Autoridades Certificadoras (AC) e de Registro (AR)",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Mídias de certificado digital (tokens e smartcards), PIN, PUK e assinatura digital",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Plataformas de videoconferência - agendar, organizar, apresentar e participar de reuniões remotas",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            },
+            {
+              "nome": "Ajustes de áudio, vídeo, visualização, chat e gravação em reuniões virtuais",
+              "materiaId": "muo42ts2c2dg6",
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muo42w8mqd09l",
+      "nome": "CONHECIMENTOS ESPECÍFICOS",
+      "peso": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Noções de Direito Processual Civil Aplicadas à Função do Oficial de Justiça",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Processos - conceito, espécies, tipos de procedimento, distribuição, autuação e numeração",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Termos processuais cíveis e criminais e autos processuais - conceitos, conteúdo, forma e requisitos",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Função jurisdicional e sujeitos da relação processual",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Atos do Juiz - sentença, decisão interlocutória, despacho e acórdão",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Atos processuais - forma, tempo, lugar, prazos e penalidades pela inobservância",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Comunicação dos atos processuais no processo civil - citação, intimação e notificação",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Nulidades processuais",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimento comum e procedimentos especiais",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Prazos processuais - contagem, prazos em cartório e atos que correm nas férias forenses",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Apensamento de autos, carta de sentença e autos suplementares (guarda e peças obrigatórias)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Cumprimento de sentença e processo de execução - citação, intimação, penhora, arresto, avaliação, impugnação e embargos à execução",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Documentos eletrônicos no processo judicial",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Centrais de Mandados - atribuições, organização e funcionamento",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Cobrança judicial da dívida ativa da Fazenda Pública",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Normas processuais sobre bem de família e alienação fiduciária",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimentos nos Juizados Especiais Cíveis (Lei nº 9.099-1995) - atos, pedidos, citações, intimações, revelia, audiências, provas, sentença e execução",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimentos nos Juizados Especiais Criminais (Lei nº 9.099-1995) - competência, fase preliminar, procedimento sumaríssimo e execução",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Atos executórios privativos do oficial de justiça - busca e apreensão de bens, entrega e remoção de bens, reintegração e imissão de posse, prisão civil, alvará de soltura, condução coercitiva de testemunha, despejo e demais diligências",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Direito Civil e Direito Empresarial",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Pessoas naturais e pessoas jurídicas - personalidade, capacidade e direitos da personalidade",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Domicílio civil e bens (classificação jurídica)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Fatos jurídicos, atos lícitos e atos ilícitos",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Prescrição e decadência",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Prova dos atos jurídicos",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Contrato de mandato e poderes de representação",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Posse e servidões",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Tutela e curatela",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Direito de Empresa - estabelecimento empresarial, nome empresarial, Microempresa (ME), Empresa de Pequeno Porte (EPP) e Sociedade Limitada Unipessoal (SLU)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Citação de pessoa jurídica estrangeira (art. 1.138 do Código Civil)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Normas civis sobre visita e guarda de menores (arts. 1.588 a 1.590 do Código Civil)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Custas Judiciais, Taxa Judiciária e Despesas Processuais",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Custas judiciais e taxa judiciária - contagem, cobrança, pagamento e prazos",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Hipóteses de não incidência e isenções legais de custas",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Gratuidade da justiça",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Provimento-Conjunto nº 75-2018 - despesas processuais e verba indenizatória de transporte do oficial de justiça",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Convênios para pagamento e verba indenizatória de transporte custeada pelo Tribunal",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Regras específicas de custas nos Juizados Especiais e no processo criminal",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Estadual nº 14.939-2003 - custas devidas ao Estado na Justiça Estadual de primeiro e segundo graus, reembolso de verbas e fiscalização",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Direito Penal",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Crimes contra a fé pública (arts. 289 a 311-A do Código Penal)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Crimes contra a Administração Pública praticados por funcionários públicos e particulares (arts. 312 a 327 do Código Penal)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Código de Processo Civil (Lei nº 13.105-2015) Aplicado ao Oficial de Justiça",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Capacidade processual, deveres das partes e procuradores (arts. 70 a 78 e 105 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Auxiliares da justiça e atribuições do escrivão, chefe de secretaria e do oficial de justiça (arts. 149 a 155 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Atribuições do depositário e do administrador (arts. 159 a 161 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Prática eletrônica de atos processuais (arts. 193 a 199 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Tempo, lugar dos atos processuais, prazos e sua verificação (arts. 212 a 233 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Comunicação dos atos processuais - citações e intimações (arts. 236 a 275 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Nulidades, tutela provisória, formação, suspensão e extinção do processo (arts. 276 a 317 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Cumprimento de sentença de obrigação de fazer, não fazer e de entregar coisa (arts. 536 e 538 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Ações possessórias - manutenção e reintegração de posse (arts. 554 e 560 a 566 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Inventariante, primeiras declarações, ações de família, herança jacente, interdição, tutela e curatela (arts. 623 a 625, 693 a 699, 740 e 747 a 763 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Processo de execução - competência, responsabilidade patrimonial e entrega de coisa certa (arts. 781 a 782, 789 a 796 e 806 a 810 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Citação do devedor e arresto (arts. 827 a 830 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Penhora, depósito, avaliação, documentação e registro da penhora (arts. 831 a 844 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lugar de realização e modificações da penhora (arts. 845 a 853 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Penhora de dinheiro, créditos, empresas, semoventes, percentual de faturamento e frutos/rendimentos (arts. 854 a 869 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Avaliação, adjudicação, alienação e execução de alimentos (arts. 870 a 877, 880 a 890 e 911 a 913 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Embargos à execução (arts. 914 a 917 do CPC)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Código de Processo Penal (Decreto-Lei nº 3.689-1941) Aplicado ao Oficial de Justiça",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Competência penal (arts. 69 a 91 do CPP)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Testemunhas, acusado e seu defensor (arts. 202 a 225 e 259 a 267 do CPP)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Prisão, medidas cautelares, liberdade provisória e prisão domiciliar (arts. 283 a 300 e 317 a 318-B do CPP)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Citações e intimações no processo penal (arts. 351 a 372 do CPP)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Sentença, processo comum e procedimento do Tribunal do Júri (arts. 381 a 399, 406, 420, 453 a 472 e 482 a 488 do CPP)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Nulidades, recursos em geral e Habeas Corpus (arts. 563 a 573, 587 e 647 a 667 do CPP)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Execução das medidas de segurança e disposições gerais (arts. 763, 792, 797 e 798 do CPP)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Normas da Corregedoria-Geral de Justiça de Minas Gerais (Provimento nº 355-2018)",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Providências iniciais, comunicação dos atos e carta precatória (arts. 198, 216 a 219 e 227 do Provimento nº 355-2018)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Central de Mandados e expedição de mandados (arts. 233 a 256 do Provimento nº 355-2018)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Cumprimento e devolução de mandados pelo oficial de justiça (arts. 257 a 277 do Provimento nº 355-2018)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Cumprimento de mandado de prisão e alvará de soltura (arts. 278 a 291 do Provimento nº 355-2018)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Meio eletrônico, cobrança dos autos e juízo da execução penal (arts. 311 a 314, 337, 338, 426 e 428 do Provimento nº 355-2018)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação Especial Aplicada à Atividade do Oficial de Justiça",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Lei dos Juizados Especiais Cíveis e Criminais (Lei nº 9.099-1995)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei de Execução Fiscal (Lei nº 6.830-1980 - arts. 1º a 4º, 7º a 16, 25, 37 e 40)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Alienação fiduciária em garantia (Decreto-Lei nº 911-1969 - arts. 1º a 8º)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Maria da Penha (Lei nº 11.340-2006 - medidas protetivas de urgência e assistência judiciária)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Antidrogas (Lei nº 11.343-2006 - arts. 50-A, 55, 56, 60, 61 e 63)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Estatuto da Criança e do Adolescente (Lei nº 8.069-1990 - apreensão, medidas socioeducativas e proteção)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei de Impenhorabilidade do Bem de Família (Lei nº 8.009-1990)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Desapropriações por utilidade pública (Decreto-Lei nº 3.365-1941)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Brasileira de Inclusão da Pessoa com Deficiência (Lei nº 13.146-2015 - atendimento prioritário e acesso à justiça)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei de Recuperação Judicial e Falência (Lei nº 11.101-2005)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Estatuto do Idoso (Lei nº 10.741-2003)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Resoluções do CNJ - Regime de Plantão Judiciário (Resolução nº 71-2009)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Resoluções do CNJ - Juízo 100% Digital (Resolução nº 345-2020)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Resoluções do CNJ - Cumprimento Digital de Atos e Ordens Judiciais (Resolução nº 354-2020)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei de Abuso de Autoridade (Lei nº 13.869-2019 - tipos penais pertinentes ao cumprimento de mandados)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Serviços Notariais e de Registro (Lei Federal nº 8.935-1994 e Provimento Conjunto nº 93-2020 do TJMG)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Emolumentos e Taxa de Fiscalização Judiciária no Estado de Minas Gerais (Lei Estadual nº 15.424-2004)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Estatuto da Microempresa e EPP (Lei Complementar nº 123-2006)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Projeto Conciliação em Domicílio (Portaria Conjunta nº 1346-PR-2022 do TJMG)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Juntada eletrônica de mandados no PJe pelo oficial de justiça (Portaria nº 7.078-CGJ-2022 do TJMG)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei do Mandado de Segurança (Lei nº 12.016-2009)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            },
+            {
+              "nome": "Lei da Informatização do Processo Judicial (Lei nº 11.419-2006)",
+              "materiaId": "muo42w8mqd09l",
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muo4304fu67z0",
+      "nome": "RACIOCÍNIO LÓGICO",
+      "peso": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Estruturas Lógicas e Raciocínio Dedutivo",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Dedução de novas informações a partir de relações fornecidas",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Avaliação das condições usadas para estabelecer a estrutura de relações",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Compreensão do processo lógico a partir de um conjunto de hipóteses e conclusões determinadas",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Métodos de Raciocínio e Funções Cognitivas",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Compreensão e elaboração da lógica das situações por raciocínio verbal",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Compreensão e elaboração da lógica das situações por raciocínio matemático",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Compreensão e elaboração da lógica das situações por raciocínio sequencial",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Orientação espacial e orientação temporal",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Formação de conceitos e discriminação de elementos",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Proporcionalidade, Matemática Básica e Tratamento da Informação",
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Noções básicas de proporcionalidade e regra de três simples",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Cálculos de porcentagem",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Cálculos de acréscimos e descontos sucessivos",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Análise e interpretação de dados representados em tabelas",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            },
+            {
+              "nome": "Análise e interpretação de dados representados em gráficos",
+              "materiaId": "muo4304fu67z0",
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": "{\"seg\":[],\"ter\":[],\"qua\":[],\"qui\":[],\"sex\":[],\"sab\":[],\"dom\":[]}",
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"muo42q35kpgpd\"},{\"nome\":\"NOÇÕES DE DIR.\",\"cor\":\"#4f8ef7\",\"materiaId\":\"muo42s5yag136\"},{\"nome\":\"NOÇÕES DE INFORMÁTICA\",\"cor\":\"#7c5cfc\",\"materiaId\":\"muo42ts2c2dg6\"},{\"nome\":\"CON. ESPECÍFICOS\",\"cor\":\"#3ecf8e\",\"materiaId\":\"muo42w8mqd09l\"},{\"nome\":\"RACIOCÍNIO LÓGICO\",\"cor\":\"#f5c842\",\"materiaId\":\"muo4304fu67z0\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": "semanal",
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_prova_objetiva\",\"name\":\"1ª Etapa - Prova Escrita Objetiva\",\"useBlockData\":false,\"items\":[{\"id\":\"muo42q35kpgpd\",\"q\":15,\"w\":1},{\"id\":\"muo42s5yag136\",\"q\":15,\"w\":1},{\"id\":\"muo42ts2c2dg6\",\"q\":5,\"w\":1},{\"id\":\"muo42w8mqd09l\",\"q\":20,\"w\":1},{\"id\":\"muo4304fu67z0\",\"q\":5,\"w\":1}],\"q\":60,\"w\":1,\"pts\":60,\"minPts\":30}]}"
+  }
+}

@@ -1091,7 +1091,7 @@
           "cadernos": [
             {
               "nome": "Gran Concursos",
-              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8170,429568&banca=409&nivel=1"
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8170,429568,400746&banca=409&nivel=1"
             }
           ],
           "subtopicos": [
@@ -1114,10 +1114,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429568&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429568,400746&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429568&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429568,400746&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp3vq28v0i",
@@ -1138,10 +1138,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8159,429458&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8159,429458,429454,429459&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8159,429458&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8159,429458,429454,429459&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp3vq28v0i",
@@ -1156,7 +1156,7 @@
               "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8154,429474&banca=409&nivel=1"
             }
           ],
-          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8170,429568&banca=409&nivel=1"
+          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8170,429568,400746&banca=409&nivel=1"
         },
         {
           "nome": "Gestão de segurança da informação e normativas",
@@ -1288,10 +1288,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8037,8039&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8057&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8037,8039&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8057&banca=409&nivel=1"
             }
           ],
           "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8037,8039&banca=409&nivel=1"
@@ -1337,10 +1337,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045,8061&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045,8061&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp491z1sil",
@@ -1349,10 +1349,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8061,8059,8056,8060&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8061,8059,8056,8060&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp491z1sil",
@@ -1361,10 +1361,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8054&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8045&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8054&banca=409&nivel=1"
             }
           ],
           "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428591&banca=409&nivel=1"
@@ -1480,7 +1480,7 @@
           "cadernos": [
             {
               "nome": "Gran Concursos",
-              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
             }
           ],
           "subtopicos": [
@@ -1491,10 +1491,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp4nbkj5sa",
@@ -1503,10 +1503,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp4nbkj5sa",
@@ -1515,13 +1515,13 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
             }
           ],
-          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428785&banca=409&nivel=1"
+          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428791&banca=409&nivel=1"
         },
         {
           "nome": "Metodologias ágeis (Scrum, Kanban e XP)",
@@ -1565,11 +1565,11 @@
           "cadernos": [
             {
               "nome": "Gran Concursos",
-              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=7988&banca=409&nivel=1"
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=7995&banca=409&nivel=1"
             }
           ],
           "subtopicos": [],
-          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=7988&banca=409&nivel=1"
+          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=7995&banca=409&nivel=1"
         },
         {
           "nome": "Desenvolvimento baseado em serviços (Arquitetura Orientada a Serviços - SOA)",
@@ -1577,11 +1577,11 @@
           "cadernos": [
             {
               "nome": "Gran Concursos",
-              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428773,400724&banca=409&nivel=1"
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397563,428773&banca=409&nivel=1"
             }
           ],
           "subtopicos": [],
-          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428773,400724&banca=409&nivel=1"
+          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397563,428773&banca=409&nivel=1"
         },
         {
           "nome": "Princípios de interface com o usuário (UI e UX)",
@@ -1589,11 +1589,11 @@
           "cadernos": [
             {
               "nome": "Gran Concursos",
-              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428844,440436&banca=409&nivel=1"
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428844,440436,440537&banca=409&nivel=1"
             }
           ],
           "subtopicos": [],
-          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428844,440436&banca=409&nivel=1"
+          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428844,440436,440537&banca=409&nivel=1"
         },
         {
           "nome": "Técnicas de testes de software",
@@ -1601,11 +1601,11 @@
           "cadernos": [
             {
               "nome": "Gran Concursos",
-              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8000&banca=409&nivel=1"
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8000,428843&banca=409&nivel=1"
             }
           ],
           "subtopicos": [],
-          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8000&banca=409&nivel=1"
+          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=8000,428843&banca=409&nivel=1"
         },
         {
           "nome": "Conceitos de reengenharia de software",
@@ -1964,7 +1964,7 @@
           "cadernos": [
             {
               "nome": "Gran Concursos",
-              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397548&banca=409&nivel=1"
+              "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429602,397548&banca=409&nivel=1"
             }
           ],
           "subtopicos": [
@@ -1975,10 +1975,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397548,429605&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429602,397548&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397548,429605&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429602,397548&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp59q553y1",
@@ -1987,10 +1987,10 @@
               "cadernos": [
                 {
                   "nome": "Gran Concursos",
-                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397548&banca=409&nivel=1"
+                  "url": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429602,397548&banca=409&nivel=1"
                 }
               ],
-              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397548&banca=409&nivel=1"
+              "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429602,397548&banca=409&nivel=1"
             },
             {
               "materiaId": "mu9zp59q553y1",
@@ -2005,7 +2005,7 @@
               "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=428780&banca=409&nivel=1"
             }
           ],
-          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=397548&banca=409&nivel=1"
+          "linkGranConcursos": "https://questoes.grancursosonline.com.br/questoes?desatualizada=0&anulada=0&assunto=429602,397548&banca=409&nivel=1"
         },
         {
           "nome": "Ferramenta de versionamento Git",
