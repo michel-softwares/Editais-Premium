@@ -1,6 +1,23 @@
 {
-  "atualizadoEm": "2026-09-30T13:19:24.025Z",
+  "atualizadoEm": "2026-10-02T23:42:31.216Z",
   "editais": [
+    {
+      "id": "soldado-da-policia-militar-pmba",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "POLÍCIA MILITAR DO ESTADO DA BAHIA (PMBA) - EDITAL SAEB/05/2022",
+      "imagem": "Soldado%20da%20Pol%C3%ADcia%20Militar%20(PMBA)/card_premium_pol_cia_militar_da_bahia.png",
+      "arquivo": "Soldado%20da%20Pol%C3%ADcia%20Militar%20(PMBA)/Edital%20Premium%20Track%20Concursos%20Soldado%20da%20Pol%C3%ADcia%20Militar%20(PMBA).json",
+      "arquivoNome": "Edital Premium Track Concursos Soldado da Polícia Militar (PMBA).json",
+      "atualizadoEm": "2026-10-02T23:42:13.000Z"
+    },
     {
       "id": "analista-de-sistemas-desenvolvimento-tjpi",
       "titulo": "",
