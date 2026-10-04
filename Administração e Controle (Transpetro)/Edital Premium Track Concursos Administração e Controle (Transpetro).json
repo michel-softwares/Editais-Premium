@@ -1,0 +1,1083 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "Transpetro",
+    "cargo": "Administração e Controle",
+    "salario": "R$ 6.539,54",
+    "banca": "Fundação Cesgranrio",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2026-12-06",
+    "localProva": "",
+    "linkEdital": "https://www.cesgranrio.org.br/",
+    "preEdital": false,
+    "pontuacaoMax": null,
+    "vagas": "5 + CR",
+    "obs": "Estrutura pós-edital verticalizada a partir do Edital nº 03 - TRANSPETRO/PSP/TERRA/NÍVEL MÉDIO - 2026.3 (publicado em 11/08/2026) para o cargo de Profissional de Nível Médio - Administração e Controle (Transpetro)\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos;\nConsidere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;\n\nBuy me a coffee (and Claude tokens) \nApoie o projeto financeiramente através do PIX: michelaraujo100@gmail.com\nBons estudos!"
+  },
+  "materias": [
+    {
+      "id": "muu9fslg00cym",
+      "nome": "LÍNGUA PORTUGUESA",
+      "peso": 1,
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Compreensão e Interpretação de Textos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Compreensão de textos de gêneros variados",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Tipologias textuais e finalidades discursivas",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ortografia Oficial",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Regras do sistema ortográfico vigente",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Acentuação gráfica segundo o Novo Acordo Ortográfico",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Mecanismos de Coesão Textual",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Coesão referencial e substituições lexicais",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Coesão sequencial e conectivos",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Emprego das Classes de Palavras",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Substantivos e adjetivos",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Pronomes e seus valores no texto",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Verbos (flexão, tempos e modos)",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Advérbios e preposições",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Conjunções e relações de coordenação e subordinação",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Concordância Nominal e Verbal",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Regras e casos de concordância nominal",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Regras e casos de concordância verbal",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Emprego do Sinal Indicativo de Crase",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Regras gerais de aplicação da crase",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Casos obrigatórios, facultativos e proibidos de crase",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sinais de Pontuação",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Emprego da vírgula, ponto, dois-pontos e ponto e vírgula",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Efeitos de sentido provocados pelo uso da pontuação",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Significação das Palavras",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Sinonímia e antonímia",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Sentido próprio (denotação) e sentido figurado (conotação)",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Homonímia, paronímia, polissemia e ambiguidade",
+              "materiaId": "muu9fslg00cym",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9fth4mt9df",
+      "nome": "MATEMÁTICA",
+      "peso": 1,
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Conjuntos Numéricos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Números naturais, inteiros, racionais e reais",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Relações de ordem entre números",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Operações fundamentais e suas propriedades",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Razão e Proporção",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito de razão e proporção",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Regra de três simples",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Regra de três composta",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Porcentagem",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Relações e Funções",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito de função, domínio e imagem",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Funções polinomiais",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Funções exponenciais",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Funções logarítmicas",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Funções trigonométricas",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Equações e Sistemas Lineares",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Equações do 1º grau",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Equações do 2º grau",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Equações exponenciais",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Equações logarítmicas",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Sistemas de equações lineares",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Análise Combinatória",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Princípio fundamental da contagem",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Permutação",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Arranjo",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Combinação",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Probabilidade Básica",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceitos de experimentos aleatórios e espaços amostrais",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Probabilidade em espaços equiprováveis",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Estatística Básica",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Representação tabular e gráfica",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Medidas de tendência central (média, mediana e moda)",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Medidas de dispersão (amplitude, variância e desvio padrão)",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Matemática Financeira",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Juros simples (cálculo do montante, do tempo, da taxa e do juro)",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Juros compostos (cálculo do montante, do tempo, da taxa e do juro)",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Geometria Plana",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Relações métricas no triângulo retângulo",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Perímetros de figuras geométricas planas",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Áreas de figuras geométricas planas",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Geometria Espacial",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Áreas de superfícies espaciais",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Volumes de sólidos geométricos",
+              "materiaId": "muu9fth4mt9df",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9fusc23wio",
+      "nome": "PROCESSOS ADMINISTRATIVOS E LEGISLAÇÃO",
+      "peso": 1,
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Recursos Humanos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Recrutamento e seleção",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Plano de cargos e carreira",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Treinamento, desenvolvimento e educação",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Gerenciamento de desempenho e gestão de competências",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Relações de trabalho e benefícios",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistema de Gestão Integrado",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Princípios de integração de sistemas de gestão",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Auditorias internas e ações corretivas e preventivas",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Melhoria contínua e gestão de riscos integrada",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Função Administração Patrimonial",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Controle e inventário patrimonial",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Classificação, avaliação e depreciação de bens",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão de ativos",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão da Manutenção",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Manutenções preventiva, corretiva e preditiva",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Planejamento e controle da manutenção",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão de Indicadores",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Acompanhamento de indicadores",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Análise de indicadores para tomada de decisão",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Indicadores de desempenho ESG",
+              "materiaId": "muu9fusc23wio",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9fvga7lqnv",
+      "nome": "FINANÇAS E CONTABILIDADE",
+      "peso": 1,
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Matemática Financeira Aplicada às Finanças",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Descontos comerciais e racionais",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Juros simples",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Juros compostos",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Porcentagem e cálculos financeiros",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Registros Contábeis",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Princípios e práticas contábeis fundamentais",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Obrigações acessórias e controle fiscal",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Fluxo de Caixa",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceitos e tipos de fluxo de caixa",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Elaboração e análise do fluxo de caixa direto e indireto",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão de entradas e saídas financeiras",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Integração com orçamento e projeções financeiras",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Balanço Patrimonial e DRE",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Estrutura do Balanço Patrimonial",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Estrutura da Demonstração do Resultado do Exercício (DRE)",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Relação entre balanço patrimonial, DRE e demais demonstrações contábeis",
+              "materiaId": "muu9fvga7lqnv",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9fw01wmavb",
+      "nome": "LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS",
+      "peso": 1,
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Logística e Cadeia de Suprimentos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceitos e aplicações da logística e supply chain",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Sustentabilidade e logística verde",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Tecnologias emergentes aplicadas à logística",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Modalidades de Transporte",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Tipos de transporte (rodoviário, ferroviário, aquaviário, dutoviário e aéreo)",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Intermodalidade e multimodalidade",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Regulação e legislação do transporte de cargas",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão de Estoques",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Classificação e métodos de gestão de estoques (Curva ABC, FIFO, LIFO)",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Políticas de estoque e níveis de serviço",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Tecnologias para automação do controle de estoque",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Armazenagem",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Tipos de armazéns e suas funções",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Layout e organização física do armazém",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Tecnologias de automação e controle em armazéns",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Manuseio de Materiais",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Equipamentos de movimentação de materiais",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípios de movimentação eficiente",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Tecnologias de automação do manuseio de materiais",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Embalagem e Unitização",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Tipos e funções da embalagem",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Sustentabilidade na escolha de materiais de embalagem",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Unitização e paletização de cargas",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Segurança no transporte e manuseio de embalagens",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão de Compras e Licitações",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Modalidades de compras e orçamentação",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Planejamento de compras no setor produtivo",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Lei das Estatais (Lei Federal nº 13.303/2016, artigos 28 ao 91)",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Nova Lei Geral de Licitações (Lei Federal nº 14.133/2021)",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão e Fiscalização de Contratos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Ciclo de vida do contrato",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Fiscalização técnica e administrativa dos contratos de bens e serviços",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão de riscos e aditivos contratuais",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Contratos digitais e integração com sistemas de gestão corporativa",
+              "materiaId": "muu9fw01wmavb",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9fx3s5b89k",
+      "nome": "NOÇÕES DE INFORMÁTICA",
+      "peso": 1,
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Fundamentos de Computação",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Componentes de um computador (hardware e software)",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Características dos principais processadores do mercado",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Sistemas operacionais, utilitários, aplicativos e manipulação de arquivos no ambiente Windows 11",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Aplicativos Comerciais de Escritório (Microsoft Office 2024)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Edição e formatação de textos no Microsoft Word 2024",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Planilhas eletrônicas, cálculos e fórmulas no Microsoft Excel 2024",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Geração e apresentação de material escrito e multimídia no Microsoft PowerPoint 2024",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Internet, Intranet e Navegadores",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito de internet e intranet",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Principais navegadores web e ferramentas de navegação",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Segurança da Informação e LGPD",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Noções sobre segurança da informação, ameaças e proteção de sistemas",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Geral de Proteção de Dados Pessoais - LGPD (Lei nº 13.709/2018 e alterações)",
+              "materiaId": "muu9fx3s5b89k",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"muu9fslg00cym\"},{\"nome\":\"MATEMÁTICA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"muu9fth4mt9df\"},{\"nome\":\"PROCESSOS ADMINISTRATIVOS E LEGISLAÇÃO\",\"cor\":\"#7c5cfc\",\"materiaId\":\"muu9fusc23wio\"},{\"nome\":\"FINANÇAS E CONTABILIDADE\",\"cor\":\"#3ecf8e\",\"materiaId\":\"muu9fvga7lqnv\"},{\"nome\":\"LOGÍSTICA E GESTÃO DA CADEIA DE SUPRIMENTOS\",\"cor\":\"#f5c842\",\"materiaId\":\"muu9fw01wmavb\"},{\"nome\":\"NOÇÕES DE INFORMÁTICA\",\"cor\":\"#f5874a\",\"materiaId\":\"muu9fx3s5b89k\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_gerais\",\"name\":\"1ª Etapa - Fase 2: Prova Objetiva de Conhecimentos Gerais\",\"useBlockData\":false,\"items\":[{\"id\":\"muu9fslg00cym\",\"q\":10,\"w\":1},{\"id\":\"muu9fth4mt9df\",\"q\":10,\"w\":1}],\"q\":20,\"w\":1,\"pts\":20,\"minPts\":10},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"1ª Etapa - Fase 1: Prova Objetiva de Conhecimentos Específicos\",\"useBlockData\":true,\"items\":[{\"id\":\"muu9fusc23wio\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9fvga7lqnv\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9fw01wmavb\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9fx3s5b89k\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":40,\"w\":1,\"pts\":40,\"minPts\":20}]}"
+  }
+}

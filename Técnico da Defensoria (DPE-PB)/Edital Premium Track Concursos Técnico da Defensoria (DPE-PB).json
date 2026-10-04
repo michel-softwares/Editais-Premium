@@ -1,0 +1,2324 @@
+{
+  "type": "track_concursos_template_export",
+  "version": "2.0",
+  "templateKind": "contest",
+  "rights": {
+    "copyright": "Copyright (c) 2026 Michel Araujo. Todos os direitos reservados.",
+    "licenseType": "uso-pessoal-nao-comercial",
+    "allowPersonalUse": true,
+    "allowCommercialUse": false,
+    "allowModification": false,
+    "allowRedistribution": false,
+    "notice": "Este arquivo foi gerado pelo Track Concursos para uso pessoal e nao comercial. Nao e permitida sua revenda, redistribuicao ou modificacao sem autorizacao previa do autor."
+  },
+  "exportOptions": {
+    "includeLinks": true
+  },
+  "concurso": {
+    "nome": "DPE-PB",
+    "cargo": "Técnico da Defensoria - Sem Especialidade",
+    "salario": "R$ 4.042,50",
+    "banca": "FCC",
+    "logoEmoji": null,
+    "logoBase64": "data:image/png;base64,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",
+    "dataProva": "2027-02-28",
+    "localProva": "",
+    "linkEdital": "https://www.concursosfcc.com.br/",
+    "preEdital": false,
+    "pontuacaoMax": null,
+    "vagas": "2 + CR",
+    "obs": "Estrutura pós-edital verticalizada a partir do Edital nº 01/2026 (publicado em 16/09/2026) para o cargo de Técnico da Defensoria Pública (DPE-PB)\n------------------------------------------------------------------------------\nEntre no nosso grupo do telegram para compartilhar seus feedbacks https://t.me/TrackConcursos;\nConsidere apoiar o projeto dando uma estrela no github https://github.com/michel-softwares/track-concursos;\n\nBuy me a coffee (and Claude tokens) \nApoie o projeto financeiramente através do PIX: michelaraujo100@gmail.com\nBons estudos!"
+  },
+  "materias": [
+    {
+      "id": "muu9kwkfoqp3g",
+      "nome": "LÍNGUA PORTUGUESA",
+      "peso": 1,
+      "ordem": 0,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Ortografia e Acentuação",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Ortografia oficial",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Acentuação gráfica segundo o Novo Acordo Ortográfico",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Emprego do Sinal Indicativo de Crase",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Regras gerais do emprego da crase",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Casos obrigatórios de crase",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Casos facultativos e proibidos de crase",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Compreensão e Interpretação de Textos",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Compreensão e interpretação de textos de gêneros variados",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Relação do texto com seu contexto histórico",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Intertextualidade",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Semântica e Estilística",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Denotação e conotação",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Sinonímia e antonímia",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Figuras de linguagem",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Discurso Direto, Indireto e Indireto Livre",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Discurso direto",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Discurso indireto",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Discurso indireto livre",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Morfossintaxe e Estrutura das Palavras",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Elementos estruturais das palavras",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Processos de formação de palavras",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Classes gramaticais e suas flexões",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Pronomes e colocação pronominal",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Flexão nominal e flexão verbal",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Vozes do verbo",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Correlação de tempos e modos verbais",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sintaxe da Oração e do Período",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Pontuação e efeitos de sentido",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Concordância nominal e concordância verbal",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Regência nominal e regência verbal",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Coordenação e subordinação",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Conectivos e mecanismos de coesão sequencial",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Redação e Reescrita de Estruturas Frasais",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Confronto e reconhecimento de frases corretas e incorretas",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Organização e reorganização de orações e períodos",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Equivalência e transformação de estruturas sintáticas",
+              "materiaId": "muu9kwkfoqp3g",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9kxq770886",
+      "nome": "LEGISLAÇÃO DA DEFENSORIA",
+      "peso": 1,
+      "ordem": 1,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Disposições Constitucionais Federais sobre a Defensoria Pública",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Artigo 5º da Constituição Federal de 1988",
+              "materiaId": "muu9kxq770886",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Artigo 37 da Constituição Federal de 1988",
+              "materiaId": "muu9kxq770886",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Artigo 134 da Constituição Federal de 1988",
+              "materiaId": "muu9kxq770886",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Emenda Constitucional nº 45/2004",
+              "materiaId": "muu9kxq770886",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Emenda Constitucional nº 80/2014",
+              "materiaId": "muu9kxq770886",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei Orgânica Nacional da Defensoria Pública (Lei Complementar nº 80/1994)",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Normas gerais aplicáveis às Defensorias Públicas dos Estados",
+              "materiaId": "muu9kxq770886",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípios institucionais e objetivos fundamentais",
+              "materiaId": "muu9kxq770886",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Funções institucionais da Defensoria Pública",
+              "materiaId": "muu9kxq770886",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Órgãos de administração superior, órgãos de atuação e órgãos de execução",
+              "materiaId": "muu9kxq770886",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Garantias, prerrogativas, direitos e deveres dos membros e servidores",
+              "materiaId": "muu9kxq770886",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Constituição do Estado da Paraíba",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Dispositivos constitucionais estaduais relativos à Defensoria Pública",
+              "materiaId": "muu9kxq770886",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei Complementar Estadual nº 205/2024",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Regime do Quadro de Pessoal da Defensoria Pública do Estado da Paraíba",
+              "materiaId": "muu9kxq770886",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Estrutura de cargos, carreira, jornada de trabalho e desenvolvimento funcional",
+              "materiaId": "muu9kxq770886",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Direitos, vantagens e deveres dos servidores da DPE-PB",
+              "materiaId": "muu9kxq770886",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Lei Complementar Estadual nº 58/2003",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Regime Jurídico dos Servidores Públicos Civis do Estado da Paraíba",
+              "materiaId": "muu9kxq770886",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Provimento, vacância, redistribuição e remoção",
+              "materiaId": "muu9kxq770886",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Direitos, vantagens pecuniárias, concessões e licenças",
+              "materiaId": "muu9kxq770886",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Regime disciplinar, deveres, proibições, penalidades e processo administrativo disciplinar",
+              "materiaId": "muu9kxq770886",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Demais Normas Estaduais de Organização da DPE-PB",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Resoluções e atos normativos do Conselho Superior da Defensoria Pública (CSDPE-PB)",
+              "materiaId": "muu9kxq770886",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Organização interna e rotinas de funcionamento institucional da DPE-PB",
+              "materiaId": "muu9kxq770886",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9kykjuae0l",
+      "nome": "CONHECIMENTOS JURÍDICOS E INSTITUCIONAIS",
+      "peso": 1,
+      "ordem": 2,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Fundamentos Constitucionais da Defensoria Pública",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Acesso à justiça e assistência jurídica integral e gratuita",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Autonomia funcional, administrativa e financeira da Defensoria Pública",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Natureza institucional da Defensoria Pública como expressão do regime democrático",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização da Defensoria Pública da Paraíba",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Estrutura organizacional e competências institucionais",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Defensoria Pública-Geral, Subdefensoria Pública-Geral e Corregedoria-Geral",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Conselho Superior da Defensoria Pública do Estado da Paraíba (CSDPE-PB)",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Defensorias Públicas Regionais, Núcleos Especializados e Gerências de Apoio",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Atuação Institucional",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Atuação judicial individual e coletiva",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Tutela dos vulneráveis, grupos sociais hipervulneráveis e direitos humanos",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Promoção da difusão e conscientização dos direitos humanos, da cidadania e do ordenamento jurídico",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Princípios Institucionais e Atuação Extrajudicial",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Princípio da unidade",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípio da indivisibilidade",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípio da independência funcional",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Atuação extrajudicial, conciliação, mediação e resolução pacífica de conflitos",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ética Institucional",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Princípios éticos no serviço público defensorial",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Probidade, lealdade institucional, impessoalidade e urbanidade",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Dever de sigilo profissional e proteção aos dados dos assistidos",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Conduta ética no acolhimento e no atendimento ao público usuário",
+              "materiaId": "muu9kykjuae0l",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9kzalrkeud",
+      "nome": "NOÇÕES DE ADMINISTRAÇÃO PÚBLICA APLICADA ÀS DEFENSORIAS",
+      "peso": 2,
+      "ordem": 3,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Características Básicas das Organizações Formais Modernas",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Tipos de estrutura organizacional",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Natureza e finalidades das organizações",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Critérios de departamentalização",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão Pública e Gestão Privada",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Convergências e diferenças entre a gestão pública e a gestão privada",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão da Qualidade",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Excelência nos serviços públicos",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Modelos de excelência em gestão pública e melhoria contínua",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão de Pessoas e Comunicação Organizacional",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Gestão de pessoas no setor público",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Comunicação na gestão pública",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão de redes organizacionais",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão de Resultados na Produção de Serviços Públicos",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Eficiência, eficácia e efetividade pública",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Indicadores de desempenho e entrega de serviços de valor ao cidadão",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Processo Organizacional",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Planejamento",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Direção",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Coordenação",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Comunicação",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Controle e avaliação",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão Estratégica Aplicada ao Sistema de Justiça",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Gestão estratégica do Poder Judiciário brasileiro e Defensoria Pública",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Negócio, missão, visão de futuro e valores",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Diagnóstico organizacional",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Análise dos ambientes interno e externo",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Tipos de decisão e processo decisório",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Governança, Riscos e Gestão Operacional",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Governança e governabilidade",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão de risco",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão por Processos",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão por Projetos",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão de contratos no setor público",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Noções de Orçamento Público",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Orçamento na Constituição Federal de 1988",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípios orçamentários fundamentais",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Instrumentos orçamentários (PPA, LDO e LOA)",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Governança Pública, Integridade e Compliance",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Governança pública",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Integridade pública",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Compliance no setor público",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Planejamento estratégico",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão por resultados",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Transparência e prestação de contas (accountability)",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Controle da Administração Pública",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Controle interno",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Controle externo",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Legislação de Acesso, Proteção de Dados e Serviços Públicos",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Lei de Acesso à Informação (Lei Federal nº 12.527/2011)",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Geral de Proteção de Dados - LGPD (Lei Federal nº 13.709/2018)",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Código de Defesa dos Usuários dos Serviços Públicos (Lei Federal nº 13.460/2017)",
+              "materiaId": "muu9kzalrkeud",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9l0wl3s6rx",
+      "nome": "NOÇÕES DE DIREITO DO CONSUMIDOR",
+      "peso": 2,
+      "ordem": 4,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Direitos do Consumidor e Política Nacional das Relações de Consumo",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Fundamentos e princípios da Política Nacional das Relações de Consumo",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Direitos básicos do consumidor",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Relação de Consumo",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Consumidor (conceito padrão e por equiparação)",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Fornecedor",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Produto",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Serviço",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Responsabilidade Civil nas Relações de Consumo",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Fato do produto e do serviço (acidente de consumo)",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Vício do produto e do serviço",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Excludentes de responsabilidade civil",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Decadência e prescrição nas relações de consumo",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Práticas Comerciais e Proteção Contratual",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Oferta e vinculação publicitária",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Publicidade enganosa e abusiva",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Contratos de consumo e cláusulas contratuais",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Cláusulas abusivas",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Direito de arrependimento",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Defesa do Consumidor em Juízo",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Tutela individual e coletiva dos consumidores",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Inversão do ônus da prova",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Atuação da Defensoria Pública na defesa dos direitos coletivos e difusos dos consumidores",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistema Nacional de Defesa do Consumidor",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Competências e atuação dos órgãos de proteção ao consumidor",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Código de Defesa do Consumidor (Lei nº 8.078/1990)",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Princípios e normas gerais",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Disposições fundamentais do CDC",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Sanções administrativas",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Jurisprudência dos Tribunais Superiores em Direito do Consumidor",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Entendimentos do STF e do STJ em matéria de Direito do Consumidor",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Súmulas vinculantes e teses repetitivas aplicáveis aos consumidores",
+              "materiaId": "muu9l0wl3s6rx",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9l1w3age55",
+      "nome": "NOÇÕES DE DIREITO CONSTITUCIONAL",
+      "peso": 2,
+      "ordem": 5,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Direitos e Garantias Fundamentais",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Direitos e deveres individuais e coletivos",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Direito à vida, à liberdade, à igualdade, à segurança e à propriedade",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Direitos sociais",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Nacionalidade",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Cidadania e direitos políticos",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Partidos políticos",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Garantias constitucionais individuais e remédios constitucionais",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "nome": "Garantias dos direitos coletivos, sociais e políticos",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Organização do Estado",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Organização político-administrativa",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "União",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Estados federados",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Municípios",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Distrito Federal e Territórios",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Repartição de competências na Federação",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Administração Pública na Constituição",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Princípios gerais da Administração Pública",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Servidores públicos civis e militares",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Regras constitucionais de cargos, funções, estabilidade e remuneração",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poder Legislativo",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Fundamento, atribuições e garantias de independência",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Estrutura e funcionamento do Poder Legislativo",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Processo legislativo",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Fiscalização contábil, financeira e orçamentária",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poder Executivo",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Forma e sistema de governo",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Chefia de Estado e chefia de governo",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Atribuições e responsabilidades do Chefe do Poder Executivo dos entes federados",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Poder Judiciário",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Disposições gerais e garantias da Magistratura",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Tribunais Superiores",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Tribunais e juízes eleitorais",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Conselho Nacional de Justiça (CNJ)",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Funções Essenciais à Justiça",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Defensoria Pública (perfil constitucional, princípios e autonomia)",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Ministério Público",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Advocacia Pública",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Advocacia não Pública",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ordem Social",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Base e objetivos da ordem social",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Seguridade social (saúde, previdência e assistência social)",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Educação, cultura e desporto",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Ciência, tecnologia e inovação",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Comunicação social",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Meio ambiente",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Família, criança, adolescente, jovem e idoso",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "nome": "Povos indígenas",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 7,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ato das Disposições Constitucionais Transitórias",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Ato das Disposições Constitucionais Transitórias - ADCT",
+              "materiaId": "muu9l1w3age55",
+              "ordem": 0,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9l3i89svxl",
+      "nome": "NOÇÕES DE DIREITO ADMINISTRATIVO",
+      "peso": 2,
+      "ordem": 6,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Introdução ao Direito Administrativo",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Direito administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Conceito de Direito Administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Objeto do Direito Administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Fontes do Direito Administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Administração Pública e Princípios Administrativos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito, organização e modelos da Administração Pública",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Regime jurídico administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípios expressos e reconhecidos da Administração Pública",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Poderes da Administração Pública",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Poderes e deveres dos administradores públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Uso e abuso do poder",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Controle da Administração Pública no Brasil",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "nome": "Transparência e acesso à informação no Poder Público",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "nome": "Órgãos públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 8,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Administração Direta e Indireta",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Aspectos gerais da Administração Direta",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Autarquias",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Empresas públicas e sociedades de economia mista",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Fundações públicas",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Pessoas jurídicas vinculadas ao Estado",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Ato Administrativo",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito, características e atributos do ato administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Elementos e requisitos de validade",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Classificação e espécies",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Formação e efeitos do ato administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Extinção, revogação, invalidação e convalidação",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimento administrativo",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 5,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Licitação Pública (Lei Federal nº 14.133/2021)",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito, natureza jurídica, objeto e finalidade da licitação",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípios básicos e correlatos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Modalidades de licitação",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Obrigatoriedade, dispensa e inexigibilidade",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimento licitatório",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Anulação, revogação e recursos administrativos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimentos voltados ao processo administrativo sancionatório",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Contrato Administrativo",
+          "ordem": 5,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito, principais características e espécies",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Formalização, execução e inexecução",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Duração, prorrogação, renovação e extinção",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Revisão e rescisão contratual",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Convênios e consórcios públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Serviços Públicos",
+          "ordem": 6,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito, características e classificação dos serviços públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Competência, regulamentação e controle",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Princípios dos serviços públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Direitos e deveres dos usuários",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Atendimento Especializado ao Público no âmbito da Defensoria Pública",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Formas de prestação e remuneração",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Concessão, permissão, autorização e parceria público-privada",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Bens Públicos",
+          "ordem": 7,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito, elementos e classificação dos bens públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Aquisição e espécies de bens públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Utilização e regime jurídico dos bens públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Afetação e desafetação",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Gestão e alienação de bens públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Agentes Públicos",
+          "ordem": 8,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Conceito e classificação dos agentes públicos",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Organização e regime jurídico funcional",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Procedimentos disciplinares",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Gestão Administrativa das Defensorias Regionais",
+          "ordem": 9,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Atribuições administrativas das Defensorias Públicas Regionais da Capital, da Região Metropolitana e do Interior",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Atividade de gestão pública de incumbência do Defensor Público do Estado Coordenador",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Regime Previdenciário e Responsabilidade dos Servidores",
+          "ordem": 10,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Regime previdenciário dos servidores",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Responsabilidade administrativa, civil e criminal",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Responsabilidade Patrimonial Extracontratual do Estado",
+          "ordem": 11,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Noções gerais sobre a responsabilidade extracontratual do Estado",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Teorias sobre a responsabilidade e a irresponsabilidade do Estado",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Responsabilidade por atos administrativos, legislativos e judiciais",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Reparação do dano e direito de regresso",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Intervenção do Estado na Propriedade",
+          "ordem": 12,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Fundamentos, competência e controle judicial da intervenção estatal",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Desapropriação",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Servidão administrativa",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Requisição",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Ocupação temporária",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Limitações administrativas",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Tombamento",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Controle da Administração Pública e Improbidade Administrativa",
+          "ordem": 13,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Controle político e administrativo (conceito, fundamentos, objetivo e classificação)",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Controle legislativo e Tribunal de Contas",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Improbidade administrativa (Lei Federal nº 8.429/1992 e alterações)",
+              "materiaId": "muu9l3i89svxl",
+              "ordem": 2,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9l61z5052r",
+      "nome": "NOÇÕES DE DIREITOS HUMANOS",
+      "peso": 2,
+      "ordem": 7,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Evolução Histórica e Teoria Geral dos Direitos Humanos",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Origem, sentido e evolução histórica dos Direitos Humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Conceito e fundamentos dos Direitos Humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Direito Internacional dos Direitos Humanos",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Fontes, classificação, princípios, características e gerações de direitos humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Normas de interpretação dos tratados de Direitos Humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Resolução de conflitos ante a colisão de direitos humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "A responsabilidade internacional por violação dos direitos humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Tratados internacionais de direitos humanos e as obrigações assumidas pelo Brasil",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Formas de reparação e sanções coletivas e unilaterais",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "A vigência e eficácia das normas do direito internacional dos Direitos Humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 6,
+              "cadernos": []
+            },
+            {
+              "nome": "A incorporação dos tratados internacionais de proteção de direitos humanos ao direito brasileiro",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 7,
+              "cadernos": []
+            },
+            {
+              "nome": "A posição hierárquica dos tratados internacionais de Direitos Humanos em face da Constituição da República do Brasil",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 8,
+              "cadernos": []
+            },
+            {
+              "nome": "O direito da não discriminação (discriminação direta e indireta e ações afirmativas)",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 9,
+              "cadernos": []
+            },
+            {
+              "nome": "A execução de decisões oriundas de tribunais internacionais de Direitos Humanos no Brasil",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 10,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistema Internacional de Proteção e Promoção dos Direitos Humanos (ONU)",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Organização das Nações Unidas (ONU) e estrutura de Direitos Humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Órgãos convencionais e extraconvencionais",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Declaração Universal dos Direitos Humanos",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Pacto Internacional dos Direitos Civis e Políticos (PIDCP)",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Sistema Regional Interamericano de Proteção aos Direitos Humanos",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Organização dos Estados Americanos (OEA)",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Declarações, tratados, resoluções, relatórios, informes e pareceres da OEA",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Normas de organização e funcionamento dos órgãos de supervisão, fiscalização e controle",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Comissão Interamericana de Direitos Humanos (CIDH)",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Corte Interamericana de Direitos Humanos (Corte IDH) e sua jurisprudência",
+              "materiaId": "muu9l61z5052r",
+              "ordem": 4,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "muu9l6vtx496b",
+      "nome": "NOÇÕES DE DIREITO DA CRIANÇA E DO ADOLESCENTE, DO IDOSO, DA PESSOA COM DEFICIÊNCIA, DA MULHER E DA PESSOA EM SITUAÇÃO DE RUA",
+      "peso": 2,
+      "ordem": 8,
+      "cadernos": [],
+      "topicos": [
+        {
+          "nome": "Criança e Adolescente",
+          "ordem": 0,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Estatuto da Criança e do Adolescente (Lei nº 8.069/1990)",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Lei do SINASE (Lei nº 12.594/2012)",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Direitos fundamentais e medidas de proteção",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Prática de ato infracional e medidas socioeducativas",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Idoso",
+          "ordem": 1,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Política Nacional do Idoso",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Estatuto do Idoso (Lei nº 10.741/2003)",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Legislação e princípios institucionais da Defensoria Pública aplicáveis ao direito do idoso",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Legislação estadual de proteção ao idoso",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Pessoa com Deficiência",
+          "ordem": 2,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Convenção sobre os Direitos das Pessoas com Deficiência",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Lei Federal nº 7.853/1989",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Estatuto da Pessoa com Deficiência (Lei nº 13.146/2015)",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Direitos fundamentais, acessibilidade e prioridades de atendimento",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 3,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "Proteção à Mulher e Enfrentamento à Violência Doméstica",
+          "ordem": 3,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Lei Maria da Penha (Lei nº 11.340/2006)",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Gênero, violência de gênero e violência contra as mulheres",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 1,
+              "cadernos": []
+            },
+            {
+              "nome": "Formas de violência doméstica e familiar contra a mulher",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 2,
+              "cadernos": []
+            },
+            {
+              "nome": "Medidas protetivas às vítimas de violência doméstica e familiar",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 3,
+              "cadernos": []
+            },
+            {
+              "nome": "Atendimento obrigatório e integral de pessoas em situação de violência sexual (Lei nº 12.845/2013)",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 4,
+              "cadernos": []
+            },
+            {
+              "nome": "Rede de Enfrentamento à Violência contra as Mulheres e Rede de Atendimento à Mulher em Situação de Violência",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 5,
+              "cadernos": []
+            },
+            {
+              "nome": "Política Nacional de Enfrentamento à Violência contra as Mulheres",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 6,
+              "cadernos": []
+            }
+          ]
+        },
+        {
+          "nome": "População em Situação de Rua",
+          "ordem": 4,
+          "cadernos": [],
+          "subtopicos": [
+            {
+              "nome": "Política Nacional para a População em Situação de Rua",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 0,
+              "cadernos": []
+            },
+            {
+              "nome": "Comitê Intersetorial de Acompanhamento e Monitoramento da Política Nacional para a População em Situação de Rua",
+              "materiaId": "muu9l6vtx496b",
+              "ordem": 1,
+              "cadernos": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "simulados": [],
+  "estrutura": {
+    "cronoWeekly": null,
+    "cronoMats": "[{\"nome\":\"LÍNGUA PORTUGUESA\",\"cor\":\"#f55a5a\",\"materiaId\":\"muu9kwkfoqp3g\"},{\"nome\":\"LEGISLAÇÃO DA DEFENSORIA\",\"cor\":\"#4f8ef7\",\"materiaId\":\"muu9kxq770886\"},{\"nome\":\"CON. JURÍDICOS E INSTITUCIONAIS\",\"cor\":\"#7c5cfc\",\"materiaId\":\"muu9kykjuae0l\"},{\"nome\":\"NOÇÕES DE ADMINISTRAÇÃO PÚBLICA APLICADA ÀS DEFENSORIAS\",\"cor\":\"#3ecf8e\",\"materiaId\":\"muu9kzalrkeud\"},{\"nome\":\"NOÇÕES DE DIR. DO CONSUMIDOR\",\"cor\":\"#f5c842\",\"materiaId\":\"muu9l0wl3s6rx\"},{\"nome\":\"NOÇÕES DE DIR. CONSTITUCIONAL\",\"cor\":\"#f5874a\",\"materiaId\":\"muu9l1w3age55\"},{\"nome\":\"NOÇÕES DE DIR. ADM.\",\"cor\":\"#00bcd4\",\"materiaId\":\"muu9l3i89svxl\"},{\"nome\":\"NOÇÕES DE DIREITOS HUMANOS\",\"cor\":\"#e91e8c\",\"materiaId\":\"muu9l61z5052r\"},{\"nome\":\"NOÇÕES DE DIR. DA CRIANÇA E DO ADOLESCENTE, DO IDOSO, DA PESSOA COM DEFICIÊNC\",\"cor\":\"#8bc34a\",\"materiaId\":\"muu9l6vtx496b\"},{\"nome\":\"SIMULADO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-simulado\"},{\"nome\":\"REVISAO\",\"cor\":\"#607d8b\",\"materiaId\":\"v-revisao\"}]",
+    "cronoMode": null,
+    "ciclo": null,
+    "configProva": "{\"groups\":[{\"id\":\"g_conhecimentos_gerais\",\"name\":\"1ª Fase - Prova Objetiva (Conhecimentos Gerais)\",\"useBlockData\":true,\"items\":[{\"id\":\"muu9kwkfoqp3g\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9kxq770886\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9kykjuae0l\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":20,\"w\":1,\"minPts\":0},{\"id\":\"g_conhecimentos_especificos\",\"name\":\"1ª Fase - Prova Objetiva (Conhecimentos Específicos)\",\"useBlockData\":true,\"items\":[{\"id\":\"muu9kzalrkeud\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9l0wl3s6rx\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9l1w3age55\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9l3i89svxl\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9l61z5052r\",\"q\":\"X\",\"w\":\"Y\"},{\"id\":\"muu9l6vtx496b\",\"q\":\"X\",\"w\":\"Y\"}],\"q\":40,\"w\":2,\"minPts\":0}]}"
+  }
+}
