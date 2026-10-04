@@ -1,6 +1,57 @@
 {
-  "atualizadoEm": "2026-10-02T23:42:31.216Z",
+  "atualizadoEm": "2026-10-04T20:40:19.674Z",
   "editais": [
+    {
+      "id": "administracao-e-controle-transpetro",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "PETROBRAS TRANSPORTE S.A. (TRANSPETRO) - EDITAL 03/2026.3 (NÍVEL MÉDIO)",
+      "imagem": "Administra%C3%A7%C3%A3o%20e%20Controle%20(Transpetro)/card_premium_transpetro.png",
+      "arquivo": "Administra%C3%A7%C3%A3o%20e%20Controle%20(Transpetro)/Edital%20Premium%20Track%20Concursos%20Administra%C3%A7%C3%A3o%20e%20Controle%20(Transpetro).json",
+      "arquivoNome": "Edital Premium Track Concursos Administração e Controle (Transpetro).json",
+      "atualizadoEm": "2026-10-04T20:40:01.000Z"
+    },
+    {
+      "id": "investigador-de-policia-i-pcmg",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "fgv"
+      ],
+      "descricao": "POLÍCIA CIVIL DO ESTADO DE MINAS GERAIS (PCMG) - EDITAL 04/2024",
+      "imagem": "Investigador%20de%20Pol%C3%ADcia%20I%20(PCMG)/card_premium_pol_cia_civil_de_minas_gerais_pcmg.png",
+      "arquivo": "Investigador%20de%20Pol%C3%ADcia%20I%20(PCMG)/Edital%20Premium%20Track%20Concursos%20Investigador%20de%20Pol%C3%ADcia%20I%20(PCMG).json",
+      "arquivoNome": "Edital Premium Track Concursos Investigador de Polícia I (PCMG).json",
+      "atualizadoEm": "2026-10-04T20:40:01.000Z"
+    },
+    {
+      "id": "tecnico-da-defensoria-dpe-pb",
+      "titulo": "",
+      "orgao": "",
+      "banca": "================================================================================",
+      "cargo": "FICHA INFORMATIVA - EDITAL PREMIUM TRACK",
+      "ano": 2026,
+      "tags": [
+        "edital pronto",
+        "nivel medio"
+      ],
+      "descricao": "DEFENSORIA PÚBLICA DO ESTADO DA PARAÍBA (DPE-PB) - EDITAL 01/2026",
+      "imagem": "T%C3%A9cnico%20da%20Defensoria%20(DPE-PB)/card_premium_dpe_pb.png",
+      "arquivo": "T%C3%A9cnico%20da%20Defensoria%20(DPE-PB)/Edital%20Premium%20Track%20Concursos%20T%C3%A9cnico%20da%20Defensoria%20(DPE-PB).json",
+      "arquivoNome": "Edital Premium Track Concursos Técnico da Defensoria (DPE-PB).json",
+      "atualizadoEm": "2026-10-04T20:40:01.000Z"
+    },
     {
       "id": "soldado-da-policia-militar-pmba",
       "titulo": "",
